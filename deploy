@@ -1,4 +1,4 @@
  [ -s "$HOME/.rvm/scripts/rvm" ] && . "$HOME/.rvm/scripts/rvm"
  rvm use
- bundle install
+ bundle install --quiet
  bundle exec jekyll
