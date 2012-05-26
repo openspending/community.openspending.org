@@ -4,7 +4,7 @@ layout: gift
 ---
 
 
-# Chapter 8 - Putting the Parts Together: Getting off-budget on-budget: OpenSpending & Publish What You Fund 
+# Chapter 8 - Putting the Parts Together - Getting off-budget on-budget OpenSpending & Publish What You Fund 
 
 ![OS & PWYF](http://farm8.staticflickr.com/7092/7272477056_b1cf5eafd2_o.jpg)
 

@@ -3,7 +3,7 @@ title: Revenues from Oil and Mining - Revenue Watch
 layout: gift
 ---
 
-# Revenues from Oil and Mining - Revenue Watch 
+# Revenues from Oil and Mining : Revenue Watch 
 
 
 * *Coverage*: Global-level 

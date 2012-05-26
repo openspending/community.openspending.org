@@ -2,7 +2,7 @@
 title: XBRL
 layout: gift
 ---
-# International Financial Reporting Standards 
+# International Financial Reporting Standards: XBRL 
 
 ## Background 
 The eXtensible Business Reporting Language (XBRL) is a data standard for financial reporting, most commonly used to cover accounting information. The goal of XBRL is to efficiently create and disseminate data in a standardized, XML-based format that lends itself to [analytics](http://www.sec.gov/spotlight/xbrl/what-is-idata.shtml). XBRL makes few assumptions about the semantics of the data expressed in it, instead standardizing a framework in which specific reporting types, such as US GAAP or IFRS can be expressed as [taxonomies](http://www.xbrl.org/FRTApproved), each with a specific set of tags to express the reporting elements which are necessary to comply with the standard. A growing number of such taxonomies are developed and maintained by the [XBRL community](http://www.xbrl.org/FRTAcknowledged). 

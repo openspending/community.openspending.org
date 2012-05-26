@@ -3,7 +3,7 @@ title: Introductions
 layout: gift
 ---
 
-# From fractions to millions: Getting more people to challenge corruption using mobile phones 
+# From Fractions to Millions: Challenging corruption using mobile phones 
 
 * *Geographic scope*: India 
 * *Scope*: Local government 

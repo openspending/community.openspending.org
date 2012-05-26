@@ -3,7 +3,7 @@ title: Chapter 6: Introduction
 layout: gift
 ---
 
-# Chapter 6: Case Studies - Where Does the Money Go?
+# Chapter 6 - Case Studies : Where Does the Money Go?
 
 ![Spending](http://farm8.staticflickr.com/7105/7274044350_4596ffd63f_m.jpg)
 

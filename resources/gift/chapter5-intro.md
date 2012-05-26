@@ -3,7 +3,7 @@ title: Case Studies - Where Does the Money Come From?
 layout: gift
 ---
 
-# Chapter 5: Case Studies - Where Does the Money Come From? 
+# Chapter 5 - Case Studies : Where Does the Money Come From? 
 
 ![Revenue](http://farm8.staticflickr.com/7211/7274042200_951307bb5f_o.gif)
 

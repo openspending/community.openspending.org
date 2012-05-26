@@ -4,7 +4,7 @@ layout: gift
 ---
 
 
-# Balance your City’s Budget - Citizen Budget, Open North
+# Balance your City’s Budget : Citizen Budget, Open North
 
 
 * *Country*: Canada

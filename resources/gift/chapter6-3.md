@@ -3,7 +3,7 @@ title: Deciding where the money goes: Participatory Budgeting
 layout: gift
 ---
 
-#Deciding where the money goes: Participatory Budgeting
+# Deciding where the money goes: Participatory Budgeting
 
 
 ## e-participatory budgeting

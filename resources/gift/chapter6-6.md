@@ -3,7 +3,7 @@ title: Mobile-Enhanced Participatory Budgeting - the World Bank
 layout: gift
 ---
 
-# Mobile-Enhanced Participatory Budgeting - the World Bank
+# Mobile-Enhanced Participatory Budgeting : the World Bank
 
 
 * *Geographic scope*: Democratic Republic of Congo (also been done in Dominican Republic)

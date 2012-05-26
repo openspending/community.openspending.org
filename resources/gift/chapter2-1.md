@@ -3,7 +3,7 @@ title: CKAN in Data.Gov.Uk
 layout: gift
 ---
 
-# Out of the Box solution: CKAN in Data.Gov.UK
+# Out of the Box Solution: CKAN in Data.Gov.UK
 
 * *Geographic scope*: United Kingdom
 * *URL*: <http://data.gov.uk/>
