@@ -3,14 +3,14 @@ layout: meta
 title: Get in touch
 ---
 
-# Get in touch
+## Get in touch
 
 OpenSpending is a project operated by the [Open Knowledge Foundation](http://okfn.org), an international non-profit organization. The OKF is a community-driven organization that aims to promote open knowledge
 and data. We build tools and communities that enable the collaborative use and production of digital information.
 
 If you'd like to get in touch with the OKF, visit our [contact page](http://okfn.org/contact/). 
 
-## How to reach us
+### How to reach us
 
 Where possible we encourage conversations to take place via our  mailing lists. This helps to keep conversation open to contribution and the community informed of what we are getting up to.
 
