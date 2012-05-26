@@ -4,7 +4,7 @@ layout: gift
 ---
 
 
-# Final Observations and Review
+## Final Observations and Review
 
 
 While this report demonstrates possible ways in which technology can contribute to fiscal transparency it should also be clear that technology is not a magic potion that will automatically resolve all barriers to fiscal transparency. 
@@ -25,13 +25,13 @@ We have already highlighted specific recommendations in individual sections, and
 Below are numerous recommendations related to the role of all parties including governments, civil society organisations and multi-stakeholder initiatives such as GIFT. 
 
 
-## All Parties: 
+### All Parties: 
 
 
 1. Work towards a simple standard for spending data (see attached TOR) 
 
 
-## Governments: 
+### Governments: 
 
 
 1. Promote the use of simple, machine-readable formats which can significantly increase the usefulness of data 
@@ -43,23 +43,23 @@ Below are numerous recommendations related to the role of all parties including 
 * Examine structured data formats for drafting legislation and tabling amendments
 
 
-## Technical Specialists 
+### Technical Specialists 
  
 1. Look into ways to make it easier for governments to make data available from the data management systems they already work with - do they have APIs? can they easily pull out reports from their accounting system (e.g. an ‘export report for press’ option)? 
 
-## Civil Society Organisations & Private Sector
+### Civil Society Organisations & Private Sector
 
 
 1. Re-publish data they have derived and added value to. 
 2. Work on capacity building and data literacy: Are all necessary skills being fostered to maintain technical solutions? For example, is an intern relied on to load new data or do all members of staff know the standards and processes required to do it? 
 
-## Foundations
+### Foundations
 
 1. Many of the projects highlighted in this report are one-off solutions, tailored to an individual local problem. Funders may like to review existing projects (e.g. those listed in the appendix & in the participatory budgeting software census, and on sites such as the [Civic Commons Marketplace](http://civiccommons.org/apps)), to see whether any existing open-source solutions could be adapted to serve other or more general problems, before initiating another.
 2. Support platforms (as well as individual instances of a piece of software) which allow solutions to be scaled, promote inter-organisational data-sharing and communities of practice. 
 3. Collect resources for long-term archives of data and documents relating to fiscal activities. 
 
-## GIFT:
+### GIFT:
 
 1. Make use of the GIFT address book and further extend it. Many of the groups highlighted in this report and participating in working groups have specific areas of expertise in this large and intricate sphere. These groups can help to identify further gaps where specific types of information are missing. 
 1. Keep looking for projects working in this area and connecting people. To our knowledge, there is no comprehensive central database of all transparency and accountability initiatives using technology to promote fiscal transparency as well as NGOs working in this field. The appendix at the end of this report represents a start, but a larger-scale, community effort will be required to keep this up to date. 

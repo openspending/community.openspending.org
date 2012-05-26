@@ -4,11 +4,11 @@ layout: gift
 ---
 
 
-# Chapter 8 - Putting the Parts Together - Getting off-budget on-budget OpenSpending & Publish What You Fund 
+## Chapter 8 - Putting the Parts Together - Getting off-budget on-budget OpenSpending & Publish What You Fund 
 
-![OS & PWYF](http://farm8.staticflickr.com/7092/7272477056_b1cf5eafd2_o.jpg)
+<img alt="OS + PWYF" src="http://farm8.staticflickr.com/7092/7272477056_b1cf5eafd2_o.jpg" class="screenshot" />
 
-## Background 
+### Background 
 Aid flows often do not pass through a recipient government’s conventional budget mechanisms. When this happens, recipient governments themselves may not have the complete overview of where aid money goes and how donor priorities align with their own. This information is vital for governments and aid donors to be able to make the best use of scarce resources. 
 
 
@@ -32,13 +32,13 @@ What kind of skills/resources were/are required for the projects?
 Expert knowledge of budget and aid data. Data wrangling capabilities. Development skills. 
 
 
-## Successes 
+### Successes 
 1. The data collected in this project was far more comprehensive than the data in the Government of Uganda’s budget. In fact, for the Financial Year in which the report was being conducted (2006/7), donors planned to spend almost double the amount of project-based aid compared with what the Government of Uganda was aware of. 
 2. The project proved that it was possible to collect all the necessary data to be able to do this type of analysis for an individual country. Standards, such as IATI, make it easier for such approaches to be replicated at scale. 
 3. The visualisations drew attention to a couple of interesting patterns e.g. very occasionally aid money showed up in defence spending, big chunks of money going to disaster management and the north. It also made it possible to establish and compare how donors are (or not) aligning to the policy priorities of the Ugandan government. 
 
 
-## Challenges
+### Challenges
 The project required considerable human resources to clean and collect the data. If data had been published in a consistent and machine readable format, this would have been considerably easier. 
 
 
@@ -50,7 +50,7 @@ The feedback below comes from people we asked to review the platform:
 4. Visualisation inevitably implies a level of editorial judgement. We received a comment that if Uganda receives general budget support, all the bubbles should show a sliver of aid (since general budget support funds the overall budget, not specific sectors). In the current version, many sectors do not show a budget support component. The decision to show this at the top level only, and not in each of the sectors, was taken because by that point (i.e. at the sectoral level) it is then considered part of the Government of Uganda’s revenues. 
 
 
-## Scalability 
+### Scalability 
 OpenSpending is an international platform which allows anyone to upload and visualise government financial data. The database already holds many international, national and sub-national datasets and the software can easily be translated into other languages. OpenSpending is open source and open to contributions on any level from the community; contributing data or code and translation are the most common activities. 
 
 
@@ -64,7 +64,7 @@ To extend the project further and make it even more useful, the following are ne
 3. Mapping from aid to budgets: work is currently underway in this area. 
 
 
-## Where next? 
+### Where next? 
 Possible further areas for exploration and development of the platform: 
 
 
