@@ -6,7 +6,7 @@ layout: gift
 # International Aid Transparency Initiative (IATI)
 
 
-* *Scope*: International 
+* *Geographic scope*: International 
 * *Users/Audiences*: Donors, parliaments of developing countries, private companies and foundations 
 * *URL*: <http://www.aidtransparency.net>
 * *Contact*: <http://www.aidtransparency.net/contact> 

@@ -6,7 +6,7 @@ layout: gift
 # Brazilian Transparency Portal: Access to Information and Citizen Oversight
 
 
-* *Country*: Brazil
+* *Geographic scope*: Brazil
 * *URL*: <http://www.portaltransparencia.gov.br/>
 
 ## Background

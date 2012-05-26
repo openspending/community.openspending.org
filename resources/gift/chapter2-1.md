@@ -5,7 +5,7 @@ layout: gift
 
 # Out of the Box solution: CKAN in Data.Gov.UK
 
-* *Country*: United Kingdom
+* *Geographic scope*: United Kingdom
 * *URL*: <http://data.gov.uk/>
 
 
