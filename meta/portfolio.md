@@ -1,13 +1,15 @@
-=================
-What we get up to
-=================
+---
+title: Portfolio
+layout: meta
+---
+
+##What we get up to
 
 How and why have people used OpenSpending? Besides the technical aspects of the project, what work is going on in the area of spending information? Below are some of the projects that we have been involved with so far...
 
-Where Does My Money Go? 
-=======================
+## Where Does My Money Go? 
 
-'`Where Does My Money Go?`' (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the `Daily Bread`_ app. 
+**Where Does My Money Go?** (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the `Daily Bread`_ app. 
 
 You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit. 
 
