@@ -1,5 +1,44 @@
 ---
-layout: default
+layout: blog
 ---
-{{ content }}
+
+<ul class="breadcrumb">
+      <div class="representations">
+        RSS
+      </div>
+      <li>
+        <i class="icon-home"></i>
+        <a href="/blog">Blog</a>
+        <span class="divider">/</span>
+      </li>
+      <li class="active">{{ page.title }}</li>
+    </ul>
+
+<h2 class="page-header">{{ page.title }}</h2>
+<div class="row">
+    <div class="span8">
+        {{ content }}
+    </div>
+    <div class="span4">
+        <h3>Related Posts</h3>
+        <ul class="posts">
+            {% for post in site.related_posts limit:3 %}
+                <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="span12">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            var disqus_shortname = 'openspending';
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+    </div>
+</div>
 
