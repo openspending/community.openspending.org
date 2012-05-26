@@ -3,8 +3,9 @@ title: Introductions
 layout: gift
 ---
 
-# Chapter 1: Introductions and Methodology
-## Introduction
+## Chapter 1: Introductions and Methodology
+
+### Introduction
 
 This report, “Technology for Transparent and Accountable Public Finance”, was commissioned by the Global Initiative on Fiscal Transparency (GIFT) in February 2012 in order to assist the GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities. 
 
@@ -30,7 +31,7 @@ In each case, we considered questions such as:
 
 For each project, we have highlighted strengths and weaknesses based both on our own experience of developing tools, and also by seeking feedback from civil society organisations and the technical community. This report also aims to highlight the gaps: In some instances, cutting-edge technology is being used in fields besides public finance, which may merit further exploration; in other cases, we highlight points in the budgeting cycle which are currently underserved by technical tools.
 
-## Methodology:
+### Methodology:
 
 We have selected case studies that are appropriate across:
 
@@ -42,6 +43,6 @@ We have selected case studies that are appropriate across:
 The research was a combination of qualitative interviews and direct inputs from case study representatives through online questionnaires. 
 
 
-## Overview of Projects
+### Overview of Projects
 
 ![Project Overview](http://farm8.staticflickr.com/7237/7273947644_4799a7e720_o.png)

@@ -8,7 +8,7 @@ layout: gift
 
 > “There’s a really interesting dynamic interaction between work on data availability and quality, and on building tools, visualisations etc. that work with it. Without good data it’s hard to use it for transparency and accountability, and to build good tools. But without tools to start using the data, it’s hard to discover where it needs to improve.”
 
-> <p style="text-align: right">Tim Davies - Practical Participation</p>
+> <small>Tim Davies - Practical Participation</small>
 
 In this section, we summarise the key highlights from the various sections of the report. The highlights are arranged by section of the report and followed by a few notes on the ‘gaps’: areas which, in our opinion, merit further investigation or have thus far lacked resources or coordination to make happen. Each section concludes with ‘recommendations’: We have tried to stagger these suggestions, ranging from first steps, easily obtainable goals which are likely to be feasible in the short term, to ideal scenarios, desirable end goals, which will take more commitment and longer term planning.
 

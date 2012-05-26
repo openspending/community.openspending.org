@@ -3,7 +3,7 @@ title: Context
 layout: gift
 ---
 
-# Context
+## Context
 
 We are living in a technical revolution. The Internet allows almost instant sharing of information, computing power permits complex calculations, and visualisations and tools to allow better analysis and comprehension of large datasets. Technology facilitates two-directional information flow, not only from governments but also to governments, allowing them to collect meaningful and structured feedback on fiscal policies. Instead of commissioning external consultancy firms to estimate citizens’ opinions and needs, governments could use the direct input from citizens through the technological and communication tools.
 

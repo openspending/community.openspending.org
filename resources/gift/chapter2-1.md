@@ -8,7 +8,7 @@ layout: gift
 * *Geographic scope*: United Kingdom
 * *URL*: <http://data.gov.uk/>
 
-![OpenSpending Data.Gov.Uk](http://farm8.staticflickr.com/7093/7274090358_35c6eff43d_o.png)
+<img alt="OpenSpending Data.Gov.Uk" src="http://farm8.staticflickr.com/7093/7274090358_35c6eff43d_o.png" class="screenshot" />
 
 ## Background
 Data.Gov.UK is the UK Government’s official open data portal. The site provides a central “way into the wealth of government data” and aims to make that data “easy to find; easy to license; and easy to re-use.” Data.Gov.UK was launched in closed Beta at the start of October 2009 and entered public beta in January 2010. The project is ongoing at the present time.
@@ -33,14 +33,11 @@ Outcomes have been very positive. The UK government is continuing to use and dev
 * Names, grades, job titles and annual pay rates for most Senior Civil Servants with salaries above £150,000 to be published in June 2010.
 * Names, grades, job titles and annual pay rates for most Senior Civil Servants and NDPB officials with salaries higher than the lowest permissible in Pay Band 1 of the Senior Civil Service pay scale to be published from September 2010.
 
-
 The actual delivery of individual commitments obviously took some time, but, for example:
-
 
 1. The COINS database was released in June 2010. The COINS database is the central government database for budgetary information, used by HM Treasury to manage budgeting and outturn against budget from all departments. This data was published on http://data.gov.uk/ at http://data.gov.uk/dataset/coins (More information here: http://thedatahub.org/dataset/coins-data).
 2. In November 2010 the government released, and committed to ongoing monthly release of, detailed departmental and local authority transactional spending data (all spending above £25,000 for departments and above £500 for local authorities). Departmental spending data was published onto http://data.gov.uk/ while local authorities usually published their data onto their local website or data catalog.
 3. In Autumn 2010 details of central government contracts became available online.
-
 
 In July 2011 the Prime Minister issued another [letter](http://www.number10.gov.uk/news/letter-to-cabinet-ministers-on-transparency-and-open-data/ ). In addition to reviewing performance against commitments from the previous year, the letter proposed various improvements and extensions in relation to fiscal data (note that almost all major fiscal information was now open so there was little to do in terms of new data release):
 
