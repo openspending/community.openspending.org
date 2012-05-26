@@ -5,8 +5,8 @@ layout: default
 
 # Out of the Box solution: CKAN in Data.Gov.UK
 
-*Country*: United Kingdom
-*URL*: <http://data.gov.uk/>
+* *Country*: United Kingdom
+* *URL*: <http://data.gov.uk/>
 
 
 ## Background
@@ -79,7 +79,7 @@ To take one example related to fiscal data and the publication of the £25k spen
 ## Project Resources
 The project was initiated in September 2009 with a go-live data 1-month later for the first version of the site. This target was met and a closed beta started in early October 2009. In January 2010 the site was made public.
 
-<table border="1"; padding= 1em;>
+<table border="1"; padding= "1em";>
     <tr>
         <td><strong>Phase,</strong></td>
         <td><strong>Duration</strong></td>
