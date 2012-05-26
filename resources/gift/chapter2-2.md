@@ -1,5 +1,5 @@
 ---
-title: Introductions
+title: DataBC Open Data Portal of British Columbia
 layout: default
 ---
 
@@ -68,11 +68,11 @@ It was difficult to switch from a closed system in which data publication was pr
 </table>
 
 ## User comments and feedback: 
-Herb Lainchbury, open systems developer: 
+### ßHerb Lainchbury, open systems developer: 
 > “The main things I would like to see are:
  
 > * i) more raw data - right now in DataBC we see a lot of small aggregated data tables which are not all that useful, 
 > * ii) more interesting data - there are easy ways to tell what data is interesting but so far BC is not releasing much of it [...] 
 > * iii) license - I would also like to see them use a license that conforms to the open definition...” 
 
-<p style="text-align: right">(Thanks for input from David Wrate, DataBC)</p> 
+<p style="text-align: right">Thanks for input from David Wrate, DataBC</p> 
