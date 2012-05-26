@@ -1,6 +1,6 @@
 ---
 title: Introductions
-layout: default
+layout: gift
 ---
 
 # D-Brain in Korea: Digital budgeting and accounting system 

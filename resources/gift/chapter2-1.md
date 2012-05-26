@@ -1,6 +1,6 @@
 ---
 title: CKAN in Data.Gov.Uk
-layout: default
+layout: gift
 ---
 
 # Out of the Box solution: CKAN in Data.Gov.UK

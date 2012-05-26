@@ -1,6 +1,6 @@
 ---
 title: Introductions
-layout: default
+layout: gift
 ---
 
 # Chapter 1: Introductions and Methodology

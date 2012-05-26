@@ -1,6 +1,6 @@
 ---
 title: IATI
-layout: default
+layout: gift
 ---
 
 # International Aid Transparency Initiative (IATI)

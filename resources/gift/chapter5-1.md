@@ -1,6 +1,6 @@
 ---
-title: Government of Sierra Leone GoSL: Online Repository for Ministry of Mines and Mineral Resources 
-layout: default
+title: Government of Sierra Leone GoSL - Online Repository for Ministry of Mines and Mineral Resources 
+layout: gift
 ---
 
 # Government of Sierra Leone GoSL: Online Repository for Ministry of Mines and Mineral Resources 

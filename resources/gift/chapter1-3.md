@@ -1,6 +1,6 @@
 ---
 title: Highlights, Gaps & Recommendations
-layout: default
+layout: gift
 ---
 
 # Highlights, Gaps and Recommendations

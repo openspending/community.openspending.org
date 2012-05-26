@@ -1,6 +1,6 @@
 ---
-title: Chapter 3: Introduction
-layout: default
+title: Using Fiscal Data - Civil Society Perspectives 
+layout: gift
 ---
 
 # Chapter 3 - Using Fiscal Data: Civil Society Perspectives 

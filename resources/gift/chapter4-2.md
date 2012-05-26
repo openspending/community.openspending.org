@@ -1,6 +1,6 @@
 ---
 title: XBRL
-layout: default
+layout: gift
 ---
 # International Financial Reporting Standards 
 

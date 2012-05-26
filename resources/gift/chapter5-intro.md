@@ -1,6 +1,6 @@
 ---
-title: Chapter 5: Introduction
-layout: default
+title: Case Studies - Where Does the Money Come From? 
+layout: gift
 ---
 
 # Chapter 5: Case Studies - Where Does the Money Come From? 

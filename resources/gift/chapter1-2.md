@@ -1,6 +1,6 @@
 ---
 title: Context
-layout: default
+layout: gift
 ---
 
 # Context

@@ -1,6 +1,6 @@
 ---
-title: Chapter 4: Introduction
-layout: default
+title: Standards for Fiscal Data - towards an international framework 
+layout: gift
 ---
 
 # Chapter 4 - Standards for Fiscal Data:  Towards an international framework 
@@ -12,9 +12,8 @@ One of the recommendations of this report is to work towards a standard for tran
 
 
 To demonstrate the impact that such an internationally recognised standard can have, the International Aid Transparency Initiative standard is showcased here. We look at: 
-ß
+
 1. how a successful standard can be built with multi-stakeholder cooperation and 
 2. the possibilities this approach has opened up for aid transparency 
-
 
 We also briefly examine existing accounting standards which may inform how such a standard might look, focusing particularly on the eXtensible Business Reporting Language.

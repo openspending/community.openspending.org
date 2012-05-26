@@ -1,6 +1,6 @@
 ---
 title: DataBC Open Data Portal of British Columbia
-layout: default
+layout: gift
 ---
 
 # DataBC Open Data Portal of British Columbia

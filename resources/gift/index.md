@@ -1,6 +1,6 @@
 ---
 title: Global Initiative for Fiscal Transparency Report
-layout: default
+layout: gift
 ---
 
 # Technology for Transparent and Accountable Public Finance (TTAPF)

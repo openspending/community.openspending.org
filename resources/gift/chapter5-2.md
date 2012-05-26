@@ -1,6 +1,6 @@
 ---
 title: Revenues from Oil and Mining - Revenue Watch
-layout: default
+layout: gift
 ---
 
 # Revenues from Oil and Mining - Revenue Watch 

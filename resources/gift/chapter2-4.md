@@ -1,6 +1,6 @@
 ---
-title: Brazilian Transparency Portal: Access to Information and Citizen Oversight
-layout: default
+title: Brazilian Transparency Portal - Access to Information and Citizen Oversight
+layout: gift
 ---
 
 # Brazilian Transparency Portal: Access to Information and Citizen Oversight
