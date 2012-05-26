@@ -60,6 +60,7 @@ This section highlights existing initiatives which take advantage of the opportu
 #### Following the progress of projects.
 1. e.g. [The Gol Mobile App](http://itunes.apple.com/us/app/porto-alegre/id479880903?mt=8) for Porto Allegre is a good example of an application which allows users to track the progress of a request and submit progress reports via their smartphone.
 
+![Gol App](http://farm8.staticflickr.com/7100/7272472352_2724487244_o.png)
 
 ### Publicising progress
 1. Publicising information on the outcomes of previous rounds of participatory budgeting and what has become of the projects.

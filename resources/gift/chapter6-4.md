@@ -10,7 +10,6 @@ layout: gift
 * *Scope*: Local government
 * *Users/Audiences*: Donors, recipient country governments, citizens, NGOs.
 * *URL*: <http://solokotakita.org/en/>
-* *Contact*: <http://solokotakita.org/en/contact/>
 
 
 ## Background

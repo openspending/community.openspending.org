@@ -9,6 +9,8 @@ layout: gift
 * *Geographic scope*: Brazil
 * *URL*: <http://www.portaltransparencia.gov.br/>
 
+![Brazilian Transparency Portal](http://farm9.staticflickr.com/8007/7274151266_0ab15698f5_o.png)
+
 ## Background
 
 

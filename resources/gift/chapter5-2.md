@@ -11,6 +11,7 @@ layout: gift
 * *URL*: http://www.revenuewatch.org/ 
 * *Users/Audiences*: Civil society, national governments, international institutions, researchers 
 
+![RWI](http://farm9.staticflickr.com/8158/7272473162_226235031b_o.png)
 
 ## Background 
 New technologies and new trends in transparency have unlocked wide new streams of government data about oil and mineral wealth. But access to data does not guarantee access to knowledge. Like the raw materials that get converted to energy, disclosed information often needs refinement and a functioning infrastructure of expertise, analysis and advocacy before it becomes "combustible" fuel for change. 

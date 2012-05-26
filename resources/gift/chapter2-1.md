@@ -8,6 +8,7 @@ layout: gift
 * *Geographic scope*: United Kingdom
 * *URL*: <http://data.gov.uk/>
 
+![OpenSpending Data.Gov.Uk](http://farm8.staticflickr.com/7093/7274090358_35c6eff43d_o.png)
 
 ## Background
 Data.Gov.UK is the UK Government’s official open data portal. The site provides a central “way into the wealth of government data” and aims to make that data “easy to find; easy to license; and easy to re-use.” Data.Gov.UK was launched in closed Beta at the start of October 2009 and entered public beta in January 2010. The project is ongoing at the present time.
@@ -81,7 +82,7 @@ The project was initiated in September 2009 with a go-live data 1-month later fo
 
 <table border="1"; padding= "1em";>
     <tr>
-        <td><strong>Phase,</strong></td>
+        <td><strong>Phase</strong></td>
         <td><strong>Duration</strong></td>
         <td><strong>Full-time human resources</strong></td>
     </tr>

@@ -9,7 +9,8 @@ layout: gift
 * *Geographic scope*: International 
 * *Users/Audiences*: Donors, parliaments of developing countries, private companies and foundations 
 * *URL*: <http://www.aidtransparency.net>
-* *Contact*: <http://www.aidtransparency.net/contact> 
+
+![IATI](http://farm8.staticflickr.com/7100/7272476346_0ae81268a5_o.png)
 
 
 ## Background 

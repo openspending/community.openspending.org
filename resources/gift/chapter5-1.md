@@ -11,6 +11,7 @@ layout: gift
 * *Costs*: The mineral rights administrative system and the online repository have been implemented over a period of two years, costing approximately EUR 400,000 (including training, support and equipment for an administrative system) 
 * *Project executed by*: Revenue Development Foundation (RDF) 
 
+![GoSL](http://farm8.staticflickr.com/7239/7272473284_c043da6810_o.png)
 
 ## Background 
 A system that allows governments to publish all mining licences and associated revenues directly from their administrative system. The system can also present other types of revenue data such as forestry concessions, fishing rights, property and land rights. 

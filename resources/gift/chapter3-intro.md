@@ -5,6 +5,8 @@ layout: gift
 
 # Chapter 3 - Using Fiscal Data: Civil Society Perspectives 
 
+![User](http://farm8.staticflickr.com/7086/7274042410_b697be64c8_o.jpg)
+
 The Open Budget Index has been instrumental in establishing the key budget documents that every government should publish. The Open Budget Index, grades governments according to their publication practices (timeliness, how many key documents are published etc.)[1]; the survey does not currently look at the format and content of the key budget documents released. 
 
 Getting format and content right is vital to ensure data can be used to hold governments to account. In this section, we examine from a user perspective how easy it is to find, get hold of and use that data. We asked the open spending data community (who come from a variety of backgrounds; research, technical, media etc.) what  fiscal data they required, what they wanted to do with it , and importantly, how easy it was to obtain and use. The examples demonstrate that simply publishing the data is not enough, attention must also be paid to how the data is published.

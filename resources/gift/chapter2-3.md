@@ -5,11 +5,11 @@ layout: gift
 
 # D-Brain in Korea: Digital budgeting and accounting system 
 
-
 * *Geographic scope*: Republic of Korea
 * *URL*: <http://www.digitalbrain.go.kr>
-* Total cost: $63 million 
-* Vital Statistics: Total 77,000 registrations of central and local government officials and public agency users. 200,000 transactions by 15,000 users per day. Payment of about 3.6 trillion won ($3billion) on daily average (Korea’s 2010 budget : 292.8 trillion won). Connected to 55 related information systems 
+* *Vital Statistics*: Total 77,000 registrations of central and local government officials and public agency users. 200,000 transactions by 15,000 users per day. Payment of about 3.6 trillion won ($3billion) on daily average (Korea’s 2010 budget : 292.8 trillion won). Connected to 55 related information systems.
+
+![D-Brain](http://farm8.staticflickr.com/7100/7274122142_d489a01d58_o.png)
 
 The top-ranking e-Government nation according to the e-Government Development Index and UN Global [E-Government Survey](http://www2.unpan.org/egovkb/global_reports/12report.htm) was the Republic of Korea. Korea’s solution for a public facing Digital Budget & Accounting System (DBAS - or nicknamed D-brain), adopted in 2007, has also been making waves as a leading model of innovative digital budgeting. 
 
@@ -48,4 +48,7 @@ Some of the reasons for the success of the project are:
 4. D-Brain streamlines information exchange between central government, local government and public agencies, providing real time processing between agencies and facilitating payment collection. 
 5. People are interested in fiscal activities, as more efficient use of funds by the government is directly linked to lowering their taxation. 
 
+## Resources
+
+Total cost: $63 million
 

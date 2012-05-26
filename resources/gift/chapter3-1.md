@@ -5,6 +5,8 @@ layout: gift
 
 # User perspectives on using Government Fiscal Data
 
+The statements below all come from re-users of fiscal data outside of government. Each person talks about what fiscal data they required, what they wanted to do with it, and importantly, how easy it was to obtain and use
+
 ## Canada: DataBC and tools for non-developers
 
 > “Another nice thing about the data.gov.bc.ca website is that it provides tools for non-developers, so that they can play with, and learn from, some of the data.”

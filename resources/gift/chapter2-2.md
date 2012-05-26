@@ -9,6 +9,7 @@ layout: gift
 * *Country*: Canada 
 * *URL*: <http://www.data.gov.bc.ca/>
 
+![DataBC](http://farm8.staticflickr.com/7240/7272465600_0b9d7f60f5_o.png)
 
 ## Background 
 When the Province of British Columbia decided to launch the first Canadian provincial level data portal offering access to more than 2,500 datasets of local and province level data, it followed the need to address both the needs of the community and to transform and civil service system. With a large part of the workforce retiring, the accumulated knowledge and skills had to be transferred and new technology harnessed for realising three main aims: 1) Citizen participation and supporting a community around open data, 2) Data self-service - transforming the way government is present on the web and providing automated access to information 3) Business innovation - encouraging the use and re-use of data for fostering innovation through better information and certainly in government policy. 

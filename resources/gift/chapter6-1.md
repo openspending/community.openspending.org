@@ -11,6 +11,8 @@ layout: gift
 * *URL*: http://sunlightfoundation.com/clearspending/
 * *Users / Audience*: Civil society, national governments, international institutions, researchers
 
+![Clearspending](http://farm8.staticflickr.com/7226/7272476246_5ba1cbc2e7_o.png)
+
 ## Background
 Clearspending analyzes the data quality of the grants data in USASpending.gov, the cornerstone of President Obama's transparency platform even before he took office. He co-sponsored the bill that created it whilst he was a Senator, and oversaw part of its execution in the executive branch. Clearspending addresses three metrics: timeliness, completeness, and consistency with other government estimates. Over $1.3 trillion failed on at least one of these metrics. Users of Clearspending can view topline data quality measurements by agency, or drill down to a program level to view the performance of specific grant and loan programs. Essentially, Clearspending is an oversight tool that examines the compliance of each agency and program with grant and loan reporting requirements. The site also provides substantial background information on the evolution of the reporting systems that power it (some are decades old) and the overall picture of how spending is reported in different areas of the federal government. The original methodology of Clearspending stems from a Government Accountability Office report on the same topic, but the sample-based methodology has been expanded with an automated program to examine all transactions instead of only a sample percentage.
 

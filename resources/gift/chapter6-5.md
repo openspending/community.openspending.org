@@ -12,6 +12,7 @@ layout: gift
 * *Users/Audiences*: All levels of government
 * *URL*: http://citizenbudget.com/
 
+![Citizen Budget](http://farm8.staticflickr.com/7229/7272472996_6013c841d1_o.png)
 
 ## Background
 Citizen Budget is a project of Open North, a Canadian non-profit that creates websites to increase government transparency and promote citizen participation. Open North sells Citizen Budget to municipalities as licensed software or as a service.

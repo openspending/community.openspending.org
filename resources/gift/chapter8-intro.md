@@ -6,6 +6,7 @@ layout: gift
 
 # Chapter 8 - Putting the Parts Together: Getting off-budget on-budget: OpenSpending & Publish What You Fund 
 
+![OS & PWYF](http://farm8.staticflickr.com/7092/7272477056_b1cf5eafd2_o.jpg)
 
 ## Background 
 Aid flows often do not pass through a recipient government’s conventional budget mechanisms. When this happens, recipient governments themselves may not have the complete overview of where aid money goes and how donor priorities align with their own. This information is vital for governments and aid donors to be able to make the best use of scarce resources. 
