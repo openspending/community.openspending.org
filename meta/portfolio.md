@@ -1,9 +1,9 @@
 ---
-title: Portfolio
+title: What we get up to
 layout: meta
 ---
 
-##What we get up to
+## What we get up to
 
 How and why have people used OpenSpending? Besides the technical aspects of the project, what work is going on in the area of spending information? Below are some of the projects that we have been involved with so far...
 

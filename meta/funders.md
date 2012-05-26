@@ -11,7 +11,7 @@ OpenSpending is a community-driven project, but we would not be able to run it w
 4IP
 --- 
 
-<img src="funders/4ip.jpg" class="inline-image">
+<img src="images/4ip.jpg" class="inline-image">
 
 It was thanks to Channel 4's Information Program that [Where Does My Money Go?](http://wheredoesmymoneygo.org/) was born. 'Where Does My Money Go?' was the original version of OpenSpending for the United Kingdom and has inspired many international versions of the site.
 
@@ -19,7 +19,7 @@ It was thanks to Channel 4's Information Program that [Where Does My Money Go?](
 Open Society Foundations
 ------------------------
 
-<img src="funders/osf.JPG" class="inline-image">
+<img src="images/osf.JPG" class="inline-image">
 
 The Open Society Foundations support community building work around Open Spending Data. With this project we aim tohelp more groups and individuals around the world to use and work with spending data more effectively to do the things they care about – whether this is investigative journalism, evidence based policy-making, political campaigning, budgeting or creating new useful applications and services.
 
@@ -31,14 +31,14 @@ Read [the announce post]( http://blog.openspending.org/2012/01/12/civil-society-
 Knight Foundation
 -----------------
 
-<img src="funders/kf.png" class="inline-image">
+<img src="images/kf.png" class="inline-image">
 
 The Knight Foundation support the development of the [Spending Stories](http://blog.okfn.org/2011/06/22/spending-stories-is-a-winner-of-the-knight-news-challenge/) project. Spending Stories is a tool designed to speed up fact checking around spending data, helping journalists to connect raw data with their stories and build context around data with visualisations and auxilliary information.
 
 Omidyar Network
 ---------------
 
-<img src="funders/on.jpg" class="inline-image">
+<img src="images/on.jpg" class="inline-image">
 
 The Omidyar Network funded the research behind the report 'Technology for Transparent and Accountable Public Finance', which was presented at the Global Initiative for Fiscal Transparency meeting in Brasilia in April 2012. 
 
