@@ -1,6 +1,6 @@
 ---
 title: Chapter 6: Introduction
-layout: default
+layout: gift
 ---
 
 Chapter 6: Case Studies - Where Does the Money Go?

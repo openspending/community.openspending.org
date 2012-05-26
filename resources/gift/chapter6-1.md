@@ -1,6 +1,6 @@
 ---
 title: ClearSpending from the Sunlight Foundation
-layout: default
+layout: gift
 ---
 
 # ClearSpending from the Sunlight Foundation

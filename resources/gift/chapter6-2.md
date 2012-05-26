@@ -1,7 +1,7 @@
 ---
 title: The Media and Fiscal Data: How do we get fiscal data into the public eye?
 
-layout: default
+layout: gift
 ---
 
 # The Media and Fiscal Data: How do we get fiscal data into the public eye?

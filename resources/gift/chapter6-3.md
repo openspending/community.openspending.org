@@ -1,6 +1,6 @@
 ---
 title: Deciding where the money goes: Participatory Budgeting
-layout: default
+layout: gift
 ---
 
 #Deciding where the money goes: Participatory Budgeting
