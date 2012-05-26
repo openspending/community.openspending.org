@@ -3,13 +3,26 @@ title: Spending Blog
 layout: default
 ---
 
+<div class="top-image"><img src="images/bubbles.png" /></div>
+
 <div class="row">
-    <div class="span4">&nbsp;</div>
+    <div class="span4">
+        <h2>The Spending Blog</h2>
+        This is where two paragraphs on the purpose of the 
+        Spending Blog would fit in nicely. 
+
+        <div class="social-links">
+            <a href="http://twitter.com/openspending"><img src="images/blog_twitter.png" /></a>
+            <a href="http://www.facebook.com/OKFNetwork"><img src="images/blog_facebook.png" /></a>
+            <a href="atom.xml"><img src="images/blog_feed.png" /></a>
+        </div>
+    </div>
     <div class="span8">
         {% for post in site.posts %}
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <h3><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }}</a></h3>
-          <p>{{ post.content | truncatehtml: 250 }}</p>
+            <div class="blog-post-preview">
+                <h3><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%d.%m.%Y" }}</small></h3>
+                <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+            </div>
         {% endfor %}
     </div>
 </div>

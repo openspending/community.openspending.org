@@ -5,8 +5,9 @@ layout: nil
 
 <html>
     {% for post in site.posts limit:3 %}
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <strong>{{ post.date | date: "%Y-%m-%d" }}</strong>
-        <p>{{ post.content | truncatehtml: 150 }}</p>
+        <div class="blog-post-preview">
+            <h3><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%d.%m.%Y" }}</small></h3>
+            <p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+        </div>
     {% endfor %}
 </html>
