@@ -4,7 +4,7 @@ layout: gift
 ---
 
 # Technology for Transparent and Accountable Public Finance (TTAPF)
- 
+![Cover of TTAPF Report](http://farm8.staticflickr.com/7077/7272474142_5d2b3fb27b_o.jpg)
 ## Acknowledgements
 
 This report was commissioned by the Global Initiative for Fiscal Transparency

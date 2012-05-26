@@ -33,15 +33,15 @@ layout: gift
 
 * *Open Knowledge Foundation*, **Open Data Handbook**. Available at: <http://opendatahandbook.org/>.
 
-* *Participatory Budgeting Unit*, **The role of new technology in Participatory Budgeting**, Available at: <http://www.participatorybudgeting.org.uk/documents/Discussion paper FINAL version.pdf>.
+* *Participatory Budgeting Unit*, **The role of new technology in Participatory Budgeting**, Available at:  <http://www.participatorybudgeting.org.uk/documents/Discussion%20paper%20FINAL%20version.pdf>.
 
 * *Ribeiro, M.M., Vaz, J.C. & Matheus, R.*, **Transparency in the Portals of Brazilian Federal Government: The cases of E-procurement Portal and Transparency Portal**. In First Global Conference on Transparency Research, Rutgers University, Newark. Available at: <http://bit.ly/brazilian-portals>.
 
 * *Ramkumar, V., 2008*. **Our Money, Our Responsibility: A Citizens’ Guide to Monitoring Government Expenditures**, International Budget Project (IBP).
 
-* *Solana, M., 2004*. **Transparency Portals: Delivering public financial information to Citizens in Latin America. THINKING OUT LOUD V Innovative Case Studies on Participatory Instruments**, The World Bank, Available at http://bit.ly/ThinkingOutLoud
+* *Solana, M., 2004*. **Transparency Portals: Delivering public financial information to Citizens in Latin America. THINKING OUT LOUD V Innovative Case Studies on Participatory Instruments**, The World Bank, Available at <http://bit.ly/ThinkingOutLoud>
 
-* *The Transparency and Accountability Initiative, 2011*. **Opening government: A guide to best practice in transparency, accountability and civic engagement across the public sector**, Available at: http://www.transparency-initiative.org/wp-content/uploads/2011/07/Opening-Government2.pdf.
+* *The Transparency and Accountability Initiative, 2011*. **Opening government: A guide to best practice in transparency, accountability and civic engagement across the public sector**, Available at: <http://www.transparency-initiative.org/wp-content/uploads/2011/07/Opening-Government2.pdf>.
 
-* *Wohlschlegel, K. & Baxandall, P., 2012*. **Following the Money**, Available at: http://www.uspirg.org/reports/usp/following-money-2012
+* *Wohlschlegel, K. & Baxandall, P., 2012*. **Following the Money**, Available at: <http://www.uspirg.org/reports/usp/following-money-2012>
 

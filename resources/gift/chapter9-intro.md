@@ -55,8 +55,9 @@ Below are numerous recommendations related to the role of all parties including 
 
 ## Foundations
 
-1. Many of the projects highlighted in this report are one-off solutions, tailored to an individual local problem. Funders may like to review the projects (listed in the appendix & in the participatory budgeting software census), to see whether any existing open-source solutions could be adapted to serve other or more general problems, before initiating another.
-2. Support long-term archives of data and documents relating to fiscal activities. There are currently no politically neutral, long term, public-facing, centralised archives of fiscal data. Such a resource is crucial for analysis and long-term transparency goals.
+1. Many of the projects highlighted in this report are one-off solutions, tailored to an individual local problem. Funders may like to review existing projects (e.g. those listed in the appendix & in the participatory budgeting software census, and on sites such as the [Civic Commons Marketplace](http://civiccommons.org/apps)), to see whether any existing open-source solutions could be adapted to serve other or more general problems, before initiating another.
+2. Support platforms (as well as individual instances of a piece of software) which allow solutions to be scaled, promote inter-organisational data-sharing and communities of practice. 
+3. Collect resources for long-term archives of data and documents relating to fiscal activities. 
 
 ## GIFT:
 
