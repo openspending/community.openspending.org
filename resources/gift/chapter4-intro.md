@@ -3,15 +3,13 @@ title: Standards for Fiscal Data - towards an international framework
 layout: gift
 ---
 
-# Chapter 4 - Standards for Fiscal Data:  Towards an international framework 
+## Chapter 4 - Standards for Fiscal Data: Towards an international framework 
 
-![Standards](http://farm9.staticflickr.com/8020/7274043974_8ab42aefa1_o.gif)
+<img alt="Standards" src="http://farm9.staticflickr.com/8020/7274043974_8ab42aefa1_o.gif" class="inline-image" />
 
 Raw data is the fuel of many of the tools featured in this report. In later sections, we demonstrate that the poor quality of the available data and the fact that it is often in non-machine readable formats (e.g. PDF) can contribute considerably to the workload involved in developing these tools, or even render them entirely infeasible.’ 
 
-
 One of the recommendations of this report is to work towards a standard for transaction level spending data to enable greater reuse and comparison of, as well as confidence in, the data from a user perspective. 
-
 
 To demonstrate the impact that such an internationally recognised standard can have, the International Aid Transparency Initiative standard is showcased here. We look at: 
 
