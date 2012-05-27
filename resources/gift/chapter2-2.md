@@ -3,48 +3,46 @@ title: DataBC Open Data Portal of British Columbia
 layout: gift
 ---
 
-# DataBC Open Data Portal of British Columbia
+## DataBC Open Data Portal of British Columbia
 
 
 * *Country*: Canada 
 * *URL*: <http://www.data.gov.bc.ca/>
 
-![DataBC](http://farm8.staticflickr.com/7240/7272465600_0b9d7f60f5_o.png)
+<img alt="DataBC" src="http://farm8.staticflickr.com/7240/7272465600_0b9d7f60f5_o.png" class="screenshot" />
 
-## Background 
+### Background 
 When the Province of British Columbia decided to launch the first Canadian provincial level data portal offering access to more than 2,500 datasets of local and province level data, it followed the need to address both the needs of the community and to transform and civil service system. With a large part of the workforce retiring, the accumulated knowledge and skills had to be transferred and new technology harnessed for realising three main aims: 1) Citizen participation and supporting a community around open data, 2) Data self-service - transforming the way government is present on the web and providing automated access to information 3) Business innovation - encouraging the use and re-use of data for fostering innovation through better information and certainly in government policy. 
 
 
-## Available Fiscal Data 
+### Available Fiscal Data 
 revenue side of public finance, pre-budget statements (projected budget), data from quasi-fiscal activities, economic indicators, executive budget proposal, enacted budget, supplementary budget 
 
 
-## Overview of Features 
+### Overview of Features 
 The BC open data portal contains data across a broad spectrum of subjects; access to tools to visualise and analyse the data; and a blog with posts related to the data. The contextualisation of the original document is accomplished through the possibility to “follow” the document, tracing its progression, and the source document link is provided alongside the dataset. The contact form encourages users to ask questions, to enquire about more data when needed, as well as to provide general or specific feedback. 
 
 
 DataBC is also trying to balance between servicing the data and supporting the already existing open data community in British Columbia, from whom they received valuable feedback for the project. They are an active Twitter user with a growing number of followers. Organising hackathons also aids developers in using the data and creating data visualisations and apps which present different ideas and communicate messages around data. 
 
 
-## Standards, Licenses and Formats 
-Having used the example of the UK Government’s Open License for Public Sector Information, most of the BC data can be freely reused for commercial purposes, advocacy or personal use. 
+### Standards, Licenses and Formats 
 
+Having used the example of the UK Government’s Open License for Public Sector Information, most of the BC data can be freely reused for commercial purposes, advocacy or personal use. 
 
 As the portal provides access to many different types of data, the underlying format and standards vary. There is a need to separate the final format from the file structure - e.g. it could be data in CSV format but the data could be poorly-structured. DataBC had to resolve problems related to the integration of the existing data management systems within the government as no mechanisms for data sharing existed previously. 
 
+### Successes and Outcomes 
 
-## Successes and Outcomes 
 Probably one of the less-expected impacts was seeing how civil servants themselves are using the portal, as about one third of all the traffic originates from government IPs. Technology enables faster access to relevant data within the government departments, contributing to better interconnections between people working e.g. on labour policies and requiring fiscal data on income tax revenues and unemployment benefits. The most popular data turned out to be the financial data of the government, which signals the importance of transparent public finance based on the demand for information. There was also about 20% increase in the number of Freedom of Information (FOI) requests, showing that releasing a small amount of data fuelled wider interest in data. 
 
+### Challenges 
 
-## Challenges 
 Probably the “Holy Grail question” of government data portals is how the data is being used and re-used and what value it generates. As there is no authentication for datasets download and privacy policies only allows the tracking of institutional use, it is difficult to know where the data goes and how it is being used. 
-
 
 It was difficult to switch from a closed system in which data publication was produced in closed formats such as PDFs to one in which the importance of data management, useful metadata etc., is prioritised. Those working on the project experienced an asymmetry in the readiness of various departments to open up their data, for example, those in geospatial data already had much experience with opening up their data, whereas to those in finance, it was the first time that they had been asked to think about their data as ‘open data’ and progress was slower. For DataBC the project was not a compliance exercise, but an attempt to integrate governance, policy-making and citizen participation. 
 
-
-## Project Resources (approximate):
+### Project Resources (approximate):
 
 <table border="1"; padding= "1em";>
     <tr>
@@ -68,8 +66,8 @@ It was difficult to switch from a closed system in which data publication was pr
         <td>8</td>
 </table>
 
-## User comments and feedback: 
-### ßHerb Lainchbury, open systems developer: 
+### User comments and feedback: 
+#### Herb Lainchbury, open systems developer: 
 > “The main things I would like to see are:
  
 > * i) more raw data - right now in DataBC we see a lot of small aggregated data tables which are not all that useful, 

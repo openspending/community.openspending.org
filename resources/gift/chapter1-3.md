@@ -126,59 +126,55 @@ This section examined whether having standards for fiscal data could provide a s
 A global spending data registry which lists spending data from around the world in a standard format - similar to the IATI registry for aid information.
 
 
-## Where Does the Money Come From? Where Does the Money Go? and The Invisible Money
+### Where Does the Money Come From? Where Does the Money Go? and The Invisible Money
 
+#### Highlights: Tools for Data
 
-### Highlights: Tools for Data
 1. Civil society is often cited as the target users for transparency portals, as was the case for the Sierra Leone Mining Repository. However, in reality, 65 % of the users of this platform are investors, donors and other governments, who have knowledge of complex legal terminology and sector-specifics. The level of technical knowledge required to understand this data means that similar audiences may be the main user groups for other such tools.
 2. Design of tools for end-users are most effective when they bear in mind less-web-savvy users or users who will have to work in lower bandwidth or with older computers. Options such as saving and printing user-generated reports could be very useful for these purposes.
 3. “Data is not always actionable simply because it is available.” Having the possibility to download the data does not guarantee that one would be able to use it or understand its structure and source.
 4. Open source tools allow rapid dissemination of approaches and the adaptation of tools to different contexts internationally. For example, the visualizations from OpenSpending have been widely and independently re-used (e.g. to power the Hungarian site “A mi Penzünk” and the Czech site BudováníStátu.cz).
 5. Information to hold individual politicians personally accountable for their financial choices is highly desirable, particularly for journalists, and could have a great impact, particularly in situations where individual politicians wield choice over discretionary funds.
 
+#### Highlights: Participation
 
-
-
-### Highlights: Participation
 1. Technology can add additional channels for participation to reach out to people who might otherwise be hard to reach, or make it easier for those who already do participate. Yet technology is not a substitute for face-to-face contact.
 2. Technology is not a fix-all. If a tool is to be successful, it will most likely target a specific aspect of the Participatory Budgeting-cycle. A strategy can target a particular part of the PB process rather than being a super-app that will work at every stage.
 3. Conversations should be tightly facilitated in the idea collection and deliberation phases to ensure that the conversation remains structured and duplicate or irrelevant ideas do not distort its clarity. Governments should also ensure that they have the response capacity to be able to deal with the potentially large amounts of feedback, which could ensue before implementing a technical solution to idea collection.
 
+#### Highlights: Social Auditing
 
-
-
-### Highlights: Social Auditing
 1. Social audits using technology offer a possibility of close to real-time feedback and reporting.
 2. Technology, e.g. mobile, can help transform traditional labour-intensive social auditing practices, which gives a possibility to scale-up corruption monitoring.
 3. SMS technology has the possibility of reaching out to rural areas with limited Internet access.
 4. Many of the projects featured in this section rely on sub-national level data to function: It is at local and regional level that many of the services from which citizens benefit most tangibly  are delivered e.g. infrastructure, healthcare, schooling.
 5. Another type of data, which could be key for stimulating citizen feedback on an individual level, is data on personal entitlements, which might motivate citizens to provide feedback on whether they received their personal allowance.
 
+#### Gaps
 
-### Gaps
 1. Raw, machine-readable data is vital.  Having to extract structured data from unstructured documents (e.g. PDFs and Word documents) prior to use creates work, could introduce errors (e.g. from manual transcription) and can lead to supply-side data-quality issues, e.g. if the government faces bad data management practices.
 2. Very few projects are currently able to trace the difference between planned and actual expenditure. Sunlight’s work in the United States is one of the few examples of success in this area.
 3. Good, open-source tools for doing entity matching and extraction
 4. Sub-national level spending data
 5. Data on citizens’ personal entitlements
 
+#### Recommendations
 
-### Recommendations
+**First Steps**
 
-#### First Steps
 1. Build public-facing tools, targeted at enabling expert oversight, e.g. by investors and other governments, who have both incentives to scrutinise this data and pre-existing knowledge to enable them to do so.
 2. Promote use of these tools  to infomediaries, who perform the role of translating complex information for the benefit of the public
 3. Related datasets: Fiscal data is most useful when related core datasets (e.g. reference identifiers, geospatial information) are  also available
 4. More and better data: Access to good quality sub-national transaction-level data on expenditure; access to data on personal entitlements
 
+**Next Steps**
 
-#### Next Steps
 1. Contextualise the data in a way that is suitable for a layman audience - how was it generated? What is and is not covered?
 2. Build tools using the data that has been released as part of the ‘first steps’, in order to allow greater understanding of information for a layman audience. For example, citable, pre-computed statistics (as long as the methodology behind generating them is clear), which have been generated by experts are extremely attractive for those looking to use them in reports and for the press.
 3. Closer collaboration between advocacy NGOs and journalists.
 
+**Ideal Scenario**
 
-#### Ideal Scenario
 1. Finishing off the great work done so far in this area in compiling country-level reports into one place and building a sortable online database.
 2. Extensive capacity-building for journalists to enable them to analyze and present data.
 3. Social Audit Portals similar to Andhra Pradesh with near real-time access to financial data.

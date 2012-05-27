@@ -3,14 +3,14 @@ title: CKAN in Data.Gov.Uk
 layout: gift
 ---
 
-# Out of the Box Solution: CKAN in Data.Gov.UK
+## Out of the Box Solution: CKAN in Data.Gov.UK
 
 * *Geographic scope*: United Kingdom
 * *URL*: <http://data.gov.uk/>
 
 <img alt="OpenSpending Data.Gov.Uk" src="http://farm8.staticflickr.com/7093/7274090358_35c6eff43d_o.png" class="screenshot" />
 
-## Background
+### Background
 Data.Gov.UK is the UK Government’s official open data portal. The site provides a central “way into the wealth of government data” and aims to make that data “easy to find; easy to license; and easy to re-use.” Data.Gov.UK was launched in closed Beta at the start of October 2009 and entered public beta in January 2010. The project is ongoing at the present time.
 
 Data.Gov.UK has been built on a combination of CKAN, the open-source data portal software developed by the Open Knowledge Foundation, and Drupal, the open-source CMS.
@@ -19,7 +19,7 @@ Initial requirements for Data.Gov.UK were data catalog capabilities (entering, e
 
 Outcomes have been very positive. The UK government is continuing to use and develop Data.Gov.UK and the site has a global reputation as a leading exemplar of a government data portal. The system has successfully handled growth from a few dozen datasets to many thousands of datasets and a concomitant growth in site traffic, and the site has played a significant enabling role in the UK government’s development of its transparency and open data agenda.
 
-## Available Fiscal Data
+### Available Fiscal Data
 1. In 2010 the UK government committed to the ongoing release of a substantial amount of open fiscal data. Specifically, in the Prime Minister’s letter of 31 May 2010 the [Government committed to](http://www.number10.gov.uk/news/letter-to-government-departments-on-opening-up-data/):
 2. Historic COINS spending data to be published online in June 2010.
 3. All new central government ICT contracts to be published online from July 2010.
@@ -47,7 +47,7 @@ In July 2011 the Prime Minister issued another [letter](http://www.number10.gov.
 4. Working with the purchase and payment card providers to provide a consistent method of reporting government procurement card spend data for transactions above £500 in value, so this is available for publication on departmental websites, from end September 2011.
 
 
-## Overview of Features
+### Overview of Features
 Data.Gov.UK acts both as a data portal and as a home for some of the government’s information on transparency and open data (for example, minutes and notes from the Transparency Board). As a data portal, its main features are:
 
 1. Publish and find datasets: full data catalog with rich search capabilities
@@ -59,7 +59,7 @@ Data.Gov.UK acts both as a data portal and as a home for some of the government�
 
 While this is a very rich feature-set it should be emphasised that essentials of a successful data portal can be substantially less -- data.gov.uk itself in its original incarnation had many fewer features. A data portal in its simplest form need only have a mechanism for easily listing datasets (both in human-readable and machine-readable form) -- and datasets may “point out” to data stored on other sites (e.g. individual ministries’ or departments’ websites) rather than being stored on the portal itself (though over time, there may be a need to store data, at least for archival purposes).
 
-## Successes
+### Successes
 Data.Gov.UK has won widespread recognition as an exemplar data portal and its influence has been felt widely within the international community. In the UK, it has become the online home of the UK Government’s open data and transparency efforts and the data published on the site has been widely used and reused by companies, journalists, CSOs, and citizens.
 
 By providing a clear, and very visible, home for UK government open data it has also played a direct role in driving forward the open data and transparency agenda -- departments were already releasing datasets onto the site voluntarily *before* there was any specific policy mandating this, and publicity and interest around the site at its early stages from developers, media and others helped to galvanize further policy developments.
@@ -67,14 +67,14 @@ By providing a clear, and very visible, home for UK government open data it has 
 In addition, data.gov.uk has played a significant role in the development of a very clear open licensing policy for UK government data by ensuring that all datasets found on the site are under an open license -- the [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/open-government-licence.htm) drafted by the UK Government’s Office of Public Sector Information (now within the National Archives).
 
 
-## Challenges
+### Challenges
 Data.Gov.UK has seen some failures. Largely, these relate to processes around data release that are not under the direct control of that project itself (though the project could take steps to ameliorate these problems).
 
 
 To take one example related to fiscal data and the publication of the £25k spending by departments: Because each department publishes individually, this data on government spending is spread across approximately 1000 datasets on data.gov.uk (it can actually be hard to find them all because there are so many and there is no straightforward method to search for them). In addition, not all data is published in the correct format and some data links disappear as departments move data on their website. While ultimately this is a process issue, data.gov.uk have been taking steps to help improve this: for example, by ensuring consistent tagging of datasets when they are created, automatically checking datasets on a regular basis for broken links, developing validators to ensure that data is provided in a consistent format, and developing reporting tools so that Ministers and managers can get an overview of the process.
 
 
-## Project Resources
+### Project Resources
 The project was initiated in September 2009 with a go-live data 1-month later for the first version of the site. This target was met and a closed beta started in early October 2009. In January 2010 the site was made public.
 
 <table border="1"; padding= "1em";>
