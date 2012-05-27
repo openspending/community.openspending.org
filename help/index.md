@@ -95,8 +95,8 @@ layout: help_frame
 <div class="row">
     <div class="span4">
         <p>
-            OpenSpending is free software. We believe, however, that
-            running a centralized store of spending information has strong
+            OpenSpending is free software. We believe that running a 
+            central store of spending information has strong
             benefits, e.g. to enable cross-dataset search and comparisons. 
             Therefore, we encourage everyone to use the main site.
         </p>
