@@ -12,5 +12,5 @@ In order to assess how much money is available to spend, a government must know 
 
 Case studies include: 
 
-1. Government of Sierra Leone GoSL: Online Repository for Ministry of Mines and Mineral Resources 
-2. Revenues from Oil and Mining: Revenue Watch
+1. [Government of Sierra Leone GoSL](chapter5-1.html): Online Repository for Ministry of Mines and Mineral Resources 
+2. [Revenues from Oil and Mining](chapter5-2.html): Revenue Watch

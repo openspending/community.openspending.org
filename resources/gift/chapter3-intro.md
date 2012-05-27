@@ -20,7 +20,7 @@ Respondents were asked 6 questions:
 5. Please explain any issues with the data. 
 6. What could be done to make your work easier? 
 
-The section below contains quotes and in place paraphrased responses from some of the participants interviewed. 
+The [section below](chapter3-1.html) contains quotes and in place paraphrased responses from some of the participants interviewed. 
 
 [1]  Pre-Budget Statement, Executive’s Budget Proposal, Enacted Budget, Citizen’s Budget, (Supplementary budgets), In-Year Reports (Monthly / quarterly), Mid Year Review, Year End Report, Audit Reports.
 

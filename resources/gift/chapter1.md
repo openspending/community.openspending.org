@@ -19,9 +19,9 @@ This reports provides examples of projects around the world that are using techn
 
 We have sought to find projects which reflect all stages of the fiscal process: 
 
-1. Looking at where the money comes from: both getting more data released and building analysis and visualisation tools in the context of revenue processes e.g. taxation, extractive industries, etc., [c]
-2. Monitoring where the money goes: presenting data about the budgeting process and getting citizens involved in fiscal processes e.g. through participatory budgeting and comparisons of planned and retrospective budgets,
-3. The invisible money: improving public understanding of state-owned or semi-state owned enterprises, off-budget information and social audit projects which verify whether official money is being concealed or is not being spent according to official plans – information which often is not published as part of current budgeting practices.
+1. Looking at [where the money comes from](chapter5-intro.html): both getting more data released and building analysis and visualisation tools in the context of revenue processes e.g. taxation, extractive industries, etc., [c]
+2. Monitoring [where the money goes](chapter6-intro.html): presenting data about the budgeting process and getting citizens involved in fiscal processes e.g. through participatory budgeting and comparisons of planned and retrospective budgets,
+3. [The invisible money](chapter7-intro.html): improving public understanding of state-owned or semi-state owned enterprises, off-budget information and social audit projects which verify whether official money is being concealed or is not being spent according to official plans – information which often is not published as part of current budgeting practices.
 
 In each case, we considered questions such as:
 

@@ -14,7 +14,7 @@ In this section, we summarise the key highlights from the various sections of th
 
 ### Data Portals
 
-In this section we examine four government data portals from across the globe. The aim is to highlight government perspectives of making fiscal data available to the public. We focus on motivations for creating the service in the first instance, what features and data are offered, successes and outcomes, challenges and areas for improvement and what resources are needed to assemble and maintain such a site.
+In [this section](chapter2-intro.html) we examine four government data portals from across the globe. The aim is to highlight government perspectives of making fiscal data available to the public. We focus on motivations for creating the service in the first instance, what features and data are offered, successes and outcomes, challenges and areas for improvement and what resources are needed to assemble and maintain such a site.
 
 #### Highlights
 1. Data portals help address a fundamental requirement to make data accessible and discoverable once it has been made available: If data is spread across hundreds of websites and is difficult for people or machines to find, much of its value will be lost.
@@ -48,7 +48,7 @@ In this section we examine four government data portals from across the globe. T
 
 ### Finding and Using Data
 
-In this section we asked the open spending data community - who come from a variety of backgrounds; research, technical, media etc., what fiscal data they require, what they want to do with it, and importantly, how easy it is to obtain and use. Through a series of structured surveys, we established the following:
+In [this section](chapter3-intro.html) we asked the open spending data community - who come from a variety of backgrounds; research, technical, media etc., what fiscal data they require, what they want to do with it, and importantly, how easy it is to obtain and use. Through a series of structured surveys, we established the following:
 
 #### Highlights
 
@@ -92,7 +92,7 @@ In this section we asked the open spending data community - who come from a vari
 
 ### Standards for Fiscal Data
 
-This section examined whether having standards for fiscal data could provide a solution to some of the usability issues described by the users of the data in the previous section, by looking at two internationally recognised standards, IATI and XBRL. Accompanying this report are some Terms of Reference for the possible implementation of such a standard.
+[This section](chapter4-intro.html) examined whether having standards for fiscal data could provide a solution to some of the usability issues described by the users of the data in the previous section, by looking at two internationally recognised standards, IATI and XBRL. Accompanying this report are some Terms of Reference for the possible implementation of such a standard.
 
 #### Highlights
 
@@ -110,6 +110,7 @@ This section examined whether having standards for fiscal data could provide a s
 #### Recommendations
 
 **First Steps**
+
 1. Use well-known, commonly used formats such as CSV, XLS or XML for the release of data.
 2. Adopt existing coding conventions for shared entities, such as countries e.g. ISO-3166 and EU NUTS codes. Publish information on the identifiers used for companies and make sure they are not entangled in IP e.g. DUNS numbers or behind a paywall.
 3. Publish additional information on the coding schemes used, such as functional or economic classifications, charts of account.
