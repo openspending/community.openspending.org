@@ -58,7 +58,7 @@ layout: help_frame
         <h3>Make your own budget monitoring site</h3>
         <ul>
             <li>Read the <a href="/blog/2012/02/16/thekit.html">intro to the Where Does My Money Go? Assembly Kit</a> and <a href="https://github.com/openspending/wheredoesmymoneygo.org/blob/master/README.rst">follow the intro</a>.</li>
-            <li>Experiment with our <a href="api.html">API</a> to power custom visualizations.</li>
+            <li><a href="api.html">Experiment with our API</a> to power custom visualizations.</li>
             <li>Browse <a href="http://github.com/openspending/openspendingjs">existing JavaScript apps</a> on GitHub.</li>
         </ul>
     </div>
@@ -124,7 +124,7 @@ layout: help_frame
             <li><a href="https://github.com/openspending/openspendingjs">openspendingjs</a> - JavaScript frontend code.</li>
             <li><a href="https://github.com/openspending/osvalidate">osvalidate</a> - model and data validation toolkit.</li>
             <li><a href="https://github.com/openspending/taxman">taxman</a> - personal tax calculation API.</li>
-            <li><a href="https://github.com/openspending/dotorg">dotorg</a> - content for mail site and the blog.</li>
+            <li><a href="https://github.com/openspending/dotorg">dotorg</a> - content for the site and the blog.</li>
 
         </ul>
     </div>

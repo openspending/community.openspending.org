@@ -14,18 +14,17 @@ enable users to create a custom model for their dataset.
 
 ### Overview
 
-A typical workflow for importing a dataset into OpenSpending will therefore 
-involve the following steps:
+A typical workflow for importing a dataset into OpenSpending will involve the following steps:
 
 * **Gather machine-readable data** from a trustworthy source, collecting metadata 
   such as the source, completeness and time covered in the dataset. 
 
 * **Convert the data** to a denormalized CSV file in which dates and numbers will be 
-  understood by OpenSpending. 
+  [understood by OpenSpending](data-cleansing.html). 
 
 * **Upload the data** to the web, e.g. to [datahub.io](http://datahub.io). 
 
-* **Create a dataset on OpenSpending** and add the address of the dataset as a new
+* **[Create a dataset](/datasets/new) on OpenSpending** and add the address of the dataset as a new
   data source. 
 
 * **Model the dataset** in OpenSpending to assign a logical role to each column in 
@@ -33,8 +32,8 @@ involve the following steps:
   amount and, optionally, the spender and recipient of a transaction are 
   specified.
 
-* **Load the data** or refine the data conversion based on the feedback given by the
-  platform about data consistency. 
+* **Load the data** or refine the data based on the feedback given by the
+  platform about the data's consistency ([missing or invalid values](data-cleansing.html)). 
 
 After the data has successfully loaded into OpenSpending, you can easily create 
 visualizations, run searches or build custom applications on top of the APIs 
