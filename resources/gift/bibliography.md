@@ -3,7 +3,7 @@ title: Bibliography
 layout: gift
 ---
 
-# Further Resources
+## Further Resources
 
 * *Avila, R. et al., 2010*. **Global mapping of technology for transparency and accountability New technologies**. Technology, 133(7), pp.189-204. Available at: <http://www.transparency-initiative.org/reports/global-mapping-of-technology-for-transparency-and-accountability>.
 

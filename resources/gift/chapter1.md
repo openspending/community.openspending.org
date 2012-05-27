@@ -42,7 +42,6 @@ We have selected case studies that are appropriate across:
 
 The research was a combination of qualitative interviews and direct inputs from case study representatives through online questionnaires. 
 
-
 ### Overview of Projects
 
 ![Project Overview](http://farm8.staticflickr.com/7237/7273947644_4799a7e720_o.png)

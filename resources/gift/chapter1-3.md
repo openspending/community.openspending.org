@@ -3,7 +3,7 @@ title: Highlights, Gaps & Recommendations
 layout: gift
 ---
 
-# Highlights, Gaps and Recommendations
+## Highlights, Gaps and Recommendations
 
 
 > “There’s a really interesting dynamic interaction between work on data availability and quality, and on building tools, visualisations etc. that work with it. Without good data it’s hard to use it for transparency and accountability, and to build good tools. But without tools to start using the data, it’s hard to discover where it needs to improve.”
@@ -12,11 +12,11 @@ layout: gift
 
 In this section, we summarise the key highlights from the various sections of the report. The highlights are arranged by section of the report and followed by a few notes on the ‘gaps’: areas which, in our opinion, merit further investigation or have thus far lacked resources or coordination to make happen. Each section concludes with ‘recommendations’: We have tried to stagger these suggestions, ranging from first steps, easily obtainable goals which are likely to be feasible in the short term, to ideal scenarios, desirable end goals, which will take more commitment and longer term planning.
 
-## Data Portals
+### Data Portals
 
 In this section we examine four government data portals from across the globe. The aim is to highlight government perspectives of making fiscal data available to the public. We focus on motivations for creating the service in the first instance, what features and data are offered, successes and outcomes, challenges and areas for improvement and what resources are needed to assemble and maintain such a site.
 
-### Highlights
+#### Highlights
 1. Data portals help address a fundamental requirement to make data accessible and discoverable once it has been made available: If data is spread across hundreds of websites and is difficult for people or machines to find, much of its value will be lost.
 2. The reason many government catalogues are link sites rather than data stores is often political, not just technical: Departments want to remain in charge of their data. Local departments often have to be encouraged to give up their data and be persuaded of the value of holding data centralised resource.
 3. Data portals can be useful both within and outside of government. Lack of information sharing affects civil servants and policy-makers -- not just those outside of government. This was highlighted in the OpenDataBC case study, where approximately one third of traffic to the citizen-facing data portal came from IP addresses within government.
@@ -26,12 +26,14 @@ In this section we examine four government data portals from across the globe. T
 6. Data portals could become of the most important technological tools of the government with regard to public spending monitoring and control.
 
 
-### Gaps
+#### Gaps
 1. Greater promotion of open-source tools for open data
 2. More explicit opportunities for citizen participation[g]. Some projects highlight good examples of how participation can fit within existing government workflows. See participation section for more, largely civil-society driven projects, which may provide inspiration - or source code - for some government-led initiatives promoting direct participation.
 
-### Recommendations
-#### First Steps
+#### Recommendations
+
+**First Steps**
+
 1. Fiscal data must be openly licensed and available in machine readable format in bulk. Be strict about licensing: make sure that all datasets on the portal are released under a proper [open license](http://OpenDefinition.org/).
 2. Engage with your user community both within and outside government. What data do they want, in what form? How can they report issues effectively and easily? [h]Have explicit and prominent contact links so that citizens can report issues. Even better, allow them to browse past issues or see the clarification which others have received in answer to other questions e.g. through online discussion forums.
 3. Engage with your provider community: civil servants and others working inside government who will be publishing data using the site. What can be done to make this process as easy and rewarding as possible?
@@ -39,14 +41,17 @@ In this section we examine four government data portals from across the globe. T
 5. Open tools for open data: use free and open-source tools wherever possible.
 
 
-#### Next Steps
+**Next Steps**
+
 1. Monitor data release, quality and usage and reporting this to relevant decision-makers becomes increasingly important as the project matures.
 
 
-## Finding and Using Data
+### Finding and Using Data
+
 In this section we asked the open spending data community - who come from a variety of backgrounds; research, technical, media etc., what fiscal data they require, what they want to do with it, and importantly, how easy it is to obtain and use. Through a series of structured surveys, we established the following:
 
-### Highlights
+#### Highlights
+
 1. Fiscal transparency is about more than budgets: Users will often require more than just basic budget information[i] to hold governments to account. Fiscal transparency should therefore not be limited to making these key budget documents accessible. Company and procurement data are common requests, as are audit reports and sub-national budget information.
 2. We received responses to the questionnaire from eighteen countries, spread around the globe. Six respondents mentioned that they used a government transparency portal to get their data, three used FOI requests, seven collected the data themselves from various sources and two said they had not been able to acquire the data.
 3. ‘The current status of open data’: Feedback was mixed. Some respondents praised the ease with which they acquired the data, but in the majority of cases, it was not easy to use the data that they had obtained. Barriers included:
@@ -56,64 +61,68 @@ In this section we asked the open spending data community - who come from a vari
 * Lack of supporting documentation to complement data releases.
 
 
-### Gaps
+#### Gaps
 1. Machine-readable data
 2. Data-management systems which ensure good-quality, consistent data
 3. Preservation of historical data
 
 
-### Recommendations
-#### First Steps
+#### Recommendations
+
+**First Steps**
+
 1. Make data available in a machine-readable, fully disaggregated form
 2. Provide some adequate basic information about the released data
 
+**Next steps**
 
-#### Next steps
 1. Provide of machine-readable forms of important datasets such as companies registries, contract awards and underlying tender specifications
 2. Provide structured, machine-readable information on budgeting process, e.g. important dates (publication dates, points in the process where feedback is possible), amendments and information on “who does what” in budgeting issues
 3. Provide comprehensive documentation[j] to accompany the documents i.e. read-me files explaining what a given dataset, data-dictionaries, glossaries
 4. Capacity-building, connecting policy and data processing/analysis expertise
 5. Promote data sharing of intermediate results e.g. integrated datasets produced by researchers, journalists, advocacy organisations and developers and the creation of data commons for processed output of re-use applications
 
+**Ideal scenario**
 
-#### Ideal scenario
 1. Open-source tools used within government for production and consumption of data
 1. Long-term archives of data on “neutral ground” i.e. not run by states nor advocacy groups, something like the Internet Archive for data
 2. Integration of budget, procurement, companies and contracts, metrics/evaluation and spending information.
 3. Real-time access to data via an API: Note that this is not relevant in all cases, e.g. for budget information that only changes once per year.
 
 
-## Standards for Fiscal Data
+### Standards for Fiscal Data
+
 This section examined whether having standards for fiscal data could provide a solution to some of the usability issues described by the users of the data in the previous section, by looking at two internationally recognised standards, IATI and XBRL. Accompanying this report are some Terms of Reference for the possible implementation of such a standard.
 
+#### Highlights
 
-### Highlights
 1. Standards enable a distributed rather than a centralised approach in data publication and use. No or very limited general fiscal data standards are currently in existence and in use.
 2. XBRL is establishing itself as a worldwide standard for accounting information and may grow into a standard for general ledger data. It is however complex and focused on the traditional accounting domain - especially around balance sheets - which may limit its relevance and benefits as a format for transparency purposes.
 
+#### Gaps
 
-### Gaps
 1. A standard for transaction level spending data.
 2. Lack of widely-adopted standards for entity identifiers, which would greatly facilitate merging and matching
 3. Tools to merge and annotate the data
 4. Training and quality assurance (validation) tools
 
 
-### Recommendations
-#### First Steps
+#### Recommendations
+
+**First Steps**
 1. Use well-known, commonly used formats such as CSV, XLS or XML for the release of data.
 2. Adopt existing coding conventions for shared entities, such as countries e.g. ISO-3166 and EU NUTS codes. Publish information on the identifiers used for companies and make sure they are not entangled in IP e.g. DUNS numbers or behind a paywall.
 3. Publish additional information on the coding schemes used, such as functional or economic classifications, charts of account.
 
+**Next Steps**
 
-#### Next Steps
 1. Enter standardisation process, beginning with core taxonomies. Additional work on aligning ‘spines’ of data e.g. mapping IATI data onto COFOG compliant budgets.
 2. Geocode data using re-usable, openly licensed coding services to avoid inclusion of proprietary IP.
 3. Begin using globally unique URIs for companies and other organizations, government bodies, and projects.
 4. Critically evaluate the options for re-using IATI or XBRL formats rather than creating new standards specifically for transaction level spending data. Explore options for format convertibility.
 
+**Ideal Scenario**
 
-#### Ideal Scenario
 A global spending data registry which lists spending data from around the world in a standard format - similar to the IATI registry for aid information.
 
 
