@@ -11,7 +11,6 @@ The following case studies all feature organisations who re-use the fiscal data 
 
 There are two main sections within this chapter:
 
-
 ### Presenting Data to the Public
 
 1. Grading Government Spending: Clearspending, Sunlight Foundation

@@ -3,10 +3,9 @@ title: Introductions
 layout: gift
 ---
 
-# What Can Governments Do to Help Social Auditors?
+## What Can Governments Do to Help Social Auditors?
 
 There are considerably fewer projects in this section than in the participatory budgeting section. The reasons for this are numerous, but projects often suffer from lack of timely and granular data from governments and the feedback mechanisms to enable citizens to make their voices heard. Promoting participation in government audits should not be perceived as a threat, but rather an opportunity: auditors and civil servants cannot be everywhere, but citizens can, and can provide feedback on issues as and when they perceive them, allowing the government to hone in on problem areas when they need to. A few suggestions:
-
 
 1. Collaborate: Support and partner with civil society projects which have already developed auditing tools and use the generated feedback for decision-making and public administration oversight.
 2. Implement Standards: Implement accepted data standards and formats in order to ensure the financial data can be categorised and connected back to specific entities and projects.
