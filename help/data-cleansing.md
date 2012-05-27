@@ -1,6 +1,9 @@
+---
+layout: help
+title: How do I clean my data?
+---
 
-How do I clean my data?
-=======================
+## How do I clean my data?
 
 Most data about government finance that can be acquired needs to be cleaned up in order to be used in an application such as OpenSpending. This is even more true of data that has been extracted from sources such as PDF files, or even paper documents. 
 
@@ -9,8 +12,7 @@ these errors are not obvious. The following list is therefore
 necessarily incomplete but it tries to provide a check list of frequent
 issues.
 
-Some common problems 
-''''''''''''''''''''
+### Some common problems 
 
 Some common patterns include the following:
 
@@ -32,17 +34,15 @@ Some common patterns include the following:
 
 * **Column names:** Wwhile this is not necessarily a problem in OpenSpending, some programs may stumble if your column names contain characters like spaces, slashes, quotes, percentage signs etc. Be safe and use conservative_column_names or CamelCasedNames.
 
-* **Consider privacy:** Remove unnecessary personal information such as telephone numbers or social security identifiers for individuals or information about third parties that may be in your source data.
+* **Consider privacy:** Remove unnecessary personal information such as telephone numbers or social security identifiers for individuals as well as information about third parties that may be in your source data.
 
-What is too much cleansing?
-'''''''''''''''''''''''''''
+### What is too much cleansing?
 
 There is a tension between two goals you may have in presenting the data: to show the data as-is, with little or no cleansing applied (i.e. to highlight both the content and the form in which it is  released) and to maximise the information and utility for the user. 
 
 OpenSpending advocates a moderate level of cleansing: remove obvious mistakes but don't overdo processing and oversimplify the structure in the process - you may end up inadvertently removing relevant information.
 
-Share the footprints
-''''''''''''''''''''
+### Share the footprints
 
 The key quality criterion of data cleansing is how well you document what you are doing. This should include both a human readable account of the cleansing you have performed and any scripts, databases or intermediate data dumps you produce while working with the data. Don't let the fact that what you have done may be a bit murky become an excuse for not publishing such information - it is the very reason you should.
 

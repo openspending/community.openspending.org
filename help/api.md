@@ -1,9 +1,26 @@
+---
+layout: help
+title: API Introduction
+---
 
-Summary and Conventions
-=======================
+## Guide for developers and designers
 
-Authentication
-''''''''''''''
+OpenSpending aims to be a simple-to-use platform for developers. The 
+site offers a variety of APIs that can be used to create new 
+visualizations, reports and other applications:
+
+### Using the OpenSpending API
+
+We want to help people answer complicated questions about government 
+finance. If you have used OpenSpending in some interesting way, 
+[please let us know](/about/contact.html) and we'll add your project
+to this section!
+
+* [Radial Bubble Tree](http://okfn.github.com/bubbletree/)
+
+### Conventions in the API
+
+#### Authentication
 
 Some actions in OpenSpending require authentication, particularly those 
 that write to the system or aim to access protected data (e.g. 
@@ -13,9 +30,7 @@ perform HTTP Basic-style authentication::
 
   Authorization: ApiKey f47ac10b-58cc-4372-a567-0e02b2c3d479
 
-
-JSON-P Callbacks
-''''''''''''''''
+#### JSON-P Callbacks
 
 All API calls that return JSON support JSON-P (JSON with padding). You can 
 add a ``?callback=foo`` parameter to any query to wrap the output in a 
@@ -44,8 +59,6 @@ tag:
     <script src="http://openspending.org/cra.json?callback=foo"></script>
 
 
-Cross Origin Resource Sharing
-'''''''''''''''''''''''''''''
+#### Cross Origin Resource Sharing
 
-The API does not yet support `CORS <http://code.google.com/p/html5security/wiki/CrossOriginRequestSecurity>`_ 
-but support will be added in the near future.
+The API does not yet support [CORS](http://code.google.com/p/html5security/wiki/CrossOriginRequestSecurity) but support will be added in the near future.

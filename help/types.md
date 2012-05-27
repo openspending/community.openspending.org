@@ -1,5 +1,9 @@
-Types of Information in OpenSpending
-====================================
+---
+layout: help
+title: Financial data types in OpenSpending
+---
+
+## Financial data types in OpenSpending
 
 OpenSpending is very flexible with regards to the financial data types 
 it supports. While there is a strong focus on government finance, this
@@ -8,8 +12,7 @@ be categorized as either transactional or budgetary data. The main
 difference between these types from a technical point of view is level
 of granularity.
 
-Budgetary data
---------------
+### Budgetary data
 
 In a budget, expenditures and incomes will be aggregated into categories
 of expenditures or income, to aid the reader in understanding the budget.
@@ -33,8 +36,7 @@ information is often based on aggregated data and statistical estimates,
 much of the literature on the publication of statistical information
 applies to it.
 
-Transactional spending data
----------------------------
+### Transactional spending data
 
 Typically transactional level data - we don’t expect spending data to
 include aggregate information.
@@ -49,8 +51,7 @@ on government grants, commitments and actual expenditure. Reporting
 data about spending that has been further aggregated will demand different
 modes of analysis and should instead be treated as budget data.
 
-Public procurement data
------------------------
+### Public procurement data
 
 Another related type of data deals with the public procurement procedures.
 Public Procurement data is data about public tenders: what was tendered,
@@ -58,8 +59,7 @@ for how much, and who has won the tender. As such, public procurement data
 can be seen as a subset of Spending Data, because it also reflects the
 actions, instead of the plans, of an administration. 
 
-Other types of data
-'''''''''''''''''''
+### Other types of data
 
 Of course, we're actively looking to support further types of financial
 information, such as corporate balance sheets and cash flow statements.

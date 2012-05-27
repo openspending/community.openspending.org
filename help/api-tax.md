@@ -1,3 +1,7 @@
+---
+layout: help
+title: Tax share API
+---
 
 Tax share API
 =============

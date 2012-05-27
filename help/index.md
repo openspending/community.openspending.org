@@ -1,6 +1,6 @@
 ---
 title: Using OpenSpending
-layout: help
+layout: help_frame
 ---
 
 <h2>OpenSpending.org - an open platform for government expenditure tracking</h2>
@@ -10,7 +10,7 @@ layout: help
             OpenSpending offers an easy system to upload, explore and 
             share public finance data - such as budgets or expenditure 
             databases.
-            While we offer search and visualization features to easily slice 
+            While we offer search and visualization features to slice 
             and dice financial data, our API is even more powerful: it 
             enables anyone to easily create their own visualizations and budget
             apps, without building their own backend.
@@ -45,9 +45,10 @@ layout: help
         <img src="images/upload_teaser.png" />
         <h3>Upload and share a financial dataset</h3>
         <ul>
-            <li>Get an overview of the steps required to upload a dataset.</li>
-            <li>Learn how to format and prepare your data and find help
-                with some common problems.</li>
+            <li>Get an <a href="data-loading.html">overview of the steps</a> 
+                required to upload a dataset.</li>
+            <li>Learn <a href="data-cleansing.html">how to format and prepare
+                your data</a> and find help with some common problems.</li>
             <li><a href="/datasets/new">Create a custom dataset</a> once you 
                 have some structured data.</li>
         </ul>
@@ -57,12 +58,12 @@ layout: help
         <h3>Make your own budget monitoring site</h3>
         <ul>
             <li>Read the <a href="/blog/2012/02/16/thekit.html">intro to the Where Does My Money Go? Assembly Kit</a> and <a href="https://github.com/openspending/wheredoesmymoneygo.org/blob/master/README.rst">follow the intro</a>.</li>
-            <li>Experiment with our REST API to power custom visualizations.</li>
+            <li>Experiment with our <a href="api.html">API</a> to power custom visualizations.</li>
             <li>Browse <a href="http://github.com/openspending/openspendingjs">existing JavaScript apps</a> on GitHub.</li>
         </ul>
     </div>
 </div>
-
+<br/>
 <div class="row">
     <div class="span4">
         <h3>... and don't forget to:</h3>
@@ -71,7 +72,7 @@ layout: help
         <ul>
             <li><a href="/about/faq.html">Read the Frequently Asked Questions</a> to catch up on the 
                 background.</li>
-            <li><a href="lists.okfn.org/mailman/listinfo/openspending">Join our mailing list</a>
+            <li><a href="http://lists.okfn.org/mailman/listinfo/openspending">Join our mailing list</a>
                 to discuss with budget enthusiasts from around the globe.</li>
             <li><a href="https://github.com/openspending/openspending/issues">Report any technical issues</a> you may experience while using the 
                 site.</li>

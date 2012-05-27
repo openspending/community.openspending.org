@@ -1,5 +1,9 @@
-How can I extend my data?
-=========================
+---
+layout: help
+title: How can I extend my data?
+---
+
+## How can I extend my data?
 
 In order for your dataset to be more easily accessible to users, it often makes sense to add in 
 additional data from other sources. For example, in a dataset of European tender award notices the 
@@ -7,9 +11,7 @@ CPV (common procurement vocabulary) code for each contract may be given. While t
 not very helpful, adding in the EU's descriptions of each code will give visitors of your dataset a 
 clearer idea of what the money is being spent on.
 
-
-Common merging criteria
-'''''''''''''''''''''''
+### Common merging criteria
 
 Here are some ideas for extending your data:
 
@@ -35,12 +37,10 @@ Here are some ideas for extending your data:
   geo-coordinates for projects.
 
 
-Tool options for merging datasets
-'''''''''''''''''''''''''''''''''
+### Tool options for merging datasets
 
 Some of these proposals require you to merge two or more spreadsheets. While this can be done in 
-newer versions of Microsoft Excel and LibreOffice, data wrangling tools such as Google Refine (and its 
-sadly underdocumented cell.cross() function) and Google Fusion Tables can be very useful in this 
+newer versions of Microsoft Excel and LibreOffice, data wrangling tools such as Google Refine (and its sadly underdocumented cell.cross() function) and Google Fusion Tables can be very useful in this 
 regard. Depending on the amount of processing that you need to do, it may also make sense to import 
 your data into a relational database such as SQLite. While there are visual frontends for these 
 databases, using them to merge datasets will ususally require you to be familiar with SQL.

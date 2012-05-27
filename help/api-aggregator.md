@@ -1,3 +1,8 @@
+---
+layout: help
+title: Aggregation API
+---
+
 Aggregation API
 ===============
 

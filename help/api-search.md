@@ -1,3 +1,7 @@
+---
+layout: help
+title: Search API
+---
 
 Search API
 ==========

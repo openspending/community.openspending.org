@@ -1,13 +1,16 @@
-How does OpenSpending store data?
-=================================
+---
+layout: help
+title: How does OpenSpending store data?
+---
+
+## How does OpenSpending store data?
 
 OpenSpending maintains a collection of **datasets**, each of which 
 represents spending or budgetary data from a separate source that 
 has its own data model. Inside each dataset, a set of **entries** are 
 stored to represent individual transactions. 
 
-Measures and Dimensions
-'''''''''''''''''''''''
+### Measures and Dimensions
 
 Each entry has several properties, such as the amount spent, a time 
 stamp and several other dimensions to identify the data. 
@@ -30,9 +33,7 @@ label as well as a color used to represent it in visualizations. A special
 type of nested structures is used to represent dates in a way that lends 
 itself to easy aggregation.
 
-
-Slicing and Dicing the Data
-'''''''''''''''''''''''''''
+### Slicing and Dicing the Data
 
 This storage structure is often referred to as a data cube, which represents
 a multi-dimensional spreadsheet. When working with the cube, filters on 

@@ -1,3 +1,7 @@
+---
+layout: help
+title: REST resources
+---
 
 REST resources
 ==============
