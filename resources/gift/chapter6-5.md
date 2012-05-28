@@ -5,10 +5,53 @@ layout: gift
 
 ## Balance your City’s Budget : Citizen Budget, Open North
 
-* *Country*: Canada
-* *Scope*: Local government
-* *Users/Audiences*: All levels of government
-* *URL*: http://citizenbudget.com/
+<table class="iconmatrix">
+    <tr class="icons">
+        <th class="inner">Fiscal Scope</th>
+        <th class="inner">Project Aims</th>
+        <th>Technology</th>
+    </tr>
+    <tr class="iconbar">
+        <td class="inner">
+            <img src="images/revenue.png" class="" title="Revenue Side" />
+            <img src="images/spending.png" class="" title="Spending Side" />
+            <img src="images/invisible_money.png" class="no" title="Off-Budget" />
+        </td>
+        <td class="inner">
+            <img src="images/upload.png" class="no" title="Publish Better Data" />
+            <img src="images/educate.png" class="no" title="Educate Citizens" />
+            <img src="images/citizen.png" class="" title="Facilitate Direct Participation"/>
+            <img src="images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
+            <img src="images/data_analysis.png" class="" title="Analyse and Understand Data" />
+        </td>
+        <td>
+            <img src="images/mobile.png" class="no" title="Mobile Technology" />
+            <img src="images/web.png" class="" title="Web-based Technology" />
+            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="no" title="Data Visualisation and Maps" />
+            <img src="images/standards.png" class="no" title="Formats and Standards" />
+            <img src="images/social_media.png" class="" title="Social Media" />
+            <img src="images/radio.png" class="no" title="Radio" />
+        </td>
+    </tr>
+    <tr>
+        <th class="inner">Geographical Coverage</th>
+        <td colspan="2">Canada</td>
+    </tr>
+    <tr>
+	<tr>
+	        <th class="inner">Scope</th>
+	        <td colspan="2">Local government</td>
+	</tr>
+	    <tr>
+        <th class="inner">URL</th>
+        <td colspan="2"><a href="http://citizenbudget.com/">http://citizenbudget.com/</a></td>
+    </tr>
+    <tr>
+        <th class="inner">Users/Audiences</th>
+        <td colspan="2">All levels of government</td>
+    </tr>
+</table>
 
 <img alt="Citizen Budget" src="http://farm8.staticflickr.com/7229/7272472996_6013c841d1_o.png" class="screenshot" />
 
