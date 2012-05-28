@@ -116,4 +116,4 @@ Getting organizations to share their aid data in a sustainable manner and to ins
 
 Adapting organisational processes to cope with change management,  and system adaptation to enable organisations to start publishing fluid, planning stage information, was difficult for organisations that were accustomed to more statistical reporting (DAC and CRS) and required more work than was initially expected.
 
-<p style="text-align: right">Thanks for input from Tim Davies (Practical Participation), Michael Roberts (Acclar) and Mark Brough (Publish What You Fund)</p>
+<p style="text-align: right">Thanks for input from Tim Davies, Michael Roberts and Mark Brough </p>
