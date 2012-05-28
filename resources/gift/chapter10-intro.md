@@ -11,9 +11,9 @@ The appendix to this report is a consolidated list of projects extracted from th
 We would like to encourage users to help keep this list up to date - if you would like to add a project, please fill in the online form: http://bit.ly/TTAPF-projects-form
 
 The following page contain some thoughts on additional tools and methods, which can be used to further the aims of fiscal transparency:
-Reputations at risk: Conflict of interest tracking
-Collecting Feedback Using Telephones - The Punjab Model
-Mobile Money: Fighting Corruption
+* Reputations at risk: Conflict of interest tracking
+* Collecting Feedback Using Telephones - The Punjab Model
+* Mobile Money: Fighting Corruption
 
 
 ## Reputations at Risk: Conflict of Interest Tracking
@@ -38,8 +38,8 @@ Background
 In Jhang in Southern Punjab, a man called Zubair Bhatti, the District Coordination Officer - lead civil servant - developed a simple model to combat corruption in interactions between the citizen and the state. The project was called the Jhang model. It started off by Zubair asking everyone in his office who had transactions with the public to take their phone details. These might be the details of people who were renewing a driving license, paying tax, registering a property etc.  He would then call four or five people each day and ask them how their interactions with his staff were.
 
 Since this point the Jhang model has been scaled up to a province wide programme that is now called the Punjab Model. This approach has several advantages over other uses of communications technology:
-Monitoring can be stepped up or scaled back depending on time resources or reports of corruption. Civil servants are aware that they can be checked up on at any time and hence, should be less likely to take bribes.
-Contact is on an individual basis - contrast with example of mass texting of everyone in a catchment area under an antenna in the Participatory Budgeting in the DRC example.
+* Monitoring can be stepped up or scaled back depending on time resources or reports of corruption. Civil servants are aware that they can be checked up on at any time and hence, should be less likely to take bribes.
+* Contact is on an individual basis - contrast with example of mass texting of everyone in a catchment area under an antenna in the Participatory Budgeting in the DRC example.
 Voice-based. Suitable for interaction with audience with low rates of literacy.
 
 For more information see: http://www.punjabmodel.gov.pk/ as well as this article by Alex Gilchrist[1].
