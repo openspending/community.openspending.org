@@ -66,7 +66,7 @@ layout: gift
 <table cellpadding="3">
 <tr>
 
-<td><img alt="Mobile Technology" src="http://farm8.staticflickr.com/7104/7285692036_e162601e31_t.jpg"width="50" height="50"/>
+<td><img alt="Mobile Technology" src="http://farm8.staticflickr.com/7104/7285692036_e162601e31_t.jpg"width="25" height="25"/>
 </td>
 <td>
 <img alt="Web-based Technology" src="http://farm8.staticflickr.com/7225/7285691644_3bdc21a090_t.jpg"width="50" height="50"/>
