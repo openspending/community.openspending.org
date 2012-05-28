@@ -24,8 +24,7 @@ layout: gift
     </tr>
     <tr>
         <th class="inner">Stage</th>
-        <td colspan="2">A pilot project in the process of getting funding and testing technologies 
-Estimated project cost: 400,000 USD (including an elaborate survey to measure corruption)</td>
+        <td colspan="2">Pilot </td>
     </tr>
 </table>
 
@@ -61,6 +60,10 @@ A planned elaborate survey would compare villages where the technology has been 
 
 ### Issues with the Data 
 
-Much of the data is in printed format and should be digitised in order to conduct the project. 
+Much of the data is in printed format and should be digitised in order to conduct the project.
+
+## Project Resources
+
+Estimated project cost: 400,000 USD (including an elaborate survey to measure corruption)
 
 <p style="text-align: right">Thanks to Vivek Srinivasan</p>
