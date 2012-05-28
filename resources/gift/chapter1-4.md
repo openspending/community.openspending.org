@@ -6,7 +6,7 @@ layout: gift
 
 ## Fiscal Scope
 
-<table cellpadding="10">
+<table cellpadding="3">
 <tr>
 
 <td><img alt="Spending Side" src="http://farm8.staticflickr.com/7088/7285692280_90b76e026b_t.jpg"
@@ -30,7 +30,7 @@ layout: gift
 
 ## Aims of the Project
 
-<table cellpadding="10">
+<table cellpadding="3">
 <tr>
 
 <td><img alt="Publish Better Data" src="http://farm8.staticflickr.com/7211/7285692458_bb8a771171_t.jpg"width="50" height="50"/>
@@ -63,7 +63,7 @@ layout: gift
 
 ## Technology
 
-<table cellpadding="10">
+<table cellpadding="3">
 <tr>
 
 <td><img alt="Mobile Technology" src="http://farm8.staticflickr.com/7104/7285692036_e162601e31_t.jpg"width="50" height="50"/>
