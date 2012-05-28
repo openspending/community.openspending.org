@@ -5,6 +5,55 @@ layout: gift
 
 ## Chapter 8 - Putting the Parts Together - Getting off-budget on-budget OpenSpending & Publish What You Fund 
 
+<table class="iconmatrix">
+    <tr class="icons">
+        <th class="inner">Fiscal Scope</th>
+        <th class="inner">Project Aims</th>
+        <th>Technology</th>
+    </tr>
+    <tr class="iconbar">
+        <td class="inner">
+            <img src="images/revenue.png" class="" title="Revenue Side" />
+            <img src="images/spending.png" class="" title="Spending Side" />
+            <img src="images/invisible_money.png" class="" title="Off-Budget" />
+        </td>
+        <td class="inner">
+            <img src="images/upload.png" class="" title="Publish Better Data" />
+            <img src="images/educate.png" class="" title="Educate Citizens" />
+            <img src="images/citizen.png" class="" title="Facilitate Direct Participation"/>
+            <img src="images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
+            <img src="images/data_analysis.png" class="" title="Analyse and Understand Data" />
+        </td>
+        <td>
+            <img src="images/mobile.png" class="no" title="Mobile Technology" />
+            <img src="images/web.png" class="" title="Web-based Technology" />
+            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="" title="Data Visualisation and Maps" />
+            <img src="images/standards.png" class="" title="Formats and Standards" />
+            <img src="images/social_media.png" class="no" title="Social Media" />
+            <img src="images/radio.png" class="no" title="Radio" />
+        </td>
+    </tr>
+    <tr>
+        <th class="inner">Geographical Coverage</th>
+        <td colspan="2">Uganda (could be re-used in other countries)</td>
+    </tr>
+    <tr>
+	<tr>
+	        <th class="inner">Scope</th>
+	        <td colspan="2"> central government and international</td>
+	</tr>
+    <tr>
+        <th class="inner">URL</th>
+        <td colspan="2"><a href="http://openspending.org">http://openspending.org</a>(OpenSpending site), <a href="http://bitly.com/uganda-example">http://bitly.com/uganda-example</a> 
+	</td>
+    </tr>
+    <tr>
+        <th class="inner">Users/Audiences</th>
+        <td colspan="2">Donors, recipient country governments, citizens, NGOs. </td>
+    </tr>
+</table>
+
 <img alt="OS + PWYF" src="http://farm8.staticflickr.com/7092/7272477056_b1cf5eafd2_o.jpg" class="screenshot" />
 
 ### Background 
