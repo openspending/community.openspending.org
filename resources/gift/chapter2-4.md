@@ -40,7 +40,7 @@ layout: gift
     </tr>
     <tr>
         <th class="inner">Web Address</th>
-        <td colspan="2"><a href="http://www.digitalbrain.go.kr">http://www.portaltransparencia.gov.br/</a></td>
+        <td colspan="2"><a href="www.portaltransparencia.gov.br">http://www.portaltransparencia.gov.br/</a></td>
     </tr>
 </table>
 
