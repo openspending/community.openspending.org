@@ -22,8 +22,9 @@ Respondents were asked 6 questions:
 
 The [section below](chapter3-1.html) contains quotes and in place paraphrased responses from some of the participants interviewed. 
 
-[1]  Pre-Budget Statement, Executive’s Budget Proposal, Enacted Budget, Citizen’s Budget, (Supplementary budgets), In-Year Reports (Monthly / quarterly), Mid Year Review, Year End Report, Audit Reports.
-
+<div class='footnote'>
+    <sup>[1]</sup> Pre-Budget Statement, Executive’s Budget Proposal, Enacted Budget, Citizen’s Budget, (Supplementary budgets), In-Year Reports (Monthly / quarterly), Mid Year Review, Year End Report, Audit Reports.
+</div>
 
 
 

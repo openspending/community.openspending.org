@@ -22,10 +22,12 @@ The statements below all come from re-users of fiscal data outside of government
 ### Australia: Monitoring industry influence on government 
 
 > Problems with the Data: 
-1. Not openly licensed by default 
-2. Not good data access - we have to get weekly exports every Sunday in CSV and after 2 years they disappear from the data store, so if a project was starting today they could not get all the data. There is no programmable API to access these exports, just a web page. 
-3. No validation/verification - having to build up the database week by week means we could lose transactions and not notice 
-4. Company data is closed - In Australia, the company register is pay-per-use so we cannot afford to find out who the directors of 300,000 different records are.
+>
+> 1. Not openly licensed by default 
+>
+> 2. Not good data access - we have to get weekly exports every Sunday in CSV and after 2 years they disappear from the data store, so if a project was starting today they could not get all the data. There is no programmable API to access these exports, just a web page. 
+> 3. No validation/verification - having to build up the database week by week means we could lose transactions and not notice 
+> 4. Company data is closed - In Australia, the company register is pay-per-use so we cannot afford to find out who the directors of 300,000 different records are.
 
 ### Bulgaria: Developing a visualisation of the Bulgarian budget using OpenSpending.org 
 
