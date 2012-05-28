@@ -6,18 +6,59 @@ layout: gift
 ## Mobile-Enhanced Participatory Budgeting : the World Bank
 
 <table class="iconmatrix">
+    <tr class="icons">
+        <th class="inner">Fiscal Scope</th>
+        <th class="inner">Project Aims</th>
+        <th>Technology</th>
+    </tr>
+    <tr class="iconbar">
+        <td class="inner">
+            <img src="images/revenue.png" class="no" title="Revenue Side" />
+            <img src="images/spending.png" class="" title="Spending Side" />
+            <img src="images/invisible_money.png" class="no" title="Off-Budget" />
+        </td>
+        <td class="inner">
+            <img src="images/upload.png" class="no" title="Publish Better Data" />
+            <img src="images/educate.png" class="" title="Educate Citizens" />
+            <img src="images/citizen.png" class="" title="Facilitate Direct Participation"/>
+            <img src="images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
+            <img src="images/data_analysis.png" class="" title="Analyse and Understand Data" />
+        </td>
+        <td>
+            <img src="images/mobile.png" class="" title="Mobile Technology" />
+            <img src="images/web.png" class="no" title="Web-based Technology" />
+            <img src="images/offline.png" class="" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="no" title="Data Visualisation and Maps" />
+            <img src="images/standards.png" class="no" title="Formats and Standards" />
+            <img src="images/social_media.png" class="no" title="Social Media" />
+            <img src="images/radio.png" class="no" title="Radio" />
+        </td>
+    </tr>
     <tr>
-        <th class="inner">Geographic Scope</th>
+        <th class="inner">Geographical Coverage</th>
         <td colspan="2">Democratic Republic of Congo (also been done in Dominican Republic)
 Mobile Voting has also taken place without the Bank in: Ipatinga Brazil, La Plata (Argentina), Belo Horizonte (Brazil)</td>
     </tr>
     <tr>
-        <th class="inner">Intended audience</th>
+	<tr>
+	        <th class="inner">Scope</th>
+	        <td colspan="2">Local government</td>
+	</tr>
+	    <tr>
+        <th class="inner">URL</th>
+        <td colspan="2"><a href="http://citizenbudget.com/">http://citizenbudget.com/</a></td>
+    </tr>
+    <tr>
+        <th class="inner">Users/Audiences</th>
         <td colspan="2">Individual citizens</td>
     </tr>
-</table>
+</tr>
+<tr>
+    <th class="inner">Source Document</th>
+    <td colspan="2">This section contains excerpts from [Estefan and Weber’s short article](http://bit.ly/ITseQN)</td>
+</tr>
 
-*This section contains excerpts from [Estefan and Weber’s short article](http://bit.ly/ITseQN)*
+</table>
 
 ### Background
 
