@@ -1,0 +1,42 @@
+---
+layout: meta
+title: Get involved
+---
+
+OpenSpending could not exist without the time which volunteers put into it. Anyone is welcome to get involved and for the entire spectrum from school child to data geek, there are plenty of ways that you can get involved. 
+
+Have a look at the suggestions below, and let us know how you would like to get involved by [registering here](http://openspending.org/getinvolved) and we'll be happy to help you get started. 
+
+Of course, if you are happy to, you can dive straight in and introduce yourself on the [mailing list](http://lists.okfn.org/mailman/listinfo/openspending)
+
+## Get data you care about into OpenSpending
+
+Just like with OpenStreetMap, where anyone can map their local area, with OpenSpending, you can map money. Find local or national data that concerns you and [load it into OpenSpending](http://openspending.org/datasets/new). 
+
+## Help others get data into OpenSpending
+
+Already got some experience loading data into OpenSpending? Help others who are new to OpenSpending to find their feet and work with their data. Either dive in directly and answer questions on the [mailing list](http://lists.okfn.org/mailman/listinfo/openspending), or sign up as an official [**data wrangler**](https://spreadsheets.google.com/spreadsheet/viewform?formkey=dHJwZ08tWVA4ZWhSdHlmMHZyaThpcVE6MQ) and we'll happily provide any training and support you need.
+
+## Journalist? Got an interesting story about spending? - let us know!
+
+We'd love to hear your 'behind the news' story and possibly feature it on the blog. As part of the Spending Stories project - we're also able to support a number of investigative journalists in researching and writing their stories. If you are interested in working on a Spending Story, please get in touch!  
+
+## Join up the dots
+
+
+
+
+
+
+## Contribute to the platform
+
+Of course, OpenSpending is an [open source](http://www.gnu.org/licenses/agpl.html) 
+project and we aim to include contributions into production as quickly 
+as possible. 
+
+We work as a distributed team and most discussions take place either on the
+[openspending-dev](http://lists.okfn.org/mailman/listinfo/openspending-dev)
+mailing list or on IRC (``#openspending`` on FreeNode).
+
+If you feel like hacking core, check out the [GitHub organization](https://github.com/openspending) to see what is going on and where help is needed.
+
