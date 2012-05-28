@@ -5,6 +5,8 @@ layout: gift
 
 ## Out of the Box Solution: CKAN in Data.Gov.UK
 
+![Icons Data.Gov.Uk](http://farm8.staticflickr.com/7234/7287290496_cda38538cf_o.jpg)
+
 * *Geographic scope*: United Kingdom
 * *URL*: <http://data.gov.uk/>
 
@@ -98,3 +100,4 @@ The project was initiated in September 2009 with a go-live data 1-month later fo
         <td>Since Jan 2010</td>
         <td>3-6</td>
 </table>
+
