@@ -5,10 +5,44 @@ layout: gift
 
 ## DataBC Open Data Portal of British Columbia
 
-![Icons BC](http://farm9.staticflickr.com/8167/7287290224_2f892164f3_o.jpg)
-
-* *Country*: Canada 
-* *URL*: <http://www.data.gov.bc.ca/>
+<table class="iconmatrix">
+    <tr class="icons">
+        <th class="inner">Fiscal Scope</th>
+        <th class="inner">Project Aims</th>
+        <th>Technology</th>
+    </tr>
+    <tr class="iconbar">
+        <td class="inner">
+            <img src="images/revenue.png" class="no" title="Revenue Side" />
+            <img src="images/spending.png" class="" title="Spending Side" />
+            <img src="images/invisible_money.png" class="no" title="Off-Budget" />
+        </td>
+        <td class="inner">
+            <img src="images/upload.png" class="" title="Publish Better Data" />
+            <img src="images/educate.png" class="no" title="Educate Citizens" />
+            <img src="images/citizen.png" class="no" title="Facilitate Direct Participation"/>
+            <img src="images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
+            <img src="images/data_analysis.png" class="no" title="Analyse and Understand Data" />
+        </td>
+        <td>
+            <img src="images/mobile.png" class="no" title="Mobile Technology" />
+            <img src="images/web.png" class="" title="Web-based Technology" />
+            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="no" title="Data Visualisation and Maps" />
+            <img src="images/standards.png" class="no" title="Formats and Standards" />
+            <img src="images/social_media.png" class="" title="Social Media" />
+            <img src="images/radio.png" class="no" title="Radio" />
+        </td>
+    </tr>
+    <tr>
+        <th class="inner">Geographic Scope</th>
+        <td colspan="2">Canada</td>
+    </tr>
+    <tr>
+        <th class="inner">Web Address</th>
+        <td colspan="2"><a href="http://www.data.gov.bc.ca/">www.data.gov.bc.ca</a></td>
+    </tr>
+</table>
 
 <img alt="DataBC" src="http://farm8.staticflickr.com/7240/7272465600_0b9d7f60f5_o.png" class="screenshot" />
 
