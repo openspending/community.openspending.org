@@ -64,6 +64,10 @@ Possible further areas for exploration and development of the platform:
 3. Comparisons, e.g. Spending relative to other districts. Ability to see the context of your current view: (what filters have you selected?). 
 4. Feedback and comment features, ability to annotate data points as well as collections / facets of the data e.g. to show absence of data. 
 
-[1] ‘COFOG, which was designed specifically to describe the activities government undertakes, is an appropriate starting point to examine alignment between recipient budget classifications and existing international aid classifications. COFOG represents country sector and administrative classifications fairly well at aggregated levels, but at the lower levels tends not to disaggregate the functions of government in the same ways or to the same degree that many governments do‘ (Moon and Mills, 2010).
-
 <p style="text-align: right">Thanks for input from Mark Brough</p>
+
+<div class='footnote'>
+    <sup>[1]</sup>COFOG, which was designed specifically to describe the activities government undertakes, is an appropriate starting point to examine alignment between recipient budget classifications and existing international aid classifications. COFOG represents country sector and administrative classifications fairly well at aggregated levels, but at the lower levels tends not to disaggregate the functions of government in the same ways or to the same degree that many governments do‘ (Moon and Mills, 2010).
+</div>
+
+
