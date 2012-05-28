@@ -39,7 +39,7 @@ layout: gift
         <td colspan="2">United Kingdom</td>
     </tr>
     <tr>
-        <th class="inner">Web Address</th>
+        <th class="inner">URL</th>
         <td colspan="2"><a href="http://data.gov.uk/">data.gov.uk</a></td>
     </tr>
 </table>

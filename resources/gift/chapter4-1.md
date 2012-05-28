@@ -39,7 +39,7 @@ layout: gift
         <td colspan="2">International</td>
     </tr>
     <tr>
-        <th class="inner">Web Address</th>
+        <th class="inner">URL</th>
         <td colspan="2"><a href="http://www.aidtransparency.net">http://www.aidtransparency.net</a></td>
     </tr>
     <tr>

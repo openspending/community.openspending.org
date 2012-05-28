@@ -5,10 +5,52 @@ layout: gift
 
 ## Government of Sierra Leone GoSL: Online Repository for Ministry of Mines and Mineral Resources 
 
-* *Country*: Sierra Leone 
-* *URL*: <http://sierraleone.revenuesystems.org/>
-* *Costs*: The mineral rights administrative system and the online repository have been implemented over a period of two years, costing approximately EUR 400,000 (including training, support and equipment for an administrative system) 
-* *Project executed by*: Revenue Development Foundation (RDF) 
+<table class="iconmatrix">
+    <tr class="icons">
+        <th class="inner">Fiscal Scope</th>
+        <th class="inner">Project Aims</th>
+        <th>Technology</th>
+    </tr>
+    <tr class="iconbar">
+        <td class="inner">
+            <img src="images/revenue.png" class="" title="Revenue Side" />
+            <img src="images/spending.png" class="no" title="Spending Side" />
+            <img src="images/invisible_money.png" class="" title="Off-Budget" />
+        </td>
+        <td class="inner">
+            <img src="images/upload.png" class="" title="Publish Better Data" />
+            <img src="images/educate.png" class="no" title="Educate Citizens" />
+            <img src="images/citizen.png" class="no" title="Facilitate Direct Participation"/>
+            <img src="images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
+            <img src="images/data_analysis.png" class="" title="Analyse and Understand Data" />
+        </td>
+        <td>
+            <img src="images/mobile.png" class="no" title="Mobile Technology" />
+            <img src="images/web.png" class="" title="Web-based Technology" />
+            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="no" title="Data Visualisation and Maps" />
+            <img src="images/standards.png" class="" title="Formats and Standards" />
+            <img src="images/social_media.png" class="no" title="Social Media" />
+            <img src="images/radio.png" class="no" title="Radio" />
+        </td>
+    </tr>
+    <tr>
+        <th class="inner">Country</th>
+        <td colspan="2">Sierra Leone</td>
+    </tr>
+    <tr>
+        <th class="inner">URL</th>
+        <td colspan="2"><a href="http://sierraleone.revenuesystems.org/">http://sierraleone.revenuesystems.org/</a></td>
+    </tr>
+    <tr>
+        <th class="inner">Costs</th>
+        <td colspan="2">The mineral rights administrative system and the online repository have been implemented over a period of two years, costing approximately EUR 400,000 (including training, support and equipment for an administrative system)</td>
+    </tr>
+    <tr>
+        <th class="inner">Project executed by</th>
+        <td colspan="2">Revenue Development Foundation (RDF) </td>
+    </tr>
+</table>
 
 <img alt="GoSL" src="http://farm8.staticflickr.com/7239/7272473284_c043da6810_o.png" class="screenshot" />
 

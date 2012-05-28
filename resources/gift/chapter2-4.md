@@ -39,7 +39,7 @@ layout: gift
         <td colspan="2">Brazil</td>
     </tr>
     <tr>
-        <th class="inner">Web Address</th>
+        <th class="inner">URL</th>
         <td colspan="2"><a href="www.portaltransparencia.gov.br">http://www.portaltransparencia.gov.br/</a></td>
     </tr>
 </table>

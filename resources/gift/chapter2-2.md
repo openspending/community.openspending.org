@@ -39,7 +39,7 @@ layout: gift
         <td colspan="2">Canada</td>
     </tr>
     <tr>
-        <th class="inner">Web Address</th>
+        <th class="inner">URL</th>
         <td colspan="2"><a href="http://www.data.gov.bc.ca/">www.data.gov.bc.ca</a></td>
     </tr>
 </table>

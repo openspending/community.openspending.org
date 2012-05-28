@@ -39,7 +39,7 @@ layout: gift
         <td colspan="2">Republic of Korea</td>
     </tr>
     <tr>
-        <th class="inner">Web Address</th>
+        <th class="inner">URL</th>
         <td colspan="2"><a href="http://www.digitalbrain.go.kr">www.digitalbrain.go.kr</a></td>
     </tr>
     <tr>
