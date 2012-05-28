@@ -3,12 +3,55 @@ title: Revenues from Oil and Mining - Revenue Watch
 layout: gift
 ---
 
-## Revenues from Oil and Mining : Revenue Watch 
+## Revenues from Oil and Mining: Revenue Watch 
 
-* *Coverage*: Global-level 
-* *Scope*: National governments 
-* *URL*: http://www.revenuewatch.org/ 
-* *Users/Audiences*: Civil society, national governments, international institutions, researchers 
+<table class="iconmatrix">
+    <tr class="icons">
+        <th class="inner">Fiscal Scope</th>
+        <th class="inner">Project Aims</th>
+        <th>Technology</th>
+    </tr>
+    <tr class="iconbar">
+        <td class="inner">
+            <img src="images/revenue.png" class="" title="Revenue Side" />
+            <img src="images/spending.png" class="no" title="Spending Side" />
+            <img src="images/invisible_money.png" class="" title="Off-Budget" />
+        </td>
+        <td class="inner">
+            <img src="images/upload.png" class="" title="Publish Better Data" />
+            <img src="images/educate.png" class="no" title="Educate Citizens" />
+            <img src="images/citizen.png" class="no" title="Facilitate Direct Participation"/>
+            <img src="images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
+            <img src="images/data_analysis.png" class="" title="Analyse and Understand Data" />
+        </td>
+        <td>
+            <img src="images/mobile.png" class="no" title="Mobile Technology" />
+            <img src="images/web.png" class="" title="Web-based Technology" />
+            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="no" title="Data Visualisation and Maps" />
+            <img src="images/standards.png" class="" title="Formats and Standards" />
+            <img src="images/social_media.png" class="no" title="Social Media" />
+            <img src="images/radio.png" class="no" title="Radio" />
+        </td>
+    </tr>
+    <tr>
+        <th class="inner">Coverage</th>
+        <td colspan="2">Global-level</td>
+    </tr>
+    <tr>
+	<tr>
+	        <th class="inner">Scope</th>
+	        <td colspan="2">National governments</td>
+	</tr>
+	    <tr>
+        <th class="inner">URL</th>
+        <td colspan="2"><a href="http://www.revenuewatch.org/ ">http://www.revenuewatch.org/</a></td>
+    </tr>
+    <tr>
+        <th class="inner">Users/Audiences</th>
+        <td colspan="2">Civil society, national governments, international institutions, researchers</td>
+    </tr>
+</table>
 
 <img alt="RWI" src="http://farm9.staticflickr.com/8158/7272473162_226235031b_o.png" class="screenshot" />
 
