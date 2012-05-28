@@ -34,6 +34,11 @@ In [this section](chapter2-intro.html) we examine four government data portals f
 
 #### Recommendations
 
+<div class="well homework">
+    <strong>GIFT Actions</strong>
+    <p>PUT IN MEANING HERE.</p>
+</div>
+
 **First Steps**
 
 * Fiscal data must be openly licensed and available in machine readable format in bulk. Be strict about licensing: make sure that all datasets on the portal are released under a proper [open license](http://OpenDefinition.org/).
