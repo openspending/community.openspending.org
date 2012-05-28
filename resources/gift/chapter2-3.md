@@ -5,6 +5,8 @@ layout: gift
 
 ## D-Brain in Korea: Digital budgeting and accounting system 
 
+![Icons D-Brain](http://farm8.staticflickr.com/7087/7287289602_89e6c521a3_o.jpg)
+
 * *Geographic scope*: Republic of Korea
 * *URL*: <http://www.digitalbrain.go.kr>
 * *Vital Statistics*: Total 77,000 registrations of central and local government officials and public agency users. 200,000 transactions by 15,000 users per day. Payment of about 3.6 trillion won ($3billion) on daily average (Korea’s 2010 budget : 292.8 trillion won). Connected to 55 related information systems.
