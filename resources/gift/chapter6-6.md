@@ -46,8 +46,7 @@ Besides the blanket approach, the Bank is also experimenting with manually colle
 1. Knowledge of participatory design and community operation
 2. Development knowledge in mobile telephony sector
 3. Outreach skills
-
-Cost of SMS: In the DRC one million messages were negotiated at 10,000 USD
+4. Cost of SMS: In the DRC one million messages were negotiated at 10,000 USD
 
 ### Timeframe
 
