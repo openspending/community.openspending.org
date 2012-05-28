@@ -5,7 +5,7 @@ layout: gift
 
 ## Chapter 4 - Standards for Fiscal Data: Towards an international framework 
 
-<img alt="Standards" src="http://farm9.staticflickr.com/8020/7274043974_8ab42aefa1_o.gif" class="inline-image" />
+<img alt="Standards" src="http://farm8.staticflickr.com/7083/7285692382_03cbe2d4a3_t.jpg" class="inline-image" />
 
 Raw data is the fuel of many of the tools featured in this report. In later sections, we demonstrate that the poor quality of the available data and the fact that it is often in non-machine readable formats (e.g. PDF) can contribute considerably to the workload involved in developing these tools, or even render them entirely infeasible.’ 
 
