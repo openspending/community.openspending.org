@@ -5,10 +5,53 @@ layout: gift
 
 ## Mini atlases for participatory budgeting: Solo Kota Kita (English: Solo, Our City)
 
-* *Country*: Indonesia
-* *Scope*: Local government
-* *Users/Audiences*: Donors, recipient country governments, citizens, NGOs.
-* *URL*: <http://solokotakita.org/en/>
+<table class="iconmatrix">
+    <tr class="icons">
+        <th class="inner">Fiscal Scope</th>
+        <th class="inner">Project Aims</th>
+        <th>Technology</th>
+    </tr>
+    <tr class="iconbar">
+        <td class="inner">
+            <img src="images/revenue.png" class="" title="Revenue Side" />
+            <img src="images/spending.png" class="" title="Spending Side" />
+            <img src="images/invisible_money.png" class="no" title="Off-Budget" />
+        </td>
+        <td class="inner">
+            <img src="images/upload.png" class="" title="Publish Better Data" />
+            <img src="images/educate.png" class="" title="Educate Citizens" />
+            <img src="images/citizen.png" class="" title="Facilitate Direct Participation"/>
+            <img src="images/decision-maker.png" class="no" title="Get Feedback to Policy Makers" />
+            <img src="images/data_analysis.png" class="" title="Analyse and Understand Data" />
+        </td>
+        <td>
+            <img src="images/mobile.png" class="" title="Mobile Technology" />
+            <img src="images/web.png" class="" title="Web-based Technology" />
+            <img src="images/offline.png" class="" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="no" title="Data Visualisation and Maps" />
+            <img src="images/standards.png" class="no" title="Formats and Standards" />
+            <img src="images/social_media.png" class="no" title="Social Media" />
+            <img src="images/radio.png" class="no" title="Radio" />
+        </td>
+    </tr>
+    <tr>
+        <th class="inner">Geographical Coverage</th>
+        <td colspan="2">Indonesia</td>
+    </tr>
+    <tr>
+	<tr>
+	        <th class="inner">Scope</th>
+	        <td colspan="2">Local government</td>
+	</tr>
+	    <tr>
+        <th class="inner">URL</th>
+        <td colspan="2"><a href="<http://solokotakita.org/en/"><http://solokotakita.org/en/</a></td>
+    </tr>
+    <tr>
+        <th class="inner">Users/Audiences</th>
+        <td colspan="2">Donors, recipient country governments, citizens, NGOs</td>
+    </tr>
+</table>
 
 ### Background
 
