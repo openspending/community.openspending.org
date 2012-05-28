@@ -44,13 +44,6 @@ layout: gift
     </tr>
 </table>
 
-<!--
-
-* *Geographic scope*: United Kingdom
-* *URL*: <http://data.gov.uk/>
-
--->
-
 <img alt="OpenSpending Data.Gov.Uk" src="http://farm8.staticflickr.com/7093/7274090358_35c6eff43d_o.png" class="screenshot" />
 
 ### Background

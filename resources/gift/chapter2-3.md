@@ -5,11 +5,48 @@ layout: gift
 
 ## D-Brain in Korea: Digital budgeting and accounting system 
 
-![Icons D-Brain](http://farm8.staticflickr.com/7087/7287289602_89e6c521a3_o.jpg)
-
-* *Geographic scope*: Republic of Korea
-* *URL*: <http://www.digitalbrain.go.kr>
-* *Vital Statistics*: Total 77,000 registrations of central and local government officials and public agency users. 200,000 transactions by 15,000 users per day. Payment of about 3.6 trillion won ($3billion) on daily average (Korea’s 2010 budget : 292.8 trillion won). Connected to 55 related information systems.
+<table class="iconmatrix">
+    <tr class="icons">
+        <th class="inner">Fiscal Scope</th>
+        <th class="inner">Project Aims</th>
+        <th>Technology</th>
+    </tr>
+    <tr class="iconbar">
+        <td class="inner">
+            <img src="images/revenue.png" class="no" title="Revenue Side" />
+            <img src="images/spending.png" class="" title="Spending Side" />
+            <img src="images/invisible_money.png" class="no" title="Off-Budget" />
+        </td>
+        <td class="inner">
+            <img src="images/upload.png" class="" title="Publish Better Data" />
+            <img src="images/educate.png" class="no" title="Educate Citizens" />
+            <img src="images/citizen.png" class="" title="Facilitate Direct Participation"/>
+            <img src="images/decision-maker.png" class="no" title="Get Feedback to Policy Makers" />
+            <img src="images/data_analysis.png" class="no" title="Analyse and Understand Data" />
+        </td>
+        <td>
+            <img src="images/mobile.png" class="no" title="Mobile Technology" />
+            <img src="images/web.png" class="" title="Web-based Technology" />
+            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="no" title="Data Visualisation and Maps" />
+            <img src="images/standards.png" class="no" title="Formats and Standards" />
+            <img src="images/social_media.png" class="no" title="Social Media" />
+            <img src="images/radio.png" class="no" title="Radio" />
+        </td>
+    </tr>
+    <tr>
+        <th class="inner">Geographic Scope</th>
+        <td colspan="2">Republic of Korea</td>
+    </tr>
+    <tr>
+        <th class="inner">Web Address</th>
+        <td colspan="2"><a href="http://www.digitalbrain.go.kr">www.digitalbrain.go.kr</a></td>
+    </tr>
+    <tr>
+        <th class="inner">Vital Statistics</th>
+        <td colspan="2">Total 77,000 registrations of central and local government officials and public agency users. 200,000 transactions by 15,000 users per day. Payment of about 3.6 trillion won ($3billion) on daily average (Korea’s 2010 budget : 292.8 trillion won). Connected to 55 related information systems.</td>
+    </tr>
+</table>
 
 <img alt="D-Brain" src="http://farm8.staticflickr.com/7100/7274122142_d489a01d58_o.png" class="screenshot" />
 
