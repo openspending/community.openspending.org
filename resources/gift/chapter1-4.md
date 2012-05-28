@@ -58,3 +58,45 @@ layout: gift
 <td>Analyse and Understand Data</td>
 </tr>
 </table>
+
+
+## Technology
+
+<table>
+<tr>
+
+<td><img alt="Mobile Technology" src="http://farm8.staticflickr.com/7104/7285692036_e162601e31_t.jpg"/>
+</td>
+<td>
+<img alt="Web-based Technology" src="http://farm8.staticflickr.com/7225/7285691644_3bdc21a090_t.jpg"/>
+</td>
+<td>
+<img alt="Offline and Print on Demand" src="http://farm8.staticflickr.com/7083/7285691814_3985558f75_t.jpg"/>
+</td>
+<td>
+<img alt="Data Visualisation and Maps" src="http://farm8.staticflickr.com/7237/7285691690_9deb732ff0_t.jpg"/>
+</td>
+<td>
+<img alt="Formats and Standars" src="http://farm8.staticflickr.com/7083/7285692382_03cbe2d4a3_t.jpg"/>
+</td>
+</td>
+<td>
+<img alt="Social Media" src="http://farm8.staticflickr.com/7237/7285692088_5466b1461e_t.jpg"/>
+</td>
+</td>
+<td>
+<img alt="Radio" src="http://farm8.staticflickr.com/7237/7285692216_756aa84a83_t.jpg"/>
+</td>
+
+
+</tr>
+<tr>
+<td>Mobile Technology</td>
+<td>Web-based Technology</td>
+<td>Offline and Print on Demand</td>
+<td>Data Visualisation and Maps</td>
+<td>Formats and Standards</td>
+<td>Social Media</td>
+<td>Radio</td>
+</tr>
+</table>
