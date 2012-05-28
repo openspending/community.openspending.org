@@ -35,7 +35,7 @@ layout: gift
         </td>
     </tr>
     <tr>
-        <th class="inner">Country</th>
+        <th class="inner">Geographical Coverage</th>
         <td colspan="2">Sierra Leone</td>
     </tr>
     <tr>

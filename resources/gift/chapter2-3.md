@@ -35,7 +35,7 @@ layout: gift
         </td>
     </tr>
     <tr>
-        <th class="inner">Geographic Scope</th>
+        <th class="inner">Geographical Coverage</th>
         <td colspan="2">Republic of Korea</td>
     </tr>
     <tr>
