@@ -9,13 +9,14 @@ layout: gift
 <table>
 <tr>
 
-<td><img alt="Spending Side" src="http://farm8.staticflickr.com/7088/7285692280_90b76e026b_t.jpg"/>
+<td><img alt="Spending Side" src="http://farm8.staticflickr.com/7088/7285692280_90b76e026b_t.jpg"
+	width="50" height="50"/>
 </td>
 <td>
-<img alt="Spending Side" src="http://farm8.staticflickr.com/7097/7285692328_347f4d560c_t.jpg"/>
+<img alt="Spending Side" src="http://farm8.staticflickr.com/7097/7285692328_347f4d560c_t.jpg" width="50" height="50"/>
 </td>
 <td>
-<img alt="Off-Budget" src="http://farm9.staticflickr.com/8150/7285691984_5a3c52e5b2_t.jpg"/>
+<img alt="Off-Budget" src="http://farm9.staticflickr.com/8150/7285691984_5a3c52e5b2_t.jpg"width="50" height="50"/>
 </td>
 
 </tr>
