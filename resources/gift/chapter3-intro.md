@@ -5,7 +5,7 @@ layout: gift
 
 ## Chapter 3 - Using Fiscal Data: Civil Society Perspectives 
 
-<img alt="User" src="http://farm8.staticflickr.com/7086/7274042410_b697be64c8_o.jpg" class="inline-image" />
+<img alt="User" src="http://farm8.staticflickr.com/7104/7286164510_2139fc2e89_t.jpg" class="inline-image" />
 
 The Open Budget Index has been instrumental in establishing the key budget documents that every government should publish. The Open Budget Index, grades governments according to their publication practices (timeliness, how many key documents are published etc.)<sup>[1]</sup>; the survey does not currently look at the format and content of the key budget documents released. 
 
