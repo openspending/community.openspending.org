@@ -5,10 +5,18 @@ layout: gift
 
 ## Mobile-Enhanced Participatory Budgeting : the World Bank
 
+<table class="iconmatrix">
+    <tr>
+        <th class="inner">Geographic Scope</th>
+        <td colspan="2">Democratic Republic of Congo (also been done in Dominican Republic)
+Mobile Voting has also taken place without the Bank in: Ipatinga Brazil, La Plata (Argentina), Belo Horizonte (Brazil)</td>
+    </tr>
+    <tr>
+        <th class="inner">Intended audience</th>
+        <td colspan="2">Individual citizens</td>
+    </tr>
+</table>
 
-* *Geographic scope*: Democratic Republic of Congo (also been done in Dominican Republic)
-Mobile Voting has also taken place without the Bank in: Ipatinga Brazil, La Plata (Argentina), Belo Horizonte (Brazil),
-* *Intended audience* : Individual citizens
 *This section contains excerpts from [Estefan and Weber’s short article](http://bit.ly/ITseQN)*
 
 ### Background

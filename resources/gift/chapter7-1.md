@@ -5,12 +5,29 @@ layout: gift
 
 ## From Fractions to Millions: Challenging corruption using mobile phones 
 
-* *Geographic scope*: India 
-* *Scope*: Local government 
-* *Users/Audiences*: Rural poor and beneficiaries of local government programs 
-* *URL*: <http://bit.ly/fractions-to-millions> (Vivek Srinivasan's article). All quotes from Vivek Srinivasan’s article.
-* *Stage*: A pilot project in the process of getting funding and testing technologies 
-Estimated project cost: 400,000 USD (including an elaborate survey to measure corruption) 
+<table class="iconmatrix">
+    <tr>
+        <th class="inner">Geographic Scope</th>
+        <td colspan="2">India</td>
+    </tr>
+    <tr>
+        <th class="inner">Scope</th>
+        <td colspan="2">Local government </td>
+    </tr>
+    <tr>
+        <th class="inner">Users/Audiences</th>
+        <td colspan="2">Rural poor and beneficiaries of local government programs</td>
+    </tr>
+    <tr>
+        <th class="inner">Web Address</th>
+        <td colspan="2"><a href="http://bit.ly/fractions-to-millions">bit.ly/fractions-to-millions</a> (Vivek Srinivasan's article). All quotes from Vivek Srinivasan’s article.</td>
+    </tr>
+    <tr>
+        <th class="inner">Stage</th>
+        <td colspan="2">A pilot project in the process of getting funding and testing technologies 
+Estimated project cost: 400,000 USD (including an elaborate survey to measure corruption)</td>
+    </tr>
+</table>
 
 ### Background 
 
