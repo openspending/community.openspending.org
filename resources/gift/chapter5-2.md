@@ -14,12 +14,12 @@ layout: gift
     <tr class="iconbar">
         <td class="inner">
             <img src="images/revenue.png" class="" title="Revenue Side" />
-            <img src="images/spending.png" class="no" title="Spending Side" />
+            <img src="images/spending.png" class="" title="Spending Side" />
             <img src="images/invisible_money.png" class="" title="Off-Budget" />
         </td>
         <td class="inner">
             <img src="images/upload.png" class="" title="Publish Better Data" />
-            <img src="images/educate.png" class="no" title="Educate Citizens" />
+            <img src="images/educate.png" class="" title="Educate Citizens" />
             <img src="images/citizen.png" class="no" title="Facilitate Direct Participation"/>
             <img src="images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
             <img src="images/data_analysis.png" class="" title="Analyse and Understand Data" />
@@ -27,8 +27,8 @@ layout: gift
         <td>
             <img src="images/mobile.png" class="no" title="Mobile Technology" />
             <img src="images/web.png" class="" title="Web-based Technology" />
-            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
-            <img src="images/piechart.png" class="no" title="Data Visualisation and Maps" />
+            <img src="images/offline.png" class="" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="" title="Data Visualisation and Maps" />
             <img src="images/standards.png" class="" title="Formats and Standards" />
             <img src="images/social_media.png" class="no" title="Social Media" />
             <img src="images/radio.png" class="no" title="Radio" />

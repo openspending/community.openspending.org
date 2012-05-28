@@ -5,11 +5,54 @@ layout: gift
 
 ## ClearSpending from the Sunlight Foundation
 
+<table class="iconmatrix">
+    <tr class="icons">
+        <th class="inner">Fiscal Scope</th>
+        <th class="inner">Project Aims</th>
+        <th>Technology</th>
+    </tr>
+    <tr class="iconbar">
+        <td class="inner">
+            <img src="images/revenue.png" class="no" title="Revenue Side" />
+            <img src="images/spending.png" class="" title="Spending Side" />
+            <img src="images/invisible_money.png" class="no" title="Off-Budget" />
+        </td>
+        <td class="inner">
+            <img src="images/upload.png" class="no" title="Publish Better Data" />
+            <img src="images/educate.png" class="" title="Educate Citizens" />
+            <img src="images/citizen.png" class="no" title="Facilitate Direct Participation"/>
+            <img src="images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
+            <img src="images/data_analysis.png" class="" title="Analyse and Understand Data" />
+        </td>
+        <td>
+            <img src="images/mobile.png" class="no" title="Mobile Technology" />
+            <img src="images/web.png" class="" title="Web-based Technology" />
+            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
+            <img src="images/piechart.png" class="" title="Data Visualisation and Maps" />
+            <img src="images/standards.png" class="no" title="Formats and Standards" />
+            <img src="images/social_media.png" class="no" title="Social Media" />
+            <img src="images/radio.png" class="no" title="Radio" />
+        </td>
+    </tr>
+    <tr>
+        <th class="inner">Country</th>
+        <td colspan="2">USA</td>
+    </tr>
+    <tr>
+	<tr>
+	        <th class="inner">Scope</th>
+	        <td colspan="2">Federal level</td>
+	</tr>
+	    <tr>
+        <th class="inner">URL</th>
+        <td colspan="2"><a href="http://sunlightfoundation.com/clearspending/">http://sunlightfoundation.com/clearspending/</a></td>
+    </tr>
+    <tr>
+        <th class="inner">Users/Audiences</th>
+        <td colspan="2">Civil society, national governments, international institutions, researchers</td>
+    </tr>
+</table>
 
-* *Country*: USA
-* *Scope*: Federal level level
-* *URL*: http://sunlightfoundation.com/clearspending/
-* *Users / Audience*: Civil society, national governments, international institutions, researchers
 
 <img alt="Clearspending" src="http://farm8.staticflickr.com/7226/7272476246_5ba1cbc2e7_o.png" class="screenshot" />
 
