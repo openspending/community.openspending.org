@@ -6,7 +6,7 @@ layout: gift
 
 ## Fiscal Scope
 
-<table>
+<table cellpadding="10">
 <tr>
 
 <td><img alt="Spending Side" src="http://farm8.staticflickr.com/7088/7285692280_90b76e026b_t.jpg"
@@ -30,22 +30,22 @@ layout: gift
 
 ## Aims of the Project
 
-<table>
+<table cellpadding="10">
 <tr>
 
-<td><img alt="Publish Better Data" src="http://farm8.staticflickr.com/7211/7285692458_bb8a771171_t.jpg"/>
+<td><img alt="Publish Better Data" src="http://farm8.staticflickr.com/7211/7285692458_bb8a771171_t.jpg"width="50" height="50"/>
 </td>
 <td>
-<img alt="Educate Citizens" src="http://farm8.staticflickr.com/7226/7285691742_9934b69422_t.jpg"/>
+<img alt="Educate Citizens" src="http://farm8.staticflickr.com/7226/7285691742_9934b69422_t.jpg" width="50" height="50"/>
 </td>
 <td>
-<img alt="Facilitate Direct Participation" src="http://farm8.staticflickr.com/7083/7285691814_3985558f75_t.jpg"/>
+<img alt="Facilitate Direct Participation" src="http://farm8.staticflickr.com/7083/7285691814_3985558f75_t.jpg"width="50" height="50"/>
 </td>
 <td>
-<img alt="Get Feedback to Policy Makers" src="http://farm8.staticflickr.com/7078/7285691912_7b78aed3dc_t.jpg"/>
+<img alt="Get Feedback to Policy Makers" src="http://farm8.staticflickr.com/7078/7285691912_7b78aed3dc_t.jpg" width="50" height="50"/>
 </td>
 <td>
-<img alt="Analyse and Understand Data" src="http://farm8.staticflickr.com/7234/7285691862_8867e2dfb7_t.jpg"/>
+<img alt="Analyse and Understand Data" src="http://farm8.staticflickr.com/7234/7285691862_8867e2dfb7_t.jpg"width="50" height="50"/>
 </td>
 
 
@@ -63,30 +63,30 @@ layout: gift
 
 ## Technology
 
-<table>
+<table cellpadding="10">
 <tr>
 
-<td><img alt="Mobile Technology" src="http://farm8.staticflickr.com/7104/7285692036_e162601e31_t.jpg"/>
+<td><img alt="Mobile Technology" src="http://farm8.staticflickr.com/7104/7285692036_e162601e31_t.jpg"width="50" height="50"/>
 </td>
 <td>
-<img alt="Web-based Technology" src="http://farm8.staticflickr.com/7225/7285691644_3bdc21a090_t.jpg"/>
+<img alt="Web-based Technology" src="http://farm8.staticflickr.com/7225/7285691644_3bdc21a090_t.jpg"width="50" height="50"/>
 </td>
 <td>
-<img alt="Offline and Print on Demand" src="http://farm8.staticflickr.com/7083/7285691814_3985558f75_t.jpg"/>
+<img alt="Offline and Print on Demand" src="http://farm8.staticflickr.com/7083/7285691814_3985558f75_t.jpg"width="50" height="50"/>
 </td>
 <td>
-<img alt="Data Visualisation and Maps" src="http://farm8.staticflickr.com/7237/7285691690_9deb732ff0_t.jpg"/>
+<img alt="Data Visualisation and Maps" src="http://farm8.staticflickr.com/7237/7285691690_9deb732ff0_t.jpg"width="50" height="50"/>
 </td>
 <td>
-<img alt="Formats and Standars" src="http://farm8.staticflickr.com/7083/7285692382_03cbe2d4a3_t.jpg"/>
-</td>
-</td>
-<td>
-<img alt="Social Media" src="http://farm8.staticflickr.com/7237/7285692088_5466b1461e_t.jpg"/>
+<img alt="Formats and Standars" src="http://farm8.staticflickr.com/7083/7285692382_03cbe2d4a3_t.jpg"width="50" height="50"/>
 </td>
 </td>
 <td>
-<img alt="Radio" src="http://farm8.staticflickr.com/7237/7285692216_756aa84a83_t.jpg"/>
+<img alt="Social Media" src="http://farm8.staticflickr.com/7237/7285692088_5466b1461e_t.jpg"width="50" height="50"/>
+</td>
+</td>
+<td>
+<img alt="Radio" src="http://farm8.staticflickr.com/7237/7285692216_756aa84a83_t.jpg"width="50" height="50"/>
 </td>
 
 
