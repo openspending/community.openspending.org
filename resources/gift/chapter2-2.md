@@ -5,6 +5,7 @@ layout: gift
 
 ## DataBC Open Data Portal of British Columbia
 
+![Icons BC](http://farm9.staticflickr.com/8167/7287290224_2f892164f3_o.jpg)
 
 * *Country*: Canada 
 * *URL*: <http://www.data.gov.bc.ca/>
