@@ -6,7 +6,7 @@ type: post
 status: publish
 ---
 
-In early March, we embarked on a project - Technology for Transparent and Accountable Public Finance- to map out projects which use [technology to further the aims of fiscal transparency, accountability and participation](http://openspending.org/blog/2012/03/12/technology-for-fiscal-transparency-where-next.html). Today, we are happy to announce the official release of the report. Preliminary findings were presented at last month's [GIFT](http://fiscaltransparency.net/) meeting and over the last month, we've been building on the comments, follow-up questions and feedback from the session. 
+In early March, we embarked on a project to map out projects which use [technology to further the aims of fiscal transparency, accountability and participation](http://openspending.org/blog/2012/03/12/technology-for-fiscal-transparency-where-next.html). Today, we are happy to announce the official release of the resulting report, Technology for Transparent and Accountable Public Finance. Preliminary findings were presented at last month's [GIFT](http://fiscaltransparency.net/) meeting in Brasilia. Since then, we've been building on the comments, follow-up questions and feedback from the session. 
 
 We have tried to highlight specific roles which GIFT could play in promoting the good practice requirements of the report. The slides from the session can be found below:
 
@@ -23,14 +23,20 @@ Looking at government revenue, expenditure and off-budget information - we have 
 * Facilitate direct participation in fiscal matters through participatory budgeting, citizen auditing and the like,
 * Provide policymakers with complete and reliable data relevant to their work, enabling them to make better decisions.
 
+<<<<<<< HEAD
 We focussed in particular on the questions 'Who are the users?' and examined their motivations for getting involved, the scalability and applicability of given solutions to other contexts. The report also aims to highlight gaps - which pieces are missing which prevent people taking up these tools?
 =======
 Today, v 1.0  of the report is being made available on OpenSpending.org and is also available for download as a PDF. Accompanying the report is a [project database - bit.ly/TTAPF-projects ](https://bit.ly/TTAPF-projects) which contains many more projects which publish, analyse and demystify fiscal data. One particular section deserves special mention, the section on participatory budgeting, for which we found so many projects that they merited their own dataset, which can be found [here](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dE9fZy02NEt2UGxPTnRQMTEzaUhTOGc#gid=4). As we go through, we are building up a catalog of government finance portals in [the 'finance' group of datacatalogs.org](http://datacatalogs.org/group/finance) - there's still a lot of work to be done there, but the group already contains the portals mentioned in the report. 
 >>>>>>> Changed the link to the appendix as bit.ly
+=======
+We focussed in particular on the question: 'Who are the users?'. We examined their motivations for getting involved, the scalability and applicability of given solutions to other contexts. The report also aims to highlight gaps that prevent users from taking up these tools.
+>>>>>>> c834eab463f1604441918178154bfee195c3f4d0
 
 ## Report now available online
 
-Today, v 1.0  of the report is being made available on [OpenSpending.org](http://openspending.org/resources/gift/index.html) and is also available for download as a PDF. Accompanying the report is a [project database](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dDBHNUJaWUFLQS1rNDY3YWFBcU5VQ0E&pli=1#gid=0) which contains many more projects which publish, analyse and demystify fiscal data. One particular section deserves special mention, the section on participatory budgeting, for which we found so many projects that they merited their own dataset, which can be found [here](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dE9fZy02NEt2UGxPTnRQMTEzaUhTOGc#gid=4). As we go through, we are building up a catalog of government finance portals in [the 'finance' group of datacatalogs.org](http://datacatalogs.org/group/finance) - there's still a lot of work to be done there, but the group already contains the portals mentioned in the report. 
+Today, the first edition of the report is published on [OpenSpending.org](http://openspending.org/resources/gift/index.html). It is also available for download as a PDF. Accompanying the report is a [project database](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dDBHNUJaWUFLQS1rNDY3YWFBcU5VQ0E&pli=1#gid=0) which contains many more projects that publish, analyse and demystify fiscal data. 
+
+The section on participatory budgeting deserves special mention. We discovered so many projects that they merited their own listing, which can be found [here](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dE9fZy02NEt2UGxPTnRQMTEzaUhTOGc#gid=4). As we go through, we are building up a catalog of government finance portals in [the 'finance' group of datacatalogs.org](http://datacatalogs.org/group/finance). There's still a lot of work to be done there, but the group already contains the portals mentioned in the report. 
 
 As our work continues, we'd love to maintain these connections and hear updates from the projects and learn about new projects. If you have come across an interesting project and think we should feature it, [please let us know](mailto:gift-report@okfn.org)! 
 
@@ -73,12 +79,12 @@ See below for a quick overview of the contents:
 ### [Further Resources](http://openspending.org/resources/gift/bibliography.html)
 ### [Appendix](http://openspending.org/resources/gift/chapter10-intro.html)
 
-## Get involved in V 2.0
+## Get involved in the next edition
 
-This release is version one, and we hope that the research will be ongoing as the OpenSpending project grows and the tools and network develop. As this happens, we'd really love your input. Some suggestions: 
+This release is version one, and we hope that the research will be ongoing as the OpenSpending community grows and the tools and network develop. As this happens, we'd really love your input. Some suggestions: 
 
 1. Feedback - let us know what you thought of the report and suggest improvements, particularly feedback for GIFT, what role would you like to see them play in this important field? 
-2. Keep your eyes peeled for interesting projects, we're hoping to feature information about new projects in the blog, drop a line to the [mailing list](http://lists.okfn.org/mailman/listinfo/openspending) if you know of any we should feature. 
+2. Keep your eyes peeled for interesting projects. We're hoping to feature information about new projects in the blog, so drop a line to the [mailing list](http://lists.okfn.org/mailman/listinfo/openspending) if you know of any we should feature. 
 3. Help us build up the [finance group on datacatalogs.org](http://datacatalogs.org/group/finance) and review the sites for their usefulness. Ever tried to get fiscal information out of a portal? Did you get what you were after? And importantly, could you use it once you had it? Let us know [here](https://docs.google.com/spreadsheet/viewform?formkey=dGNXNVFXdDlPNlRDaXB2bXc0aGR5UVE6MQ#gid=0).
 
 Follow up posts on the findings in detail coming soon!
