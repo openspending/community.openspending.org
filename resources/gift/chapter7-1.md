@@ -96,3 +96,5 @@ Much of the data is in printed format and should be digitised in order to conduc
 Estimated project cost: 400,000 USD (including an elaborate survey to measure corruption)
 
 <p style="text-align: right">Thanks to Vivek Srinivasan</p>
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter7-2.html">Next &raquo;</a></div>

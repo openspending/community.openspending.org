@@ -44,3 +44,5 @@ The research was a combination of qualitative interviews and direct inputs from 
 ### Overview of Projects
 
 ![Project Overview](http://farm8.staticflickr.com/7237/7273947644_4799a7e720_o.png)
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter1-2.html">Next &raquo;</a></div>

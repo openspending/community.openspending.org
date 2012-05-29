@@ -80,3 +80,5 @@ The system has been designed to be as flexible and scalable as possible. The bac
 The GoSL Online Repository was launched by the Government of Sierra Leone in January 2012. Similar systems are currently being deployed for Liberia and Gambia. Work is planned to start in Mali. 
 
 <p style="text-align: right">Thanks to Aasmund Andersen, RDF</p>
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter5-2.html">Next &raquo;</a></div>

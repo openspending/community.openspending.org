@@ -13,3 +13,5 @@ Here we examine projects which track institutional corruption and malpractice. S
 
 1. [From Fractions to Millions](chapter7-1.html): Challenging corruption using mobile phones 
 2. [What Can Governments Do to Help Social Auditors?](chapter7-2.html)
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter7-1.html">Next &raquo;</a></div>

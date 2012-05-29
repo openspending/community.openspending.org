@@ -23,3 +23,5 @@ Featured Case Studies:
 2. [DataBC](chapter2-2.html), Canada
 3. [DBrain](chapter2-3.html), Republic of Korea
 4. [Brazilian Transparency Portal](chapter2-4.html), Brazil
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter2-1.html">Next &raquo;</a></div>

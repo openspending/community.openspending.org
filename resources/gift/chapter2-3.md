@@ -89,3 +89,5 @@ Some of the reasons for the success of the project are:
 
 Total cost: $63 million
 
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter2-4.html">Next &raquo;</a></div>
+

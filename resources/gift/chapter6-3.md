@@ -136,3 +136,6 @@ Participation is an area where there is no shortage of tools being developed; we
 
 1. Bringing together government officials who have previously implemented technical solutions to share experiences and review software tools
 2. Based on the feedback from this, refine and upkeep a online, collaborative catalogue of options which can guide governments about existing solutions and experiences. Draw on advice from expert groups in participatory budgeting such as the PB Unit or the Participatory Budgeting Project.
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-4.html">Next &raquo;</a></div>
+

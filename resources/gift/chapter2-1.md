@@ -135,3 +135,4 @@ The project was initiated in September 2009 with a go-live data 1-month later fo
         <td>3-6</td>
 </table>
 
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter2-2.html">Next &raquo;</a></div>

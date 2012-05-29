@@ -14,3 +14,5 @@ Well-established, low-cost technologies such as the radio, SMS  and print hold s
 These developments hold promising new possibilities for fiscal transparency and accountability, more information, better information, new possibilities for reaching out to people who would not normally interact with government, new possibilities to collect feedback and new possibilities to present information for analysis. In this report we examine two main areas: technology for transparency and technology for accountability around public finance. We will look in particular at who builds these tools, who uses them, and who benefits from them.
 
 With initiatives such as the [Open Data Strategy for Europe](http://bit.ly/EUopendata) soon due to come into force, and similar emphasis on opening up government data in other parts of the world, it is prudent for governments to start to look into new ways to open up their data, to save time, money and effort in opening up a backlog of data and to get necessary workflows in place.
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter1-3.html">Next &raquo;</a></div>

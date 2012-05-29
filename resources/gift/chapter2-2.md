@@ -46,7 +46,7 @@ layout: gift
 
 <img alt="DataBC" src="http://farm8.staticflickr.com/7240/7272465600_0b9d7f60f5_o.png" class="screenshot" />
 
-### Background 
+### Background
 When the Province of British Columbia decided to launch the first Canadian provincial level data portal offering access to more than 2,500 datasets of local and province level data, it followed the need to address both the needs of the community and to transform and civil service system. With a large part of the workforce retiring, the accumulated knowledge and skills had to be transferred and new technology harnessed for realising three main aims:
  
 1. Citizen participation and supporting a community around open data, 
@@ -114,3 +114,5 @@ It was difficult to switch from a closed system in which data publication was pr
 > * license - I would also like to see them use a license that conforms to the open definition...” 
 
 <p style="text-align: right">Thanks for input from David Wrate, DataBC</p> 
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter2-3.html">Next &raquo;</a></div>

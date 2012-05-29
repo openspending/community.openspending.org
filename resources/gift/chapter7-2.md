@@ -15,3 +15,5 @@ There are considerably fewer projects in this section than in the participatory 
 6. Ensure Collaborative and Participatory Process: Establish spaces for cooperation between the SAIs and the civil society organisations as they have mutually complementary roles and resources (Nino 2010).
 7. Crowdsource Problem Areas: Providing mechanisms for citizens to give feedback on problems as they experience them. Once an area of concern is identified e.g a particular department is  frequently flagged up as asking for bribes when issuing licences, the government would know to investigate further. 
 8. Lead a Transparent Process End to End: Clear communication and documentation about how the auditing information is used and acted upon.
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter8-intro.html">Next &raquo;</a></div>

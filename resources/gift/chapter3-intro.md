@@ -26,7 +26,4 @@ The [section below](chapter3-1.html) contains quotes and in place paraphrased re
     <sup>[1]</sup> Pre-Budget Statement, Executive’s Budget Proposal, Enacted Budget, Citizen’s Budget, (Supplementary budgets), In-Year Reports (Monthly / quarterly), Mid Year Review, Year End Report, Audit Reports.
 </div>
 
-
-
-
-
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter3-1.html">Next &raquo;</a></div>

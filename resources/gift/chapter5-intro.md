@@ -14,3 +14,5 @@ Case studies include:
 
 1. [Government of Sierra Leone GoSL](chapter5-1.html): Online Repository for Ministry of Mines and Mineral Resources 
 2. [Revenues from Oil and Mining](chapter5-2.html): Revenue Watch
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter5-1.html">Next &raquo;</a></div>

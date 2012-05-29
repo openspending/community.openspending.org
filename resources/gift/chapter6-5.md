@@ -112,3 +112,6 @@ The project requires a web developer and a designer to create the application an
 Such systems have the potential to better inform and educate citizens about decisions and processes. By sharing decisions with citizens, they can become more efficient and effective in the delivery of services. Governments provide much of the information for these initiatives. However, without government buy-in, these initiatives would not have the power to effect change.
 
 <p style="text-align: right">Thanks to James McKinney (Open North)</p>
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-6.html">Next &raquo;</a></div>
+

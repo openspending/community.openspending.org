@@ -98,3 +98,5 @@ The Portal is administered by a Management Group and a Working Group (operationa
 Approximately 137 000 USD was invested for the initial stage of the Portal’s development, from the Office of the Comptroller-General regular budget. Nowadays, the Office of the Comptroller-General of Brazil (CGU) controls the program’s database and the maintenance cost is relatively low.
 
 <p style="text-align: right">Thanks for input from Izabela Moreira Correa, CGU</p> 
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter3-intro.html">Next &raquo;</a></div>

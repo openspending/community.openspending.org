@@ -33,7 +33,7 @@ Below are numerous recommendations related to the role of all parties including 
 
 
 * Promote the use of simple, machine-readable formats which can significantly increase the usefulness of data 
-* Make sure that all fiscal data is released under a proper open license (i.e. one that conforms to http://OpenDefinition.org/)
+* Make sure that all fiscal data is released under a proper open license (i.e. one that conforms to [the Open Definition](http://opendefinition.org/))
 * Support and partner with civil society projects to assess whether existing, open-source tools will serve the purpose desired, before looking to create new ones
 * Organise structured feedback mechanisms and make sure teams within governments have the resources to deal with potentially large volumes of feedback 
 * Crowdsource Problem Areas: Providing mechanisms for citizens to give feedback on problems as they experience them. Once an area of concern is identified e.g a particular department is  frequently flagged up as asking for bribes when issuing licences, the government would know to investigate further.
@@ -57,10 +57,18 @@ Below are numerous recommendations related to the role of all parties including 
 * Support platforms (as well as individual instances of a piece of software) which allow solutions to be scaled, promote inter-organisational data-sharing and communities of practice. 
 * Collect resources for long-term archives of data and documents relating to fiscal activities. 
 
-### GIFT:
+### GIFT: Recap
 
-* Make use of the GIFT address book and further extend it. Many of the groups highlighted in this report and participating in working groups have specific areas of expertise in this large and intricate sphere. These groups can help to identify further gaps where specific types of information are missing. 
+GIFT's role in this process, could be to promote a community of good-practice, bringing together government officials and actors from civil society to share experience. Below are a list of some mechanisms by which this might be achieved.
+
+* Promote experience sharing between governments e.g. through workshops, blogposts or even a wiki so that governments with a history of publishing documents, participation etc. can share information on their motivations, incentives and lessons learned.
+* Help governments with their web-publishing practices e.g. through consultation sessions. If a government finance department already has a website, half the job is done. Encourage governments to use these web services to make data discoverable.
+* Make use of the GIFT address book and further extend it e.g. by holding open-consultation sessions with key civil society actors, allowing interested actors to come forward, and providing valuable domain-specific experience. Such actors could form advisory-panels on particular topics e.g. company data.
+* Promote publication of key budget information as machine-readable data, e.g by working with organisations such as the International Budget Partnership to include such measurement in the Open budget Survey, through online webinars / workshops showing how data is used after publication.
+* Refine and upkeep a online, collaborative catalogue of options (perhaps as a wiki) which can guide governments about existing solutions and experiences. 
+* Work closely with other initiatives, such as the Open Government Partnership, to promote release of datasets which are key to contextualising financial data.
+* Promote the release of sub-national data, perhaps via local partners, as well as national level.</li>
 * Keep looking for projects working in this area and connecting people. To our knowledge, there is no comprehensive central database of all transparency and accountability initiatives using technology to promote fiscal transparency as well as NGOs working in this field. The appendix at the end of this report represents a start, but a larger-scale, community effort will be required to keep this up to date. 
-* Keep talking. Consider a role for a Global Financial Transparency Coordinator. During this research, we spent a lot of time organising meetings. We need to make sure these important discussions continue to take place and the networks continue to be built. 
-* Bringing together government officials who have previously implemented technical solutions, e.g. to participatory budgeting, to share experiences and review software tools
-* Based on the feedback from this, refine and upkeep a online, collaborative catalogue of options which can guide governments about existing solutions and experiences. Draw on advice from expert groups in participatory budgeting such as the PB Unit or the Participatory Budgeting Project. 
+* Keep talking. Consider a role for a Global Financial Transparency Coordinator. During this research, we spent a lot of time organising meetings aside from the time we spent interviewing. We need to make sure these important discussions continue to take place and the networks continue to be built and a coordinator could help to catalyse this.
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter10-intro.html">Next &raquo;</a></div>

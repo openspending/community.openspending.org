@@ -119,4 +119,7 @@ Possible further areas for exploration and development of the platform:
     <sup>[1]</sup>COFOG, which was designed specifically to describe the activities government undertakes, is an appropriate starting point to examine alignment between recipient budget classifications and existing international aid classifications. COFOG represents country sector and administrative classifications fairly well at aggregated levels, but at the lower levels tends not to disaggregate the functions of government in the same ways or to the same degree that many governments do‘ (Moon and Mills, 2010).
 </div>
 
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter9-intro.html">Next &raquo;</a></div>
+
+
 

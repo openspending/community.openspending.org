@@ -83,3 +83,5 @@ The major problems with the data were programs that, for whatever reason, chose 
 The Sunlight Foundation re-released Clearspending with new data in Fall of 2011, and there are plans to update the analysis each year with new data. More ambitious aims include expanding the analysis to contracting data, which is a more difficult task, due to the lack of the kind of comparison data that was present for grants. Several FOIA requests for information regarding contracts data were in progress at the time of the report.
 
 <p style="text-align: right">Thanks to Kaitlin Lee</p>
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-2.html">Next &raquo;</a></div>

@@ -36,7 +36,11 @@ In [this section](chapter2-intro.html) we examine four government data portals f
 
 <div class="well homework">
     <strong>GIFT Actions</strong>
-    <p>PUT IN MEANING HERE.</p>
+    <ul>
+        <li>Promote experience sharing between governments e.g. through workshops, so that governments with a history of publishing documents, participation etc can share information on their motivations, incentives and lessons learned</li>
+        <li>Help governments with their web-publishing practices. If a government finance department already has a website, half the job is done. Encourage governments to use these web services to make data discoverable, preferably in machine-readable format with supporting documentation, with long-term archives, and preferably from a central location - to prevent the need to search across numerous sites to find information.</li> 
+        <li>Make use of the GIFT address book and further extend it. Many of the groups highlighted in this report and participating in working groups have specific areas of expertise in this large and intricate sphere. These groups can help to identify further gaps where specific types of information are missing (e.g. company data).</li>
+    </ul>
 </div>
 
 **First Steps**
@@ -58,13 +62,13 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 #### Highlights
 
-* Fiscal transparency is about more than budgets: Users will often require more than just basic budget information[i] to hold governments to account. Fiscal transparency should therefore not be limited to making these key budget documents accessible. Company and procurement data are common requests, as are audit reports and sub-national budget information.
+* Fiscal transparency is about more than budgets: Users will often require more than just basic budget information to hold governments to account. Fiscal transparency should therefore not be limited to making these key budget documents accessible. Company and procurement data are common requests, as are audit reports and sub-national budget information.
 * We received responses to the questionnaire from eighteen countries, spread around the globe. Six respondents mentioned that they used a government transparency portal to get their data, three used FOI requests, seven collected the data themselves from various sources and two said they had not been able to acquire the data.
 * ‘The current status of open data’: Feedback was mixed. Some respondents praised the ease with which they acquired the data, but in the majority of cases, it was not easy to use the data that they had obtained. Barriers included:
 * Machine readability: The most common complaint was non machine-readability of data - usually the complaint was about PDFs.
 * Poor quality: Frequently there are problems with the data such as lack of care for the process of creating the data, poor structure, too aggregated and inconsistencies in structures between years.
 * Disappearing data or hidden data: Several users mentioned that historic data disappeared from government websites and two could not get access to the data because of paywalls. A couple of more technical users of the data said an API for the data would be useful.
-* Lack of supporting documentation to complement data releases.
+* There is often a lack of supporting documentation to complement data releases, meaning that users cannot find out what is actually contained within a dataset.
 
 #### Gaps
 
@@ -73,6 +77,11 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 * Preservation of historical data
 
 #### Recommendations
+
+<div class="well homework">
+    <strong>GIFT Actions</strong>
+    <ul><li>Promote publication of key budget information as machine-readable data</li></ul>
+</div>
 
 **First Steps**
 
@@ -83,7 +92,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 * Provide of machine-readable forms of important datasets such as companies registries, contract awards and underlying tender specifications
 * Provide structured, machine-readable information on budgeting process, e.g. important dates (publication dates, points in the process where feedback is possible), amendments and information on “who does what” in budgeting issues
-* Provide comprehensive documentation[j] to accompany the documents i.e. read-me files explaining what a given dataset, data-dictionaries, glossaries
+* Provide comprehensive documentation to accompany the documents i.e. read-me files explaining what a given dataset, data-dictionaries, glossaries
 * Capacity-building, connecting policy and data processing/analysis expertise
 * Promote data sharing of intermediate results e.g. integrated datasets produced by researchers, journalists, advocacy organisations and developers and the creation of data commons for processed output of re-use applications
 
@@ -97,7 +106,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 ### Standards for Fiscal Data
 
-[This section](chapter4-intro.html) examined whether having standards for fiscal data could provide a solution to some of the usability issues described by the users of the data in the previous section, by looking at two internationally recognised standards, IATI and XBRL. Accompanying this report are some Terms of Reference for the possible implementation of such a standard.
+[This section](chapter4-intro.html) examined whether having standards for fiscal data could provide a solution to some of the usability issues described by the users of the data in the previous section, by looking at two internationally recognised standards, IATI and XBRL.
 
 #### Highlights
 
@@ -113,6 +122,11 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 
 #### Recommendations
+
+<div class="well homework">
+    <strong>GIFT Actions</strong>
+    <ul><li>Refine and upkeep a online, collaborative catalogue of options (perhaps as a wiki) which can guide governments about existing solutions and experiences.</li></ul>
+</div>
 
 **First Steps**
 
@@ -139,7 +153,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 * Civil society is often cited as the target users for transparency portals, as was the case for the Sierra Leone Mining Repository. However, in reality, 65 % of the users of this platform are investors, donors and other governments, who have knowledge of complex legal terminology and sector-specifics. The level of technical knowledge required to understand this data means that similar audiences may be the main user groups for other such tools.
 * Design of tools for end-users are most effective when they bear in mind less-web-savvy users or users who will have to work in lower bandwidth or with older computers. Options such as saving and printing user-generated reports could be very useful for these purposes.
 * “Data is not always actionable simply because it is available.” Having the possibility to download the data does not guarantee that one would be able to use it or understand its structure and source.
-* Open source tools allow rapid dissemination of approaches and the adaptation of tools to different contexts internationally. For example, the visualizations from OpenSpending have been widely and independently re-used (e.g. to power the Hungarian site “A mi Penzünk” and the Czech site BudováníStátu.cz).
+* Open source tools allow rapid dissemination of approaches and the adaptation of tools to different contexts internationally. For example, the visualizations from OpenSpending have been widely and independently re-used (e.g. to power the Hungarian site [“A mi Penzünk”](http://amipenzunk.hu/) and the Czech site [BudováníStátu.cz](http://budovanistatu.cz/)).
 * Information to hold individual politicians personally accountable for their financial choices is highly desirable, particularly for journalists, and could have a great impact, particularly in situations where individual politicians wield choice over discretionary funds.
 
 #### Highlights: Participation
@@ -152,7 +166,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 * Social audits using technology offer a possibility of close to real-time feedback and reporting.
 * Technology, e.g. mobile, can help transform traditional labour-intensive social auditing practices, which gives a possibility to scale-up corruption monitoring.
-* SMS technology has the possibility of reaching out to rural areas with limited Internet access.
+* SMS technology has the possibility of reaching out to rural areas with limited internet access.
 * Many of the projects featured in this section rely on sub-national level data to function: It is at local and regional level that many of the services from which citizens benefit most tangibly  are delivered e.g. infrastructure, healthcare, schooling.
 * Another type of data, which could be key for stimulating citizen feedback on an individual level, is data on personal entitlements, which might motivate citizens to provide feedback on whether they received their personal allowance.
 
@@ -166,6 +180,17 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 #### Recommendations
 
+<div class="well homework">
+    <strong>GIFT Actions</strong>
+    <ul>
+        <li>Work closely with other initiatives, such as the Open Government Partnership, to promote release of datasets which are key to contextualising financial data.</li>
+        <li>Promote the release of sub-national data, as well as national level</li>
+        <li>Keep looking for projects working in this area and connecting people. To our knowledge, there is no comprehensive central database of all transparency and accountability initiatives using technology to promote fiscal transparency as well as NGOs working in this field. The appendix at the end of this report represents a start, but a larger-scale, community effort will be required to keep this up to date.</li>
+        <li>Keep talking. Consider a role for a Global Financial Transparency Coordinator. During this research, we spent a lot of time organising meetings. We need to make sure these important discussions continue to take place and the networks continue to be built and a coordinator could help to catalyse this.</li>
+        <li>Based on the feedback from meetings, refine and upkeep a online, collaborative catalogue of options which can guide governments about existing solutions and experiences. Draw on advice from expert groups in participatory budgeting such as the [PB Unit](http://www.participatorybudgeting.org.uk/) or the [Participatory Budgeting Project](http://www.participatorybudgeting.org/).</li>
+    </ul>
+</div>  
+        
 **First Steps**
 
 * Build public-facing tools, targeted at enabling expert oversight, e.g. by investors and other governments, who have both incentives to scrutinise this data and pre-existing knowledge to enable them to do so.
@@ -184,3 +209,5 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 * Finishing off the great work done so far in this area in compiling country-level reports into one place and building a sortable online database.
 * Extensive capacity-building for journalists to enable them to analyze and present data.
 * Social Audit Portals similar to Andhra Pradesh with near real-time access to financial data.
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter1-4.html">Next &raquo;</a></div>

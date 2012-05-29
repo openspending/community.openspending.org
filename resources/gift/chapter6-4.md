@@ -118,3 +118,5 @@ Key Actors: A project director, 2 community facilitators, an urban designer, a G
 Additionally, it is important to note that the project had the support of the Solo mayor. The government worked with SKK to engage the neighbourhood heads to support data collection.
 
 <p style="text-align: right">Thanks to Hector Salazar Salame and Michael Haggerty (SKK)</p>
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-5.html">Next &raquo;</a></div>

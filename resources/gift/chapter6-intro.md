@@ -22,3 +22,5 @@ There are two main sections within this chapter:
 2. [Mini atlases for participatory budgeting](chapter6-4.html): Solo Kota Kita, Indonesia
 3. [Citizen Budget](chapter6-5.html) - Open North, Canada
 4. [Mobile-Enhanced Participatory Budgeting](chapter6-6.html) - the World Bank
+
+<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-1.html">Next &raquo;</a></div>
