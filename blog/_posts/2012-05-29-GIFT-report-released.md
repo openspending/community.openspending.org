@@ -10,7 +10,7 @@ In early March, we embarked on a project to map out projects which use [technolo
 
 We have tried to highlight specific roles which GIFT could play in promoting the good practice requirements of the report. The slides from the session can be found below:
 
-<div style="width:620px" id="__ss_12607771"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/lucyfedia/gift-presentation-12607771" title="Gift presentation" target="_blank">Gift presentation</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/12607771" width="620" height="517" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/lucyfedia" target="_blank">Lucy Chambers</a> </div> </div>
+<div style="width:620px" id="__ss_12607771"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/lucyfedia/gift-presentation-12607771" title="Gift presentation" target="_blank">Gift presentation</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/12607771" width="620" height="517" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen></iframe></div>
 
 ## More about the project
 
@@ -26,7 +26,7 @@ We focussed in particular on the question: 'Who are the users?'. We examined the
 
 ## Report now available online
 
-Today, the first edition of the report is published on [OpenSpending.org](http://openspending.org/resources/gift/index.html). It is also available for download as a PDF. Accompanying the report is a [project database](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dDBHNUJaWUFLQS1rNDY3YWFBcU5VQ0E&pli=1#gid=0) which contains many more projects that publish, analyse and demystify fiscal data. 
+Today, the first edition of the report is published on [OpenSpending.org](http://openspending.org/resources/gift/index.html). It is also available for download as a PDF. Accompanying the report is a [project database - bit.ly/TTAPF-projects ](https://bit.ly/TTAPF-projects) which contains many more projects that publish, analyse and demystify fiscal data. 
 
 The section on participatory budgeting deserves special mention. We discovered so many projects that they merited their own listing, which can be found [here](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dE9fZy02NEt2UGxPTnRQMTEzaUhTOGc#gid=4). As we go through, we are building up a catalog of government finance portals in [the 'finance' group of datacatalogs.org](http://datacatalogs.org/group/finance). There's still a lot of work to be done there, but the group already contains the portals mentioned in the report. 
 
