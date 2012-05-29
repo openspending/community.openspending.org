@@ -1,4 +1,10 @@
-Technology for Transparent and Accountable Public Finance
+--- 
+layout: post
+title: Technology for Transparent and Accountable Public Finance
+published: true
+type: post
+status: publish
+---
 
 In early March, we embarked on a project to map out projects which use [technology to further the aims of fiscal transparency, accountability and participation](http://openspending.org/blog/2012/03/12/technology-for-fiscal-transparency-where-next.html). Looking at government revenue, expenditure and off-budget information - we have attempted to identify projects from both governments and civil society which use innovative approaches to get, publish and track government expenditure. 
 
