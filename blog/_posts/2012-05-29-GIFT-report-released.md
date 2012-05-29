@@ -20,17 +20,17 @@ As our work continues, we'd love to maintain these connections and hear updates 
 
 ## A Couple of highlights - excerpts from the report
 
-> "Lack of information sharing affects civil servants and policy-makers -- not just those outside of government. This was highlighted in the OpenDataBC case study, where approximately one third of traffic to the citizen-facing data portal came from IP addresses within government"
+> * "Lack of information sharing affects civil servants and policy-makers -- not just those outside of government. This was highlighted in the OpenDataBC case study, where approximately one third of traffic to the citizen-facing data portal came from IP addresses within government"
 
-> “Data is not always actionable simply because it is available.”
+> * “Data is not always actionable simply because it is available.”
 
-> "Gaps: A standard for transaction level spending data?"
+> * "Gaps: A standard for transaction level spending data?"
 
-> "Civil society is often cited as the target users for transparency portals, as was the case for the [Sierra Leone Mining Repository](http://sierraleone.revenuesystems.org/login/auth). However, in reality, 65 % of the users of this platform are investors, donors and other governments, who have knowledge of complex legal terminology and sector-specifics."
+> * "Civil society is often cited as the target users for transparency portals, as was the case for the [Sierra Leone Mining Repository](http://sierraleone.revenuesystems.org/login/auth). However, in reality, 65 % of the users of this platform are investors, donors and other governments, who have knowledge of complex legal terminology and sector-specifics."
 
-> "Technology is not a fix-all. If a tool is to be successful, it will most likely target a specific aspect of the Participatory Budgeting-cycle. A strategy can target a particular part of the Participatory Budgeting process rather than being a super-app that will work at every stage."
+> * "Technology is not a fix-all. If a tool is to be successful, it will most likely target a specific aspect of the Participatory Budgeting-cycle. A strategy can target a particular part of the Participatory Budgeting process rather than being a super-app that will work at every stage."
 
-> "SMS technology has the possibility of reaching out to rural areas with limited internet access, as even those without internet connections often have mobile phones - experiments are currently underway into using mobiles as tools in social auditing."
+> * "SMS technology has the possibility of reaching out to rural areas with limited internet access, as even those without internet connections often have mobile phones - experiments are currently underway into using mobiles as tools in social auditing."
 
 Read about the highlights in context in the [Highlights, Gaps and Recommendations section](http://openspending.org/resources/gift/chapter1-3.html)
 
@@ -38,40 +38,21 @@ Read about the highlights in context in the [Highlights, Gaps and Recommendation
 
 See below for a quick overview of the contents: 
 
-### Chapter 1
-* [Introduction and Methodology](http://openspending.org/resources/gift/chapter1.html)
-* [Context](http://openspending.org/resources/gift/chapter1-2.html)
-* [Highlights, Gaps and Recommendations](http://openspending.org/resources/gift/chapter1-3.html)
-### Chapter 2
-[Publishing Fiscal Data: Government Perspectives](http://openspending.org/resources/gift/chapter2-intro.html)
-* [Out of the Box solution: CKAN in Data.Gov.UK](http://openspending.org/resources/gift/chapter2-1.html)
-* [DataBC Open Data Portal of British Columbia](http://openspending.org/resources/gift/chapter2-2.html)
-* [D-Brain in Korea: Digital budgeting and accounting system](http://openspending.org/resources/gift/chapter2-3.html)
-* [Brazilian Transparency Portal: Access to Information and Citizen Oversight](http://openspending.org/resources/gift/chapter2-4.html)
-### Chapter 3
-[Using Fiscal Data: Civil Society Perspectives](http://openspending.org/resources/gift/chapter3-intro.html)
-* [User testimonials](http://openspending.org/resources/gift/chapter3-1.html)
-### Chapter 4
-[Standards for Fiscal Data:  Towards an international framework](http://openspending.org/resources/gift/chapter4-intro.html)
-* [International Aid Transparency Initiative (IATI)](http://openspending.org/resources/gift/chapter4-1.html)
-* [International Financial Reporting Standards (XBRL)](http://openspending.org/resources/gift/chapter4-intro.html)
-### Chapter 5
-[Case Studies - Where Does the Money Come From?](http://openspending.org/resources/gift/chapter5-intro.html)
-* [Government of Sierra Leone GoSL: Online Repository for Ministry of Mines and Mineral Resources](http://openspending.org/resources/gift/chapter5-1.html)
-* [Revenues from Oil and Mining - Revenue Watch](http://openspending.org/resources/gift/chapter5-2.html)
-### Chapter 6
-* [Case Studies - Where Does the Money Go?](http://openspending.org/resources/gift/chapter6-intro.html)
-* [ClearSpending from the Sunlight Foundation](http://openspending.org/resources/gift/chapter6-1.html)
-* [The Media and Fiscal Data: How do we get fiscal data into the public eye?](http://openspending.org/resources/gift/chapter6-2.html)
-* [Deciding where the money goes: Participatory Budgeting](http://openspending.org/resources/gift/chapter6-3.html)
-* [Mini atlases for participatory budgeting: Solo Kota Kita (English: Solo, Our City)](http://openspending.org/resources/gift/chapter6-4.html)
-* [Balance your City’s Budget - Citizens Budget, Open North](http://openspending.org/resources/gift/chapter6-5.html)
-* [Mobile-Enhanced Participatory Budgeting, the World Bank](http://openspending.org/resources/gift/chapter6-6.html)
-### Chapter 7 
-* [Case Studies - The Invisible Money](http://openspending.org/resources/gift/chapter7-intro.html)
-* [From fractions to millions: Challenging corruption using mobile phones](http://openspending.org/resources/gift/chapter7-1.html)
-### Chapter 8 
-* [Putting the Parts Together, OpenSpending and Publish What You Fund](http://openspending.org/resources/gift/chapter8-intro.html)
+### [Chapter 1 - Introduction and Methodology](http://openspending.org/resources/gift/chapter1.html)
+
+### [Chapter 2 - Publishing Fiscal Data: Government Perspectives](http://openspending.org/resources/gift/chapter2-intro.html)
+
+### [Chapter 3 - Using Fiscal Data: Civil Society Perspectives](http://openspending.org/resources/gift/chapter3-intro.html)
+
+### [Chapter 4 - Standards for Fiscal Data:  Towards an international framework](http://openspending.org/resources/gift/chapter4-intro.html)
+
+### [Chapter 5 - Case Studies - Where Does the Money Come From?](http://openspending.org/resources/gift/chapter5-intro.html)
+
+### [Chapter 6 - Case Studies - Where Does the Money Go?](http://openspending.org/resources/gift/chapter6-intro.html)
+
+### [Chapter 7 - Case Studies - The Invisible Money](http://openspending.org/resources/gift/chapter7-intro.html)
+
+### [Chapter 8 - Putting the Parts Together, OpenSpending and Publish What You Fund](http://openspending.org/resources/gift/chapter8-intro.html)
 ### [Final Observations and Review](http://openspending.org/resources/gift/chapter9-intro.html)
 ### [Further Resources](http://openspending.org/resources/gift/bibliography.html)
 ### [Appendix](http://openspending.org/resources/gift/chapter10-intro.html)
