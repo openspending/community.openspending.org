@@ -12,6 +12,7 @@ We have tried to highlight specific roles which GIFT could play in promoting the
 
 <div style="width:425px" id="__ss_12607771"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/lucyfedia/gift-presentation-12607771" title="Gift presentation" target="_blank">Gift presentation</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/12607771" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/lucyfedia" target="_blank">Lucy Chambers</a> </div> </div>
 
+<<<<<<< HEAD
 ## More about the project
 
 Looking at government revenue, expenditure and off-budget information - we have attempted to identify projects from both governments and civil society which use innovative approaches to: 
@@ -23,6 +24,9 @@ Looking at government revenue, expenditure and off-budget information - we have 
 * Provide policymakers with complete and reliable data relevant to their work, enabling them to make better decisions.
 
 We focussed in particular on the questions 'Who are the users?' and examined their motivations for getting involved, the scalability and applicability of given solutions to other contexts. The report also aims to highlight gaps - which pieces are missing which prevent people taking up these tools?
+=======
+Today, v 1.0  of the report is being made available on OpenSpending.org and is also available for download as a PDF. Accompanying the report is a [project database - bit.ly/TTAPF-projects ](https://bit.ly/TTAPF-projects) which contains many more projects which publish, analyse and demystify fiscal data. One particular section deserves special mention, the section on participatory budgeting, for which we found so many projects that they merited their own dataset, which can be found [here](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dE9fZy02NEt2UGxPTnRQMTEzaUhTOGc#gid=4). As we go through, we are building up a catalog of government finance portals in [the 'finance' group of datacatalogs.org](http://datacatalogs.org/group/finance) - there's still a lot of work to be done there, but the group already contains the portals mentioned in the report. 
+>>>>>>> Changed the link to the appendix as bit.ly
 
 ## Report now available online
 
