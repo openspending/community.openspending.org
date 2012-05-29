@@ -6,17 +6,29 @@ type: post
 status: publish
 ---
 
-In early March, we embarked on a project to map out projects which use [technology to further the aims of fiscal transparency, accountability and participation](http://openspending.org/blog/2012/03/12/technology-for-fiscal-transparency-where-next.html). Looking at government revenue, expenditure and off-budget information - we have attempted to identify projects from both governments and civil society which use innovative approaches to get, publish and track government expenditure. 
+In early March, we embarked on a project - Technology for Transparent and Accountable Public Finance- to map out projects which use [technology to further the aims of fiscal transparency, accountability and participation](http://openspending.org/blog/2012/03/12/technology-for-fiscal-transparency-where-next.html). Today, we are happy to announce the official release of the report. Preliminary findings were presented at last month's [GIFT](http://fiscaltransparency.net/) meeting and over the last month, we've been building on the comments, follow-up questions and feedback from the session. 
 
-We focussed in particular focus on the questions 'Who are the users?' and examined their motivations for getting involved, the scalability and applicability of given solutions to other contexts. The report also aims to highlight gaps - which pieces are missing which prevent people taking up these tools?
-
-The findings were presented at last month's [GIFT](http://fiscaltransparency.net/) meeting and over the last month, we've been integrating the comments, follow-up questions and feedback from the session. We have tried to highlight specific roles which GIFT could play in promoting the good practice requirements of the report. The slides from the session can be found below:
+We have tried to highlight specific roles which GIFT could play in promoting the good practice requirements of the report. The slides from the session can be found below:
 
 <div style="width:425px" id="__ss_12607771"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/lucyfedia/gift-presentation-12607771" title="Gift presentation" target="_blank">Gift presentation</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/12607771" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/lucyfedia" target="_blank">Lucy Chambers</a> </div> </div>
 
-Today, v 1.0  of the report is being made available on OpenSpending.org and is also available for download as a PDF. Accompanying the report is a [project database](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dDBHNUJaWUFLQS1rNDY3YWFBcU5VQ0E&pli=1#gid=0) which contains many more projects which publish, analyse and demystify fiscal data. One particular section deserves special mention, the section on participatory budgeting, for which we found so many projects that they merited their own dataset, which can be found [here](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dE9fZy02NEt2UGxPTnRQMTEzaUhTOGc#gid=4). As we go through, we are building up a catalog of government finance portals in [the 'finance' group of datacatalogs.org](http://datacatalogs.org/group/finance) - there's still a lot of work to be done there, but the group already contains the portals mentioned in the report. 
+## More about the project
 
-As our work continues, we'd love to maintain these connections and hear updates from the projects and learn about new projects. If you have come across an interesting project and think we should feature it, [please let us know](mailto: info@openspending.org)! 
+Looking at government revenue, expenditure and off-budget information - we have attempted to identify projects from both governments and civil society which use innovative approaches to: 
+
+* Publish more or better data related to fiscal processes (aid, revenues, budgets, audits, etc. -- see below),
+* Help understand this data through the creation of better visualisation and data analysis tools,
+* Educate citizens about fiscal processes, and assist civil society organisations promoting accountable governance,
+* Facilitate direct participation in fiscal matters through participatory budgeting, citizen auditing and the like,
+* Provide policymakers with complete and reliable data relevant to their work, enabling them to make better decisions.
+
+We focussed in particular on the questions 'Who are the users?' and examined their motivations for getting involved, the scalability and applicability of given solutions to other contexts. The report also aims to highlight gaps - which pieces are missing which prevent people taking up these tools?
+
+## Report now available online
+
+Today, v 1.0  of the report is being made available on [OpenSpending.org](http://openspending.org/resources/gift/index.html) and is also available for download as a PDF. Accompanying the report is a [project database](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dDBHNUJaWUFLQS1rNDY3YWFBcU5VQ0E&pli=1#gid=0) which contains many more projects which publish, analyse and demystify fiscal data. One particular section deserves special mention, the section on participatory budgeting, for which we found so many projects that they merited their own dataset, which can be found [here](https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dE9fZy02NEt2UGxPTnRQMTEzaUhTOGc#gid=4). As we go through, we are building up a catalog of government finance portals in [the 'finance' group of datacatalogs.org](http://datacatalogs.org/group/finance) - there's still a lot of work to be done there, but the group already contains the portals mentioned in the report. 
+
+As our work continues, we'd love to maintain these connections and hear updates from the projects and learn about new projects. If you have come across an interesting project and think we should feature it, [please let us know](mailto:gift-report@okfn.org)! 
 
 ## A Couple of highlights - excerpts from the report
 
