@@ -6,6 +6,9 @@ layout: gift
 
 ## The Media and Fiscal Data: How do we get fiscal data into the public eye?
 
+![Europe's Missing Millions from the Bureau of Investigative Journalism](http://farm9.staticflickr.com/8157/7295526880_5f5db8d268_o.png)
+
+
 One of the key promises of open data is that it can be used by journalists to get a clear, evidence-based picture of government action, in particular by using fiscal information to track budgetary priorities, contractual commitments and patterns of spending. As part of the OpenSpending project, the Open Knowledge Foundation is working closely with journalists to develop tools which aim to make financial data released by governments accessible and usable in a journalistic context. We are regularly approached by journalists asking for advice on where to find information on a particular aspect of government spending. In this section, we highlight a couple of our experiences from building these tools, and document some anecdotes from other organisations who have had varying degrees of success with reaching out to the media.
 
 As a part of this project (Spending Stories), we identified the following challenges:

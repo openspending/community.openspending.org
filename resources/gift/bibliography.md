@@ -23,7 +23,7 @@ layout: gift
 
 * *International Budget Partnership, 2010*. **Open Budgets Transform Lives: Open Budget Survey**, Available at: <http://internationalbudget.org/wp-content/uploads/2011/06/2010_Full_Report-English.pdf>.
 
-* *Kuriyan, Renee; Bailur, Savita; Gigler Bjorn-Soren and Park, K.R., 2011*. **Technologies for Transparency and Accountability-Implications for ICT Policy and Implementation**, (DRAFT) Open Development Technology Alliance, The World Bank.
+* *Kuriyan, Renee; Bailur, Savita; Gigler Bjorn-Soren and Park, K.R., 2011*. **Technologies for Transparency and Accountability-Implications for ICT Policy and Implementation**, (DRAFT) Open Development Technology Alliance, The World Bank, Available at: <http://scr.bi/wb-report-draft>.
 
 * *Lennox, D.*, **M-PESA Agent Anti Money Laundering Procedure**, pp.1-9, Available at <http://bit.ly/m-pesa-money-laundering>
 

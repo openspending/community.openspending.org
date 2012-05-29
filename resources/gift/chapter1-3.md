@@ -166,7 +166,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 * Social audits using technology offer a possibility of close to real-time feedback and reporting.
 * Technology, e.g. mobile, can help transform traditional labour-intensive social auditing practices, which gives a possibility to scale-up corruption monitoring.
-* SMS technology has the possibility of reaching out to rural areas with limited internet access.
+* SMS technology has the possibility of reaching out to rural areas with limited Internet access.
 * Many of the projects featured in this section rely on sub-national level data to function: It is at local and regional level that many of the services from which citizens benefit most tangibly  are delivered e.g. infrastructure, healthcare, schooling.
 * Another type of data, which could be key for stimulating citizen feedback on an individual level, is data on personal entitlements, which might motivate citizens to provide feedback on whether they received their personal allowance.
 
@@ -187,7 +187,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
         <li>Promote the release of sub-national data, as well as national level</li>
         <li>Keep looking for projects working in this area and connecting people. To our knowledge, there is no comprehensive central database of all transparency and accountability initiatives using technology to promote fiscal transparency as well as NGOs working in this field. The appendix at the end of this report represents a start, but a larger-scale, community effort will be required to keep this up to date.</li>
         <li>Keep talking. Consider a role for a Global Financial Transparency Coordinator. During this research, we spent a lot of time organising meetings. We need to make sure these important discussions continue to take place and the networks continue to be built and a coordinator could help to catalyse this.</li>
-        <li>Based on the feedback from meetings, refine and upkeep a online, collaborative catalogue of options which can guide governments about existing solutions and experiences. Draw on advice from expert groups in participatory budgeting such as the [PB Unit](http://www.participatorybudgeting.org.uk/) or the [Participatory Budgeting Project](http://www.participatorybudgeting.org/).</li>
+        <li>Based on the feedback from meetings, refine and upkeep a online, collaborative catalogue of options which can guide governments about existing solutions and experiences. </li>
     </ul>
 </div>  
         

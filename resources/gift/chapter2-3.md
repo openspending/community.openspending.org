@@ -54,7 +54,7 @@ The top-ranking e-Government nation according to the e-Government Development In
 
 More than a data portal, D-Brain is a web-based participatory budgeting system, which ensures citizens’ participation throughout the entire budget cycle from budget preparation to audit. D-Brain was covered in detail by Gigler et al. (2011) in their report ‘Technologies for Transparency and Accountability: Implications for ICT Policy and Administration’ and as such, we will not replicate the same research. A couple of key points from their research are highlighted below. 
 
-### Overview of Features (see Gigler et al.)
+### Overview of Features (see [Gigler et al.](http://scr.bi/wb-report-draft))
  
 1. Integrated web-based system providing the public with real time analysis on government’s fiscal activities including budget formulation, execution, account settlement and performance management. 
 2. Participatory budgeting where the central government, local governments, public institutions and the public collaboratively decide on the allocation of resources and participate in nationwide fiscal decision making. 

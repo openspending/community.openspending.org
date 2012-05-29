@@ -32,14 +32,15 @@ The statements below all come from re-users of fiscal data outside of government
 ### Bulgaria: Developing a visualisation of the Bulgarian budget using OpenSpending.org 
 
 > Interesting Documents: 
-1. State Budget - Published as a PDF containing the budget law - very ugly. For the OpenSpending budget visualization I made, I had to parse the consolidated financial framework. [Level of detail is not sufficient] I would like to dig down to each expense. 
-2. Public Procurement Information - Published on a website - can be parsed. [Data is very timely] no more than a day or two delay. 
-3. State Audit Agency reports - Published on a website - can be parsed. Financial data on various topics of interest like: election financing, property of the public figures, political donations, party finances and other very, very interesting datasets. [Regarding timeliness] Periodic, they are ok with the terms. 
-4. Company register - Detailed information about all companies in Bulgaria way more detailed than is public in UK. [Unfortunately] Data is behind paywall - 15 000 euros/year, there is an API included in the same 15 000 euros/year cost. [Information is] very timely, updated every moment. 
+>
+> 1. State Budget - Published as a PDF containing the budget law - very ugly. For the OpenSpending budget visualization I made, I had to parse the consolidated financial framework. [Level of detail is not sufficient] I would like to dig down to each expense. 
+> 2. Public Procurement Information - Published on a website - can be parsed. [Data is very timely] no more than a day or two delay. 
+> 3. State Audit Agency reports - Published on a website - can be parsed. Financial data on various topics of interest like: election financing, property of the public figures, political donations, party finances and other very, very interesting datasets. [Regarding timeliness] Periodic, they are ok with the terms. 
+> 4. Company register - Detailed information about all companies in Bulgaria way more detailed than is public in UK. [Unfortunately] Data is behind paywall - 15 000 euros/year, there is an API included in the same 15 000 euros/year cost. [Information is] very timely, updated every moment. 
 
 ### Croatia: Institute of Public Finance 
 
-> “MoF (Ministry of Finance http://www.mfin.hr/) web has a lot of interesting data [...] probably too rich, more fit for experts than for citizens or journalists. [...] State Auditing Office (http://www. revizija.hr/hr/) claims that it puts all their reports on their web, but they don’t keep them there.” 
+> “MoF ([Ministry of Finance](http://www.mfin.hr/)) web has a lot of interesting data [...] probably too rich, more fit for experts than for citizens or journalists. [...] [State Auditing Office](http://www. revizija.hr/hr/) claims that it puts all their reports on their web, but they don’t keep them there.” 
 
 ### Estonia: Making budgets understandable for citizens 
 

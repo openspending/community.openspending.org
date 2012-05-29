@@ -7,7 +7,7 @@ layout: gift
 
 ### Introduction
 
-This report, “Technology for Transparent and Accountable Public Finance”, was commissioned by the Global Initiative on Fiscal Transparency (GIFT) in February 2012 in order to assist the GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities. 
+This report, “Technology for Transparent and Accountable Public Finance”, was commissioned by the Global Initiative for Fiscal Transparency (GIFT) in February 2012 in order to assist the GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities. 
 
 This reports provides examples of projects around the world that are using technology (web, mobile or otherwise) to further aims of fiscal transparency. We focused on projects which: 
 

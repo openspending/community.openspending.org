@@ -45,7 +45,7 @@ layout: gift
 	</tr>
     <tr>
         <th class="inner">URL</th>
-        <td colspan="2"><a href="http://openspending.org">http://openspending.org</a>(OpenSpending site), <a href="http://bitly.com/uganda-example">http://bitly.com/uganda-example</a> 
+        <td colspan="2"><a href="http://openspending.org">http://openspending.org</a> (OpenSpending site)  <a href="http://bitly.com/uganda-example">http://bitly.com/uganda-example</a> 
 	</td>
     </tr>
     <tr>

@@ -53,6 +53,8 @@ layout: gift
     </tr>
 </table>
 
+![SKK Image](http://farm8.staticflickr.com/7231/7295628522_e2dce3fc25_o.png)
+
 ### Background
 
 In 2001, Indonesia underwent ambitious decentralization programs. The "big bang" reforms devolved political, administrative and economic power to smaller administrative units, and local actors took over management of municipal infrastructure and systems. Against this backdrop, the national as well as local governments developed and supported new planning processes that sought to increase community participation in government decision-making.

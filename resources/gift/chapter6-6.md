@@ -55,7 +55,7 @@ Mobile Voting has also taken place without the Bank in: Ipatinga Brazil, La Plat
 </tr>
 <tr>
     <th class="inner">Source Document</th>
-    <td colspan="2">This section contains excerpts from [Estefan and Weber’s short article](http://bit.ly/ITseQN)</td>
+    <td colspan="2">This section contains excerpts from <a href="http://bit.ly/ITseQN">Estefan and Weber’s short article</a></td>
 </tr>
 
 </table>
@@ -70,15 +70,15 @@ The World Bank played the role of facilitator in a number of spheres for the pro
 
 ICT4Gov is using mobile phones for four purposes:
 
-1. To invite citizens to participate offline in participatory budgeting assemblies through geo-targeted SMS messages. These messages, reaching all the phones receiving signal from a particular tower, announce the date, time and location of the assemblies.
+* To invite citizens to participate offline in participatory budgeting assemblies through geo-targeted SMS messages. These messages, reaching all the phones receiving signal from a particular tower, announce the date, time and location of the assemblies.
 
 Besides the blanket approach, the Bank is also experimenting with manually collecting phone numbers (this was done in the Dominican Republic). When collecting numbers, it is also possible to collect basic information about the person in question, such as their gender, and the neighbourhood they live in, so that targeted messages can be sent out (e.g. low attendance rates from women can be counteracted by sending invites just to women.) So far, the Bank have sent around 2000 messages this way compared to 300,000 through the blanket approach.
 
-2. Mobile phones were also used for voting (DRC), allowing the citizens to send a text to identify which of the priorities they would like to see addressed in their community. This is being trialled in a controlled environment at the in-person meetings. This ensures that citizens are present throughout the discussions and so are able to make informed decisions. During meetings, the participants rank their priorities on a scale of 1-4. This makes meetings more efficient as counting is done electronically and feedback can be monitored. In the Dominican Republic participants had the option to vote remotely.
+*  Mobile phones were also used for voting (DRC), allowing the citizens to send a text to identify which of the priorities they would like to see addressed in their community. This is being trialled in a controlled environment at the in-person meetings. This ensures that citizens are present throughout the discussions and so are able to make informed decisions. During meetings, the participants rank their priorities on a scale of 1-4. This makes meetings more efficient as counting is done electronically and feedback can be monitored. In the Dominican Republic participants had the option to vote remotely.
 
-3. As an announcement service to communities to broadcast the the result of the vote, making the process more transparent and inclusive.
+* As an announcement service to communities to broadcast the the result of the vote, making the process more transparent and inclusive.
 
-4. For feedback on the projects that were chosen. Through text messages, citizens are able to offer feedback and monitor the projects.
+* For feedback on the projects that were chosen. Through text messages, citizens are able to offer feedback and monitor the projects.
 
 ![Perception DR](http://farm8.staticflickr.com/7245/7272472242_b6fddae950_o.png)
 

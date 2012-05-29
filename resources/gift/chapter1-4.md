@@ -3,6 +3,8 @@ title: Key to Case Study Icons
 layout: gift
 ---
 
+The icons below are used as a quick overview for the projects listed in this report. You will find them arranged in a row at the top of each case study.
+
 
 ## Fiscal Scope
 
