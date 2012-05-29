@@ -10,7 +10,7 @@ In early March, we embarked on a project - Technology for Transparent and Accoun
 
 We have tried to highlight specific roles which GIFT could play in promoting the good practice requirements of the report. The slides from the session can be found below:
 
-<div style="width:425px" id="__ss_12607771"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/lucyfedia/gift-presentation-12607771" title="Gift presentation" target="_blank">Gift presentation</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/12607771" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/lucyfedia" target="_blank">Lucy Chambers</a> </div> </div>
+<div style="width:425px" id="__ss_12607771"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/lucyfedia/gift-presentation-12607771" title="Gift presentation" target="_blank">Gift presentation</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/12607771" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen></iframe> </div>
 
 <<<<<<< HEAD
 ## More about the project
