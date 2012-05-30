@@ -52,9 +52,9 @@ Below are numerous recommendations related to the role of all parties including 
 
 ### GIFT: Recap
 
-First and foremost, we see GIFT as being in a strong position to foster data release. It should be appreciated that data release, by its nature, is generative: it is nearly impossible to predict what people will want or be able to build when data is made both available and usable. 
+First and foremost, we see GIFT as being in a strong position to foster technical standards and best practices regarding fiscal transparency. It should be appreciated that especially the release of data, by its nature, is generative: it is nearly impossible and undesirable to predict what people will want or be able to build when data is made both available and usable. Such outcomes should be specific to each country, addressing its political and technical landscape.
 
-Hence, in this report, we have attempted to highlight case studies which are experimental in their nature. We hope that GIFT will be instrumental in supporting experimental projects and promoting discourse between governments and civil society in this area.  
+Hence, in this report, we have attempted to highlight case studies which are experimental in their nature. We hope that GIFT will be instrumental in supporting further such experimental projects and promoting discourse between governments and civil society in this area.  
 
 ### Promote Open Data as the Raw Fuel for Technology
 
