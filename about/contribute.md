@@ -3,10 +3,6 @@ layout: meta
 title: Get involved
 ---
 
-TODO: Lucy?
-
-
-
 ## Contribute to the platform
 
 Of course, OpenSpending is an [open source](http://www.gnu.org/licenses/agpl.html) 
