@@ -67,28 +67,28 @@ GIFT's role in this process, could be to promote a community of good-practice, b
 
 * Promote publication of key budget information as machine-readable data. Work with organisations such as the International Budget Partnership to include a related criterion in the Open Budget Survey. Set up online webinars / workshops showing how data is used after its publication.
 
-* Work closely with other initiatives, such as the Open Government Partnership, to promote release of datasets which are key to contextualising financial data, such as economic indicators or data related to national procurement.
+* Work closely with other initiatives, such as the Open Government Partnership, to promote release of datasets which are key to contextualising financial data, such as economic indicators or procurement data.
 
 * Promote the release of sub-national data, perhaps via local partners, as well as national level.
 
 #### Technology Outreach and Idea Sharing
 
-* Promote experience sharing between governments e.g. through workshops so that governments with a history of publishing documents, participation etc. can share information on their motivations, incentives and lessons learned.
+* Promote experience sharing between governments e.g. through workshops so that governments can share information on their motivations, incentives and lessons learned in using technology to promote transparency, accountability and participation.
 
-* Help governments with their web-publishing practices e.g. through consultation sessions. If a government finance department already has a website, half the job is done. Encourage governments to use these web services to make data discoverable.
+* Help governments with their web-publishing practices e.g. through consultation sessions. Encourage governments to use existing web services to make data discoverable - if governments already have websites, they are most of the way there to being able to publish the information.
 
-* Make use of the GIFT address book and further extend it e.g. by holding open-consultation sessions with key civil society actors, allowing interested actors to come forward, and providing valuable domain-specific experience. Such actors could form advisory-panels on particular topics e.g. company data.
-
-* Make use of the GIFT address book and further extend it e.g. by holding open-consultation sessions with key civil society actors, allowing interested actors to come forward, and providing valuable domain-specific experience. Such actors could form advisory-panels on particular topics e.g. company data.
+* Involve civil society actors who use data and services provided by governments, to review and share ideas about existing and planned initiatives. Such actors could form advisory-panels on particular topics e.g. company data.
 
 #### Technology Review
 
-* Review existing projects and and solutions. To our knowledge, there is no database of all transparency and accountability initiatives using technology to promote fiscal transparency as well as NGOs working in this field. The appendix at the end of this report represents a start, but a larger-scale, community effort will be required to keep this up to date. 
+* Review existing projects and and solutions from the point of view of both governments and civil society actors.[Civic Commons Marketplace](http://civiccommons.org/apps) as well as the [appendix](http://bit.ly/TTAPF-projects), but a larger-scale, community effort will be required to keep this up to date. 
+
+* Based on feedback from the above refine and maintain an online, collaborative catalogue of technical and policy options (perhaps as a wiki) which can guide governments about existing solutions and experiences.
 
 #### Technology Sharing
 
-* Refine and maintain an online, collaborative catalogue of technical and policy options (perhaps as a wiki) which can guide governments about existing solutions and experiences.
+* Promote the use of promising projects from the Technology Review stage. Liaise with funding bodies to ensure open-source solutions are available for all. 
 
-* Keep talking. Consider a role for a Financial Transparency Coordinator. During this research, we spent a lot of time organising meetings aside from the time we spent interviewing. We need to make sure these important discussions continue to take place and the networks continue to be built and a coordinator could help to catalyse this.
+
 
 <div class="pull-right"><a class="btn btn-default btn-mini" href="chapter10-intro.html">Next &raquo;</a></div>
