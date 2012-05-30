@@ -33,7 +33,7 @@ Andrew Cameron, Denis Frezzato, John Caserta, Marwa Boukarim, Øystein W. Arbo, 
 
 This is the first edition of the Technology for Transparent and Accountable Public Finance Report
 
-*First Published April 2012*
+*First Published May 2012*
 
 This is a report by: 
 
