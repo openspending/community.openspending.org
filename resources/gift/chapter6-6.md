@@ -44,10 +44,6 @@ Mobile Voting has also taken place without the Bank in: Ipatinga Brazil, La Plat
 	        <th class="inner">Scope</th>
 	        <td colspan="2">Local government</td>
 	</tr>
-	    <tr>
-        <th class="inner">URL</th>
-        <td colspan="2"><a href="http://citizenbudget.com/">http://citizenbudget.com/</a></td>
-    </tr>
     <tr>
         <th class="inner">Users/Audiences</th>
         <td colspan="2">Individual citizens</td>
@@ -80,7 +76,9 @@ Besides the blanket approach, the Bank is also experimenting with manually colle
 
 * For feedback on the projects that were chosen. Through text messages, citizens are able to offer feedback and monitor the projects.
 
-![Perception DR](http://farm8.staticflickr.com/7245/7272472242_b6fddae950_o.png)
+![Perception DR](http://farm8.staticflickr.com/7245/7272472242_28b8506119.jpg)
+<br></br>
+<small>Voters in the Dominican Republic were asked how they felt about having the option to vote remotely via SMS.</small>
 
 ### Project Resources
 
@@ -107,8 +105,11 @@ There are 1500 cities around the world where participatory budgeting already tak
 3. The preliminary results of an external evaluation suggest that an increase of tax collection at the local level has been associated with the implementation of participatory budgeting. This is based upon testimonials offered by officials and numbers collected with the municipalities. However, given the high number of potential exogenous factors that could have contributed to this result, further assessment should be done before claiming a causal relationship. For the first time, communities such as Ibanda have gone from not having any investment budget to having 40% of their budget devoted to investments. In 2011, the Ministry of the Budget started the process of institutionalisation of Participatory Budgeting in the Province.
 4. The increase in the transfer of funds from the provincial to the local level has benefited communities, which now have more resources to deliver public services to the poor. For instance, the process has made it possible to begin repairing 54 classrooms and a bridge in Luhindja, to create a health centre and repair the sewage system in Bagira, and to build a water fountain as well as toilets in local markets in Ibanda.
 
-![Find out 1](http://farm9.staticflickr.com/8164/7272472560_8927543833_o.png)
-![Find out 2](http://farm9.staticflickr.com/8017/7272472430_cea740fd6d_o.png)
+![Find out 1](http://farm9.staticflickr.com/8164/7272472560_e4338cbdd7.jpg)
+![Find out 2](http://farm9.staticflickr.com/8017/7272472430_f6ee268408.jpg)
+<p>
+<small>Participants in the Dominican Republic were asked how they had found out about the meeting. </small>
+</p>
 
 ### Challenges
 

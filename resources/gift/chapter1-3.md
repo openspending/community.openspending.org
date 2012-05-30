@@ -36,6 +36,7 @@ In [this section](chapter2-intro.html) we examine four government data portals f
 
 <div class="well homework">
     <strong>GIFT Actions: Promoting Open Data as the Raw Fuel for Technology</strong>
+    <br></br>
     <ul>
         <li>Members of GIFT should themselves ensure - whether they are national governments or international organisations - that they publish their fiscal and other financial information in full and in machine-readable formats.</li>
         <li>Promote publication of key budget information as machine-readable data. Work with organisations such as the International Budget Partnership to include a related criterion in the Open Budget Survey. Set up online webinars / workshops showing how data is used after its publication.</li> 
@@ -82,6 +83,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 <div class="well homework">
     <strong>GIFT Actions: Technology Outreach and Idea Sharing</strong>
+    <br></br>
     <ul><li>Promote experience sharing between governments through workshops and forums in existing social media platforms. Governments need to share the lessons learned in using technology to promote transparency, accountability and participation across different countries.</li>
         <li>Involve civil society actors who use data and services provided by governments, to review and share ideas about existing and planned initiatives. Such actors could form advisory-panels on particular topics e.g. company data.</li>
         <li>Create a well-maintained index of existing initiatives both an the demand and supply side, including methods of data release, re-use and presentation, discussion or activism enabled by such information.</li>
@@ -130,6 +132,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 <div class="well homework">
     <strong>GIFT Actions: Technology Review</strong>
+    <br></br>
     <ul><li>Review existing projects and and solutions from the point of view of both governments and civil society actors. <a href="http://civiccommons.org/apps">Civic Commons Marketplace</a> as well as the <a href="http://bit.ly/TTAPF-projects">appendix</a>, but a larger-scale, community effort will be required to keep this up to date.</li>
         <li>Based on feedback from the above refine and maintain an online, collaborative catalogue of technical and policy options (perhaps as a wiki) which can guide governments about existing solutions and experiences. 
         </li></ul>
@@ -145,7 +148,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 * Enter standardisation process, beginning with core taxonomies. Additional work on aligning ‘spines’ of data e.g. mapping IATI data onto COFOG compliant budgets.
 * Geocode data using re-usable, openly licensed coding services to avoid inclusion of proprietary IP.
-* Begin using globally unique URIs for companies and other organizations, government bodies, and projects.
+* Begin using globally unique URIs for companies and other organisations, government bodies, and projects.
 * Critically evaluate the options for re-using IATI or XBRL formats rather than creating new standards specifically for transaction level spending data. Explore options for format convertibility.
 
 **Ideal Scenario**
@@ -189,6 +192,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 <div class="well homework">
     <strong>GIFT Actions: Technology Sharing</strong>
+    <br></br>
     <ul>
         <li>Promote the use of promising projects from the Technology Review stage. Liaise with funding bodies to ensure open-source solutions are available for all. </li>
     </ul>

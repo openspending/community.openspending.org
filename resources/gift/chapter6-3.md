@@ -92,7 +92,7 @@ This section highlights existing initiatives which take advantage of the opportu
 
 #### Raising additional funds
 
-* Very few [Kickstarter](http://www.kickstarter.com/)/[Pledgebank](http://www.pledgebank.com/)- style applications exist for publicly funded projects, however this approach has been incredibly successful in crowdsourcing support for non-governmental projects via the internet[15]. One of the few attempts to do something similar is: [Leih Deiner Stadt Geld](https://www.leihdeinerstadtgeld.de/) in Germany, this works by encouraging people to invest in their city.
+* Very few [Kickstarter](http://www.kickstarter.com/)/[Pledgebank](http://www.pledgebank.com/)- style applications exist for publicly funded projects, however this approach has been incredibly successful in crowdsourcing support for non-governmental projects via the internet. One of the few attempts to do something similar is: [Leih Deiner Stadt Geld](https://www.leihdeinerstadtgeld.de/) in Germany, this works by encouraging people to invest in their city.
 
 #### Increasing Budget Literacy
 
