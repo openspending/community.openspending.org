@@ -130,7 +130,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 <div class="well homework">
     <strong>GIFT Actions: Technology Review</strong>
-    <ul><li>Review existing projects and and solutions from the point of view of both governments and civil society actors.[Civic Commons Marketplace](http://civiccommons.org/apps) as well as the [appendix](http://bit.ly/TTAPF-projects), but a larger-scale, community effort will be required to keep this up to date.</li>
+    <ul><li>Review existing projects and and solutions from the point of view of both governments and civil society actors. <a href="http://civiccommons.org/apps">Civic Commons Marketplace</a> as well as the <a href="http://bit.ly/TTAPF-projects">appendix</a>, but a larger-scale, community effort will be required to keep this up to date.</li>
         <li>Based on feedback from the above refine and maintain an online, collaborative catalogue of technical and policy options (perhaps as a wiki) which can guide governments about existing solutions and experiences. 
         </li></ul>
 </div>
