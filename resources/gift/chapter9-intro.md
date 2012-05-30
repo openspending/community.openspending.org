@@ -25,10 +25,6 @@ We have already highlighted specific recommendations in individual sections, and
 Below are numerous recommendations related to the role of all parties including governments, civil society organisations and multi-stakeholder initiatives such as GIFT. 
 
 
-### All Parties: 
-
-* Work towards a simple standard for spending data (see attached TOR) 
-
 ### Governments: 
 
 * Promote the use of simple, machine-readable formats which can significantly increase the usefulness of data 
