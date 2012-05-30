@@ -56,7 +56,7 @@ First and foremost, we see GIFT as being in a strong position to foster technica
 
 Hence, in this report, we have attempted to highlight case studies which are experimental in their nature. We hope that GIFT will be instrumental in supporting further such experimental projects and promoting discourse between governments and civil society in this area.  
 
-### Promote Open Data as the Raw Fuel for Technology
+#### Promote Open Data as the Raw Fuel for Technology
 
 * Members of GIFT should themselves ensure - whether they are national governments or international organisations - that they publish their fiscal and other financial information in full and in machine-readable formats.
 
