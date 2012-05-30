@@ -18,7 +18,7 @@ layout: nil
       <link>http://openspending.org{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>OpenSpending Team</author>
-      <guid>http://openspeding.org{{ post.id }}</guid>
+      <guid>http://openspending.org{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
