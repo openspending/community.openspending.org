@@ -31,7 +31,6 @@ Below are numerous recommendations related to the role of all parties including 
 
 ### Governments: 
 
-
 * Promote the use of simple, machine-readable formats which can significantly increase the usefulness of data 
 * Make sure that all fiscal data is released under a proper open license (i.e. one that conforms to [the Open Definition](http://opendefinition.org/))
 * Support and partner with civil society projects to assess whether existing, open-source tools will serve the purpose desired, before looking to create new ones
@@ -40,13 +39,11 @@ Below are numerous recommendations related to the role of all parties including 
 * Make sure technology does not become a substitute for face-to-face contact. Many important parts of the PB process happen offline. Technology is a useful complement to offline channels of communication and participation, but is not a substitute.
 * Examine structured data formats for drafting legislation and tabling amendments
 
-
 ### Technical Specialists 
  
 * Look into ways to make it easier for governments to make data available from the data management systems they already work with - do they have APIs? can they easily pull out reports from their accounting system (e.g. an ‘export report for press’ option)? 
 
 ### Civil Society Organisations & Private Sector
-
 
 * Re-publish data they have derived and added value to. 
 * Work on capacity building and data literacy: Are all necessary skills being fostered to maintain technical solutions? For example, is an intern relied on to load new data or do all members of staff know the standards and processes required to do it? 
@@ -63,21 +60,23 @@ GIFT's role in this process, could be to promote a community of good-practice, b
 
 ### Promote Open Data as the Raw Fuel for Technology
 
-* Members of the GIFT should themselves ensure - whether they are national governments or international organizations - that they publish their fiscal and other financial information in full and in machine-readable formats.
+* Members of GIFT should themselves ensure - whether they are national governments or international organizations - that they publish their fiscal and other financial information in full and in machine-readable formats.
 
 * Promote publication of key budget information as machine-readable data. Work with organisations such as the International Budget Partnership to include a related criterion in the Open Budget Survey. Set up online webinars / workshops showing how data is used after its publication.
 
-* Work closely with other initiatives, such as the Open Government Partnership, to promote release of datasets which are key to contextualising financial data, such as economic indicators or procurement data.
+* GIFT should initiate the creation of a light-weight, demand-driven standard for the release of structured expenditure information to enable its comparability between countries. 
+
+* Work closely with the Open Government Partnership to promote release of datasets which are key to contextualising financial data, such as economic indicators or procurement data.
 
 * Promote the release of sub-national data, perhaps via local partners, as well as national level.
 
 #### Technology Outreach and Idea Sharing
 
-* Promote experience sharing between governments e.g. through workshops so that governments can share information on their motivations, incentives and lessons learned in using technology to promote transparency, accountability and participation.
-
-* Help governments with their web-publishing practices e.g. through consultation sessions. Encourage governments to use existing web services to make data discoverable - if governments already have websites, they are most of the way there to being able to publish the information.
+* Promote experience sharing between governments through workshops and forums in existing social media platforms. Governments need to share the lessons learned in using technology to promote transparency, accountability and participation across different countries.
 
 * Involve civil society actors who use data and services provided by governments, to review and share ideas about existing and planned initiatives. Such actors could form advisory-panels on particular topics e.g. company data.
+
+* Create a well-maintained index of existing initiatives both an the demand and supply side, including methods of data release, re-use and presentation, discussion or activisim enabled by such information. 
 
 #### Technology Review
 
