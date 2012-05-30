@@ -35,11 +35,13 @@ In [this section](chapter2-intro.html) we examine four government data portals f
 #### Recommendations
 
 <div class="well homework">
-    <strong>GIFT Actions</strong>
+    <strong>GIFT Actions: Promoting Open Data as the Raw Fuel for Technology</strong>
     <ul>
-        <li>Promote experience sharing between governments e.g. through workshops, so that governments with a history of publishing documents, participation etc can share information on their motivations, incentives and lessons learned</li>
-        <li>Help governments with their web-publishing practices. If a government finance department already has a website, half the job is done. Encourage governments to use these web services to make data discoverable, preferably in machine-readable format with supporting documentation, with long-term archives, and preferably from a central location - to prevent the need to search across numerous sites to find information.</li> 
-        <li>Make use of the GIFT address book and further extend it. Many of the groups highlighted in this report and participating in working groups have specific areas of expertise in this large and intricate sphere. These groups can help to identify further gaps where specific types of information are missing (e.g. company data).</li>
+        <li>Members of GIFT should themselves ensure - whether they are national governments or international organisations - that they publish their fiscal and other financial information in full and in machine-readable formats.</li>
+        <li>Promote publication of key budget information as machine-readable data. Work with organisations such as the International Budget Partnership to include a related criterion in the Open Budget Survey. Set up online webinars / workshops showing how data is used after its publication.</li> 
+        <li>GIFT should initiate the creation of a light-weight, demand-driven standard for the release of structured expenditure information to enable its comparability between countries.</li>
+        <li>Work closely with the Open Government Partnership to promote release of datasets which are key to contextualising financial data, such as economic indicators or procurement data.</li>
+        <li>Promote the release of sub-national data, perhaps via local partners, as well as national level.</li>
     </ul>
 </div>
 
@@ -79,8 +81,11 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 #### Recommendations
 
 <div class="well homework">
-    <strong>GIFT Actions</strong>
-    <ul><li>Promote publication of key budget information as machine-readable data</li></ul>
+    <strong>GIFT Actions: Technology Outreach and Idea Sharing</strong>
+    <ul><li>Promote experience sharing between governments through workshops and forums in existing social media platforms. Governments need to share the lessons learned in using technology to promote transparency, accountability and participation across different countries.</li>
+        <li>Involve civil society actors who use data and services provided by governments, to review and share ideas about existing and planned initiatives. Such actors could form advisory-panels on particular topics e.g. company data.</li>
+        <li>Create a well-maintained index of existing initiatives both an the demand and supply side, including methods of data release, re-use and presentation, discussion or activism enabled by such information.</li>
+        </ul>
 </div>
 
 **First Steps**
@@ -124,8 +129,10 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 #### Recommendations
 
 <div class="well homework">
-    <strong>GIFT Actions</strong>
-    <ul><li>Refine and upkeep a online, collaborative catalogue of options (perhaps as a wiki) which can guide governments about existing solutions and experiences.</li></ul>
+    <strong>GIFT Actions: Technology Review</strong>
+    <ul><li>Review existing projects and and solutions from the point of view of both governments and civil society actors.[Civic Commons Marketplace](http://civiccommons.org/apps) as well as the [appendix](http://bit.ly/TTAPF-projects), but a larger-scale, community effort will be required to keep this up to date.</li>
+        <li>Based on feedback from the above refine and maintain an online, collaborative catalogue of technical and policy options (perhaps as a wiki) which can guide governments about existing solutions and experiences. 
+        </li></ul>
 </div>
 
 **First Steps**
@@ -181,13 +188,9 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 #### Recommendations
 
 <div class="well homework">
-    <strong>GIFT Actions</strong>
+    <strong>GIFT Actions:Technology Sharing</strong>
     <ul>
-        <li>Work closely with other initiatives, such as the Open Government Partnership, to promote release of datasets which are key to contextualising financial data.</li>
-        <li>Promote the release of sub-national data, as well as national level</li>
-        <li>Keep looking for projects working in this area and connecting people. To our knowledge, there is no comprehensive central database of all transparency and accountability initiatives using technology to promote fiscal transparency as well as NGOs working in this field. The appendix at the end of this report represents a start, but a larger-scale, community effort will be required to keep this up to date.</li>
-        <li>Keep talking. Consider a role for a Global Financial Transparency Coordinator. During this research, we spent a lot of time organising meetings. We need to make sure these important discussions continue to take place and the networks continue to be built and a coordinator could help to catalyse this.</li>
-        <li>Based on the feedback from meetings, refine and upkeep a online, collaborative catalogue of options which can guide governments about existing solutions and experiences. </li>
+        <li>Promote the use of promising projects from the Technology Review stage. Liaise with funding bodies to ensure open-source solutions are available for all. </li>
     </ul>
 </div>  
         

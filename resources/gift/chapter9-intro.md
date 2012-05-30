@@ -58,7 +58,7 @@ Hence, in this report, we have attempted to highlight case studies which are exp
 
 ### Promote Open Data as the Raw Fuel for Technology
 
-* Members of GIFT should themselves ensure - whether they are national governments or international organizations - that they publish their fiscal and other financial information in full and in machine-readable formats.
+* Members of GIFT should themselves ensure - whether they are national governments or international organisations - that they publish their fiscal and other financial information in full and in machine-readable formats.
 
 * Promote publication of key budget information as machine-readable data. Work with organisations such as the International Budget Partnership to include a related criterion in the Open Budget Survey. Set up online webinars / workshops showing how data is used after its publication.
 
@@ -74,7 +74,7 @@ Hence, in this report, we have attempted to highlight case studies which are exp
 
 * Involve civil society actors who use data and services provided by governments, to review and share ideas about existing and planned initiatives. Such actors could form advisory-panels on particular topics e.g. company data.
 
-* Create a well-maintained index of existing initiatives both an the demand and supply side, including methods of data release, re-use and presentation, discussion or activisim enabled by such information. 
+* Create a well-maintained index of existing initiatives both an the demand and supply side, including methods of data release, re-use and presentation, discussion or activism enabled by such information. 
 
 #### Technology Review
 
