@@ -61,14 +61,34 @@ Below are numerous recommendations related to the role of all parties including 
 
 GIFT's role in this process, could be to promote a community of good-practice, bringing together government officials and actors from civil society to share experience. Below are a list of some mechanisms by which this might be achieved.
 
-* Promote experience sharing between governments e.g. through workshops, blogposts or even a wiki so that governments with a history of publishing documents, participation etc. can share information on their motivations, incentives and lessons learned.
-* Help governments with their web-publishing practices e.g. through consultation sessions. If a government finance department already has a website, half the job is done. Encourage governments to use these web services to make data discoverable.
-* Make use of the GIFT address book and further extend it e.g. by holding open-consultation sessions with key civil society actors, allowing interested actors to come forward, and providing valuable domain-specific experience. Such actors could form advisory-panels on particular topics e.g. company data.
-* Promote publication of key budget information as machine-readable data. Work with organisations such as the International Budget Partnership to include a realated criterion in the Open Budget Survey. Set up online webinars / workshops showing how data is used after its publication.
-* Refine and maintain an online, collaborative catalogue of technical and policy options (perhaps as a wiki) which can guide governments about existing solutions and experiences. 
+### Promote Open Data as the Raw Fuel for Technology
+
+* Members of the GIFT should themselves ensure - whether they are national governments or international organizations - that they publish their fiscal and other financial information in full and in machine-readable formats.
+
+* Promote publication of key budget information as machine-readable data. Work with organisations such as the International Budget Partnership to include a related criterion in the Open Budget Survey. Set up online webinars / workshops showing how data is used after its publication.
+
 * Work closely with other initiatives, such as the Open Government Partnership, to promote release of datasets which are key to contextualising financial data, such as economic indicators or data related to national procurement.
+
 * Promote the release of sub-national data, perhaps via local partners, as well as national level.
-* Keep looking for projects working in this area and connect people. To our knowledge, there is no database of all transparency and accountability initiatives using technology to promote fiscal transparency as well as NGOs working in this field. The appendix at the end of this report represents a start, but a larger-scale, community effort will be required to keep this up to date. 
+
+#### Technology Outreach and Idea Sharing
+
+* Promote experience sharing between governments e.g. through workshops so that governments with a history of publishing documents, participation etc. can share information on their motivations, incentives and lessons learned.
+
+* Help governments with their web-publishing practices e.g. through consultation sessions. If a government finance department already has a website, half the job is done. Encourage governments to use these web services to make data discoverable.
+
+* Make use of the GIFT address book and further extend it e.g. by holding open-consultation sessions with key civil society actors, allowing interested actors to come forward, and providing valuable domain-specific experience. Such actors could form advisory-panels on particular topics e.g. company data.
+
+* Make use of the GIFT address book and further extend it e.g. by holding open-consultation sessions with key civil society actors, allowing interested actors to come forward, and providing valuable domain-specific experience. Such actors could form advisory-panels on particular topics e.g. company data.
+
+#### Technology Review
+
+* Review existing projects and and solutions. To our knowledge, there is no database of all transparency and accountability initiatives using technology to promote fiscal transparency as well as NGOs working in this field. The appendix at the end of this report represents a start, but a larger-scale, community effort will be required to keep this up to date. 
+
+#### Technology Sharing
+
+* Refine and maintain an online, collaborative catalogue of technical and policy options (perhaps as a wiki) which can guide governments about existing solutions and experiences.
+
 * Keep talking. Consider a role for a Financial Transparency Coordinator. During this research, we spent a lot of time organising meetings aside from the time we spent interviewing. We need to make sure these important discussions continue to take place and the networks continue to be built and a coordinator could help to catalyse this.
 
 <div class="pull-right"><a class="btn btn-default btn-mini" href="chapter10-intro.html">Next &raquo;</a></div>
