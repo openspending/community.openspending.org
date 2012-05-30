@@ -77,8 +77,9 @@ Besides the blanket approach, the Bank is also experimenting with manually colle
 * For feedback on the projects that were chosen. Through text messages, citizens are able to offer feedback and monitor the projects.
 
 ![Perception DR](http://farm8.staticflickr.com/7245/7272472242_28b8506119.jpg)
-<br></br>
+<p>
 <small>Voters in the Dominican Republic were asked how they felt about having the option to vote remotely via SMS.</small>
+</p>  
 
 ### Project Resources
 
