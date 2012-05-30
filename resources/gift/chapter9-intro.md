@@ -88,6 +88,4 @@ GIFT's role in this process, could be to promote a community of good-practice, b
 
 * Promote the use of promising projects from the Technology Review stage. Liaise with funding bodies to ensure open-source solutions are available for all. 
 
-
-
 <div class="pull-right"><a class="btn btn-default btn-mini" href="chapter10-intro.html">Next &raquo;</a></div>
