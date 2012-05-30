@@ -188,7 +188,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 #### Recommendations
 
 <div class="well homework">
-    <strong>GIFT Actions:Technology Sharing</strong>
+    <strong>GIFT Actions: Technology Sharing</strong>
     <ul>
         <li>Promote the use of promising projects from the Technology Review stage. Liaise with funding bodies to ensure open-source solutions are available for all. </li>
     </ul>
