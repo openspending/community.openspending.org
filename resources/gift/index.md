@@ -7,7 +7,7 @@ layout: gift
 
 This report was prepared for the Global Initiative for Fiscal Transparency ([GIFT](www.fiscaltransparency.net) with generous support from the Omidyar Network.  The views represented are those of the authors.
 
-<table>
+<table  align="center">
 
 <tr>
 <td>
