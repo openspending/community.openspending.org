@@ -44,10 +44,10 @@ Aid flows often do not pass through a recipient government’s conventional budg
 
 Normally this overview is not available – leading to waste, overlap and inefficiency. The lack of comparable information means aid donors and recipient country governments can’t work together to coordinate their efforts, or understand how donor priorities align with recipient priorities; it decreases developing country governments' ownership and undermines the potential for good governance and planning. Donors and governments need to know what others are doing - and crucially, what others are planning on doing - if they are to make sure that these resources are used most effectively. Otherwise, some sectors and areas will not receive enough funding, while others may have too many donors involved.
 
-The Uganda aid visualisation project was a joint between the OKFN and `Publish What You Fund`_ to combine two key types of fiscal data, revenues from aid together with spending information, and present them together in an informative way for the first time through an interactive visualisation.
+The Uganda aid visualisation project was a joint between the OKFN and Publish What You Fund to combine two key types of fiscal data, revenues from aid together with spending information, and present them together in an informative way for the first time through an interactive visualisation.
 
 * [Visit the Publish What You Fund Uganda Visualisation Project](http://www.publishwhatyoufund.org/uganda/uganda-with-data.htm)
-* [Visit Publish What You Fund's website](Publish What You Fund` : http://www.publishwhatyoufund.org/)
+* [Visit Publish What You Fund's website](http://www.publishwhatyoufund.org/)
 * [Uganda Budget and Aid to Uganda, 2003-2006 dataset in OpenSpending](http://openspending.org/ugandabudget)
 
 #### Coverage of the Uganda Visualisation 
