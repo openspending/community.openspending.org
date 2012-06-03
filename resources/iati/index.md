@@ -1,6 +1,6 @@
 ---
 title: Connecting the Aid Flows
-layout: eu
+layout: iati
 ---
 
 <h2>Connecting the Aid Flows &mdash; making sense of the IATI data</h2>
