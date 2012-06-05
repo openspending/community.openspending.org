@@ -16,9 +16,14 @@ So far, 29 donors representing 74% of Official Development Finance (ODF) [have c
 
 This post details how we converted each donor's data, using simple scripts and open source tools, from raw XML data in the [IATI Registry](http://iatiregistry.org/) into a consolidated dataset and then, via loading into [OpenSpending](http://openspending.org/) to visualisations like those shown above and an easy-to-use RESTful API.
 
-[caption id="" align="aligncenter" width="500" caption="From this.... "]<img alt="" src="http://farm8.staticflickr.com/7086/7242714654_13d481e785.jpg" width="500" height="337" />[/caption]
+#### From this....
 
-[caption id="" align="alignnone" width="640" caption="... to this. "]<img alt="" src="http://farm8.staticflickr.com/7092/7242078030_d2240d7c10_z.jpg" title="To this" width="640" height="575" />[/caption]
+<img alt="" src="http://farm8.staticflickr.com/7086/7242714654_13d481e785.jpg" width="500" height="337" />[/caption]
+
+
+#### ... to this. 
+
+<img alt="" src="http://farm8.staticflickr.com/7092/7242078030_d2240d7c10_z.jpg" title="To this" width="640" height="575" />[/caption]
 
 ## Getting the Data Together
 
@@ -80,4 +85,4 @@ Eventually what we'd like to see is something like this: an integrated dataset o
 
 **Which country will be next to join up their aid and budgetary flows?** You can get in touch with us via the [mailing list](http://lists.okfn.org/mailman/listinfo/openspending) if you have any questions about this project or the data.
 
-This post was written by [Mark Brough](http://okfn.org/members/markbrough). It is cross-posted on the [OpenSpending blog](http://openspending.org/blog/index.html).
+This post was written by [Mark Brough](http://okfn.org/members/markbrough). 
