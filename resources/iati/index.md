@@ -14,7 +14,7 @@ layout: iati
 <div class="row">
     <div class="span4">
         <p>
-            The <a href="http://aidtransparency.net">Internation Aid Transparency Initiative</a> 
+            The <a href="http://aidtransparency.net">International Aid Transparency Initiative</a> 
             is a political agreement by the world's major donors - including international banks, private foundations and NGOs - on a common way to publish aid information. It also defines a technical standard for exactly how that information should be published, IATI-XML.
         </p>
         <p>
