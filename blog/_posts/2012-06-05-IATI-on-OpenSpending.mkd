@@ -18,12 +18,12 @@ This post details how we converted each donor's data, using simple scripts and o
 
 #### From this....
 
-<img alt="" src="http://farm8.staticflickr.com/7086/7242714654_13d481e785.jpg" width="500" height="337" />[/caption]
+<img alt="" src="http://farm8.staticflickr.com/7086/7242714654_13d481e785.jpg" width="500" height="337" />
 
 
 #### ... to this. 
 
-<img alt="" src="http://farm8.staticflickr.com/7092/7242078030_d2240d7c10_z.jpg" title="To this" width="640" height="575" />[/caption]
+<img alt="" src="http://farm8.staticflickr.com/7092/7242078030_d2240d7c10_z.jpg" title="To this" width="640" height="575" />
 
 ## Getting the Data Together
 
