@@ -12,9 +12,27 @@ these errors are not obvious. The following list is therefore
 necessarily incomplete but it tries to provide a check list of frequent
 issues.
 
+## The OpenSpending Data Format
+
+
+1. **OpenSpending takes CSV files.** OpenSpending is very flexible with regard to structure, for example, it does not specify the column order, however the content of the columns must be standardised.
+2. **OpenSpending requires there to be one header row in the file.** This is what the software will look for to identify the names of your columns. All other rows are treated as data rows.
+3. **Rows should contain only one type of information** i.e. one budget line (or “fact”). In many files, you will see that any individual row contains data for multiple years, as well things such as both budgeted and actual spend. One individual row contains a maximum of one time period, and contrasts have been created within columns. Note that formatting data for OpenSpending often means creating many more rows than were found in the original document.
+4. **No blank rows or cells.** Data imported into OpenSpending should be fairly de-normalized: while there may be references to external code sheets/master data, each row should contain all the information required to construct the resulting item. Columns (particularly classifications) should have a value for each row; they will not automatically “fill down”.
+5. **No pre-aggregated totals** (e.g. sub-totals or “roll-ups”) within the data (OpenSpending will do the maths and compute these automatically)
+6. **There must be a combination of columns or an individual column which constitutes a ‘unique identifier’** : OpenSpending was built with a view to re-loading entries into the database at any time, even when existing data is loaded. This means that there must be some way to calculate a unique fingerprint for each row in the data which OpenSpending can use to determine whether it should update an existing row or create a new one. The easiest way to do this is to just add a dummy column to the dataset in which you put a number that increases for each row (you can do this in Excel by typing the numbers into the first two rows, selecting both cells and dragging down the lower right
+corner of the cell to extend the series).
+
+There are 3 example datasets below to help further:
+
+* http://wiki.openspending.org/CSV_Format_Example1
+* http://wiki.openspending.org/CSV_Format_Example2
+* http://wiki.openspending.org/CSV_Format_Example3
+
+
 ### Some common problems 
 
-Some common patterns include the following:
+Below are some common patterns with the data and how to fix them:
 
 * **Splitting columns:** Check that each column in your data only contains a single logical value. For example, a time column may include entries like "December 2001 to January 2006". This actually contains two pieces of information: a start and an end date. Try to split these columns up, for example in Google Refine.
 
@@ -24,7 +42,7 @@ Some common patterns include the following:
 
 * **Numbers and units:** For numeric columns, try to remove any currency specifications and non-decimal separators, such as commas for thousands steps (NNN,NNN.NN). All dates imported into OpenSpending must be of the form NNNN.NN, additional commas or spaces should be removed. Make sure the unit is a single number and not shortened by thousands or millions.
 
-* **Text & Encoding:** In text columns, remove any sourrounding spaces, commas and full stops. Get rid of prefixes that are common to all values of the column. When importing text with non-English characters, make sure to save your data with the UTF-8 character encoding. If umlauts or other diacritica do not show up correctly you might have to try converting the input data to UTF-8 from another encoding. OpenSpending currently does not support LTR languages and CJK text.
+* **Text & Encoding:** In text columns, remove any surrounding spaces, commas and full stops. Get rid of prefixes that are common to all values of the column. When importing text with non-English characters, make sure to save your data with the UTF-8 character encoding. If umlauts or other diacritica do not show up correctly you might have to try converting the input data to UTF-8 from another encoding. OpenSpending currently does not support LTR languages and CJK text.
 
 * **ISO Dates:** OpenSpending only accepts dates in a single form, YEAR-MM-DD. You may have to convert other representations (such as spelled out month names, or other orderings of the information) into this format. An easy way to do this may be splitting the date into several columns and then merging the columns in the desired order. Take special care to distinguish between the US and conventional styles of writing dates: MM/DD/YEAR (US) vs. DD/MM/YEAR (rest of planet). Beware of the date handling methods used in Excel, it is often better to simply set date columns to be interpreted as text.
 
@@ -32,7 +50,7 @@ Some common patterns include the following:
 
 * **Entity names:** Google Refine offers a very convenient reconciliation API that can be used to convert the names of such entities as countries, companies or people listed on Wikipedia into a canonical spelling. Take care to set a match score threshold that does not risk too many false positives.
 
-* **Column names:** Wwhile this is not necessarily a problem in OpenSpending, some programs may stumble if your column names contain characters like spaces, slashes, quotes, percentage signs etc. Be safe and use conservative_column_names or CamelCasedNames.
+* **Column names:** While this is not necessarily a problem in OpenSpending, some programs may stumble if your column names contain characters like spaces, slashes, quotes, percentage signs etc. Be safe and use conservative_column_names or CamelCasedNames.
 
 * **Consider privacy:** Remove unnecessary personal information such as telephone numbers or social security identifiers for individuals as well as information about third parties that may be in your source data.
 
