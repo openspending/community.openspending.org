@@ -15,19 +15,19 @@ issues.
 ## The OpenSpending Data Format
 
 
-1. **OpenSpending takes CSV files.** OpenSpending is very flexible with regard to structure, for example, it does not specify the column order, however the content of the columns must be standardised.
-2. **OpenSpending requires there to be one header row in the file.** This is what the software will look for to identify the names of your columns. All other rows are treated as data rows.
-3. **Rows should contain only one type of information** i.e. one budget line (or “fact”). In many files, you will see that any individual row contains data for multiple years, as well things such as both budgeted and actual spend. One individual row contains a maximum of one time period, and contrasts have been created within columns. Note that formatting data for OpenSpending often means creating many more rows than were found in the original document.
-4. **No blank rows or cells.** Data imported into OpenSpending should be fairly de-normalized: while there may be references to external code sheets/master data, each row should contain all the information required to construct the resulting item. Columns (particularly classifications) should have a value for each row; they will not automatically “fill down”.
-5. **No pre-aggregated totals** (e.g. sub-totals or “roll-ups”) within the data (OpenSpending will do the maths and compute these automatically)
+1. **OpenSpending takes CSV files**: OpenSpending is very flexible with regard to structure, for example, it does not specify the column order, however the content of the columns must be standardised.
+2. **OpenSpending requires there to be one header row in the file**: This is what the software will look for to identify the names of your columns. All other rows are treated as data rows.
+3. **Rows should contain only one type of information**: i.e. one budget line (or “fact”). In many files, you will see that any individual row contains data for multiple years, as well things such as both budgeted and actual spend. One individual row contains a maximum of one time period, and contrasts have been created within columns. Note that formatting data for OpenSpending often means creating many more rows than were found in the original document.
+4. **No blank rows or cells**: Data imported into OpenSpending should be fairly de-normalized: while there may be references to external code sheets/master data, each row should contain all the information required to construct the resulting item. Columns (particularly classifications) should have a value for each row; they will not automatically “fill down”.
+5. **No pre-aggregated totals**: (e.g. sub-totals or “roll-ups”) within the data (OpenSpending will do the maths and compute these automatically)
 6. **There must be a combination of columns or an individual column which constitutes a ‘unique identifier’** : OpenSpending was built with a view to re-loading entries into the database at any time, even when existing data is loaded. This means that there must be some way to calculate a unique fingerprint for each row in the data which OpenSpending can use to determine whether it should update an existing row or create a new one. The easiest way to do this is to just add a dummy column to the dataset in which you put a number that increases for each row (you can do this in Excel by typing the numbers into the first two rows, selecting both cells and dragging down the lower right
 corner of the cell to extend the series).
 
 There are 3 example datasets below to help further:
 
-* http://wiki.openspending.org/CSV_Format_Example1
-* http://wiki.openspending.org/CSV_Format_Example2
-* http://wiki.openspending.org/CSV_Format_Example3
+* <http://wiki.openspending.org/CSV_Format_Example1>
+* <http://wiki.openspending.org/CSV_Format_Example2>
+* <http://wiki.openspending.org/CSV_Format_Example3>
 
 
 ### Some common problems 
