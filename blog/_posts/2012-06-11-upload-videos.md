@@ -6,11 +6,12 @@ type: post
 status: publish
 ---
 
-# Video Instruction Guide - Loading Data Into OpenSpending
-
-Recently, the OpenSpending team have been working on a project to visualise financial data in Cameroon. One of the aims of the project is to create a platform which is sustainable for years to come and that means, that it needs to be easy to load and maintain datasets into OpenSpending.
+Recently, the OpenSpending team have been working on a project to visualise financial data in Cameroon. One of the aims of the project is to create a platform which is sustainable for years to come and that means that it needs to be really easy to load and maintain datasets into OpenSpending.
 
 So... we've created some screencasts about how to load data into OpenSpending. Please do take a look and try it out for yourself and let us know if anything needs to be clearer!
+
+Once you've got your data into the [OpenSpending data format](http://openspending.org/help/data-cleansing.html) you're ready to load. 
+
 
 ## Preparing your dataset information
 
@@ -20,7 +21,9 @@ First add information about your dataset to make it easily findable in OpenSpend
 
 ## Upload your data online
 
-Next, you need to get your CSV file online
+Next, you need to get your CSV file online. There are numerous ways to do this, [Dropbox](https://www.dropbox.com/), exporting your data directly from a Google Docs (*File > Publish to the Web > Publish a CSV*). We've used the DataHub to publish our data. If you've never used it before here's a quick demo of how to Upload a Dataset. 
+
+<iframe src="http://player.vimeo.com/video/43720463" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/43720463">Uploading Data to the DataHub</a> from <a href="http://vimeo.com/okf">Open Knowledge Foundation</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 ## Create a model to explain the structure of your data to OpenSpending
 
@@ -35,3 +38,6 @@ If that's all gone well, you'll be able to move on to creating visualisations (v
 It doesn't always go right the first time you try and load your data - here's what to do if you have made a mistake either in your model or your data.
 
 <iframe src="http://player.vimeo.com/video/43762097" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/43762097">How to Fix Errors in OpenSpending</a> from <a href="http://vimeo.com/okf">Open Knowledge Foundation</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+Please let us know if you upload a new dataset and if you have any feedback. You can get in touch any time via the [mailing list]()
+
