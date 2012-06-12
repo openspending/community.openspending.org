@@ -21,13 +21,13 @@ First add information about your dataset to make it easily findable in OpenSpend
 
 ## Upload your data online
 
-Next, you need to get your CSV file online. There are numerous ways to do this, [Dropbox](https://www.dropbox.com/), exporting your data directly from a Google Docs (*File > Publish to the Web > Publish a CSV*). We've used the DataHub to publish our data. If you've never used it before here's a quick demo of how to Upload a Dataset. 
+Next, you need to get your CSV file online. There are numerous ways to do this, [Dropbox](https://www.dropbox.com/), exporting your data directly from a Google Docs (*File > Publish to the Web > Publish a CSV*). We've used the DataHub to publish our data. If you've never used it before here's a quick demo of how to upload a dataset. 
 
 <iframe src="http://player.vimeo.com/video/43720463" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/43720463">Uploading Data to the DataHub</a> from <a href="http://vimeo.com/okf">Open Knowledge Foundation</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 ## Create a model to explain the structure of your data to OpenSpending
 
-Next, tell OpenSpending how to understand your data by creating a model
+Next, tell OpenSpending how to understand your data by creating a model.
 
 <iframe src="http://player.vimeo.com/video/43760979" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/43760979">OpenSpending Upload: Step 2 - Create a Model</a> from <a href="http://vimeo.com/okf">Open Knowledge Foundation</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
@@ -39,5 +39,5 @@ It doesn't always go right the first time you try and load your data - here's wh
 
 <iframe src="http://player.vimeo.com/video/43762097" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/43762097">How to Fix Errors in OpenSpending</a> from <a href="http://vimeo.com/okf">Open Knowledge Foundation</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
-Please let us know if you upload a new dataset and if you have any feedback. You can get in touch any time via the [mailing list]()
+Please let us know if you upload a new dataset and if you have any feedback. You can get in touch any time via the [mailing list](http://lists.okfn.org/mailman/listinfo/openspending).
 
