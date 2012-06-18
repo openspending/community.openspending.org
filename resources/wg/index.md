@@ -26,6 +26,7 @@ title: Working Group on Open Expenditure Data
 
 * **Alexandre Ciconello**, INESC, *Brazil*
 * **David Cabo**, Pro Bono Publico, *Spain*
+* **Eva Vozarova**, Fair-Play Alliance,  *Slovakia*
 * **Friedrich Lindenberg**, Open Knowledge Foundation, *Germany*
 * **Hille Hinsberg**, Praxis Policy Centre, *Estonia*
 * **Kaitlin Lee**, Sunlight Foundation, *USA*
