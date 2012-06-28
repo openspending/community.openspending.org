@@ -10,7 +10,7 @@ status: publish
 
 At this year's [Open Knowledge Festival](http://okfestival.org/) in Helsinki, there will be a 'Budget Cycle Monitoring Hackday' - to build a prototype of a calendar to attempt to fix exactly this type of problem. 
 
-![OKFest logo](/Users/lucychambers/Documents/openspending/dotorg/blog/images/logo.png)
+<img alt="" src="/Users/lucychambers/Documents/openspending/dotorg/blog/images/logo.png" title="OKFest Logo" class="alignnone" width="640" height="426" />
 
 ## About the Hackday 
 
