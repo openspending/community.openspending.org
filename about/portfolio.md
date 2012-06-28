@@ -127,3 +127,11 @@ All are welcome to join [join the OpenSpending mailing list](http://lists.okfn.o
 ### Your project here. 
 
 Have some data? Have a Spending Story? Get in touch - we'd love to hear from you and are open to suggestions!
+
+## Showcases
+
+The work of the following groups we can claim absolutely no credit for - these groups re-used components of OpenSpending and with next to no help from the OpenSpending team put together the following sites. 
+
+### BudovaniStatu.cz - KohoVolit.eu
+
+### A Mi Penzünk - Budapest Institute
