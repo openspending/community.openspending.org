@@ -6,11 +6,11 @@ type: post
 status: publish
 ---
 
-**Often, the only way to check whether governments are releasing the documents related to government financial processes, is retroactively, such as the fantastic work done by the IBP in this area. But what if it were possible to receive alerts and check up against internationally recognised best-practice guidelines as to when the government in your country should be releasing key budget documents.** 
+**Often, the only way to check whether governments are releasing financial documents, is retroactively. But what if it were possible to receive alerts and check up against internationally recognised best-practice guidelines as to when the government in your country should be releasing key budget documents?** 
 
 At this year's [Open Knowledge Festival](http://okfestival.org/) in Helsinki, there will be a 'Budget Cycle Monitoring Hackday' - to build a prototype of a calendar to attempt to fix exactly this type of problem. 
 
-<img alt="" src="http://farm1.staticflickr.com/102/366165987_5732d3e3e7_z.jpgng/dotorg/blog/images/logo.png" title="Image by Joe Lanman on Flickr" class="alignnone" width="640" height="480" />
+<img alt="" src="http://farm9.staticflickr.com/8163/7374929594_287879a931_z.jpg" title="OKFest planning" class="alignnone" width="640" height="480" />
 
 ## About the Hackday 
 
@@ -29,6 +29,4 @@ at the last acceptable date for the docs to be published to check whether they a
 Simply [sign up for a ticket for OKFestival](http://okfestival.org/tickets-and-bursaries/), bring a computer and join us on the day. 
 
 Discussions will be ongoing about what features to include, via the [mailing list](http://lists.okfn.org/mailman/listinfo/openspending) - join us for the discussion there!
-
-*Image Credits: [Joe Lanman](http://www.flickr.com/photos/joelanman/366165987/sizes/z/in/photostream/) on Flickr*
 
