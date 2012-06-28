@@ -6,13 +6,11 @@ type: post
 status: publish
 ---
 
-# Budget Cycle Monitoring Hackday at OKFest
-
 **Often, the only way to check whether governments are releasing the documents related to government financial processes, is retroactively, such as the fantastic work done by the IBP in this area. But what if it were possible to receive alerts and check up against internationally recognised best-practice guidelines as to when the government in your country should be releasing key budget documents.** 
 
 At this year's [Open Knowledge Festival](http://okfestival.org/) in Helsinki, there will be a 'Budget Cycle Monitoring Hackday' - to build a prototype of a calendar to attempt to fix exactly this type of problem. 
 
-![OKFest logo](/images/logo.png/)
+![OKFest logo](/Users/lucychambers/Documents/openspending/dotorg/blog/images/logo.png)
 
 ## About the Hackday 
 
