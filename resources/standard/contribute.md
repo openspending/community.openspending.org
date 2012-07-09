@@ -13,6 +13,8 @@ that is easy to implement and useful in practice.
 
 We're inviting everyone to contribute to this effort: 
 
+* Become a supporter! [Send us a message](/about/contact.html) and we'll include you as a partner. 
+
 * Follow [@openspending](http://twitter.com/openspending) on Twitter to 
   stay in touch and learn about updates in time. 
 

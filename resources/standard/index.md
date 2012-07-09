@@ -25,7 +25,7 @@ title: A data standard for transaction-level spending data
 
 <ul>
     <li><strong>Tool for advocacy:</strong> as more and more spending data is released, we should document best practices for government data formats.</li>
-    <li><strong>Tool for government:</strong> give interested states a simple story for releasing financial data that captures international best practices.</li>
+    <li><strong>Tool for government:</strong> give interested parties a simple story for releasing financial data that captures international best practices.</li>
     <li><strong>Converge on the scope of data release</strong>, i.e. what needs to be in a published spending database.</li>
     <li><strong>Lead to greater efficiency</strong> - much time and effort is currently dedicated to converting between data-formats especially non-machine readable formats to machine readable.</li>
     <li><strong>Allow for greater comprehension of financial data</strong> - much time is currently also spent disambiguating terms and what is and isn't included in a given dataset</li>
@@ -34,5 +34,6 @@ title: A data standard for transaction-level spending data
 </ul>
 
 <h3>Challenges</h3>
-<p>Too often, standardization in this context appears to be supply-driven: every publisher wants to express the full range of data they hold and are willing to release. Necessarily, such an approach leads to a standard that is the superset of all the systems that feed into it. Such designs tend to be of little use to the intended consumers, as they raise the barriers to understanding the information considerably. Our approach therefore is to generate demand-side use cases first, ensuring that everything that is done will generate value for data users.</p>
+<p>Too often, standardization in this context appears to be supply-driven: every publisher wants to express the full range of data they hold and are willing to release. Necessarily, such an approach leads to a standard that is the superset of all the systems that feed into it.</p>
+<p>Such designs tend to be of little use to the intended consumers, as they raise the barriers to understanding the information considerably. Our approach therefore is to generate demand-side use cases first, ensuring that everything that is done will generate value for data users.</p>
 
