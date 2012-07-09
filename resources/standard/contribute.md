@@ -1,6 +1,6 @@
 ---
 layout: standard
-title: Help to make this standard
+title: Help us to make this standard
 ---
 
 As we proceed to refine our ideas for an international spending standard, 

@@ -1,6 +1,6 @@
 ---
 layout: standard
-title: A technical standard for transaction-level spending data
+title: A data standard for transaction-level spending data
 ---
 
 <p>
@@ -8,6 +8,11 @@ title: A technical standard for transaction-level spending data
     standard for the publication of transaction-level government spending
     data.        
 </p>
+
+<div class="alert">
+    This document is intended as a basis for discussion. If you want to support us 
+    or disagree with its contents, please <a href="contribute.html">get in touch</a>.
+</div>
 
 <h3>Why now?</h3>
 <p>The release of transaction-level data (i.e. information about individual disbursements or contract spending) is a relatively new idea, compared to the release of higher-level accounting information or budget overviews. The availability of such data allows for fine-grained analysis and oversight of activities and will, in the future, enable anyone inside or outside of government to reconstruct key reports from raw data. In order to perform these types of analysis, it is often necessary to combine spending information from several sources - either for completeness or comparison.</p>
@@ -20,6 +25,7 @@ title: A technical standard for transaction-level spending data
 
 <ul>
     <li><strong>Tool for advocacy:</strong> as more and more spending data is released, we should document best practices for government data formats.</li>
+    <li><strong>Tool for government:</strong> give interested states a simple story for releasing financial data that captures international best practices.</li>
     <li><strong>Converge on the scope of data release</strong>, i.e. what needs to be in a published spending database.</li>
     <li><strong>Lead to greater efficiency</strong> - much time and effort is currently dedicated to converting between data-formats especially non-machine readable formats to machine readable.</li>
     <li><strong>Allow for greater comprehension of financial data</strong> - much time is currently also spent disambiguating terms and what is and isn't included in a given dataset</li>
