@@ -14,7 +14,7 @@ title: OpenSpending.mobi
 
 <div class="row">
     <div class="span12">
-        <iframe src="http://player.vimeo.com/video/41036716" width="940" height="550" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+        <iframe src="http://player.vimeo.com/video/41036716" width="940" height="550" frameborder="0" webkitAllowFullScreen="true" mozallowfullscreen="true" allowFullScreen="true"></iframe>
     </div>
 </div>
 
