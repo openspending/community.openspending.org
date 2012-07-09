@@ -13,9 +13,14 @@ that is easy to implement and useful in practice.
 
 We're inviting everyone to contribute to this effort: 
 
-* Subscribe to our [mailing list](http://lists.okfn.org/mailman/listinfo/openspending) to **share your ideas** and requests.
+* Follow [@openspending](http://twitter.com/openspending) on Twitter to 
+  stay in touch and learn about updates in time. 
 
-* If you're a **technical user**, [create pull requests on the specification](https://github.com/openspending/dotorg/tree/master/resources/standard) on GitHub.
+* Subscribe to our [mailing list](http://lists.okfn.org/mailman/listinfo/openspending) 
+  to **share your ideas** and requests.
+
+* If you're a **technical user**, [create pull requests on the
+  specification](https://github.com/openspending/dotorg/tree/master/resources/standard) on GitHub.
 
 * If you find **errors in this document**, [file an issue](https://github.com/openspending/dotorg/issues) on GitHub to let us know.
 
