@@ -26,3 +26,7 @@ Levels of standardization:
 * Metadata spec: granularity, geographic and temporal coverage, domain coverage
 * Managing types of taxonomies (e.g. economic, functional, also: geographic, procedural) and expressing their presence via metadata.
 * Align individual taxonomies via mapping mechanisms (e.g. the current work on establishing a COFOG spine for mapping IATI data releases)
+
+<h3>Does the standard cover legal aspects?</h3>
+
+The standard does not contain a legal component, but governments and organisations that release data in the specified format must also supply a license which is in accordance with the [open definition](http://opendefinition.org/) and thus enables free and non-discriminatory re-use of the information.
