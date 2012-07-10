@@ -10,8 +10,9 @@ title: A data standard for transaction-level spending data
 </p>
 
 <div class="alert">
-    This document is intended as a basis for discussion. If you want to support us 
-    or disagree with its contents, please <a href="contribute.html">get in touch</a>.
+    <strong>This document is an early draft</strong> It is intended as a basis for
+    discussion. If you want to support us or disagree with its contents, please 
+    <a href="contribute.html">get in touch</a>: this is a request for comments!
 </div>
 
 <h3>Why now?</h3>
