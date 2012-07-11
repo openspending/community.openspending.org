@@ -6,7 +6,7 @@ type: post
 status: publish
 ---
 
-**How does the work of budget monitoring organisations, investigative journalists, academic researchers and think-tanks differ in the various countries of Europe? What are the key questions these organisations address - are they largely the same in every country, or does each country have a different issue at the forefront of their minds? What tools and techniques do they have at their disposal to get to the bottom of Europe's tricky financial situations.**
+**How does the work of budget monitoring organisations, investigative journalists, academic researchers and think-tanks differ in the various countries of Europe? What are the key questions these organisations address - are they largely the same in every country, or does each country have a different issue at the forefront of their minds? What tools and techniques do they have at their disposal to get to the bottom of Europe's tricky financial situations?**
 
 <img alt="" src="http://farm7.staticflickr.com/6032/6309941378_b0a365ce28.jpg" title="Euro" class="alignnone" width="640" height="480" />
 
@@ -52,13 +52,13 @@ So, armed with a video camera, sunscreen and an InterRail ticket, I am departing
 
 This chain will be completed in the autumn with a trip to Germany, to whom most of Europe is currently looking for hopes of salvation of the common currency.
 
-## First Stop - Athens 
+## First Stop - Athens
 
-The first thing that I should note about my journey to Greece is that, unlike the other countries I intend to visit, I have been, as yet, unable to find a Civil Society Organisation which specifically dedicates its effort to monitoring government budgets, contracts and procurement. Any hints welcomed if such an organisation exists, please do put them in touch.
+The first thing that I should note about my journey to Greece is that, unlike the other countries I intend to visit, I have been, as yet, unable to find a Civil Society Organisation which specifically dedicates its effort to monitoring government budgets, contracts and procurement. Any hints welcomed if such an organisation exists, please do put them in touch!ß
 
 However, I will meet the team behind **Diavgeia** - the Government "Cl@rity" programme, to talk about the up and coming project **"AGORA"**, which deals with transparency in the cost of supplies to the Greek Public Administration  Nikolaos Stavropoulos, Maria Galaktopoulou (the Vice Mayor) and Photios Zygoulis. Secondly, Thodoris Papadopoulos, a member of the OpenSpending community and graduate of the **National School Of Public Administration**, who has run up against problems in using Greek data has promised to share his thoughts on what could be done better in Greece. Finally I will meet the team of **Transparency International - Greece**, in particular, Ms Effie Vraniali, a lawyer and a PhD holder in Public Financial Management, before moving on to Thessaloniki.
 
-Our aim in this phase is threefold:
+Our aims in this phase are threefold:
 
 1. To work out what tips and tricks the various CSOs could learn from one another, to document them and put them together as a Spending Data Handbook.
 2. To work out what tools are being used in budget and spending monitoring - are there any gaps which could easily be filled?
