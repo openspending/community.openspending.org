@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Athens to Berlin - Day 1, Diavgeia
+title: Athens to Berlin - Days 1: Diavgeia
 published: true
 type: post
 status: publish
@@ -35,7 +35,7 @@ With the current state of the Eurozone, it is clear that Greece needed to take c
 
 Nikolaos is Scientific Advisor in the office of e-Government - [Municipality of Neo Iraklio Attikis](http://www.iraklio.gr/), Athens, which I am led to believe is the first municipality to build municipal level services on top of Diavgeia. The services include 'Fix My Street' style applications, where citizens can feed back on the services provided by governments as they see them,  and also forms a place to discover what services are offered in the local area. Even though the application is only about 3 months old, it has been well marketed at the local metro station and already receives around 35 requests per day. The application recently won an award at the European Data Forum in Denmark. When I get on a better internet connection - I'll upload the video of the presentation Nikolaos gave me.
 
-While I'm in the office, I'm also given a tour of the user interface for officials, via which the data is 'born' - more comments on this in my next post.
+While I'm in the office, I'm also given a tour of the user interface for officials, via which the data is 'born' - more comments on this in my next post. 
 
 The efforts of the municipality clearly provide a useful resource, both inside government, to help to know where do focus efforts, resources and staff, as well as outside, where citizens are given a clear channel to contact the government and a lot of information on who is responsible for a given decision. Too early for comment yet, but we wait to see how this project will develop.
 
@@ -43,14 +43,14 @@ The efforts of the municipality clearly provide a useful resource, both inside g
 
 ## Diavgeia - more than a platform
 
-Back to Diavgeia at the national level. Diavgeia is more than a platform, it is an entire workflow. Decisions are not effective in law unless they are uploaded to the platform and public officials (and their superiors in chain of command) are held personally accountable for entering the information, which should be done in as near to real time as possible - ideally within 24 hours. The project is still in its infancy, and Nikolaos explains the need not only for education in the civil service for how to use the platform, but also a change in mentality - most civil servants are largely used to dealing with decisions on paper and this new level of participation and transparency will take a bit of getting used to.
+Back to Diavgeia at the national level. Diavgeia is more than a platform, it is an entire workflow. Decisions are not effective in law unless they are uploaded to the platform and public officials (and their superiors in chain of command) are held personally accountable for entering the information, which should be done in as near to real time as possible - ideally within 24 hours. The project is still in its infancy, and Nikolaos explains the need not only for education in the civil service for how to use the platform, but also a change in mentality - most civil servants are largely used to dealing with decisions on paper and this new level of participation and transparency will take a bit of getting used to. 
 
 I also hear rumours (not in the e-Gov office) that Greece does not know know exactly how many civil servants it has, but estimates circulate around 1/10 of the population working for the public service. The benefits of having information in a digital format are clearly being recognised, and Greece is expending its efforts to reap the benefits of digital information.
 
 Diavgeia is a good example of how transparency is not just about civil society holding government to account. Transparency is equally important to civil servants, which often suffer equally from lag times in getting information, and having a centralised resource is often a good way to ensure *everyone* in government has access...
 
-My next stop was to find people who actually used Diavgeia to get their feedback: the team behind [publicspending.gr](http://publicspending.gr/) (a cross-city collaboration project between universities in Athens and Thessaloniki) and a lawyer working with Transparency International, Greece. As I mentioned in my announce blog post, I've had difficulty in finding conventional budget monitoring organisations
+My next stop was to find people who actually used Diavgeia to get their feedback: the team behind [publicspending.gr](http://publicspending.gr/) (a cross-city collaboration project between universities in Athens and Thessaloniki) and a lawyer working with Transparency International, Greece. As I mentioned in my announce blog post, I've had difficulty in finding conventional budget monitoring organisations.
 
 My next blog post, the provisionally entitled 'The Chicken and The Egg: Where are the budget monitoring organisations in Greece?' focusses on these users of Diavgeia to get their perspective on how it is useful and whether it can be improved... I'll be back soon.
 
-*I am also working on a full profile of Diavgeia, similar to those produced for other countries as part of the [GIFT report](http://openspending.org/resources/gift/chapter2-intro.html), keep your eyes peeled on [OpenSpending.org](http://openspending.org/)*
+*I am also working on a full profile of Diavgeia, similar to those produced for other countries as part of the [GIFT report](http://openspending.org/resources/gift/chapter2-intro.html), keep your eyes peeled on [OpenSpending.org](http://openspending.org/).*
