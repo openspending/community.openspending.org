@@ -1,0 +1,3 @@
+[submodule "resources/standard"]
+	path = resources/standard
+	url = https://github.com/openspending/spendingdata.org.git
