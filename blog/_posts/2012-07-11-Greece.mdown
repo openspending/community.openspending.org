@@ -8,6 +8,8 @@ status: publish
 
 **This is the first update from the project: *[Athens to Berlin - a European Financial Profile](http://openspending.org/blog/2012/07/05/OSI.html)***
 
+In the sweltering heat of downtown Athens, I visit the heart of Greece's new transparency initiative - Diavgeia...
+
 # Diavgeia - Transparency, for Governments' Sake
 
 Greece has historically been known for its lack of financial transparency. The [2010 report](http://internationalbudget.org/wp-content/uploads/2011/06/2010_Full_Report-English.pdf) by the International Budget Partnership cites an article from the OECD Journal on Budgeting:
