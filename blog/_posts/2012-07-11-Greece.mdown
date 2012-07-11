@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Athens to Berlin - Days 1: Diavgeia
+title: Athens to Berlin - Day 1, Diavgeia
 published: true
 type: post
 status: publish
