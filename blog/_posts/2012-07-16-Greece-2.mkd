@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Athens to Berlin - Chicken or the Egg? Days 2-4
+title: Athens to Berlin - Chicken or the Egg? Days 2-4 (Athens and Thessaloniki)
 published: true
 type: post
 status: publish
@@ -60,4 +60,4 @@ According to Thodoris, this field is often entered incorrectly and is not mandat
 
 ## On to Thessaloniki
 
-It may take a group of techies to do it, but all is not lost... my next stop is to meet the team behind [PublicSpending.gr](http://publicspending.medialab.ntua.gr/). Interested in working with Greek Financial data? Read the profile of the PublicSpending.gr project.  
+It may take a group of techies to do it, but all is not lost... my next stop is to meet the team behind [PublicSpending.gr](http://publicspending.medialab.ntua.gr/). Interested in working with Greek Financial data? [Read the profile of the PublicSpending.gr project](http://openspending.org/blog/2012/07/16/Greece-3.html).  
