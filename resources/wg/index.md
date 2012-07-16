@@ -25,7 +25,10 @@ title: Working Group on Open Expenditure Data
 ### Members
 
 * **Alexandre Ciconello**, INESC, *Brazil*
+* **Codru Vrabie**, Bribemarket, *Romania*
 * **David Cabo**, Pro Bono Publico, *Spain*
+* **Dr Effie Vraniali**,[Fondafip](www.fondafip.org) and Member of Transparency International *Greece*
+* **Elena Calistru**, Lost Money, *Romania*
 * **Eva Vozarova**, Fair-Play Alliance,  *Slovakia*
 * **Friedrich Lindenberg**, Open Knowledge Foundation, *Germany*
 * **Hille Hinsberg**, Praxis Policy Centre, *Estonia*
@@ -35,8 +38,9 @@ title: Working Group on Open Expenditure Data
 * **Martin Keegan**, Open Knowledge Foundation, *United Kingdom*
 * **Maurice Nsabimana**, World Bank
 * **Michael Roberts**, Co-founder, Acclar
-* **Michal Skop**, KohoVolit.eu
+* **Michal Skop**, KohoVolit.eu, *Czech Republic*
 * **Oluseun Onigbinde**, BudgIT, *Nigeria*
+* **Photios Zygoulis**, e-gov Coordinator, Municipality of Neo Iraklio Attikis, *Greece*
 * **Ruth Jackson**, Information and Research Officer, PB Unit, *United Kingdom*
 * **Sam Lee**, World Bank Finances, *USA*
 * **Sam Smith**, Organiser of OpenTech, *United Kingdom*
