@@ -6,8 +6,6 @@ type: post
 status: publish
 ---
 
-## PROFILE: PublicSpending.gr
-
 From the hot, dusty streets of Athens, I trundle in to breezy but baking Thessaloniki on a late-night train... 
 
 <img alt="" src="http://farm9.staticflickr.com/8005/7581121498_91fd055495_z.jpg" title="Train Athens - Thessaloniki" class="alignnone" width="640" height="480" />
