@@ -58,7 +58,7 @@ According to Thodoris, this field is often entered incorrectly and is not mandat
 
 * **The system does not use international standards such as COFOG to classify the information.** This seems to be a recurring theme. For example, if you are interested in a question such as 'how much does the government spend on mobile phones?' it is impossible to find out.Someone buying a mobile phone for the ministry of finance will register it with one code - for another ministry, it will be recorded against another code.
 * **A lot of errors.** Diavgeia does not have a validation service. PublicSpending.gr seeks to track down these errors and correct them by validating them against another service, [taxisnet](http://www.gsis.gr/). Ioannis says that 70% of the effort behind PublicSpending.gr is taken up with data cleansing, rather than producing visualisations etc. 
-* **Missing information.** All of my interviewees were skeptical that *all* information which is meant to actually made it into Diavgeia. Some even had personal anecdotes to prove it didn't. The following quote is from a scientist at the local university, George, overlooking the Acropolis. 
+* **Missing information.** All of my interviewees were skeptical that *all* information which is meant to actually made it into Diavgeia. Some even had personal anecdotes to prove it didn't. The following quote is from a scientist at the local university, George: 
 
 > "My own experience of Diavgeia. I was giving some lectures in a university for a small amount of money, €60 /hour or something like that. 
 
