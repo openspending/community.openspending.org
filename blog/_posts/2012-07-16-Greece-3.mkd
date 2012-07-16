@@ -39,5 +39,5 @@ The team are also planning a hackday on budget visualisations in the beginning o
 For more visualisations of Greek finances see: 
 
 * [GreekSpending](http://greekspending.com/)
-* [PublicSpending.gr](http://publicspending.medialab.ntua.gr/)
+* [PublicSpending.gr](http://publicspending.medialab.ntua.gr/) - an initiative conceptualized, analyzed, implemented, hosted and operated at the Multimedia Technology Laboratory (School of Electrical and Computer Engineering, National Technical University of Athens). 
 
