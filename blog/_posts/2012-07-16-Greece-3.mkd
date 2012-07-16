@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Athens to Berlin - PROFILE - PublicSpending.gr
+title: Athens to Berlin - PROFILE - Linked Data and Public Spending
 published: true
 type: post
 status: publish
@@ -12,7 +12,7 @@ From the hot, dusty streets of Athens, I trundle in to breezy but baking Thessal
 
 In the apparent absence of any budget-monitoring or advocacy groups in Greece, a group of programmers are working directly with the Diavgeia data to present it in interesting ways to make it easy for anyone to understand, rehashing the data with data from new sources (criminality rates, population numbers) and archiving it. 
 
-I'm here to meet the team from Aristotle University of Thessaloniki behind the project [PublicSpending.gr](http://publicspending.medialab.ntua.gr/), which aims to monitor in real time all Greek public expenditure.
+I'm here to meet the team from Aristotle University of Thessaloniki WebScience Master Programme, which aims to monitor in real time all Greek public expenditure.
 
 The team have taken a [Linked Data](http://en.wikipedia.org/wiki/Linked_data) approach to combining datasets. New to linked data? Fear not, Professor Ioannis Antoniou from the WebScience Master Program explains, with the aid of some Greek Philosophy what it is:  
 
@@ -20,19 +20,11 @@ The team have taken a [Linked Data](http://en.wikipedia.org/wiki/Linked_data) ap
 
 The whole effort around visualising and working with the data here revolves around Linked Data. The team extract structured information from Wikipedia using [DBPedia](http://dbpedia.org/About) and mix it up with information from [Diavgeia](http://diavgeia.gov.gr/) to produce their new graphs. 
 
-They've also translated some of the data into English, which must have been quite an effort! 
-
-The work that these guys are doing is important in my view for a number of reasons: 
-
-1. Diavgeia is not very accessible for the average, non-technical user such as me, as the information is only available via an API - no bulk download options there...To be honest, even the PublicSpending database is still a bit nerdy, the only way to query it currently is by knowing a bit of [SPARQL](http://en.wikipedia.org/wiki/SPARQL), but the team are working to produce pre-built queries to answer common questions. Got ideas for questions you'd like to be able to ask of the data? [get in touch with the team](mailto: publicspending.gr@gmail.com). 
-2. The service automatically archives the data, providing a long term source of the data - so if a budget monitoring organisation does turn up one day, they can look here. 
-
 ## Meet the team
 
 For a quick overview of who is who in the team and what they have been working on, I've put together this rough introductory video: 
 
 <iframe src="http://player.vimeo.com/video/45828256" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/45828256">Meeting the team using linked data to explore spending @ University of Thessaloniki</a> from <a href="http://vimeo.com/okf">Open Knowledge Foundation</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
-
 
 ### Use the data
 
@@ -46,5 +38,6 @@ The team are also planning a hackday on budget visualisations in the beginning o
 
 For more visualisations of Greek finances see: 
 
-* [GreekSpending](http://greekspending.com/) by Michael Vafopoulos.
+* [GreekSpending](http://greekspending.com/)
+* [PublicSpending.gr](http://publicspending.medialab.ntua.gr/)
 
