@@ -6,7 +6,7 @@ type: post
 status: publish
 ---
 
-**This post was written by Gisele Craveiro, of the University of São Paulo, member of [OKFN Brazil](http://br.okfn.org/) and one of the coordinators of GPoPAI (Research Group of Public Politics in Access to Information.)**
+**This post was written by Gisele Craveiro, of the University of São Paulo, member of [OKFN Brazil](http://br.okfn.org/) and one of the coordinators of GPoPAI (Research Group of Public Politics in Access to Information).**
 
 The public budget should express the population's needs and priorities and its implementation should be as transparent as possible.In Brazil, the municipal budget implementation details must be published on the web daily, but even  in the case where this law is acted upon, the reality is that very few people understand them. 
 
@@ -22,7 +22,7 @@ We hope that the comparison to other areas in the city can give to the community
 
 Besides the tool, we will develop content about public budget concepts in order to support activities in the community. We  will also organize mapping fests to participants can know  better the neighbourhood and public equipments that are receiving investment.We intend that the collected information  (maps, photos, videos, texts), produced during these activities or later, can  constitute a crowdsourcing platform for future monitoring and also feed open platforms like OpenStreetMap.
 
-Researchers from University of São Paulo (also OKFN members) and Our São Paulo Network (a network of over 600 civil society organizations operating in the municipality of São Paulo) are organising this initiative, but we´d like to invite anyone interested to contribute: sending suggestions, coding or just disseminating this idea/project to whom it may concern. More information with Gisele Craveiro (giselesc at usp dot br)
+Researchers from University of São Paulo (also OKFN members) and Our São Paulo Network (a network of over 600 civil society organizations operating in the municipality of São Paulo) are organising this initiative, but we´d like to invite anyone interested to contribute: sending suggestions, coding or just disseminating this idea/project to whom it may concern. More information with Gisele Craveiro (giselesc at usp dot br).
 
 The tool beta version can be found at: <http://www.gpopai.usp.br/cuidando> (only in Portuguese)
 Code available in <https://github.com/fefedimoraes/orcamento>
