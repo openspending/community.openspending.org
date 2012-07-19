@@ -45,7 +45,7 @@ In my next post, I'll urge journalists, researchers etc to have a look at Diavge
 The manner in which data is generated affects how it can be used, here are the thoughts I collected from Thodoris, Ioannis and others... 
 
 * **Data is uploaded in various formats, often PDFs**. When I was in the e-governance office of Neo Iraklio Attikis, I was given a demonstration of how the data was uploaded to Diavgeia, it took quite a while to locate and upload individual PDFs to the form they were supposed to support. In the back of my mind, I keep thinking to myself, "Why do people like rubber stamps so much?", surely there is a quicker way than this? As has already been pointed out, this also makes it very difficult to search across all of the data in the site at once.
-* **A couple of the most important fields in the civil servants' form are free text, and not mandatory.** e.g. Some people may use "." instead of commas, some may use the word "Euro" rather than the sign "€". 
+* **A couple of the most important fields in the civil servants' form used to be free text, and not mandatory.** e.g. Some people may have used "." instead of commas, some may use the word "Euro" rather than the sign "€".  It was fixed after repeated notices from developers. (Go civic-minded-developers!)
 * **Information in the *amount* field is stored as text, rather than as numbers.** A deeper complication of the problem above. 
 
 This is particularly problematic when combined with another procedural problem. There are 3 stages to making any official purchase: 
