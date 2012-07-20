@@ -15,7 +15,7 @@ Andra Bucur from the Soros Foundation has kindly gathered together a group of so
 While I'm here, I meet:
 
 * Andra Bucur - *[Soros Foundation, Romania](http://www.soros.org/about/offices-foundations/soros-foundation-romania)*, working on transparency in Revenues from Extractive Industries
-* Bogdan Manolea - *Executive Director, [APTI (Association for Technology and Internet)](http://www.netlaw.bg/l_en/?s=17&u=10)
+* Bogdan Manolea - *Executive Director, [APTI (Association for Technology and Internet)](http://www.netlaw.bg/l_en/?s=17&u=10)*
 * Christina Lupu - *[Centre for Independent Journalism](http://www.ijf-cij.org/bucharest.html)*
 * Codru Vrabie - *[Bribe Market](http://www.piatadespaga.ro/)* 
 * Elena Calistru - *[Lost Money (Bani Pierduti)](http://banipierduti.cloudapp.net/)*
@@ -36,7 +36,7 @@ I learn all manner of things about how budgets are calculated in Romania, for ex
 
 Finding the right triggers to engage users is definitely a challenge and there's a consensus that Romanian citizens will only be interested if the data is given a personal angle. Elena's project contains a personal [tax calculator](http://banipierduti.cloudapp.net/calculator/), allowing users to input their salary and get an estimate for how much they contribute in taxes to various spending areas. But the bigger picture and research into big investments is still difficult to engage the public on. Here's Elena on one piece of feedback she got from a piece of her research:
 
-> We focused on several contracts, large investment contracts, and we showed that the road from Bucharest and the road surrounding Ploieşti, they paid a huge amount of money [...] I received a phonecall from one user... telling me "Look, stop it with this, I don't care how much money they've spent here, it's the best road available here, I don't care" [...] It's not correct, they could have done more with that money... 
+> We focused on several contracts, large investment contracts, and we showed that the road from Bucharest and the road surrounding Ploieşti, they paid a huge amount of money [...] I received a phonecall from one user... telling me: "Look, stop it with this, I don't care how much money they've spent here, it's the best road available here, I don't care". [...] It's not correct, they could have done more with that money... 
 
 Participation is also something which comes up a lot as something the group are keen to promote, Elena describes how she tackles it in her project. 
 
@@ -56,11 +56,11 @@ Petty corruption, isn't 'fiscal data' in the pure sense. However, if getting acc
 
 > "[W]e looked at bribery as in a sense, a legitimate transaction and tried to see, from a supply and demand perspective how can you tackle that, so we thought, "OK, what if we put together a platform which will help people learn what's the actual rate, so open up the prices, and hopefully also get an indication with smiley faces or a star system as to how satisfied they were as to the services they got?", so you open up information about the quality of service as well. [...] So it's wishful thinking based on economic theory but who knows, maybe in a few years or so, maybe we'll actually get to see results either in the sense that prices of bribes will drop significantly [...] or we will see that corrupt public servants will form a kind of cartel and fix prices at a specific rate, but then if people continue to pay that price that means that that is a legitimate tax for getting that specific service, so what we can do then is go to Parliament and advocate that that specific tax is included as a legal price for that particular service. And then no-one will have any incentive to pay a bribe, because they legally pay a tax." 
 
-I asked Codru whether he had looked at other bribe spot sites such as [I Paid A Bribe](http://www.ipaidabribe.com/) or [BribeSpot](http://bribespot.com/) - Codru explained that to some extent, he had modelled his site on Bribespot, but there was one key philosophical difference - Bribemarket is also about user satisfaction with services, their *value for money*, in a sense. Users will be provided with a feedback form, where they can write about how happy they are with a given product or service. Two birds with one stone - tackling petty corruption and (hopefully) improving service delivery...
+I asked Codru whether he had looked at other bribe spot sites such as [I Paid A Bribe](http://www.ipaidabribe.com/) or [BribeSpot](http://bribespot.com/) - he explained that to some extent, he had modelled his site on Bribespot, but there was one key philosophical difference - Bribemarket is also about user satisfaction with services, their *value for money*, in a sense. Users will be provided with a feedback form, where they can write about how happy they are with a given product or service. Two birds with one stone - tackling petty corruption and (hopefully) improving service delivery...
 
 *We will follow up with Codru to get a full profile of the project when it is launched in the autumn...* 
 
-A slight digression, but while we're on the note of corruption, there were some very interesting examples floating around of how technology from the Government end had been successfully used in Romania to counter corruption, for example, in the passport service. According to the group, where before the slow wheels of the passport system may often have been greased to accelerate the lengthy process of getting your documents, the new digitised passport service cuts out many middlemen, and is faster, so there is far less incentive to pay bribes. 
+A slight digression, but while we're on the note of corruption, there were some very interesting examples floating around of how Government technology had been successfully used in Romania to counter corruption, for example, in the passport service. According to the group, where before the slow wheels of the passport system may often have been greased to accelerate the lengthy process of getting your documents, the new digitised passport service cuts out many middlemen, and is faster, so there is far less incentive to pay bribes. 
 
 ### Getting the data - what's it like in Romania?
 
@@ -76,7 +76,7 @@ The age old ugly beast of data formats (PDFs) also rears its head again, but not
 
 > *Codru Vrabie*: The ones I like [this is presumably sarcastic] best are the PDFs that is locked that was actually distilled from a JPG that is actually a copy, tilted like that [gestures], of a third hand fax, so all the letters are smudged and effaced...
 
-Someday soon, I hope this problem will no longer be an issue, but there needs to be a mentality change before that can happen. 
+Someday soon, I hope this problem will no longer be an issue, but there needs to be a serious mentality change in government and there need to be more CSOs, such as these, keeping the pressure on to ensure the message gets through...  
 
 #### So what data do they want? 
 
@@ -86,7 +86,7 @@ The group have actually put together a list already of key datasets, when they w
 
 > *Elena Calistru*: **Machine-readable budgets - "both at central level and at the local level"** - There are some core datasets which need to be there, which are already in place at least at a central level. [...] at the level of Ministry of Finance, sure you have the budget in a machine readable format, but you're not putting it on your website in a website in an open format, which is silly, you could do this without any effort, you can do it without any costs... and so on, so this is very important to start because it's very, very easy. It's the same with the datasets from the National Institute of Statistics."
 
-<div class="well homework"> **TOP TIP, you may well be able to find many of the datasets which the Romanian National Institute of Statistics charges for, for free on [Eurostat](http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home/)...** </div>
+<div class="well homework"> TOP TIP: Looking for statistics on Romania? You may well be able to find many of the datasets which the Romanian National Institute of Statistics charges for, for free on <a href="http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home/">Eurostat</a></div>
 
 > *Elena Calistru*: "**Statistical indicators which are of use for the business sector**, deciding where to invest, what to focus on and so on..." 
 
