@@ -86,22 +86,24 @@ The group have actually put together a list already of key datasets, when they w
 
 > *Elena Calistru*: **Machine-readable budgets - "both at central level and at the local level"** - There are some core datasets which need to be there, which are already in place at least at a central level. [...] at the level of Ministry of Finance, sure you have the budget in a machine readable format, but you're not putting it on your website in a website in an open format, which is silly, you could do this without any effort, you can do it without any costs... and so on, so this is very important to start because it's very, very easy. It's the same with the datasets from the National Institute of Statistics."
 
-<div class="well homework"> TOP TIP: Looking for statistics on Romania? You may well be able to find many of the datasets which the Romanian National Institute of Statistics charges for, for free on <a href="http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home/">Eurostat</a></div>
+<div class="well homework"> TOP TIP: Looking for statistics on Romania? You may well be able to find many of the datasets which the Romanian National Institute of Statistics charges for, for free on <a href="http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home/">Eurostat</a>.</div>
 
 > *Elena Calistru*: "**Statistical indicators which are of use for the business sector**, deciding where to invest, what to focus on and so on..." 
 
 > *Codru Vrabie*: **Public Procurement Data**  "This is a question you should take to Slovakia - I think they have now 3 different portals from [Fair-Play Alliance](http://www.fair-play.sk/index.php) and [Transparency International in Slovakia](http://www.transparency.sk/) that relate to the public contracts and the interface between business sector and the public sector from various perspectives. And the question would be 'to what extent they have seen an increased interest from the business sector to ask these kind of questions or to ask for this type of information now that they can actually see what information is out there and how it can be used.'"
 
-I will put this to both groups when I meet them in Bratislava... The above point is seconded by Bogdan Maneola, who attests that there was great progress made in the direction of e-procurement where the data was published as a feed. Bogdan says he knew someone planning to make a business out of that data, rehashing it and selling it on, but then came the CAPTCHA codes which made the automatic harvest impossible...
+I will put this to both groups when I meet them in Bratislava... The above point is seconded by Bogdan Maneola, who talks about how useful steps forward in e-procurement had previously been made when the data used to be published as a feed. Bogdan says he knew someone planning to make a business out of that data, rehashing it and selling it on, but then came the CAPTCHA codes which made automatic harvest impossible...
 
 > *Elena Calistru*: "**Datasets related to party financing**" Another feature of Bani Pierduti is that we make analyses. I'm now working on an analysis of party finance during the last election campaign. And sure, I checked the dataset available [...] I also made some requests for information from the Parliamentary Parties, but besides that, I took a camera [... and] took pictures of all the banners and so on, and afterwards sent a request for some prices from 3 companies offering outdoor media. The differences are at least significant. [...] the electoral financing laws says that no party can receive discounts or preferential rates for something, because that is considered a donation and they have to declare all the donations. And if one party will yell me "yeah, I got a discount" - why didn't you declare it? 
  
 ## Civil Society Collaboration
 
-My favourite part of the whole day is when the group start talking about how they might be able to help each other out by sharing the data that they each have added value to in some way. I ask: *"Do any of your projects archive the data so that it is available to the public for many years to come?". These are the responses we get: 
+My favourite part of the whole day is when the group start talking about how they might be able to help each other out by sharing the data that they each have added value to in some way. I ask: *"Do any of your projects archive the data so that it is available to the public for many years to come?"*. These are the responses we get: 
 
 <iframe src="http://player.vimeo.com/video/46076299" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/46076299">Romania - Civil Society Collaboration</a> from <a href="http://vimeo.com/okf">Open Knowledge Foundation</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
+Safe to say, I think it would be a great start if more Civil Society Organisations shared data between themselves as well. 
+
 ## More to come
 
-This is just a sample of a great and rich debate, I haven't even touched on here the views of the group on whether social media is a hindrance or a help for their work, other interesting methods employed to get  participation, both from active citizens and governments in the decision-making process.
+This is just a tiny sample of a great and rich debate, I haven't even touched on here the views of the group on whether social media is a hindrance or a help for their work, other interesting methods employed to get  participation, both from active citizens and governments in the decision-making process.
