@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Athens to Berlin - Romania, the CSOs.
+title: Athens to Berlin - Romania's Money Mappers.
 published: true
 type: post
 status: publish
