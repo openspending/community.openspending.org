@@ -9,4 +9,4 @@ This repo will contains:
   * Community resources: similar projects, best practices, briefings
   * Meta-Info: Contact, credits, funders, etc.
 
-
+Pull requests welcome ;)
