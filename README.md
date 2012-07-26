@@ -6,7 +6,7 @@ This repo will contains:
 
   * Spending Blog (posts)
   * Help and documentation for the platform
-  * Community resources: similar projects, best practices
+  * Community resources: similar projects, best practices, briefings
   * Meta-Info: Contact, credits, funders, etc.
 
 
