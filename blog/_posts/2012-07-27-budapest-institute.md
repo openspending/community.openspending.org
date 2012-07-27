@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PROFILE A Mi Penzunk - Budapest Institute
+title: Athens to Berlin - PROFILE A Mi Penzünk - Budapest Institute
 published: true
 type: post
 status: publish
@@ -8,19 +8,9 @@ status: publish
 
 **This post was written based on the contributions of Petra Reszkető, of the Budapest Institute, and from information provided in the interview with  Balázs Váradi and Timea Sütő. The video of their interview will be displayed as part of the complete series.**
 
-**The Budapest Institute is an independent think-thank. It produces public policy research and analyses to support policy-making in Hungary and in the Central-Eastern-European region. It is part of our mission to promote evidence-based policy-making and to try to make the national public policy discourse based more on facts rather then beliefs. This post is about their project A Mi Penzünk which aims to present the budget spending of the Hungarian State simply and interactively to make it engaging for the interested layperson. This post was written with the help of **
+**The Budapest Institute is an independent think-thank. It produces public policy research and analyses to support policy-making in Hungary and in the Central-Eastern-European region. It is part of our mission to promote evidence-based policy-making and to try to make the national public policy discourse based more on facts rather then beliefs. This post is about the project 'A Mi Penzünk' which aims to present the budget spending of the Hungarian State simply and interactively to make it engaging for the interested layperson.**
 
-[A Mi Penzünk's](http://amipenzunk.hu/) aim is to present the data broken down by functions to provide information on what exactly tax money is spent on. With the visual presentation (thanks to the open software developed by the [Open Knowledge foundation](http://okfn.org/)) of the budgetary expenses and with the database that can be mined and freely downloaded from the website we have two special target group.
-
-## Who is it targeted at?
-
-First, we aim at informing young people (high school students) who are just now growing up to become tax paying citizens by orienting secondary school teachers with the tools and applications installed on the website. 
-
-Second, we would like to facilitate the work of journalists who may use this kind of information and data. 
-
-For students we drew up “homework” exercises, and we also created visual aids, posters and other teaching materials to support the work of interested high school teachers. For journalists we provide some short essays introducing policy narratives on the raw budget data. 
-
-<img alt="" src="http://farm8.staticflickr.com/7270/7656395574_10b7347f5e_b.jpg" title="A Mi Penzunk" class="alignnone" width="640" height="480" />
+[A Mi Penzünk's](http://amipenzunk.hu/) aim is to present the data broken down by functions to provide information on what exactly tax money is spent on. With the visual presentation (thanks to the open software developed by the [Open Knowledge Foundation](http://okfn.org/)) of the budgetary expenses and with the database that can be mined and freely downloaded from the website.
 
 ## What is the aim?
 
@@ -31,7 +21,15 @@ Main policy goals of the project are the following:
 
 With this project we would like to contribute to the national tax consciousness and to the strengthening of civic responsibility. Our partners were the Open Knowledge Foundation (visualization software) and the Fiscal Responsibility Institute Budapest (converting and editing the database). The Budapest Institute for Policy Analysis started the project in June 2011, as a revival of an earlier, Hungarian initiative with the same name. 
 
-The project was targeted initially at high-school teachers and students as much as at journalists. One potential outcome could have been to host the visualization at an economic news portal in the longer term.  One of the conclusions of the workshop with journalists and the following consultations with media representatives was that our initial idea turns to be a false hope. The level of data journalism is far below the EU average in Hungary and in addition, the  Hungarian media actors/ firms can not fit this rather seasonal content into their business model. We have learned that the Hungarian media is prone to get ready-made analytics and reports rather than to perform investigative projects on its own. 
+## Who is it targeted at?
+
+First, we aim at informing young people (high school students) who are just now growing up to become tax paying citizens by orienting secondary school teachers with the tools and applications installed on the website.
+
+For students we drew up “homework” exercises, and we also created visual aids, posters and other teaching materials to support the work of interested high school teachers. For journalists we provide some short essays introducing policy narratives on the raw budget data. 
+
+Second, we would like to facilitate the work of journalists who may use this kind of information and data. One of the conclusions of the workshop with journalists and the following consultations with media representatives was that our initial idea turns to be a false hope. The level of data journalism is far below the EU average in Hungary and in addition, the  Hungarian media actors/ firms can not fit this rather seasonal content into their business model. We have learned that the Hungarian media is prone to get ready-made analytics and reports rather than to perform investigative projects on its own. 
+
+<img alt="" src="http://farm8.staticflickr.com/7270/7656395574_10b7347f5e_b.jpg" title="A Mi Penzunk" class="alignnone" width="640" height="480" />
 
 ## Why is it necessary?
 
@@ -56,7 +54,7 @@ The tasks related to the set up of the webpage, visualization and graphic design
 The project:
 
 * developed an online public information resource presenting information on public spending, thereby matching  a niche due to the lack of availability of any official public database
-* applied and presented a visualization software that make raw data easy to digest 
+* applied and presented visualization software that make raw data easy to digest 
 * contains two online [posters](http://amipenzunk.hu/front/poszter) downloadable from the website, one available in 50 printed A1 copies 
 * Contains a feature called ['Your Dream Budget'](http://amipenzunk.hu/front/dream?country=AT) presenting the relationship between different expense items and 5 international comparisons, allowing you to assess the spending priorities of your government in comparision to other countries. 
 * Entailed one media workshop, and two workshops with teachers and representatives of educational organizations
@@ -70,7 +68,7 @@ The workshops have proved that such projects can grab attention, and there is ex
 
 For the time of being, we are in consultation with workshop participants from high schools and educational organizations (NGOs) and we are still receiving orders for the poster. 
 
-The long term impact of this initiative can hardly be measured in a proper way, though the real immediate impact we hope can be demonstrated later by the webpage statistics (visitors, users of applications, downloads of data and poster) and by the steady demand for the poster to be ordered at re-production costs. So far, since the website was officially published in mid January we have had over 10000 visitors out of which 16.66% are returning ones. 87.84% of our visitors are from Hungary, mainly from Budapest and the bigger cities.
+The long term impact of this initiative can hardly be measured in a proper way, though the real immediate impact we hope can be demonstrated later by the webpage statistics (visitors, users of applications, downloads of data and poster) and by the steady demand for the poster to be ordered at re-production costs. [As of April 2012], since the website was officially published in mid January we have had over 10000 visitors out of which 16.66% are returning ones. 87.84% of our visitors are from Hungary, mainly from Budapest and the bigger cities.
 
 ## Where Next?
 
