@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Athens to Berlin - PROFILE A Mi Penzünk - Budapest Institute
+title: Athens to Berlin - A Mi Penzuenk - Budapest Institute
 published: true
 type: post
 status: publish
