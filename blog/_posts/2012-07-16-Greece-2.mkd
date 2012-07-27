@@ -32,7 +32,7 @@ Highlights:
 
 Last but not least, Effie mentions that she would *love* to do more work to measure the openness financial information in Greece, but she can't do it alone, she needs a team. Effie is now part of the [Working Group on Open Spending Data](http://openspending.org/resources/wg/index.html), so if you are likewise looking to work in this area in Greece, please [get in touch via the mailing list](lists.okfn.org/mailman/listinfo/openspending).
 
-## Diavgeia's Dodgy Data
+## Diavgeia's Dodgy Data?
 
 Everyone who I speak to is full of praise for what the Greek government are doing with Diavgeia, although all have comments on how it could be done better! 
 
