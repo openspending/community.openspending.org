@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Athens to Berlin - A Mi Penzuenk - Budapest Institute
+title: Athens to Berlin - PROFILE - Our Money, the Budapest Institute
 published: true
 type: post
 status: publish
