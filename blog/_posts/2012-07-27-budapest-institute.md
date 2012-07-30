@@ -6,11 +6,11 @@ type: post
 status: publish
 ---
 
-**This post was written based on the contributions of Petra Reszkető, of the Budapest Institute, and from information provided in the interview with  Balázs Váradi and Timea Sütő. The video of their interview will be displayed as part of the complete series.**
+**This post was written based on the contributions of Petra Reszkető, Balázs Váradi and Timea Sütő of the [Budapest Institute](http://www.budapestinstitute.eu/), Hungary. The video of their interview will be displayed as part of the complete series [Athens to Berlin](http://openspending.org/blog/2012/07/05/OSI.html).**
 
-**The Budapest Institute is an independent think-thank. It produces public policy research and analyses to support policy-making in Hungary and in the Central-Eastern-European region. It is part of our mission to promote evidence-based policy-making and to try to make the national public policy discourse based more on facts rather then beliefs. This post is about the project 'A Mi Penzünk' which aims to present the budget spending of the Hungarian State simply and interactively to make it engaging for the interested layperson.**
+*The Budapest Institute is an independent think-thank. It produces public policy research and analyses to support policy-making in Hungary and in the Central-Eastern-European region. It is part of our mission to promote evidence-based policy-making and to try to make the national public policy discourse based more on facts rather then beliefs. This post is about the project 'A Mi Penzünk' which aims to present the budget spending of the Hungarian State simply and interactively to make it engaging for the interested layperson.*
 
-[A Mi Penzünk's](http://amipenzunk.hu/) aim is to present the data broken down by functions to provide information on what exactly tax money is spent on. With the visual presentation (thanks to the open software developed by the [Open Knowledge Foundation](http://okfn.org/)) of the budgetary expenses and with the database that can be mined and freely downloaded from the website.
+[A Mi Penzünk's](http://amipenzunk.hu/) aim is to present financial data for the Hungarian State broken down by functions to provide information on what exactly tax money is spent on. With the visual presentation (thanks to the open software developed by the [Open Knowledge Foundation](http://okfn.org/)) of the budgetary expenses and with the database that can be mined and freely downloaded from the website.
 
 ## What is the aim?
 
@@ -21,6 +21,8 @@ Main policy goals of the project are the following:
 
 With this project we would like to contribute to the national tax consciousness and to the strengthening of civic responsibility. Our partners were the Open Knowledge Foundation (visualization software) and the Fiscal Responsibility Institute Budapest (converting and editing the database). The Budapest Institute for Policy Analysis started the project in June 2011, as a revival of an earlier, Hungarian initiative with the same name. 
 
+<img alt="" src="http://farm8.staticflickr.com/7270/7656395574_10b7347f5e_b.jpg" title="A Mi Penzunk" class="alignnone" width="640" height="480" />
+
 ## Who is it targeted at?
 
 First, we aim at informing young people (high school students) who are just now growing up to become tax paying citizens by orienting secondary school teachers with the tools and applications installed on the website.
@@ -28,8 +30,6 @@ First, we aim at informing young people (high school students) who are just now 
 For students we drew up “homework” exercises, and we also created visual aids, posters and other teaching materials to support the work of interested high school teachers. For journalists we provide some short essays introducing policy narratives on the raw budget data. 
 
 Second, we would like to facilitate the work of journalists who may use this kind of information and data. One of the conclusions of the workshop with journalists and the following consultations with media representatives was that our initial idea turns to be a false hope. The level of data journalism is far below the EU average in Hungary and in addition, the  Hungarian media actors/ firms can not fit this rather seasonal content into their business model. We have learned that the Hungarian media is prone to get ready-made analytics and reports rather than to perform investigative projects on its own. 
-
-<img alt="" src="http://farm8.staticflickr.com/7270/7656395574_10b7347f5e_b.jpg" title="A Mi Penzunk" class="alignnone" width="640" height="480" />
 
 ## Why is it necessary?
 
@@ -41,13 +41,7 @@ With this project not only that we provide up to date, accurate information orga
 
 ## How did you get the data?
 
-At the very start of the project we faced several challenges relating to accessing the official data. We struggled with the National Statistical Office and the Ministry of National Development for months, we finally had to ask for support of a later partner organization, the [Fiscal Responsibility Institute Budapest](http://www.kfib.hu/) in July 2011.  After an overlong awaiting for the data we cleaned and restructured the database according to our needs, and have installed the website.
-
-The professional background for this project was provided by three experts of the BI, and two further junior fellows supported the project management and the data cleaning. 
-
-## Who built the project?
-
-The tasks related to the set up of the webpage, visualization and graphic design was outsourced.
+At the very start of the project we faced several challenges relating to accessing the official data. We struggled with the National Statistical Office and the Ministry of National Development for months, we finally had to ask for support of a later partner organization, the [Fiscal Responsibility Institute Budapest](http://www.kfib.hu/) in July 2011.  After an overlong awaiting for the data we cleaned and restructured the database according to our needs, and built the website.
 
 ## Features
 
@@ -59,6 +53,8 @@ The project:
 * Contains a feature called ['Your Dream Budget'](http://amipenzunk.hu/front/dream?country=AT) presenting the relationship between different expense items and 5 international comparisons, allowing you to assess the spending priorities of your government in comparision to other countries. 
 * Entailed one media workshop, and two workshops with teachers and representatives of educational organizations
 * Has social media profiles ([Facebook](https://www.facebook.com/pages/amipenzunkhu/186571038102340), [Twitter](https://twitter.com/amipenzunk).)
+
+<img alt="" src="http://amipenzunk.hu/images/poszter.jpg" title="A Mi Penzunk Poster" class="alignnone" width="640" height="480" />
 
 ## What was the impact? 
 
@@ -79,7 +75,7 @@ Based on the workshops and follow up consultations with teachers and educational
 * for creating English version of the website and providing more and deeper international analysis
 * to update the database with fresh data for 2012, to create the English version of the website, and to develop another version of the webpage that would be accessible for people with disabilities.
 
-## What could be done to help you out?
+## What could be done to make your work easier?
 
 Based on our experience implementing this project the BI is interested in organising and/or participating in workshops focusing on issues like:
 
@@ -88,6 +84,9 @@ Based on our experience implementing this project the BI is interested in organi
 * enhancing usability / promoting techniques
 
 Datawise, we also need data classified by function (i.e. programme)!
+
+*Stay tuned for more updates from the [Athens to Berlin series](http://openspending.org/blog/2012/07/05/OSI.html) via the [OpenSpending Mailing List](http://openspending.org/blog/2012/07/27/budapest-institute.html).*
+
 
 
 
