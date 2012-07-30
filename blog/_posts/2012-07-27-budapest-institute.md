@@ -73,6 +73,7 @@ The long term impact of this initiative can hardly be measured in a proper way, 
 ## Where Next?
 
 Based on the workshops and follow up consultations with teachers and educational experts, we drew the conclusion, that there is a real need: 
+
 * for developing a comprehensive teaching modul (more teaching material explaining terms, clarifying definitions, class schedules, etc.)
 * for extending the project to the revenue side (e.g. visualization, trade-off between revenues/taxes and expenditures, other interactive applications highlighting balance at the individual/ household level) 
 * for creating English version of the website and providing more and deeper international analysis
@@ -81,6 +82,7 @@ Based on the workshops and follow up consultations with teachers and educational
 ## What could be done to help you out?
 
 Based on our experience implementing this project the BI is interested in organising and/or participating in workshops focusing on issues like:
+
 * working in an interdisciplinary scheme (developer-desinger-economist)
 * developing applications and interactive tools – how to test them?
 * enhancing usability / promoting techniques
