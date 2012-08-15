@@ -76,7 +76,8 @@ As the portal provides access to many different types of data, the underlying fo
 Probably one of the less-expected impacts was seeing how civil servants themselves are using the portal, as about one third of all the traffic originates from government IPs. Technology enables faster access to relevant data within the government departments, contributing to better interconnections between people working e.g. on labour policies and requiring fiscal data on income tax revenues and unemployment benefits. The most popular data turned out to be the financial data of the government, which signals the importance of transparent public finance based on the demand for information. There was also about 20% increase in the number of Freedom of Information (FOI) requests, showing that releasing a small amount of data fuelled wider interest in data. 
 
 <div class="well homework">
-Transparency is not just about allowing civil society access to information. Governments also need information transparency internally and civil servants often suffer from lag times waiting for other departments to hand over their data. Probably one of the less-expected impactsof creating the BC data portal was seeing how civil servants themselves are using the portal: about one third of all the traffic originates from government IPs.
+<strong> Transparency within government </strong>
+Transparency is not just about allowing civil society access to information. Governments also need information transparency internally and civil servants often suffer from lag times in waiting for data from other departments. Probably one of the less-expected impacts of creating the BC data portal was seeing how civil servants themselves are using the portal: about one third of all the traffic originates from government IPs.
 </div> 
 
 ### Challenges 
