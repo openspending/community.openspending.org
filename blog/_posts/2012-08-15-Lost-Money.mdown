@@ -24,7 +24,7 @@ Starting at the beginning of August 2011, 104 projects were registered for the S
 
 ## What are the aims?
 
-The project formerly known as Where’s my LEI, man? entered the competition aiming to centralize the publicly available financial information regarding the projects financed through public money (budgets, annual reports etc.).The main objective was make authorities accountable in the manner in which public funds are spent.
+The project formerly known as *"Where’s my LEI, man?"* entered the competition aiming to centralize the publicly available financial information regarding the projects financed through public money (budgets, annual reports etc.).The main objective was make authorities accountable in the manner in which public funds are spent.
 
 After winning the Restart Romania Gala, the project went through a consistent re-thinking aiming to identify both the best technologies for a more complex platform than initially planned, and the necessary data sets which allowed the best representation on how public funds are spent in Romania. Thus, if at the very beginning the project only aimed to use the state budget data, it now operates with data comprising the budgets dedicated to social assistance and public health, the budgets at local level for the Romanian counties, projects financed through EU funds, comparisons with the percentage allocated to various sectors in other EU counties etc.
 
@@ -42,16 +42,16 @@ To achieve its objectives, the project relies on three pillars:
 The three pillars of the platform respond to the following problems:
 
 **Problem #1: Fiscal policies represent a "mystery" for the majority of citizens**
-**Consequences:** Lack of information and understanding of the process; scarce public oversight of public funds administration; public spending is associated with corruption and distrust
-**How we respond:** Educate citizens on the topic
+<p>**Consequences:** Lack of information and understanding of the process; scarce public oversight of public funds administration; public spending is associated with corruption and distrust</p>
+<p>**How we respond:** Educate citizens on the topic</p>
 
 **Problem #2: Little or no participation of the community to the fiscal policy**
-**Consequences:** Limited use of existing tools for participation to the decision-making process; needs of the community not reflected in the resource allocation; no feedback to the policy makers on their decision
-**How we respond:** Facilitate direct participation
+<p>**Consequences:** Limited use of existing tools for participation to the decision-making process; needs of the community not reflected in the resource allocation; no feedback to the policy makers on their decision</p>
+<p>**How we respond:** Facilitate direct participation</p>
 
 **Problem #3: Lack of vision from governments on investment/ development priorities**
-**Consequences:** Short-term planning leading to limited predictability and accountability; bad administration, mismanagement, or corruption in public spending; incoherence between the fiscal policy and other public policies
-**How we respond:** Analyse and understand data
+<p>**Consequences:** Short-term planning leading to limited predictability and accountability; bad administration, mismanagement, or corruption in public spending; incoherence between the fiscal policy and other public policies</p>
+<p>**How we respond:** Analyse and understand data</p>
 
 <img alt="" src="http://farm9.staticflickr.com/8432/7787652558_79191020ee_o.png" title="Lost Money 2" class="alignnone" width="640" height="480" />
 
