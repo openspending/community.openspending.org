@@ -19,13 +19,13 @@ Where possible we encourage conversations to take place via our  mailing lists. 
 
 For **general discussions about open spending data**, discussions about the [working group](http://openspending.org/resources/wg/index.html), exchange of ideas about new and upcoming projects in this area etc please contact: 
 
-* **Mailing list**: [openspending@lists.okfn.org](http://lists.okfn.org/mailman/listinfo/openspending)
+* **Mailing list**: [openspending@lists.okfn.org - registration page](http://lists.okfn.org/mailman/listinfo/openspending)
 
 ### Discussion about OpenSpending.org
 
 For inquiries related specifically to the OpenSpending.org platform, please contact us via the development mailing list:
 
-* **Development Mailing List**: [openspending-dev@lists.okfn.org](http://lists.okfn.org/mailman/listinfo/openspending-dev)
+* **Development Mailing List**: [openspending-dev@lists.okfn.org - registration page](http://lists.okfn.org/mailman/listinfo/openspending-dev)
 
 You can also contact us:
 
