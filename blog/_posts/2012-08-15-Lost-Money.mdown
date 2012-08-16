@@ -84,10 +84,10 @@ Even though Romania has just joined the Open Government Partnership, the impleme
 
 The project also envisages that an entire pillar of the platform (“public participation”) will actively seek the involvement of the user groups. The implementation of this service started with two features (large investment projects timelines and legislative early-warnings) which seek an interaction with the public and future plans propose to increase the amount of citizen participation. For example, there are plans to do this by: 
 
-* encouraging direct feedback into laws already in draft stages which allows users to cut, add to and restructure proposed to be bills on the basis of the desired budgetary outcome implemented, 
+* encouraging direct feedback into laws already in draft stages which allows users to cut, add to and restructure proposed to be bills on the basis of the desired budgetary outcome, 
 * building a simulator for the central budget - Allowing people to visualise and explore the effect of different to be
 revenue and expenditure policies (e.g. raising taxes)
-* Promoting public participation in the annual budget cycle through a calendar of debates on budgets as well as pilot
+* promoting public participation in the annual budget cycle through a calendar of debates on budgets as well as pilot
 offline events with webcasts
 
 The most consistent involvement features are expected to be implemented by the end of 2012 – early 2013, as a second stage in the development of the project.
