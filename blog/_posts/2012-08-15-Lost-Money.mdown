@@ -28,7 +28,7 @@ The project formerly known as *"Where’s my LEI, man?"* entered the competition
 
 After winning the Restart Romania Gala, the project went through a consistent re-thinking aiming to identify both the best technologies for a more complex platform than initially planned, and the necessary data sets which allowed the best representation on how public funds are spent in Romania. Thus, if at the very beginning the project only aimed to use the state budget data, it now operates with data comprising the budgets dedicated to social assistance and public health, the budgets at local level for the Romanian counties, projects financed through EU funds, comparisons with the percentage allocated to various sectors in other EU counties etc.
 
-The project is a now a permanent programme of a newly-established NGO – Funky Citizens. Which aims to engage civil society (taxpayers) in the decision making process related to public funds through the use of technology. Its major objectives are:
+The project is a now a permanent programme of a newly-established NGO – [Funky Citizens](http://www.funkycitizens.org/) (website under construction at time of publication). Which aims to engage civil society (taxpayers) in the decision making process related to public funds through the use of technology. Its major objectives are:
 
 * Quantitative and qualitative growth of the awareness on the issue
 * Offering information and tools for influencing the decision-making process
@@ -82,11 +82,18 @@ Even though Romania has just joined the Open Government Partnership, the impleme
 
 ## Are you actively seeking the involvement of the user groups?
 
-The project also envisages that an entire pillar of the platform (“public participation”) will actively seek the involvement of the user groups. The implementation of this service started with two features (large investment projects timelines and legislative early-warnings) which seek an interaction with the public.
+The project also envisages that an entire pillar of the platform (“public participation”) will actively seek the involvement of the user groups. The implementation of this service started with two features (large investment projects timelines and legislative early-warnings) which seek an interaction with the public and future plans propose to increase the amount of citizen participation. For example, there are plans to do this by: 
+
+* encouraging direct feedback into laws already in draft stages which allows users to cut, add to and restructure proposed to be bills on the basis of the desired budgetary outcome implemented, 
+* building a simulator for the central budget - Allowing people to visualise and explore the effect of different to be
+revenue and expenditure policies (e.g. raising taxes)
+* Promoting public participation in the annual budget cycle through a calendar of debates on budgets as well as pilot
+offline events with webcasts
+
 The most consistent involvement features are expected to be implemented by the end of 2012 – early 2013, as a second stage in the development of the project.
 
 ## What are the plans for the future?
 
 The project was planned as a continuously growing platform and its scaling or additional features were taken into consideration from the very beginning. A mobile feature is expected to be implemented into the web platform in 2013, a plan which also involves the use of social audits for public contracts.
 
-*Thanks to Elena for putting this post together and we hope that she will stay in touch with updates about the impact of the platform when it becomes more established. We are always looking for the most exciting case studies from around the world. If you know of one we should feature, please drop us a line via the [OpenSpending Mailing List](http://lists.okfn.org/mailman/listinfo/openspending).*
+*Thanks to Elena for putting this post together and we hope that she will stay in touch with updates about the impact of the platform when it becomes more established. We are always looking for the most exciting case studies from around the world. If you know of one we should feature, please drop us a line via the [OpenSpending Mailing List](http://lists.okfn.org/mailman/listinfo/openspending). Interested in helping to make data open in Romania? Start a discussion on the [OKFN-Romania list](http://lists.okfn.org/mailman/listinfo/okfn-ro). *
