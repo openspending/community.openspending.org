@@ -7,11 +7,11 @@ title: UK Departmental Spending
 
 <div class="row">
   <div class="span8">
-    <p>Every entity within the UK central government is held to report its
+    <p>Every entity within the UK central government has to report its
     expenditure once a month. However, the data released through this
     mechanism is patchy - some national bodies and local councils report
     all of their spending in great detail, while others report nothing or
-    export theirdata in forms which are hard to interpret. This leads to
+    export their data in forms which are hard to interpret. This leads to
     a skewed picture of government finances - as it becomes hard for data
     users to distinguish between the absence of data and the absence of
     transactions having taken place.</p>
@@ -41,7 +41,7 @@ title: UK Departmental Spending
         of the linked resources</strong>. Many of them turned out to be missing, either 
       because they had been invalid in the first place, or because the data had
       been removed since their publication.</li>
-      <li>Next, the downloaded <strong>files format had to be detected</strong>. While the treasury 
+      <li>Next, the <strong> format of the downloaded files had to be detected</strong>. While the treasury 
       mandates that files should be released as CSV (comma-separated values), many
       entities publish their spending in Excel or OpenOffice formats. Some 
       departments are also still publishing PDF files, which cannot be analyzed 
@@ -51,7 +51,7 @@ title: UK Departmental Spending
       the Treasury. While the guidance names 16 headers, few departments actually
       report on all of them. On the other hand, many add their own data, such as
       project identifiers or non-standard classification schemes. To ensure data
-      quality, many of the colum headers had to be matched manually, using the 
+      quality, many of the column headers had to be matched manually, using the 
       <a href="http://nomenklatura.okfnlabs.org/">nomenklatura</a> web interface.
       </li>
       <li>Within some of the required fields, we decided to further <strong>apply cleansing
@@ -63,6 +63,7 @@ title: UK Departmental Spending
       <li>Finally, data had to <strong>pass validation</strong>. Out of a total of 
       7mn extracted transactions, only 4mn met the minimum requirement of having both 
       an amount and date associated with them.</li>
+      <li> We then created a report which detailed any issues in getting the data. Data.gov.uk supported this by giving us information on which departments were core (thus had to report), and which were just recommended to do so.</li>
     </ul>
 
     In all, the process is still very prone to errors and the messiness of the 
