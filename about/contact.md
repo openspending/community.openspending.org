@@ -31,6 +31,8 @@ You can also contact us:
 
 * **In the IRC chat room**: [#openspending](http://webchat.freenode.net/?channels=openspending>) on FreeNode
 * **Via Twitter**: [@openspending](http://.twitter.com/openspending)
+* Follow the working group members and other spending data orgs via the [Spending Orgs Twitter List](https://twitter.com/#!/openspending/spending-orgs)
+
 
 If you're interested in contributing to the platform, visit the [get involved](contribute.html) page.
 
