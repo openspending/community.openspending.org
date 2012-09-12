@@ -6,17 +6,25 @@ type: post
 status: publish
 ---
 
-I have [spent the last few months interviewing organisations](http://openspending.org/blog/2012/01/12/civil-society-and-spending-data-who-is-mapping-the-money.html) around the world who work with government financial data. 
+Over the last few months, we have been travelling the globe in an effort to work out [which organisations are mapping the ebbs and flows of government money](http://openspending.org/blog/2012/01/12/civil-society-and-spending-data-who-is-mapping-the-money.html). In a series of interviews, currently being published via the [OpenSpending blog](http://openspending.org/blog/index.html) we've highlighted the issues which Civil Society Organisations face when working with government financial data. 
 
-The aim has been firstly to establish a front along which Civil Society Organisations can unite and realise that they are not lone-voices demanding better data, more current data. Our first step was to start building a [Working Group](http://openspending.org/resources/wg/index.html) to bring these people together and stimulating discussion around the topic of Spending Data, such as the creation of standards and an exchange of expectations and practices. The group is growing in size and open to those working in the field of open spending data (interested in joining? [Let us know!](http://lists.okfn.org/mailman/listinfo/openspending)). 
+The aim has been firstly to establish a front along which Civil Society Organisations can unite and realise that they are not lone-voices demanding *better* data, *more current* data. 
+
+## So what's happened so far?
+
+Our first step was to start building a [Working Group](http://openspending.org/resources/wg/index.html) to bring these people who work in similar sectors around the globe together and stimulate discussion around the topic of Spending Data. There is already a good exchange of interesting projects from around the world and topics such as the creation of standards and an exchange of expectations and practices are being mooted. The group is growing in size and open to those working in the field of open spending data (interested in joining? [Let us know!](http://lists.okfn.org/mailman/listinfo/openspending)). 
 
 <img alt="" src="http://farm9.staticflickr.com/8460/7976488712_9b16eb14b7.jpg" title="Spending data handbook" class="alignnone" width="640" height="480" />
 
-The problems that these CSOs have been encountering include dodgy data, which often changes from year to year, incorrect data formats (most common offender, as always being - PDFs), jargon or codes in data which had to be painstakingly decoded and many more. We were also delighted to see that CSOs were curious and getting more ambitious with data and wanted to know more, for example asking questions such as- "How do I present my data better?", "How do I speed up getting data from websites?" or "We've been thinking about geocoding publicly-funded projects so we can put them on a map, do you know of anyone who has done this successfully?".
+The second aim was to find a way, via training, technology or otherwise, to tackle the challenges which the CSOs we spoke to highlighted in their interviews. The problems that these CSOs have been encountering include dodgy data, which often changes from year to year, incorrect data formats (most common offender, as always being - PDFs), jargon or codes in data which had to be painstakingly decoded and many more. We were also delighted to see that CSOs were curious and getting more ambitious with data and wanted to know more, for example asking questions such as- "How do I present my data better?", "How do I speed up getting data from websites?" or "We've been thinking about geocoding publicly-funded projects so we can put them on a map, do you know of anyone who has done this successfully?".
 
-To address the rise in ambition of these groups and speak to the challenges - we'll be putting together a Spending Data Handbook. Like the Open Data Handbook, it will be available as an open educational resource on the internet and we'll also use it for training sessions with NGOs. Based on what people told us the issues were, this is what we thought should go into it, but we need your input... (See below)
+## What's next? The Spending Data Handbook.
+
+To address the rise in ambition of these groups and speak to the challenges - we'll be putting together a Spending Data Handbook. Like the [Open Data Handbook](http://opendatahandbook.org/en/), it will be available as an open educational resource on the internet and we'll also use it for training sessions with NGOs. Based on what people told us the issues were, this is what we thought should go into it, but we need your input... (See below)
 
 ## QUESTIONS
+
+Based on the interviews we conducted, we've drawn up a suggested list of topics for what could go into the handbook. We'd love to [hear from you](http://lists.okfn.org/mailman/listinfo/openspending) with your suggestions modifications. 
 
 ### How can CSOs be more effective in their use of data? What should they be asking governments for?
 
