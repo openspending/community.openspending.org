@@ -14,11 +14,11 @@ The aim has been firstly to establish a front along which Civil Society Organisa
 
 Our first step was to start building a [Working Group](http://openspending.org/resources/wg/index.html) to bring these people who work in similar sectors around the globe together and stimulate discussion around the topic of Spending Data. There is already a good exchange of interesting projects from around the world and topics such as the creation of standards and an exchange of expectations and practices are being mooted. The group is growing in size and open to those working in the field of open spending data. 
 
-<img alt="" src="http://farm9.staticflickr.com/8460/7976488712_9b16eb14b7.jpg" title="Spending data handbook" align="centre" width="320" height="240" />
+<img alt="" src="http://farm9.staticflickr.com/8460/7976488712_9b16eb14b7.jpg" title="Spending data handbook" class="alignleft" width="320" height="240" />
 
 The second aim was to find a way, via training, technology or otherwise, to tackle the challenges which the CSOs we spoke to highlighted. The most common problems that these organisations have been encountering include dodgy data, which often changes in structure and format from year to year, incorrect data formats (most common offender, as usual, being - PDFs), jargon or codes in data which had to be painstakingly decoded and many more. We were also delighted to see that CSOs were curious and getting more ambitious with data and wanted to know more about how they could work with it most effectively, for example asking questions such as- *"How do I present my data better?"*, *"How do I speed up getting data from websites?"* or *"We've been thinking about geocoding publicly-funded projects so we can put them on a map, do you know of anyone who has done this successfully?"*.
 
-## What's next? The Spending Data Handbook.
+## What's next? - The Spending Data Handbook.
 
 To address the rise in ambition of these groups and speak to the challenges - we'll be putting together a Spending Data Handbook. Like the [Open Data Handbook](http://opendatahandbook.org/en/), it will be available as an open educational resource on the internet and for training sessions.
 
