@@ -14,15 +14,18 @@ layout: gb
     font-style: italic;
   }
 
-  .group_row {
+  .group_row,
+  .tdbad {
     background-color: #F2DEDE;
   }
 
-  .group_row.has_sources {
+  .group_row.has_sources,
+  .tdmedium {
     background-color: #FCF8E3;
   }
 
-  .group_row.has_sources.top_class {
+  .group_row.has_sources.top_class,
+  .tdgood {
     background-color: #DFF0D8;
   }
 
@@ -35,7 +38,7 @@ layout: gb
 
 <h2>
   UK Departmental Spend Reporting
-  <small>as of August 31, 2012</small>
+  <small>as of September 06, 2012</small>
 </h2>
 
 <div class="row">
@@ -56,24 +59,24 @@ layout: gb
       </tr>
       <tr>
         <th>Reported anything</th>
-        <td>22 (95%)</td>
-        <td>22 (95%)</td>
-        <td>22 (95%)</td>
-        <td>22 (95%)</td>
+        <td class="tdbad">22 (95%)</td>
+        <td class="tdmedium">22 (95%)</td>
+        <td class="tdmedium">22 (95%)</td>
+        <td class="tdmedium">22 (95%)</td>
       </tr>
       <tr>
         <th>Reported valid data</th>
-        <td>22 (95%)</td>
-        <td>22 (95%)</td>
-        <td>22 (95%)</td>
-        <td>22 (95%)</td>
+        <td class="tdmedium">22 (95%)</td>
+        <td class="tdmedium">22 (95%)</td>
+        <td class="tdmedium">22 (95%)</td>
+        <td class="tdmedium">22 (95%)</td>
       </tr>
       <tr>
         <th>Periods covered</th>
-        <td>22 (95%)</td>
-        <td>18 (78%)</td>
-        <td>17 (73%)</td>
-        <td>10 (43%)</td>
+        <td class="tdmedium">22 (95%)</td>
+        <td class="tdmedium">19 (82%)</td>
+        <td class="tdmedium">18 (78%)</td>
+        <td class="tdgood">11 (47%)</td>
       </tr>
     </table>
   </div>
@@ -89,7 +92,7 @@ layout: gb
   </tr>
   <tr class="voluntary">
     <th colspan="5">
-      Publishers that are required to report monthly expenditure (Core Departments)
+      Core departments (required to report monthly expenditure)
     </th>
   </tr>
   
@@ -219,10 +222,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/department-for-culture-media-and-sport">data.gov.uk</a>)
       </td>
       
-        <td class="num">23</td>
-        <td class="num">4018</td>
-        <td class="num">2011-08-26</td>
-        <td class="num">7563978533.89</td>
+        <td class="num">25</td>
+        <td class="num">4969</td>
+        <td class="num">2012-03-30</td>
+        <td class="num">13034008987.5</td>
       
     </tr>
 
@@ -380,10 +383,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/department-of-health">data.gov.uk</a>)
       </td>
       
-        <td class="num">199</td>
-        <td class="num">44554</td>
+        <td class="num">23</td>
+        <td class="num">31860</td>
         <td class="num">2012-03-30</td>
-        <td class="num">1.69982338239e+11</td>
+        <td class="num">1.67489878703e+11</td>
       
     </tr>
 
@@ -426,10 +429,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/her-majestys-revenue-and-customs">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
-        <td class="num">9967</td>
-        <td class="num">2012-06-29</td>
-        <td class="num">3795658440.08</td>
+        <td class="num">28</td>
+        <td class="num">10354</td>
+        <td class="num">2012-07-31</td>
+        <td class="num">3934724800.23</td>
       
     </tr>
 
@@ -462,7 +465,7 @@ layout: gb
     group_row required
     has_sources
     has_entries
-    
+    top_class
     
     ">
       <td>
@@ -472,10 +475,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/home-office">data.gov.uk</a>)
       </td>
       
-        <td class="num">44</td>
-        <td class="num">29972</td>
-        <td class="num">2012-05-31</td>
-        <td class="num">18295737027.1</td>
+        <td class="num">45</td>
+        <td class="num">31186</td>
+        <td class="num">2012-06-29</td>
+        <td class="num">20365747237.9</td>
       
     </tr>
 
@@ -495,10 +498,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/ministry-of-defence">data.gov.uk</a>)
       </td>
       
-        <td class="num">46</td>
-        <td class="num">156803</td>
+        <td class="num">49</td>
+        <td class="num">162381</td>
         <td class="num">2012-12-19</td>
-        <td class="num">13084531610.3</td>
+        <td class="num">13579530227.2</td>
       
     </tr>
 
@@ -620,7 +623,7 @@ layout: gb
   
   <tr class="voluntary">
     <th colspan="5">
-      Other publishers, reporting spending on a voluntary basis.
+      Other data.gov.uk publishers
     </td>
   </tr>
   
@@ -1720,10 +1723,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/bridgewater-community-healthcare-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">13</td>
-        <td class="num">194</td>
-        <td class="num">2012-07-31</td>
-        <td class="num">18577913.64</td>
+        <td class="num">14</td>
+        <td class="num">207</td>
+        <td class="num">2012-08-28</td>
+        <td class="num">19220475.64</td>
       
     </tr>
 
@@ -1756,7 +1759,7 @@ layout: gb
     group_row voluntary
     has_sources
     has_entries
-    
+    top_class
     
     ">
       <td>
@@ -1766,10 +1769,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/brighton-and-sussex-university-hospitals-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
-        <td class="num">1076776</td>
-        <td class="num">2012-05-30</td>
-        <td class="num">365849233.31</td>
+        <td class="num">29</td>
+        <td class="num">1154702</td>
+        <td class="num">2012-07-30</td>
+        <td class="num">405412941.24</td>
       
     </tr>
 
@@ -1996,7 +1999,7 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/buckinghamshire-healthcare-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">9</td>
+        <td class="num">20</td>
         <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
@@ -2295,10 +2298,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/central-and-eastern-cheshire-primary-care-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">1</td>
-        <td class="num">105</td>
-        <td class="num">2010-04-29</td>
-        <td class="num">39670782.89</td>
+        <td class="num">7</td>
+        <td class="num">705</td>
+        <td class="num">2010-09-30</td>
+        <td class="num">273523575.63</td>
       
     </tr>
 
@@ -3502,22 +3505,22 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
-    
+    has_sources
+    has_entries
     
     
     ">
       <td>
         
-          Dartford and Gravesham NHS Trust
+          <a href="publisher-dartford-and-gravesham-nhs-trust.html">Dartford and Gravesham NHS Trust</a>
         
         (<a href="http://data.gov.uk/publisher/dartford-and-gravesham-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">3</td>
+        <td class="num">153</td>
+        <td class="num">2010-12-29</td>
+        <td class="num">29553052.78</td>
       
     </tr>
 
@@ -3905,10 +3908,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/derbyshire-community-health-services">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
-        <td class="num">713</td>
-        <td class="num">2012-06-30</td>
-        <td class="num">15163767.89</td>
+        <td class="num">28</td>
+        <td class="num">825</td>
+        <td class="num">2012-07-31</td>
+        <td class="num">27753988.16</td>
       
     </tr>
 
@@ -3974,10 +3977,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/derbyshire-mental-health-services-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">7</td>
-        <td class="num">122</td>
-        <td class="num">2010-10-29</td>
-        <td class="num">7633102.39</td>
+        <td class="num">10</td>
+        <td class="num">149</td>
+        <td class="num">2011-08-31</td>
+        <td class="num">9930400.88</td>
       
     </tr>
 
@@ -4158,10 +4161,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/dudley-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">28</td>
-        <td class="num">5750</td>
-        <td class="num">2012-07-26</td>
-        <td class="num">929809520.51</td>
+        <td class="num">29</td>
+        <td class="num">5887</td>
+        <td class="num">2012-08-31</td>
+        <td class="num">969560615.68</td>
       
     </tr>
 
@@ -4296,10 +4299,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/east-midlands-ambulance-services-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">23</td>
-        <td class="num">2276</td>
+        <td class="num">25</td>
+        <td class="num">2535</td>
         <td class="num">2012-05-30</td>
-        <td class="num">38620411.89</td>
+        <td class="num">40485026.18</td>
       
     </tr>
 
@@ -4319,7 +4322,7 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/east-midlands-strategic-health-authority">data.gov.uk</a>)
       </td>
       
-        <td class="num">20</td>
+        <td class="num">21</td>
         <td class="num">1943</td>
         <td class="num">2010-11-27</td>
         <td class="num">234717880.51</td>
@@ -4330,20 +4333,20 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
+    has_sources
     
     
     
     ">
       <td>
         
-          East of England Ambulance Service NHS Trust
+          <a href="publisher-east-of-england-ambulance-service-nhs-trust.html">East of England Ambulance Service NHS Trust</a>
         
         (<a href="http://data.gov.uk/publisher/east-of-england-ambulance-service-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">3</td>
+        <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
       
@@ -4894,10 +4897,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/food-standards-agency">data.gov.uk</a>)
       </td>
       
-        <td class="num">28</td>
-        <td class="num">4955</td>
-        <td class="num">2012-06-28</td>
-        <td class="num">79299047.04</td>
+        <td class="num">29</td>
+        <td class="num">5186</td>
+        <td class="num">2012-07-30</td>
+        <td class="num">82928611.58</td>
       
     </tr>
 
@@ -5262,10 +5265,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/government-actuarys-department">data.gov.uk</a>)
       </td>
       
-        <td class="num">25</td>
-        <td class="num">55</td>
+        <td class="num">27</td>
+        <td class="num">58</td>
         <td class="num">2012-09-01</td>
-        <td class="num">5127736.96</td>
+        <td class="num">5702220.4</td>
       
     </tr>
 
@@ -5607,10 +5610,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/hartlepool-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">1</td>
-        <td class="num">35</td>
+        <td class="num">11</td>
+        <td class="num">467</td>
         <td class="num">2011-04-28</td>
-        <td class="num">14975752.65</td>
+        <td class="num">119772128.4</td>
       
     </tr>
 
@@ -5641,29 +5644,6 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
-    
-    
-    
-    ">
-      <td>
-        
-          Health Care Quality Improvement Partnership
-        
-        (<a href="http://data.gov.uk/publisher/health-care-quality-improvement-partnership">data.gov.uk</a>)
-      </td>
-      
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
-      
-    </tr>
-
-  
-    
-  <tr class="
-    group_row voluntary
     has_sources
     has_entries
     
@@ -5680,6 +5660,29 @@ layout: gb
         <td class="num">5166</td>
         <td class="num">2011-03-30</td>
         <td class="num">69976252.49</td>
+      
+    </tr>
+
+  
+    
+  <tr class="
+    group_row voluntary
+    
+    
+    
+    
+    ">
+      <td>
+        
+          Healthcare Quality Improvement Partnership
+        
+        (<a href="http://data.gov.uk/publisher/healthcare-quality-improvement-partnership">data.gov.uk</a>)
+      </td>
+      
+        <td class="num"></td>
+        <td class="num"></td>
+        <td class="num"></td>
+        <td class="num"></td>
       
     </tr>
 
@@ -5860,10 +5863,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/higher-education-funding-council-for-england">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
-        <td class="num">25873</td>
-        <td class="num">2012-06-30</td>
-        <td class="num">17460997733.3</td>
+        <td class="num">28</td>
+        <td class="num">26733</td>
+        <td class="num">2012-07-30</td>
+        <td class="num">18051011827.7</td>
       
     </tr>
 
@@ -5904,6 +5907,29 @@ layout: gb
           Highways Agency
         
         (<a href="http://data.gov.uk/publisher/highways-agency">data.gov.uk</a>)
+      </td>
+      
+        <td class="num"></td>
+        <td class="num"></td>
+        <td class="num"></td>
+        <td class="num"></td>
+      
+    </tr>
+
+  
+    
+  <tr class="
+    group_row voluntary
+    
+    
+    
+    
+    ">
+      <td>
+        
+          Hillsborough Independent Panel
+        
+        (<a href="http://data.gov.uk/publisher/hillsborough-independent-panel">data.gov.uk</a>)
       </td>
       
         <td class="num"></td>
@@ -6780,10 +6806,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/kingston-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">12</td>
-        <td class="num">924</td>
-        <td class="num">2011-03-31</td>
-        <td class="num">226194947.97</td>
+        <td class="num">31</td>
+        <td class="num">3662</td>
+        <td class="num">2011-10-31</td>
+        <td class="num">975532034.25</td>
       
     </tr>
 
@@ -7470,10 +7496,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/london-ambulance-service-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
-        <td class="num">3563</td>
-        <td class="num">2012-06-29</td>
-        <td class="num">113572762.73</td>
+        <td class="num">28</td>
+        <td class="num">3641</td>
+        <td class="num">2012-07-31</td>
+        <td class="num">115313012.61</td>
       
     </tr>
 
@@ -8286,22 +8312,22 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
-    
+    has_sources
+    has_entries
     
     
     ">
       <td>
         
-          Middlesbrough Primary Care Trust
+          <a href="publisher-middlesbrough-primary-care-trust.html">Middlesbrough Primary Care Trust</a>
         
         (<a href="http://data.gov.uk/publisher/middlesbrough-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">10</td>
+        <td class="num">709</td>
+        <td class="num">2011-01-31</td>
+        <td class="num">191264256.76</td>
       
     </tr>
 
@@ -8321,10 +8347,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/milton-keynes-hospital-nhs-foundation-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
-        <td class="num">881</td>
-        <td class="num">2012-06-30</td>
-        <td class="num">87178830.55</td>
+        <td class="num">28</td>
+        <td class="num">901</td>
+        <td class="num">2012-07-31</td>
+        <td class="num">88477785.85</td>
       
     </tr>
 
@@ -8608,22 +8634,22 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
-    
+    has_sources
+    has_entries
     
     
     ">
       <td>
         
-          National Fraud Authority
+          <a href="publisher-national-fraud-authority.html">National Fraud Authority</a>
         
         (<a href="http://data.gov.uk/publisher/national-fraud-authority">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">3</td>
+        <td class="num">55</td>
+        <td class="num">2011-09-20</td>
+        <td class="num">2471240.07</td>
       
     </tr>
 
@@ -9321,22 +9347,22 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
-    
+    has_sources
+    has_entries
     
     
     ">
       <td>
         
-          NHS Bath & North East Somerset
+          <a href="publisher-nhs-bath-north-east-somerset.html">NHS Bath & North East Somerset</a>
         
         (<a href="http://data.gov.uk/publisher/nhs-bath-north-east-somerset">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">4</td>
+        <td class="num">328</td>
+        <td class="num">2010-12-22</td>
+        <td class="num">129540585.77</td>
       
     </tr>
 
@@ -9425,10 +9451,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/nhs-blood-and-transplant">data.gov.uk</a>)
       </td>
       
-        <td class="num">35</td>
-        <td class="num">5133</td>
-        <td class="num">2012-06-29</td>
-        <td class="num">325634931.9</td>
+        <td class="num">38</td>
+        <td class="num">5312</td>
+        <td class="num">2012-07-31</td>
+        <td class="num">337446853.32</td>
       
     </tr>
 
@@ -9633,9 +9659,9 @@ layout: gb
       </td>
       
         <td class="num">28</td>
-        <td class="num">4169</td>
+        <td class="num">4322</td>
         <td class="num">2012-12-09</td>
-        <td class="num">1282600718.38</td>
+        <td class="num">1338363132.98</td>
       
     </tr>
 
@@ -9747,10 +9773,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/nhs-county-durham">data.gov.uk</a>)
       </td>
       
-        <td class="num">28</td>
-        <td class="num">6272</td>
-        <td class="num">2012-07-31</td>
-        <td class="num">2082229795.86</td>
+        <td class="num">29</td>
+        <td class="num">6479</td>
+        <td class="num">2012-08-31</td>
+        <td class="num">2144956646.87</td>
       
     </tr>
 
@@ -9793,10 +9819,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/nhs-darlington">data.gov.uk</a>)
       </td>
       
-        <td class="num">28</td>
-        <td class="num">2428</td>
-        <td class="num">2012-07-30</td>
-        <td class="num">375919671.73</td>
+        <td class="num">29</td>
+        <td class="num">2487</td>
+        <td class="num">2012-08-31</td>
+        <td class="num">388247588.81</td>
       
     </tr>
 
@@ -10172,20 +10198,20 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
+    has_sources
     
     
     
     ">
       <td>
         
-          NHS Hillingdon
+          <a href="publisher-nhs-hillingdon.html">NHS Hillingdon</a>
         
         (<a href="http://data.gov.uk/publisher/nhs-hillingdon">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">1</td>
+        <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
       
@@ -10437,10 +10463,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/nhs-london">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
-        <td class="num">12495</td>
-        <td class="num">2012-06-29</td>
-        <td class="num">3884086674.24</td>
+        <td class="num">28</td>
+        <td class="num">13691</td>
+        <td class="num">2012-07-31</td>
+        <td class="num">4138110273.79</td>
       
     </tr>
 
@@ -10517,20 +10543,20 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
+    has_sources
     
     
     
     ">
       <td>
         
-          NHS North Staffordshire
+          <a href="publisher-nhs-north-staffordshire.html">NHS North Staffordshire</a>
         
         (<a href="http://data.gov.uk/publisher/nhs-north-staffordshire">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">1</td>
+        <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
       
@@ -10759,7 +10785,7 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/nhs-south-east-coast">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
+        <td class="num">28</td>
         <td class="num">125</td>
         <td class="num">2012-06-29</td>
         <td class="num">86226112.16</td>
@@ -10805,7 +10831,7 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/nhs-south-west">data.gov.uk</a>)
       </td>
       
-        <td class="num">17</td>
+        <td class="num">21</td>
         <td class="num">382</td>
         <td class="num">2012-04-27</td>
         <td class="num">123768965.45</td>
@@ -10816,22 +10842,22 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
-    
+    has_sources
+    has_entries
     
     
     ">
       <td>
         
-          NHS Stoke on Trent
+          <a href="publisher-nhs-stoke-on-trent.html">NHS Stoke on Trent</a>
         
         (<a href="http://data.gov.uk/publisher/nhs-stoke-on-trent">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">7</td>
+        <td class="num">2772</td>
+        <td class="num">2010-10-28</td>
+        <td class="num">217515846.05</td>
       
     </tr>
 
@@ -11069,22 +11095,22 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
-    
+    has_sources
+    has_entries
     
     
     ">
       <td>
         
-          NHS Wirral
+          <a href="publisher-nhs-wirral.html">NHS Wirral</a>
         
         (<a href="http://data.gov.uk/publisher/nhs-wirral">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">8</td>
+        <td class="num">982</td>
+        <td class="num">2010-11-30</td>
+        <td class="num">288126479.33</td>
       
     </tr>
 
@@ -11219,7 +11245,7 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/north-east-ambulance-service-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">6</td>
+        <td class="num">12</td>
         <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
@@ -11334,10 +11360,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/north-middlesex-university-hospital-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">16</td>
-        <td class="num">563</td>
+        <td class="num">25</td>
+        <td class="num">963</td>
         <td class="num">2012-12-30</td>
-        <td class="num">68198893.13</td>
+        <td class="num">118364373.22</td>
       
     </tr>
 
@@ -11495,7 +11521,7 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/north-west-ambulance-service-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">4</td>
+        <td class="num">13</td>
         <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
@@ -12449,20 +12475,20 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
+    has_sources
     
     
     
     ">
       <td>
         
-          Oxfordshire Primary Care Trust
+          <a href="publisher-oxfordshire-primary-care-trust.html">Oxfordshire Primary Care Trust</a>
         
         (<a href="http://data.gov.uk/publisher/oxfordshire-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">1</td>
+        <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
       
@@ -12714,10 +12740,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/portsmouth-city-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
-        <td class="num">1449</td>
-        <td class="num">2012-06-30</td>
-        <td class="num">633874530.47</td>
+        <td class="num">28</td>
+        <td class="num">1504</td>
+        <td class="num">2012-07-31</td>
+        <td class="num">653260695.66</td>
       
     </tr>
 
@@ -13001,22 +13027,22 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
-    
+    has_sources
+    has_entries
     
     
     ">
       <td>
         
-          Redcar & Cleveland Primary Care Trust
+          <a href="publisher-redcar-cleveland-primary-care-trust.html">Redcar & Cleveland Primary Care Trust</a>
         
         (<a href="http://data.gov.uk/publisher/redcar-cleveland-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">10</td>
+        <td class="num">560</td>
+        <td class="num">2011-01-31</td>
+        <td class="num">153832483.07</td>
       
     </tr>
 
@@ -13450,10 +13476,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/royal-cornwall-hospitals-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">28</td>
-        <td class="num">768</td>
-        <td class="num">2012-07-27</td>
-        <td class="num">61172259.27</td>
+        <td class="num">29</td>
+        <td class="num">827</td>
+        <td class="num">2012-08-31</td>
+        <td class="num">66770707.01</td>
       
     </tr>
 
@@ -14848,6 +14874,29 @@ layout: gb
     ">
       <td>
         
+          <a href="publisher-st-george-s-healthcare-nhs-trust.html">St George's Healthcare NHS Trust</a>
+        
+        (<a href="http://data.gov.uk/publisher/st-george-s-healthcare-nhs-trust">data.gov.uk</a>)
+      </td>
+      
+        <td class="num">1</td>
+        <td class="num">500</td>
+        <td class="num">2010-10-04</td>
+        <td class="num">42419707.07</td>
+      
+    </tr>
+
+  
+    
+  <tr class="
+    group_row voluntary
+    has_sources
+    has_entries
+    
+    
+    ">
+      <td>
+        
           <a href="publisher-st-helens-and-knowsley-hospitals-nhs-trust.html">St Helens and Knowsley Hospitals NHS Trust</a>
         
         (<a href="http://data.gov.uk/publisher/st-helens-and-knowsley-hospitals-nhs-trust">data.gov.uk</a>)
@@ -15037,10 +15086,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/stockport-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">27</td>
-        <td class="num">1764</td>
+        <td class="num">28</td>
+        <td class="num">1831</td>
         <td class="num">2012-07-31</td>
-        <td class="num">857872341.87</td>
+        <td class="num">877038989.87</td>
       
     </tr>
 
@@ -15083,10 +15132,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/stockton-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">8</td>
-        <td class="num">571</td>
-        <td class="num">2010-11-29</td>
-        <td class="num">177653976.21</td>
+        <td class="num">9</td>
+        <td class="num">641</td>
+        <td class="num">2011-01-31</td>
+        <td class="num">196637204.21</td>
       
     </tr>
 
@@ -15290,10 +15339,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/tameside-hospital-nhs-foundation-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">28</td>
-        <td class="num">201</td>
-        <td class="num">2012-07-26</td>
-        <td class="num">6027907.61</td>
+        <td class="num">29</td>
+        <td class="num">290</td>
+        <td class="num">2012-08-29</td>
+        <td class="num">8935134.12</td>
       
     </tr>
 
@@ -15474,10 +15523,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/the-christie-nhs-foundation-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">26</td>
-        <td class="num">1133</td>
-        <td class="num">2012-06-15</td>
-        <td class="num">122814938.39</td>
+        <td class="num">27</td>
+        <td class="num">1179</td>
+        <td class="num">2012-07-31</td>
+        <td class="num">127088252.92</td>
       
     </tr>
 
@@ -16198,20 +16247,20 @@ layout: gb
     
   <tr class="
     group_row voluntary
-    
+    has_sources
     
     
     
     ">
       <td>
         
-          Trafford Healthcare NHS Trust
+          <a href="publisher-trafford-healthcare-nhs-trust.html">Trafford Healthcare NHS Trust</a>
         
         (<a href="http://data.gov.uk/publisher/trafford-healthcare-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num"></td>
-        <td class="num"></td>
+        <td class="num">23</td>
+        <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
       
@@ -16628,6 +16677,29 @@ layout: gb
         <td class="num">3138</td>
         <td class="num">2012-05-30</td>
         <td class="num">318425958.31</td>
+      
+    </tr>
+
+  
+    
+  <tr class="
+    group_row voluntary
+    has_sources
+    has_entries
+    
+    
+    ">
+      <td>
+        
+          <a href="publisher-university-hospitals-of-leicester-nhs-trust.html">University Hospitals of Leicester NHS Trust</a>
+        
+        (<a href="http://data.gov.uk/publisher/university-hospitals-of-leicester-nhs-trust">data.gov.uk</a>)
+      </td>
+      
+        <td class="num">13</td>
+        <td class="num">2124</td>
+        <td class="num">2011-03-31</td>
+        <td class="num">262040899.71</td>
       
     </tr>
 
@@ -17233,6 +17305,29 @@ layout: gb
     
   <tr class="
     group_row voluntary
+    has_sources
+    
+    
+    
+    ">
+      <td>
+        
+          <a href="publisher-west-midlands-ambulance-service-nhs-trust.html">West Midlands Ambulance Service NHS Trust</a>
+        
+        (<a href="http://data.gov.uk/publisher/west-midlands-ambulance-service-nhs-trust">data.gov.uk</a>)
+      </td>
+      
+        <td class="num">1</td>
+        <td class="num">0</td>
+        <td class="num"></td>
+        <td class="num"></td>
+      
+    </tr>
+
+  
+    
+  <tr class="
+    group_row voluntary
     
     
     
@@ -17268,7 +17363,7 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/west-midlands-strategic-health-authority">data.gov.uk</a>)
       </td>
       
-        <td class="num">15</td>
+        <td class="num">25</td>
         <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
@@ -17419,7 +17514,7 @@ layout: gb
     group_row voluntary
     has_sources
     has_entries
-    
+    top_class
     
     ">
       <td>
@@ -17429,10 +17524,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/whittington-hospital-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">25</td>
-        <td class="num">363</td>
-        <td class="num">2012-04-19</td>
-        <td class="num">31415729.87</td>
+        <td class="num">28</td>
+        <td class="num">491</td>
+        <td class="num">2012-07-26</td>
+        <td class="num">40521223.85</td>
       
     </tr>
 
@@ -17613,10 +17708,10 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/wolverhampton-city-primary-care-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">28</td>
-        <td class="num">2206</td>
-        <td class="num">2012-07-26</td>
-        <td class="num">728520520.72</td>
+        <td class="num">29</td>
+        <td class="num">2257</td>
+        <td class="num">2012-08-30</td>
+        <td class="num">760890616.23</td>
       
     </tr>
 
@@ -17659,7 +17754,7 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/worcestershire-acute-hospitals-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">16</td>
+        <td class="num">17</td>
         <td class="num">0</td>
         <td class="num"></td>
         <td class="num"></td>
@@ -17705,7 +17800,7 @@ layout: gb
         (<a href="http://data.gov.uk/publisher/worcestershire-health-and-care-nhs-trust">data.gov.uk</a>)
       </td>
       
-        <td class="num">12</td>
+        <td class="num">13</td>
         <td class="num">50</td>
         <td class="num">2012-06-29</td>
         <td class="num">6908262.73</td>
