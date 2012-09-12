@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spending Data Handbook - How do Spending Organisations Wrangle Spending Data? 
+title: Spending Data Handbook - How do Civil Society Organisations Wrangle Spending Data? 
 published: true
 type: post
 status: publish
