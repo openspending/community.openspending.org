@@ -24,26 +24,28 @@ title: Working Group on Open Expenditure Data
 
 ### Members
 
-* **Alexandre Ciconello**, INESC, *Brazil*
-* **Codru Vrabie**, Bribemarket, *Romania*
+* **Alexandre Ciconello**, [INESC](http://www.inesc.org.br/news), *Brazil*
+* **Avani Kapur**, [Accountability Initiative](http://www.accountabilityindia.in/), *India*
+* **Codru Vrabie**, [Bribemarket](http://www.piatadespaga.ro/), *Romania*
+* **Damir Mehmedbasic**, [Public Interest Advocacy Centre](http://cpi.ba/), *Bosnia and Herzegovina*
 * **David Cabo**, Pro Bono Publico, *Spain*
 * **Dr Effie Vraniali**,[Fondafip](www.fondafip.org) and Member of Transparency International *Greece*
-* **Elena Calistru**, Lost Money, *Romania*
-* **Eva Vozarova**, Fair-Play Alliance,  *Slovakia*
-* **Friedrich Lindenberg**, Open Knowledge Foundation, *Germany*
-* **Hille Hinsberg**, Praxis Policy Centre, *Estonia*
-* **Kaitlin Lee**, Sunlight Foundation, *USA*
-* **Lucy Chambers**, Open Knowledge Foundation, *United Kingdom*
-* **Mark Brough**, Research Officer, Publish What You Fund, *United Kingdom*
-* **Martin Keegan**, Open Knowledge Foundation, *United Kingdom*
-* **Maurice Nsabimana**, World Bank
-* **Michael Roberts**, Co-founder, Acclar
-* **Michal Skop**, KohoVolit.eu, *Czech Republic*
-* **Oluseun Onigbinde**, BudgIT, *Nigeria*
-* **Photios Zygoulis**, e-gov Coordinator, Municipality of Neo Iraklio Attikis, *Greece*
-* **Ruth Jackson**, Information and Research Officer, PB Unit, *United Kingdom*
-* **Sam Lee**, World Bank Finances, *USA*
-* **Sam Smith**, Organiser of OpenTech, *United Kingdom*
+* **Elena Calistru**, [Lost Money](http://banipierduti.cloudapp.net/), *Romania*
+* **Eva Vozarova**, [Fair-Play Alliance](http://www.fair-play.sk/index.php),  *Slovakia*
+* **Friedrich Lindenberg**, [Open Knowledge Foundation](http://okfn.org/), *Germany*
+* **Hille Hinsberg**, [Praxis Policy Centre](http://www.praxis.ee/index.php?id=96&L=1), *Estonia*
+* **Kaitlin Lee**, [Sunlight Foundation](http://sunlightfoundation.com/), *USA*
+* **Laina Emmanuel**, [Accountability Initiative](http://www.accountabilityindia.in/), *India*
+* **Lucy Chambers**, [Open Knowledge Foundation](http://okfn.org/), *United Kingdom*
+* **Mark Brough**, Research Officer, [Publish What You Fund](http://www.publishwhatyoufund.org/), *United Kingdom*
+* **Martin Keegan**, [Open Knowledge Foundation](http://okfn.org/), *United Kingdom*
+* **Maurice Nsabimana**, [World Bank](http://www.worldbank.org/)
+* **Michael Roberts**, Co-founder, [Acclar](http://acclar.org/)
+* **Michal Skop**, [KohoVolit.eu](http://en.kohovolit.eu/), *Czech Republic*
+* **Oluseun Onigbinde**, [BudgIT](http://yourbudgit.com/), *Nigeria*
+* **Photios Zygoulis**, e-gov Coordinator, [Municipality of Neo Iraklio Attikis](www.iraklio.gr), *Greece*
+* **Sam Lee**, [World Bank Finances](https://finances.worldbank.org/), *USA*
+* **Sam Smith**, Organiser of [OpenTech](http://www.ukuug.org/events/opentech2011/), *United Kingdom*
 
 ### CSOs
 
@@ -53,3 +55,4 @@ title: Working Group on Open Expenditure Data
 
 * There is a [mailing list](http://lists.okfn.org/mailman/listinfo/openspending) where anyone can subscribe. Mailing list archives are public.
 * Twitter: [@openspending](http://twitter.com/openspending)
+* Twitter list of organisations who work with spending data: [Spending Orgs List](https://twitter.com/#!/openspending/lists)
