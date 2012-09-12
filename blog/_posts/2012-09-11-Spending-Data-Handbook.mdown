@@ -6,7 +6,7 @@ type: post
 status: publish
 ---
 
-Over the last few months, we have been travelling the globe in an effort to work out [which organisations are mapping the ebbs and flows of government money](http://openspending.org/blog/2012/01/12/civil-society-and-spending-data-who-is-mapping-the-money.html). In a series of interviews, currently being published via the [OpenSpending blog](http://openspending.org/blog/index.html) we've highlighted the issues which Civil Society Organisations face when working with government financial data. 
+Over the last few months, we have been travelling the globe in an effort to work out [which organisations are mapping the ebbs and flows of government money](http://openspending.org/blog/2012/01/12/civil-society-and-spending-data-who-is-mapping-the-money.html) - and how they do it. In a series of interviews, currently being published via the [OpenSpending blog](http://openspending.org/blog/index.html) we've highlighted the issues which Civil Society Organisations face when working with government financial data. 
 
 The aim has been firstly to establish a front along which Civil Society Organisations can unite and realise that they are not lone-voices demanding *better* data, *more current* data. 
 
@@ -16,13 +16,13 @@ Our first step was to start building a [Working Group](http://openspending.org/r
 
 <img alt="" src="http://farm9.staticflickr.com/8460/7976488712_9b16eb14b7.jpg" title="Spending data handbook" class="alignnone" width="640" height="480" />
 
-The second aim was to find a way, via training, technology or otherwise, to tackle the challenges which the CSOs we spoke to highlighted in their interviews. The problems that these CSOs have been encountering include dodgy data, which often changes from year to year, incorrect data formats (most common offender, as always being - PDFs), jargon or codes in data which had to be painstakingly decoded and many more. We were also delighted to see that CSOs were curious and getting more ambitious with data and wanted to know more, for example asking questions such as- "How do I present my data better?", "How do I speed up getting data from websites?" or "We've been thinking about geocoding publicly-funded projects so we can put them on a map, do you know of anyone who has done this successfully?".
+The second aim was to find a way, via training, technology or otherwise, to tackle the challenges which the CSOs we spoke to highlighted in their interviews. The problems that these CSOs have been encountering include dodgy data, which often changes from year to year, incorrect data formats (most common offender, as usual, being - PDFs), jargon or codes in data which had to be painstakingly decoded and many more. We were also delighted to see that CSOs were curious and getting more ambitious with data and wanted to know more about how they could work with it most effectively, for example asking questions such as- "How do I present my data better?", "How do I speed up getting data from websites?" or "We've been thinking about geocoding publicly-funded projects so we can put them on a map, do you know of anyone who has done this successfully?".
 
 ## What's next? The Spending Data Handbook.
 
-To address the rise in ambition of these groups and speak to the challenges - we'll be putting together a Spending Data Handbook. Like the [Open Data Handbook](http://opendatahandbook.org/en/), it will be available as an open educational resource on the internet and we'll also use it for training sessions with NGOs. Based on what people told us the issues were, this is what we thought should go into it, but we need your input... (See below)
+To address the rise in ambition of these groups and speak to the challenges - we'll be putting together a Spending Data Handbook. Like the [Open Data Handbook](http://opendatahandbook.org/en/), it will be available as an open educational resource on the internet and for training sessions.
 
-## QUESTIONS
+## What questions will the Spending Data Handbook cover?
 
 Based on the interviews we conducted, we've drawn up a suggested list of topics for what could go into the handbook. We'd love to [hear from you](http://lists.okfn.org/mailman/listinfo/openspending) with your suggestions modifications. 
 
@@ -44,7 +44,7 @@ Based on the interviews we conducted, we've drawn up a suggested list of topics 
 * How can you convert between different structured formats?
 
 ### How can data be cleaned up and brought into a more uniform format? How can data be augmented to allow for more meaningful interpretation?
-* How can government classifications (codesheets) be applied?  -> Does this count as reference data, or are we leaving that out now?
+* How can government classifications (codesheets) be applied? 
 * How can geographic information be included?
 * How can information about vendors/suppliers be included? 
 
@@ -53,7 +53,7 @@ Based on the interviews we conducted, we've drawn up a suggested list of topics 
 * How can you summarize large sets of data?
 * How can data be presented in an accessible and meaningful way? 
 
-We need your feedback. Are you an NGO working on these issues? Are there any additional topics you feel people in your organisation would like to know more about? Are the suggested topics useful? You can get in touch with us via the [OpenSpending mailing list](http://lists.okfn.org/mailman/listinfo/openspending).
+So now, we need your feedback. Are you an NGO working on these issues? Are there any additional topics you feel people in your organisation would like to know more about? Are the suggested topics useful? You can get in touch with us via the [OpenSpending mailing list](http://lists.okfn.org/mailman/listinfo/openspending).
 
 We hope for a sprint on the Handbook to take place around November, but the book will be a work in progress. There are many issues raised by NGOs in our research which won't make it into this first version, but we hope that as organisations become more ambitious in working with their data, we'll add tips and tricks for advanced wrangling into future versions. 
 
