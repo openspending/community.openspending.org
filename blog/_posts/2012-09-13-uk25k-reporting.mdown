@@ -31,7 +31,7 @@ Having all of these datasets organised under a single catalogue at Data.Gov.UK 
 
 ### How does it work?
 
-The report generator then highlights in red departments who are registered as a publisher on Data.gov.uk but have failed to publish any information on their spending, in yellow those who have published data which cannot be interpreted as spending data (e.g. PDF format or not complying with [the template](http://www.hm-treasury.gov.uk/d/transparency_annexa100910.xls) provided by HMT) and green those departments whose records have been updated as regularly as demanded as per the publication requirements (latest data must have been published as recently as 3 months ago).
+The report generator then highlights in red departments who are registered as a publisher on Data.gov.uk but have failed to publish any information on their spending, in yellow those who have published data which cannot be interpreted as spending data (e.g. PDF format or not complying with [the template](http://www.hm-treasury.gov.uk/d/transparency_annexa100910.xls) provided by HMT) and green those departments whose records have been updated as regularly as demanded as per the publication requirements (latest data must have been published as recently as a month ago).
 
 <img alt="" src="http://farm9.staticflickr.com/8441/7980196059_f6fd51a5c2_z.jpg" title="UK Departmental Spend Reporting 2" class="pull-left" style="margin: 1em 1em 1em 0;" />
 
