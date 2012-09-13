@@ -8,7 +8,7 @@ status: publish
 
 **Continuing in their mission to make spending data more accessible and comprehensible, the Spending Stories team and the team of Data.Gov.Uk are releasing a reporting tool today that will help journalists and analysts to pick the freshest and best departmental spending data to work with when exploring the UK central government expenditure.**
 
-## Spending data is juicy for journalists - why does it get neglected?
+### Spending data is juicy for journalists - why does it get neglected?
 
 Many reasons. One key one is that the shelf-life of a spending dataset is pretty short from a journalist's point of view, if they have to wait 6 months or even a year for spending data they need for a story to be released, then chances are - the sniff of the story they were wanting to write will probably have gone stale. 
 
@@ -25,11 +25,11 @@ The tool is useful to those both using the data, and those within government in 
 1. Quality of the data (i.e. adherence to HMT reporting guidelines, well-structured data)
 2. Status of reporting (i.e. how complete the reports are or if there is a reporting period missing)
 
-## Why was this possible?
+### Why was this possible?
 
 Having all of these datasets organised under a single catalogue at Data.Gov.UK  in simple spreadsheet format combined with the Data.gov.uk team's work in making the necessary metadata available enabled the OpenSpending team to create an extraction system to be set up to clean the data on a regular basis. The team then cleaned over 6000 column names to add compliance with [HMT guidance](http://nomenklatura.okfnlabs.org/uk25k-column-names).
 
-## How does it work?
+### How does it work?
 
 The report generator then highlights in red departments who are registered as a publisher on Data.gov.uk but have failed to publish any information on their spending, in yellow those who have published data which cannot be interpreted as spending data (e.g. PDF format or not complying with [the template](http://www.hm-treasury.gov.uk/d/transparency_annexa100910.xls) provided by HMT) and green those departments whose records have been updated as regularly as demanded as per the publication requirements (latest data must have been published as recently as 3 months ago).
 
