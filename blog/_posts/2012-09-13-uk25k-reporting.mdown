@@ -37,4 +37,8 @@ The report generator then highlights in red departments who are registered as a 
 
 The first stage of this release deals with central departments, who are obliged to report all spending over 25,000 GBP. Subsequent stages to follow soon after will monitor local councils and other governmental bodies, which have different reporting requirements. The interface will be useful both inside and out of government, to ensure transparency regulations are met and to better understand where gaps in data may alter the completeness of the picture offered by government data.
 
+* Reporting tool on [data.gov.uk](http://data.gov.uk/data/openspending-report/index)
+* More extensive list of entities at [OpenSpending](http://openspending.org/resources/gb-spending/report/index.html)
+* [Our briefing](http://openspending.org/resources/gb-spending/index.html) with all the details and link to code.
+
 *Interested in more regular updates from the Spending Stories team? Join the discussion via the [OpenSpending mailing list](http://lists.okfn.org/mailman/listinfo/openspending).*
