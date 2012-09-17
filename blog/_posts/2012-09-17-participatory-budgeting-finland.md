@@ -35,4 +35,6 @@ Avanto insight is responsible for planning the PB processess and is running the 
 
 Focus is on allowing library users to participate on developing the new Central Library, which is currently waiting for the results of the architectural competition. At the moment, we are planning to hold 2-3 live sessions in different libraries. These will be open, creative participation sessions for anybody interested. The sessions will give people the possibility to create their own budget proposal and also draw on feedback from the [Dream! survey](http://keskustakirjasto.fi/en/2012/06/07/dream-the-central-library-to-reality-weekend-at-the-pavilion-16-17-june/) held at the beginning of 2012, where Helsinki residents were invited to design the type of urban space and culture they would like to see blossom in the library. Planning is conducted openly, as we publish all the documents freshly to the osallistuvabudjetointi.fi site, where it is possible to comment them and affect the execution.
 
+[View the data on OpenSpending](http://openspending.org/helsinki_city_library_2009_2011_1)
+
 *We’re looking forward to seeing some pictures from the living results of these sessions. Look out for Raimo, Henri and Tiago on Friday, 21st September at OKFestival. We hope that bringing these two groups together will spark a great discussion on the future of PB in Finland.* 
