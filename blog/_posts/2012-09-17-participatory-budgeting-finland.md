@@ -6,9 +6,9 @@ type: post
 status: publish
 ---
 
-**This post is written by [Raimo Muurinen](https://twitter.com/ra__mu) and [Henri Ahti](https://twitter.com/HenriAhti) who are taking a lead on one of Finland’s first Participatory Budgeting (PB) projects “[osallistuvabudjetointi.fi](http://osallistuvabudjetointi.fi/)”. The post comes just as we prepare for Tiago Peixoto’s (aka [@participatory](https://twitter.com/participatory)) keynote and talk on [how to involve citizens in the budget making process](http://okfestival.org/participatory-budgeting/) at OKFestival.**
+**This post is written by [Raimo Muurinen](https://twitter.com/ra__mu) and [Henri Ahti](https://twitter.com/HenriAhti) who are taking a lead on one of Finland’s first Participatory Budgeting (PB) projects “[osallistuvabudjetointi.fi](http://osallistuvabudjetointi.fi/) with Helsinki City Library. The post comes just as we prepare for Tiago Peixoto’s (aka [@participatory](https://twitter.com/participatory)) keynote and talk on [how to involve citizens in the budget making process](http://okfestival.org/participatory-budgeting/) at OKFestival.**
 
-## How did osallistuvabudjetointi.fi get going? 
+## How did the project get going? 
 
 In April 2012, the Finnish innovation fund [Sitra](http://www.sitra.fi/en) organized [the first participatory budgeting process in Finland](http://www.sitra.fi/artikkelit/2012/osallistuva-budjetointi). As a result, among few others, a new PB project was elected to receive funding. [Helsinki City Library](http://www.lib.hel.fi/en-GB/) users now have the chance to plan and decide projects for the upcoming new [central library](http://keskustakirjasto.fi/en/).
 
@@ -29,7 +29,7 @@ Emobit leads the project as contractual partner for Sitra, providing technical e
 
 Avanto insight is responsible for planning the PB processess and is running the osallistuvabudjetointi.fi site. The company is a startup founded in 2011 and based in Tampere.
 
-<img alt="" src="http://farm9.staticflickr.com/8181/7992586298_4dbc8051e2_z.jpg" title="Helsinki Public Library Spending in OpenSpending" class="alignnone" width="640" height="480" />
+<iframe width='600' height='400' src='http://openspending.org/helsinki_city_library_2009_2011_1/embed?widget=treemap&state=%7B%22drilldown%22%3A%22kustannuspaikka%22%2C%22year%22%3A%222011%22%2C%22cuts%22%3A%7B%7D%7D&width=600&height=400' frameborder='0'></iframe>
 
 ## How will it work?
 
