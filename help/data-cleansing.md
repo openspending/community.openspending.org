@@ -23,11 +23,11 @@ issues.
 6. **There must be a combination of columns or an individual column which constitutes a ‘unique identifier’** : OpenSpending was built with a view to re-loading entries into the database at any time, even when existing data is loaded. This means that there must be some way to calculate a unique fingerprint for each row in the data which OpenSpending can use to determine whether it should update an existing row or create a new one. The easiest way to do this is to just add a dummy column to the dataset in which you put a number that increases for each row (you can do this in Excel by typing the numbers into the first two rows, selecting both cells and dragging down the lower right
 corner of the cell to extend the series).
 
-There are 3 example datasets below to help further:
+There are some example datasets below to help further:
 
-* <http://wiki.openspending.org/CSV_Format_Example1>
-* <http://wiki.openspending.org/CSV_Format_Example2>
-* <http://wiki.openspending.org/CSV_Format_Example3>
+* [Cameroon Example](https://docs.google.com/spreadsheet/ccc?key=0AplklDf0nYxWdG5CSDBqVDkwLUx6cmZDZVZyUWE4V1E#gid=0)
+* [UK Country regional analysis](https://docs.google.com/spreadsheet/ccc?key=0Aon3JiuouxLUdFlrUXVXZ3FiT3RvM3NHVmxrYkdqVlE#gid=0)
+* [Mexico (Simplest possible example)](http://datahub.io/dataset/fundar-mx-budget/resource/658e2207-4bb1-4834-ab31-341f90e8ff7a)
 
 
 ### Some common problems 
