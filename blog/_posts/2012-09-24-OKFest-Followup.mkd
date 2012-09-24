@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where Does the Money Go - International @OKFestival 
+title: Where Does the Money Go - International. Updates from OKFestival 
 published: true
 type: post
 status: publish
