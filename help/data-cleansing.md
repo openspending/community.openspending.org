@@ -22,6 +22,7 @@ issues.
 5. **No pre-aggregated totals**: (e.g. sub-totals or “roll-ups”) within the data (OpenSpending will do the maths and compute these automatically)
 6. **There must be a combination of columns or an individual column which constitutes a ‘unique identifier’** : OpenSpending was built with a view to re-loading entries into the database at any time, even when existing data is loaded. This means that there must be some way to calculate a unique fingerprint for each row in the data which OpenSpending can use to determine whether it should update an existing row or create a new one. The easiest way to do this is to just add a dummy column to the dataset in which you put a number that increases for each row (you can do this in Excel by typing the numbers into the first two rows, selecting both cells and dragging down the lower right
 corner of the cell to extend the series).
+7. The minimum permissable columns are an amount, a date (could be just a year) and a spender or a recipient (could just be the name of an account).
 
 There are some example datasets below to help further:
 
