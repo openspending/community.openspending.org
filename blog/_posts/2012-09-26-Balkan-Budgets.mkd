@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where Does My Money Go? Hits the Balkans
+title: Bubbles in the Balkans
 published: true
 type: post
 status: publish
