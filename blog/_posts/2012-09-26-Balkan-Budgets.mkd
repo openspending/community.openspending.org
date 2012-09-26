@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bubbles in the Balkans
+title: Balkan Budget Bubbles
 published: true
 type: post
 status: publish
