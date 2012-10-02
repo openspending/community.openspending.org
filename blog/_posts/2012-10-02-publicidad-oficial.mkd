@@ -7,7 +7,7 @@ status: publish
 ---
 
 **At Open Knowledge Festival, Federico Ramírez from Mexico presented Fundar's project on uncovering which government parties were using taxpayers's money to
-finance their PR and advertising. In this post, the Fundar team have delved deeper to talk about how this project came about, and hopefully inspire other organizations to tackle the issue in other countries.**
+finance their PR and advertising. In this post, based on an interview [Velichka Dimitrova](https://twitter.com/vndimitrova) did when she went out to Mexico for [OpenDataMx](http://blog.okfn.org/2012/09/04/opendatamx/), the Fundar team have delved deeper to talk about how this project came about, and hopefully inspire other organizations to tackle the issue in other countries.**
 
 > “Government advertising should be understood as a communication channel between the government and citizens. It should be clear, objective, easy to understand, necessary, useful and relevant to the public. It should not promote, explicitly or
 implicitly, the interests of any party or government”. [*]
