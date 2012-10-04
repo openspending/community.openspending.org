@@ -10,7 +10,7 @@ Over the last few months, we have been travelling the globe in an effort to work
 
 The aim has been firstly to establish a front along which Civil Society Organisations can unite and realise that they are not lone-voices demanding *better* data, *more current* data. 
 
-# So what's happened so far?
+# The story so far... 
 
 Our first step was to start building a [Working Group](http://openspending.org/resources/wg/index.html) to bring these people who work in similar sectors around the globe together and stimulate discussion around the topic of Spending Data. There is already a good exchange of interesting projects from around the world and topics such as the creation of standards and an exchange of expectations and practices are being mooted. The group is growing in size and open to those working in the field of open spending data. 
 
@@ -20,16 +20,16 @@ The second aim was to find a way, via training, technology or otherwise, to tack
 
 # What's next? - The Spending Data Handbook.
 
-The range of topics tackled by these groups is so diverse (from gender budgeting to checking that promised infrastructure in a local town actually gets built) that it would be impossible to address all of the data wrangling needs in one book. Everyone needs different levels of data, from tiny, ward-level datasets up to national budgets. However, there are some overarching principles which apply universally to working with government financial data. 
+The range of advocacy topics tackled by these groups is so diverse (from gender budgeting to checking that promised infrastructure in a local town actually gets built) that it would be impossible to address all of the data wrangling skills in one book. Everyone needs different levels of data, from tiny, ward-level datasets up to national budgets. However, there are some overarching principles which apply universally to working with government financial data. 
 
-To address the rise in ambition of these groups and speak to the challenges - we'll be putting together a Spending Data Handbook. Like the [Open Data Handbook](http://opendatahandbook.org/en/), it will be available as an open educational resource on the internet and for training sessions.
+These overarching topics are what we aim to cover in the Spending Data Handbook. Like the [Open Data Handbook](http://opendatahandbook.org/en/), it will be available as an open educational resource on the internet and for training sessions. More on the content below... 
 
 # What questions will the Spending Data Handbook cover?
 
 Based on the interviews we conducted, we've drawn up a suggested list of topics for what could go into the handbook. We'd love to [hear from you](http://lists.okfn.org/mailman/listinfo/openspending) with your suggestions and modifications. 
 
-## Part One: An introduction to Open Financial Data for BMOs
-
+## Part One: An introduction to Open Financial Data
+<p></p>
 ### How can CSOs be more effective in their use of data? What should they be asking governments for?
 
 * How can they be more effective in requesting (and keeping hold of) meaningful information from government?
@@ -43,7 +43,7 @@ Based on the interviews we conducted, we've drawn up a suggested list of topics 
 * How can they extract data from sources on the web?
 
 # Part Two: Technical primer for data work
-
+<p></p>
 ### How can data be analysed and interpreted?
 * Which phases of the budget/procurement cycle produce which kind of data? Which tools do you need to work with these different types of data? 
 * What different data formats can be used - and how?
@@ -63,7 +63,11 @@ Based on the interviews we conducted, we've drawn up a suggested list of topics 
 * How can you summarize large sets of data?
 * How can data be presented in an accessible and meaningful way? 
 
-So now, we need your feedback. Are you an NGO working on these issues? Are there any additional topics you feel people in your organisation would like to know more about? Are the suggested topics useful? You can get in touch with us via the [OpenSpending mailing list](http://lists.okfn.org/mailman/listinfo/openspending) or submit a response [via this form](https://docs.google.com/spreadsheet/viewform?formkey=dEl6TFh4THpOVkg1SmZaZXcycUdyRWc6MQ).
+## Any thoughts?
+
+So now, **we need your feedback**. Are you an NGO working on these issues? Are there any additional topics you feel people in your organisation would like to know more about? Are the suggested topics useful? You can get in touch with us via the [OpenSpending mailing list](http://lists.okfn.org/mailman/listinfo/openspending) or submit a response [via this form](https://docs.google.com/spreadsheet/viewform?formkey=dEl6TFh4THpOVkg1SmZaZXcycUdyRWc6MQ).
+
+## When?
 
 We hope for a sprint on the Handbook to take place around November, but the book will be a work in progress. There are many issues raised by NGOs in our research which won't make it into this first version, but we hope that as organisations become more ambitious in working with their data, we'll add tips and tricks for advanced wrangling into future versions. 
 
