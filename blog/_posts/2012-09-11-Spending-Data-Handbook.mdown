@@ -25,8 +25,9 @@ The range of advocacy topics tackled by these groups is so diverse (from gender 
 These overarching topics are what we aim to cover in the Spending Data Handbook. Like the [Open Data Handbook](http://opendatahandbook.org/en/), it will be available as an open educational resource on the internet and for training sessions. More on the content below... 
 
 # What questions will the Spending Data Handbook cover?
+<p> </p>
 <div class="well" 'markdown="1"'>
-    Based on the interviews we conducted, we've drawn up a suggested list of topics for what could go into the handbook. We'd love to [hear from you](http://lists.okfn.org/mailman/listinfo/openspending) with your suggestions and modifications. 
+    Based on the interviews we conducted, we've drawn up a suggested list of topics for what could go into the handbook. We'd love to <a href="http://lists.okfn.org/mailman/listinfo/openspending">hear from you</a> with your suggestions and modifications. 
 </div>
 
 ## Part One: An introduction to Open Financial Data
