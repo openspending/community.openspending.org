@@ -29,7 +29,9 @@ These overarching topics are what we aim to cover in the Spending Data Handbook.
 Based on the interviews we conducted, we've drawn up a suggested list of topics for what could go into the handbook. We'd love to [hear from you](http://lists.okfn.org/mailman/listinfo/openspending) with your suggestions and modifications. 
 
 ## Part One: An introduction to Open Financial Data
-<p></p>
+
+<p> </p>
+
 ### How can CSOs be more effective in their use of data? What should they be asking governments for?
 
 * How can they be more effective in requesting (and keeping hold of) meaningful information from government?
