@@ -29,9 +29,11 @@ title: Working Group on Open Expenditure Data
 * **Codru Vrabie**, [Bribemarket](http://www.piatadespaga.ro/), *Romania*
 * **Damir Mehmedbasic**, [Public Interest Advocacy Centre](http://cpi.ba/), *Bosnia and Herzegovina*
 * **David Cabo**, Pro Bono Publico, *Spain*
+* **Diego de la Mora**, [Fundar](http://fundar.org.mx/index.html/), *Mexico*
 * **Dr Effie Vraniali**,[Fondafip](www.fondafip.org) and Member of Transparency International *Greece*
 * **Elena Calistru**, [Lost Money](http://banipierduti.cloudapp.net/), *Romania*
 * **Eva Vozarova**, [Fair-Play Alliance](http://www.fair-play.sk/index.php),  *Slovakia*
+* **Federico Ramírez**, [Fundar](http://fundar.org.mx/index.html/), *Mexico*
 * **Friedrich Lindenberg**, [Open Knowledge Foundation](http://okfn.org/), *Germany*
 * **Hille Hinsberg**, [Praxis Policy Centre](http://www.praxis.ee/index.php?id=96&L=1), *Estonia*
 * **Kaitlin Lee**, [Sunlight Foundation](http://sunlightfoundation.com/), *USA*
