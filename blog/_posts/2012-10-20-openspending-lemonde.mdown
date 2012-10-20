@@ -8,7 +8,7 @@ status: publish
 
 The OpenSpending platform experienced a huge peak in traffic earlier this week as a visualisation based on French data was featured in Le Monde. 
 
-[The article](http://www.lemonde.fr/politique/article/2012/10/16/plf-des-avions-au-bouclier-fiscal-la-java-des-amendements_1776093_823448.html?xtmc=depenses&xtcr=52) "PLF : des avions au bouclier fiscal, la java des amendements", (PLF=Projet de loi de finances, the draft finance law) deals with suggested amendments to the draft finance law and who is demanding what.    
+[The article](http://www.lemonde.fr/politique/article/2012/10/16/plf-des-avions-au-bouclier-fiscal-la-java-des-amendements_1776093_823448.html?xtmc=depenses&xtcr=52) "PLF : des avions au bouclier fiscal, la java des amendements", (PLF=Projet de loi de finances, the draft finance law) deals with suggested amendments to the draft finance law and which parties were demanding what amendments.    
 
 The OpenSpending visualisation used in the article is intended to give a high-level representation of some of the main areas of government expenditure in France: 
 
