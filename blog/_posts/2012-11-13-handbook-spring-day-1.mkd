@@ -1,3 +1,10 @@
+---
+layout: post
+title: Spending Data Handbook Sprint - Day 1
+published: true
+type: post
+status: publish
+---
 ## Spending Data Handbook Sprint - Update 1 
 
 As you read this, we're writing a book about spending. It'll be finished by Thursday so you can read it over the weekend, as you sit down to do, (or not do) your armchair auditing of government accounts. As we get the opportunity to meet budget and data activists from all around the world, a set of common issues emerge and some novel and interesting approaches to dealing with them. The purpose of this week's work is to encapsulate these issues and ideas, tips and tricks into a format that will be useful to all manner of organisations working in this area. 
