@@ -1,3 +1,6 @@
 [submodule "resources/standard"]
 	path = resources/standard
 	url = https://github.com/openspending/spendingdata.org.git
+[submodule "resources/handbook"]
+	path = resources/handbook
+	url = https://github.com/openspending/handbook.git
