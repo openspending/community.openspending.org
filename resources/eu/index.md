@@ -20,10 +20,12 @@ layout: eu
         </p>
 
         <div class="alert alert-block">
-            At the moment, we don't have structured information about
-            the stability mechanisms <a href="http://www.efsf.europa.eu/about/index.htm">EFSF</a> 
-            and <a href="http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ecofin/127788.pdf">ESM</a>. If you would like 
-            to contribute data or knowledge, please 
+            Information about the stability mechanisms <a href="http://www.efsf.europa.eu/about/index.htm">EFSF</a> 
+            and <a href="http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ecofin/127788.pdf">ESM</a>
+            has been collected on the site of the <a
+href="http://www.courtofaudit.nl/english/Publications/Topics/EU_governance_to_combat_the_economic_and_financial_crisis/Financial_stabilisation_instruments">Netherland Court of Audit</a>. 
+            If you would like 
+            to contribute disaggregared data or further knowledge, please 
             <a href="/about/contact.html">get in touch</a>.
         </div>
 
