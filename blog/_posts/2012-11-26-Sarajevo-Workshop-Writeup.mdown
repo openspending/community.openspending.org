@@ -1,0 +1,127 @@
+---
+layout: post
+title: OpenSpending CSO Workshop - Sarajevo
+published: true
+type: post
+status: publish
+---
+
+*A while back, we wrote about the [kickoff of our project to deliver the budget of Bosnia and Herzegovina to its citizens in a form they can understand](http://openspending.org/blog/2012/09/26/Balkan-Budgets.html). Last week in Sarajevo - we had the kickoff workshop, bringing together a group of techies and policy experts from the Balkans and Eastern Europe, the OpenSpending team and MySociety's Tony Bowden to see how, beyond visualisation, we could work together to make budgets in the Balkans and Eastern Europe more transparent and accountable.*
+
+# Day 1 - Inspiration and Open Data
+
+<p>
+
+<em>The OpenSpending team has spent a lot of time training journalists on how to use the both the <a href="http://openspending.org/">OpenSpending platform</a> and financial data in general, however this is the first time we've had the opportunity to train people whose aim was not necessarily to highlight scandal and sensation, but to systematically analyse and inform policy based on the data available. All of our participants had an additional aim besides improving policy: how do we display budget and spending information to citizens in a way that is engaging, meaningful and may even produce some action?</em>
+
+</p>
+
+First up, an introduction to Open Data, to make sure everyone is on the same page. The aim of the day was inspiration to make data projects as powerful as possible, so to kick it off, Friedrich Lindenberg and Lisa Evans showed examples of data-driven financial projects which they felt had really made an impact in society:
+
+<img alt="" src="http://farm9.staticflickr.com/8490/8220640734_aa4821d4cc_n.jpg" title="Slide from Tony Bowden's Talk: Remove Somone's Headache" class="pull-left" style="margin-right: 1em;" />
+
+* **[The Farm Subsidies Project](http://farmsubsidies.org/)**: A collection of investigative journalists who pull together an enormous European Agricultural Subsidies Database and find people and companies using funds originally intended for small farmers.
+* **[The UK's The MP's expenses scandal](http://en.wikipedia.org/wiki/United_Kingdom_parliamentary_expenses_scandal)**: After a huge name and shame campaign by a variety of major news outlets highlighting all manner of *innovative* uses of public money (from buying duck houses to claiming for fictitious second homes), a decision was made to proactively publish the expenses claimed by MP's when they happened. This has been so successful that MP's have really had to clean up their act, so successful in fact that the Guardian recently wrote that the story was getting boring, no-one was doing anything scandalous with it anymore.
+* **[Free the files Campaign by ProPublica](http://www.propublica.org/series/free-the-files)** -  tracking political ad filings from television stations in swing markets. Television stations are required to maintain a “political file” of political ads requests and contracts and ProPublica helps to make these searchable and easier to identify trends and culprits who abuse the system.
+
+<img alt="" src="http://farm9.staticflickr.com/8346/8220640856_2fb3098d1a_n.jpg " title="Slide from Tony Bowden's Talk: Give Somone a Headache" class="pull-right" style="margin-left: 1em;" />
+
+After lunch, the participants were on stage to present their existing and proposed projects by way of further inspiration for the other groups in the room. Each group had taken a distinctly different approach to the topic of making decisions about public money in their country better. We heard from Expert Grup in Moldova on their proposed project to convert the Moldovan BOOST data into a format which could be understood by citizens, CRTA from Serbia on [PratiPare](http://www.pratipare.rs/) - a project to track the location and actual cost of a variety of projects in Serbia, ranging from schools to highways, Open Data Albania's use of Linked Data to connect spending to a variety of different other sources of Data. Lastly, [OneWorldSee](http://oneworldsee.org/) and [Centre for Public Interest Advocacy](http://cpi.ba/), Bosnia took to the stage, describing some of their past and up and coming projects, including CPI's 'Balkan Mythbusters' - we wait with anticipation.
+
+Next up - a great talk from My Society's Tony Bowden on some of his theories on why My Society's projects have been so successful at engaging with Citizens. Besides his key tips involving headaches illustrated above - he had the following tips for people who wanted to make websites to change the world.
+
+<div class="well" 'markdown="1"'>
+
+<strong>Tony's Tips</strong>
+<ul>
+<li>Think about who would possibly pay for your services. If someone would pay for it, it's probably valuable (and you'll have a business model when the funding runs out). Think - 'What Would Apple Do?' ;). This is not to say that loss-making projects are not valuable, but bearing this in mind could help to think about sustaining your efforts. </li>
+<li>Measure the actions completed your site, not numbers of visitors.  </li>
+<li> While we're on the topic of measuring people visiting your site. Is it possible that one of the most successful projects could be one in which no-one at all visits your site, however, the existence of said site stops bad people from doing bad things?
+<li> Make as much of the admin interface public as possible. People should never need your permission to come and help you out and it's surprising how many people will want to. </li>
+<li> Get people with obsessive levels of interest on your side as early adopters of your site. The first people who start to use your site will most likely be people you already know. The first time you spot someone who you don't know, who arrives to use your tool - try and find out what made them find it - what made them want to take part. In the build up to the launch of <a href="http://www.fixmytransport.com/">Fix My Transport</a>, My Society made friends with many train spotters who were happy to help out to improve the objects of their hobby. </li>
+<li>Introduce league tables for people who help you out. People are instinctively competitive and like to see their name acknowledged . MySociety regularly use two league tables in parallel - one for people who have helped most in the last week, one for people who have helped most of all time. It's a nice acknowledgement for people to let others see how much they have contributed, and may in some circumstances, encourage people to participate more or for longer. </li>
+<li>A note on crowdsourcing. A lot of people try to 'crowdsource' information. A lot of projects fail. People who put their efforts into providing this information will become disillusioned with the fact that you provided this information. However, if you are planning on collecting information yourself as part of your research anyway, why not open it up to the public and see whether there is any way they can help you. The benefits of this are - you'll be putting the early data in anyway, making your site look popular and encouraging people to come and fill it in and if no-one comes, you don't lose anything - if they do - you save yourself lots of work!</li>
+</ul>
+</div>
+
+Finally - an introduction to the OpenSpending project for those not familiar with it. We show the ways in which the project has been used, go through a few of our mistakes which were made on the way to creating what is now a pretty stable platform - urging participants not to make the same ones. We show that using OpenSpending doesn't mean you have to produce a cookie-cutter version of [Where Does My Money Go?](http://wheredoesmymoneygo.org/), and in fact, we'll get grumpy if you're not more ambitious than that. There's no licence (I'm aware of) to enforce this - but we want anyone who uses the [Assembly Kit](http://openspending.org/blog/2012/02/16/thekit.html) to build their own site to add something, however small, to make it better. We've done this recently with a project in Cameroon, soon to be launched, including a sub-national transparency index, per capita calculations and searchable data into the mix. This is going to be a theme for the next day, can't wait to see what people come up with.
+
+<img alt="" src="http://farm9.staticflickr.com/8337/8220640914_0faabf2fd3_z.jpg" title="Make Something New" class="alignnone" width="640" height="640" />
+
+# Day 2 Converting Data into Action & Finding Narratives in Data
+
+The people we are trying to target with this data are bombarded constantly from every side with data, numbers statistics - what they need is *narratives*, things that stick in their mind when they leave your website. This is the theme of day 2 - How to convert data into action: how to find the times at which people will be receptive to your message, and how to create a narrative they will remember. To get things rolling, we have a quick look at some of the other projects going on around the world, and play a game to see how much information people can extract from a visualisation in 30 seconds.
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/15349310" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/lucyfedia/visualising-budgets" title="Visualising budgets" target="_blank">Visualising budgets</a> </strong> from <strong><a href="http://www.slideshare.net/lucyfedia" target="_blank">Lucy Chambers</a></strong> </div>
+
+Before splitting off into two streams for the day: *technical* and *policy*, we quickly show everyone together how easy it is to upload and model your data using OpenSpending. If anyone missed it, or couldn't follow along due to our lovely and mighty wifi connection, we've [documented this](http://cameroon.openspending.org/en/contribute.html) extensively as part of the World Bank Cameroon project.
+
+## Policy Stream
+<table>
+<tr><td><img alt="" src="http://farm9.staticflickr.com/8201/8219599019_4471d497a9_c.jpg" title="Data into action - Mindmap" class="alignnone" width="500" height="500" /></td></tr>
+<tr><td class="caption">You can see the full-sized file <a href="http://www.flickr.com/photos/okfn/8219599019/sizes/c/in/photostream/">on our Flickr Stream</a></td></tr>
+</table>
+
+The policy stream highlight the areas they are interested in capturing in their projects, from international comparisons, to naming and shaming and then ask the key question: "Who cares?" - to work out who we should be targeting and via which medium. Secondly, we did a deeper dive into some of the problems experienced by the various projects, including how to get the data you require when the people giving it to you know you are competent enough to find scandal in it.
+
+<img alt="" src="http://farm9.staticflickr.com/8201/8219558127_da6049c827_m.jpg" title="Slide from Tony Bowden's Talk" class="pull-right" style="margin-left: 1em;" />
+
+**PERSONAL BELIEF ALERT!** It's a blunt statement, but I'm going to put it out there anyway: I believe citizens don't care about budgets. At least, they don't care about budgets at large, the majority of the time. When numbers are presented to them as ten figure numbers, it is very tricky for them to identify with as they don't relate to things of a size they can relate to: A household budget, the turnover of their business. What they might care about is the overall funding priorities of the government as they affect the services they require from government, - is my government spending more on defence than it is on hospitals or schools? Journalists have a nose for this, they can feel when people are likely to be receptive to messages like these, and we at OpenSpending often see a traffic spike around the budget times of various countries as they embed our visualisations in their sites and as policy makers themselves use the visualisations to explain freshly drafted budgets to other policymakers (no jokes). There are however, plenty of people who do care - NGOs, Researchers and Policy Wonks - is there a way that some of our projects can remove their headaches?
+
+### Targeting citizens with your project
+
+Beyond key points in the budget year, how do we keep people interested in how their government spends their tax money? What they might care about is particular things, often **services**, such as hospitals or schools, which they might want improving. We, as policy people and techies, may be interested in crunching the numbers but citizens often need more prompting to reveal how a certain policy affects them.
+
+## Technical Stream
+
+The technical stream split off for an action-packed day. They cover an introduction to [DataWrapper](http://datawrapper.de/) for making simple charts and web visualisations, [Kartograph](http://kartograph.org/) for making elegant maps, Scraping using [ScraperWiki](http://scraperwiki.com/), using Optical Character Recognition to get data out of PDFs and cleaning data using [Google Refine](http://code.google.com/p/google-refine/). All before 5:30 :)
+
+## Project Proposals
+
+The wrapup activity for Day 2 was a Dream Project proposal. If money and data were no object, what would the participants build? A variety of projects, from a Fix My Street-esque project for Bosnia, could be used to produce some alternative performance statistics for various project to rethinking how budget laws were made, so that they had to be submitted as small pieces of code.
+
+While the suggestion from the group from CRTA and Tony Bowden to build on their project tracking site by equipping kids with cameras to take pictures of broken parts of playparks was, I believe, intended largely jokingly, I can't help wondering whether encouraging kids as part of their school projects to take part in these projects might not be a bad idea. Other large management consultancy companies use this technique and besides just collecting data, you are teaching the kids to be active citizens. I shall continue to ponder...
+
+# Day 3 - Getting your message out
+
+As a CSO, once you have done all of this work, how can you make sure it is used? The focus of Day 3 was getting your message out there.
+
+## Policy Stream
+
+The Policy Stream actually subdivided even further into Data Analysis and Public Relations for the day.
+
+### Data Analysis
+
+Some of the participants were interested in more in-depth data analysis, so using the Moldovan BOOST data - we tried to generate some potential leads. Some interesting possible avenues for future exploration emerged including a surprising lack of money going to hospitals in the Moldovan capital - more investigation required to work out whether this is actually the case, or just gaps in the data, but an interesting lead nonetheless for the Moldovan group, who had already identified healthcare as an area they wanted to look into further.
+
+### Communicating with the Media and Outreach
+
+A tricky and frustrating subject for Think Tanks and CSOs who work with this type of information is how to get their outputs used. Again, we took a combination of the wacky dream approach and tried and tested experience from the participants. How could we revolutionise the press-release so that people actually used it? Would giving them easy ways to drop your visualisations into their articles increase uptake? Inspired by the [Obama for America Campaign, where targeted messages were used to great effect](http://projects.propublica.org/emails/) to target different parts of the audience, was there a good (and not too labour intensive) way to tailor your message to target the different types of media organisations? Loads of great ideas, which I tried to scribble down in our mindmap.
+
+<table>
+<tr><td><img alt="" src="http://farm9.staticflickr.com/8200/8220832792_daa9ab9474_z.jpg" title="Outreach" class="alignnone" width="500" height="500" /></td></tr>
+<tr><td class="caption">You can see the full-sized file <a href="http://www.flickr.com/photos/okfn/8220832792/sizes/z/in/photostream/">on our Flickr Stream</a></td></tr>
+</table>
+
+## Technical Stream
+
+The technical stream got down to work with putting into action the skills they had learned on the previous day and how to build a custom tax calculator for their country. There's a blog post with more instructions on this one cooking, we'll be in touch when we have it ready!
+
+# Stay in touch
+
+We'd love to stay in touch and join the discussion on how we can take these projects all to the next level and hopefully collaborate even more.
+
+The two mailing lists we regularly use for this type of communication are:
+
+* "Policy stuff": <http://lists.okfn.org/mailman/listinfo/openspending>
+* Technical discussion: <http://lists.okfn.org/mailman/listinfo/openspending-dev>
+
+We hope to see you there soon.
+
+# Our Slides:
+
+Introduction to the workshop:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/15314825" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+*We'll add more as we get them, still waiting for them to come trickling in!*.

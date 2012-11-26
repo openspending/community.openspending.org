@@ -17,4 +17,4 @@ The OpenSpending visualisation used in the article is intended to give a high-le
 Besides the OpenSpending visualisation, there are some simple but effective infographics on how many amendments were filed to the draft, and by whom. 
 
 *Read the full article on [Le Monde](http://www.lemonde.fr/politique/article/2012/10/16/plf-des-avions-au-bouclier-fiscal-la-java-des-amendements_1776093_823448.html?xtmc=depenses&xtcr=52).*
-*The visualisation was also featured in Libération. Read the piece [here](http://www.liberation.fr/politiques/2012/10/18/budget-comment-depenser-371-milliards_854160).*
+*A slightly different view of the visualisation was also featured in Libération. Read the piece [here](http://www.liberation.fr/politiques/2012/10/18/budget-comment-depenser-371-milliards_854160).*
