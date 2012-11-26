@@ -6,29 +6,29 @@ type: post
 status: publish
 ---
 
-*A while back, we wrote about the [kickoff of our project to deliver the budget of Bosnia and Herzegovina to its citizens in a form they can understand](http://openspending.org/blog/2012/09/26/Balkan-Budgets.html). Last week in Sarajevo - we had the kickoff workshop, bringing together a group of techies and policy experts from the Balkans and Eastern Europe, the OpenSpending team and MySociety's Tony Bowden to see how, beyond visualisation, we could work together to make budgets in the Balkans and Eastern Europe more transparent and accountable.*
+*A while back, we wrote about the [kickoff of our project to deliver the budget of Bosnia and Herzegovina to its citizens in a form they can understand](http://openspending.org/blog/2012/09/26/Balkan-Budgets.html). Last week in Sarajevo - we had the kickoff workshop, bringing together a group of techies and policy experts from the Balkans and Eastern Europe, the OpenSpending team and MySociety's Tony Bowden to see how, through and beyond visualisation, we could work together to make budgets in the Balkans and Eastern Europe more transparent and accountable.*
 
 # Day 1 - Inspiration and Open Data
 
 <p>
 
-<em>The OpenSpending team has spent a lot of time training journalists on how to use the both the <a href="http://openspending.org/">OpenSpending platform</a> and financial data in general, however this is the first time we've had the opportunity to train people whose aim was not necessarily to highlight scandal and sensation, but to systematically analyse and inform policy based on the data available. All of our participants had an additional aim besides improving policy: how do we display budget and spending information to citizens in a way that is engaging, meaningful and may even produce some action?</em>
+<em>The OpenSpending team has spent a lot of time training journalists on how to use the both the <a href="http://openspending.org/">OpenSpending platform</a> and financial data in general, however this is the first time we've had the opportunity to train people whose aim was not necessarily to highlight scandal and sensation, but to systematically analyse and inform policy based on the available data. All of our participants had an additional aim besides improving policy: to answer the question "how do we display budget and spending information to citizens in a way that is engaging, meaningful and may even produce some action?"</em>
 
 </p>
 
 First up, an introduction to Open Data, to make sure everyone is on the same page. The aim of the day was inspiration to make data projects as powerful as possible, so to kick it off, Friedrich Lindenberg and Lisa Evans showed examples of data-driven financial projects which they felt had really made an impact in society:
 
-<img alt="" src="http://farm9.staticflickr.com/8490/8220640734_aa4821d4cc_n.jpg" title="Slide from Tony Bowden's Talk: Remove Somone's Headache" class="pull-left" style="margin-right: 1em;" />
+<img alt="" src="http://farm9.staticflickr.com/8490/8220640734_aa4821d4cc_n.jpg" title="Slide from Tony Bowden's Talk: Remove Somone's Headache" class="pull-left" style="margin-right: 2em;" />
 
 * **[The Farm Subsidies Project](http://farmsubsidies.org/)**: A collection of investigative journalists who pull together an enormous European Agricultural Subsidies Database and find people and companies using funds originally intended for small farmers.
 * **[The UK's The MP's expenses scandal](http://en.wikipedia.org/wiki/United_Kingdom_parliamentary_expenses_scandal)**: After a huge name and shame campaign by a variety of major news outlets highlighting all manner of *innovative* uses of public money (from buying duck houses to claiming for fictitious second homes), a decision was made to proactively publish the expenses claimed by MP's when they happened. This has been so successful that MP's have really had to clean up their act, so successful in fact that the Guardian recently wrote that the story was getting boring, no-one was doing anything scandalous with it anymore.
 * **[Free the files Campaign by ProPublica](http://www.propublica.org/series/free-the-files)** -  tracking political ad filings from television stations in swing markets. Television stations are required to maintain a “political file” of political ads requests and contracts and ProPublica helps to make these searchable and easier to identify trends and culprits who abuse the system.
 
-<img alt="" src="http://farm9.staticflickr.com/8346/8220640856_2fb3098d1a_n.jpg " title="Slide from Tony Bowden's Talk: Give Somone a Headache" class="pull-right" style="margin-left: 1em;" />
+<img alt="" src="http://farm9.staticflickr.com/8346/8220640856_2fb3098d1a_n.jpg" title="Slide from Tony Bowden's Talk: Give Somone a Headache" class="pull-right" style="margin-left: 1em;" />
 
 After lunch, the participants were on stage to present their existing and proposed projects by way of further inspiration for the other groups in the room. Each group had taken a distinctly different approach to the topic of making decisions about public money in their country better. We heard from Expert Grup in Moldova on their proposed project to convert the Moldovan BOOST data into a format which could be understood by citizens, CRTA from Serbia on [PratiPare](http://www.pratipare.rs/) - a project to track the location and actual cost of a variety of projects in Serbia, ranging from schools to highways, Open Data Albania's use of Linked Data to connect spending to a variety of different other sources of Data. Lastly, [OneWorldSee](http://oneworldsee.org/) and [Centre for Public Interest Advocacy](http://cpi.ba/), Bosnia took to the stage, describing some of their past and up and coming projects, including CPI's 'Balkan Mythbusters' - we wait with anticipation.
 
-Next up - a great talk from My Society's Tony Bowden on some of his theories on why My Society's projects have been so successful at engaging with Citizens. Besides his key tips involving headaches illustrated above - he had the following tips for people who wanted to make websites to change the world.
+Next up - a great talk from My Society's Tony Bowden building on his experience with My Society's projects on how to build a useful and world-/game-changing project. Besides his key tips involving headaches illustrated above - he had the following tips for people who wanted their projects to change the world.
 
 <div class="well" 'markdown="1"'>
 
