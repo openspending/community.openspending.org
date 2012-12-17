@@ -82,7 +82,7 @@ with a list of ``errors`` describing the fault.
 OpenSpending uses Apache Solr for full-text indexing. Some search
 parameters are passed directly to Solr::
 
-    GET /api/search?q=money%20measure:[min%20TO%20max]&fq=dimension:value
+    GET /api/2/search?q=money%20measure:[min%20TO%20max]&fq=dimension:value
 
 Some useful resources to explore the query language of Solr include:
 
