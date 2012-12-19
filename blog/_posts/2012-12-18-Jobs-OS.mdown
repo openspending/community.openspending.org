@@ -30,4 +30,4 @@ Some things we look for:
 * This person will work closely with the Head of Knowledge to ensure that these activities integrate with the rest of the OKFN’s activities.
 
 ## How to apply
-If you’d like to apply, please email jobs@okfn.org with the subject line “OpenSpending Tech Lead” before 7th Jan including links to some demos of good stuff you’ve done, and your CV.
+If you’d like to apply, please email jobs@okfn.org with the subject line “OpenSpending Tech Lead” before 7th Jan. Please include links to some demos of work from your portfolio, and your CV.
