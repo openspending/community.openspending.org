@@ -17,9 +17,11 @@ We're collaborating with the World Bank to produce a citizen-friendly representa
 
 The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project will include 
 
-* Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget
-* A sub-national budget transparency index - similar to the work of the International Budget Partnership, but at sub-national levels. This highlights the availability of key budget documents and ranks regions on their availability. 
-* Explore the data: Filter the data by categories such as amount, location, and activity  
+<ul>
+<li>Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget </li>
+<li>A sub-national budget transparency index - similar to the work of the International Budget Partnership, but at sub-national levels. This highlights the availability of key budget documents and ranks regions on their availability. </li>
+<li> Explore the data: Filter the data by categories such as amount, location, and activity </li> 
+</ul> 
 </div> 
 
 <div class="well" 'markdown="1"'>
@@ -30,12 +32,15 @@ We're pleased to announce that the Where Does My Money Go bubbles are on their w
 
 As part of this project we will be:
 
-* Building visualisations of national, entity-, cantonal- and district-level budgets for Bosnia
-* Doing training and capacity building workshops with organisations from other Balkan countries, on getting, wrangling and presenting financial data (with OpenSpending and other tools)
-* Building a tax calculator for Bosnia (similar to the [Daily Bread](http://wheredoesmymoneygo.org/dailybread.html))
-* Test-driving the [Spending Data Handbook](http://openspending.org/resources/handbook/ch001_introduction.html) and augment it with a more technical primer, for those organisations wishing to do more ambitious data work
+<ul>
 
-[Read more](http://openspending.org/blog/2012/09/26/Balkan-Budgets.html)
+<li> Building visualisations of national, entity-, cantonal- and district-level budgets for Bosnia </li>
+<li> Doing training and capacity building workshops with organisations from other Balkan countries, on getting, wrangling and presenting financial data (with OpenSpending and other tools) </li>
+<li> Building a tax calculator for Bosnia (similar to the [Daily Bread](http://wheredoesmymoneygo.org/dailybread.html)) </li>
+<li> Test-driving the <a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook.</a> and augment it with a more technical primer, for those organisations wishing to do more ambitious data work</li>
+</ul> 
+
+<a href="http://openspending.org/blog/2012/09/26/Balkan-Budgets.html">Read more about the project.</a>
 
 </div> 
 
@@ -43,13 +48,13 @@ As part of this project we will be:
 
 <h3> Spending Stories </h3> 
 
-In 2011, the Open Knowledge Foundation was awarded a Knight News Challenge Grant to work on the [Spending Stories](http://blog.okfn.org/2011/01/18/spending-stories/) Project. Large numbers are often meaningless to the general public and despite a wealth of information around government spending, the topic of government finance is often overlooked by journalists. The Spending Stories project aims to facilitate reporting by speed up fact-checking around spending data as well as connecting news stories about public spending to relevant datasets and visualisations, to put these stories into context. 
+In 2011, the Open Knowledge Foundation was awarded a Knight News Challenge Grant to work on the <a href="http://blog.okfn.org/2011/01/18/spending-stories/">Spending Stories</a> Project. Large numbers are often meaningless to the general public and despite a wealth of information around government spending, the topic of government finance is often overlooked by journalists. The Spending Stories project aims to facilitate reporting by speed up fact-checking around spending data as well as connecting news stories about public spending to relevant datasets and visualisations, to put these stories into context. 
 
-We're into our second year of the project now. See what we are up to by following our updates on the PBS Idea Lab blog. 
-
+We're into our second year of the project now. <a href="http://www.pbs.org/idealab/2012/12/follow-the-money-a-spending-stories-guide-for-journalists345.html">See what we are up to by following our updates on the PBS Idea Lab blog.</a>
+ 
 </div> 
 
-## Unleashed into the wild 
+## Already unleashed into the wild 
 
 ### Where Does My Money Go? 
 
