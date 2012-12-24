@@ -101,9 +101,9 @@ The Uganda aid visualisation project was a joint between the OKFN and Publish Wh
 
 ### IATI
 
-<img alt="" src="http://farm9.staticflickr.com/8007/7315331330_4dafe5ea48.jpg" title="IATI" class="pull-right" style="margin-left: 1em;" width="250"  />
-
 The International Aid Transparency Initiative is a common format for publishing aid information. 29 signatories representing 75% of global Official Development Finance have committed to reporting timely information about their aid activities in this standard format. Already, 13 signatories representing 45% of ODF have published.
+
+<img alt="" src="http://farm9.staticflickr.com/8007/7315331330_4dafe5ea48.jpg" title="IATI" class="pull-right" style="margin-left: 1em;" width="250"  />
 
 IATI publishers release the data as open data feeds in a common XML format through their own websites. They then register their data with the IATI Registry - which runs on the Open Knowledge Foundation's CKAN software - making it easy for users to find this data.
 
@@ -126,9 +126,9 @@ We are also delighted to work closely with journalists from around the world on 
 
 ### Privacy International 
 
-<img alt="" src="http://farm8.staticflickr.com/7213/7315271184_921d9ed606.jpg" title="Caelainn Barr" class="pull-right" style="margin-left: 1em;" width="250"  />
-
 In early 2012, Privacy International recently approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference and wanted to check which attendees also became customers of these companies. 
+
+<img alt="" src="http://farm8.staticflickr.com/7213/7315271184_921d9ed606.jpg" title="Caelainn Barr" class="pull-right" style="margin-left: 1em;" width="250"  />
 
 Some attendees posed no surprises, the FBI, the US Drug Enforcement Administration, the UK Serious Organized Crime Agency and Interpol to name a few, but there are a few that are downright baffling, like the US Department of Commerce, the US Fish & Wildlife Service and the Clark County School District Police Department.
 
