@@ -83,9 +83,9 @@ The success of Offener Haushalt and the demand to roll it out on a local level w
 
 ### Uganda Aid Visualisation 
 
-<img alt="" src="http://farm9.staticflickr.com/8159/7315314386_7940819de6.jpg" title="Uganda Aid" class="pull-left" style="margin-right: 1em;" width="250"  />
-
 Aid flows often do not pass through a recipient government’s conventional budget mechanisms. When this happens, recipient governments themselves may not have the complete overview of where aid money goes and how donor priorities align with their own. This information is vital for governments and aid donors to be able to make the best use of scarce resources.
+
+<img alt="" src="http://farm9.staticflickr.com/8159/7315314386_7940819de6.jpg" title="Uganda Aid" class="pull-left" style="margin-right: 1em;" width="250"  />
 
 Normally this overview is not available – leading to waste, overlap and inefficiency. The lack of comparable information means aid donors and recipient country governments can’t work together to coordinate their efforts, or understand how donor priorities align with recipient priorities; it decreases developing country governments' ownership and undermines the potential for good governance and planning. Donors and governments need to know what others are doing - and crucially, what others are planning on doing - if they are to make sure that these resources are used most effectively. Otherwise, some sectors and areas will not receive enough funding, while others may have too many donors involved.
 
@@ -137,6 +137,16 @@ As more datasets are loaded into OpenSpending, this universal search will get in
 * [Try out the search for yourself in the spendbrowser](http://opendatalabs.org/spendbrowser)
 * [Read more about the story](http://blog.openspending.org/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/)
 
+### France - PLF 2012
+
+We experienced an extremely high traffic spike when a visualisation based on French data was featured in Le Monde.
+
+The article "PLF : des avions au bouclier fiscal, la java des amendements", (PLF=Projet de loi de finances, the draft finance law) deals with suggested amendments to the draft finance law and which parties were demanding what amendments.
+
+The OpenSpending visualisation used in the article is intended to give a high-level representation of some of the main areas of government expenditure in France. 
+
+[The same week, a different view on the data was published by Libération](http://openspending.org/blog/2012/10/20/openspending-lemonde.html). 
+
 ### Italian Regional Accounts Data
 
 <img alt="" src="http://farm6.staticflickr.com/5224/5639223572_5451048271.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
@@ -157,7 +167,7 @@ During the International Journalism Festival in Perugia in 2011 - the OpenSpendi
 
 <img alt="" src="http://farm7.staticflickr.com/6166/6270108254_5875c8a7ed.jpg" title="Kaitlin Lee presents Sunlight's Analysis OGDCamp" class="pull-right" style="margin-left: 1em;" width="250" />
 
-The spending data working group is a group of dedicated individuals working to create a community of best practice around opening up and using government financial data. With experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. Specifically, at the moment, the group is focussing on working on a standard for [transaction-level spending data](. We're also aiming to showcase and display some of the most promising projects from all over the world on the OpenSpending blog. 
+The spending data working group is a group of dedicated individuals working to create a community of best practice around opening up and using government financial data. With experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. Specifically, at the moment, the group is focussing on working on a standard for [transaction-level spending data](http://openspending.org/resources/standard/index.html). We're also aiming to showcase and display some of the most promising projects from all over the world on the OpenSpending blog. 
 
 The working group is open to all with an interest in improving Government Financial Transparency around the world. If you're interested in joining, please join the [OpenSpending Mailing List](http://lists.okfn.org/mailman/listinfo/openspending) and drop us a line on info [at] openspending.org
 
