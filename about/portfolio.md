@@ -11,7 +11,7 @@ Here are some of the projects, past and present that we have been involved with 
 
 <h3> Cameroon Budget Inquirer </h3>
 
-<img alt="" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" title="Cameroon Budget Inquirer" class="pull-left" style="margin-right: 1em;" />
+<img alt="" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" title="Cameroon Budget Inquirer" class="pull-left" style="margin-right: 2em;" />
 
 We're collaborating with the World Bank to produce a citizen-friendly representation of Cameroon's budget. 
 
@@ -38,7 +38,7 @@ As part of this project we will be:
 
 <li> Building visualisations of national, entity-, cantonal- and district-level budgets for Bosnia </li>
 <li> Doing training and capacity building workshops with organisations from other Balkan countries, on getting, wrangling and presenting financial data (with OpenSpending and other tools) </li>
-<li> Building a tax calculator for Bosnia (similar to the [Daily Bread](http://wheredoesmymoneygo.org/dailybread.html)) </li>
+<li> Building a tax calculator for Bosnia (similar to the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread.</a> </li>
 <li> Test-driving the <a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook.</a> and augment it with a more technical primer, for those organisations wishing to do more ambitious data work</li>
 </ul> 
 
@@ -60,7 +60,7 @@ We're into our second year of the project now. <a href="http://www.pbs.org/ideal
 
 ### Where Does My Money Go? 
 
-![WDMMG Original](http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg)
+<img alt="" src="http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg" title="WDMMG original" class="pull-left" style="margin-right: 1em;" />
 
 [Where Does My Money Go?](http://wheredoesmymoneygo.org/) (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the [Daily Bread](http://wheredoesmymoneygo.org/dailybread.html) app. 
 
@@ -72,7 +72,7 @@ You can now build a site such as WDMMG for your own country using the OpenSpendi
 
 ### OffenerHaushalt 
 
-![Offener Haushalt](http://farm8.staticflickr.com/7077/7315281352_2c00d928d8.jpg)
+<img alt="" src="http://farm8.staticflickr.com/7077/7315281352_2c00d928d8.jpg" title="Offener Haushalt" class="pull-right" style="margin-left: 1em;" />
 
 [OffenerHaushalt](http://bund.offenerhaushalt.de/) allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new tree maps, the user can easily see and explore the different departments and programmes and see how much is spent, proportion and statistics on changes between years. 
 
@@ -83,7 +83,7 @@ The success of Offener Haushalt and the demand to roll it out on a local level w
 
 ### Uganda Aid Visualisation 
 
-![Uganda Aid](http://farm9.staticflickr.com/8159/7315314386_7940819de6.jpg)
+<img alt="" src="http://farm9.staticflickr.com/8159/7315314386_7940819de6.jpg" title="Uganda Aid" class="pull-left" style="margin-right: 1em;" />
 
 Aid flows often do not pass through a recipient government’s conventional budget mechanisms. When this happens, recipient governments themselves may not have the complete overview of where aid money goes and how donor priorities align with their own. This information is vital for governments and aid donors to be able to make the best use of scarce resources.
 
@@ -101,7 +101,7 @@ The Uganda aid visualisation project was a joint between the OKFN and Publish Wh
 
 ### IATI
 
-![IATI](http://farm9.staticflickr.com/8007/7315331330_4dafe5ea48.jpg)
+<img alt="" src="http://farm9.staticflickr.com/8007/7315331330_4dafe5ea48.jpg" title="IATI" class="pull-right" style="margin-left: 1em;" />
 
 The International Aid Transparency Initiative is a common format for publishing aid information. 29 signatories representing 75% of global Official Development Finance have committed to reporting timely information about their aid activities in this standard format. Already, 13 signatories representing 45% of ODF have published.
 
@@ -115,7 +115,7 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 ### Data Journalism
 
-![Caelainn DDJ](http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg)
+<img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" />
 
 We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org. 
 
@@ -126,7 +126,7 @@ We are also delighted to work closely with journalists from around the world on 
 
 ### Privacy International 
 
-![PI](http://farm8.staticflickr.com/7213/7315271184_921d9ed606.jpg)
+<img alt="" src="http://farm8.staticflickr.com/7213/7315271184_921d9ed606.jpg" title="Caelainn Barr" class="pull-right" style="margin-left: 1em;" />
 
 In early 2012, Privacy International recently approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference and wanted to check which attendees also became customers of these companies. 
 
@@ -139,7 +139,7 @@ As more datasets are loaded into OpenSpending, this universal search will get in
 
 ### Italian Regional Accounts Data
 
-![It Accounts](http://farm6.staticflickr.com/5224/5639223572_5451048271.jpg)
+<img alt="" src="http://farm6.staticflickr.com/5224/5639223572_5451048271.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" />
 
 During the International Journalism Festival in Perugia in 2011 - the OpenSpending team loaded and visualised the Italian regional accounts for 2008. The project received wide coverage in the Italian and International Press and was one of the earliest success stories for OpenSpending after Where Does My Money Go? went international. 
 
@@ -155,7 +155,7 @@ During the International Journalism Festival in Perugia in 2011 - the OpenSpendi
 
 ### Spending Data Working Group
 
-![Kaitlin Lee presents Sunlight's Analysis OGDCamp](http://farm7.staticflickr.com/6166/6270108254_5875c8a7ed.jpg)
+<img alt="" src="http://farm7.staticflickr.com/6166/6270108254_5875c8a7ed.jpg" title="Kaitlin Lee presents Sunlight's Analysis OGDCamp" class="pull-right" style="margin-left: 1em;" />
 
 The spending data working group is a group of dedicated individuals working to create a community of best practice around opening up and using government financial data. With experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. Specifically, at the moment, the group is focussing on working on a standard for [transaction-level spending data](. We're also aiming to showcase and display some of the most promising projects from all over the world on the OpenSpending blog. 
 
