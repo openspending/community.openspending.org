@@ -3,9 +3,53 @@ title: What we get up to
 layout: meta
 ---
 
-## What we get up to
+Here are some of the projects, past and present that we have been involved with so far...
 
-How and why have people used OpenSpending? Besides the technical aspects of the project, what work is going on in the area of spending information? Below are some of the projects that we have been involved with so far...
+## What are we up to at present? 
+
+<div class="well" 'markdown="1"'>
+
+<h3> Cameroon Budget Inquirer </h3>
+
+<img alt="" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" title="Cameroon Budget Inquirer" class="pull-left" style="margin-right: 1em;" />
+
+We're collaborating with the World Bank to produce a citizen-friendly representation of Cameroon's budget. 
+
+The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project will include 
+
+* Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget
+* A sub-national budget transparency index - similar to the work of the International Budget Partnership, but at sub-national levels. This highlights the availability of key budget documents and ranks regions on their availability. 
+* Explore the data: Filter the data by categories such as amount, location, and activity  
+</div> 
+
+<div class="well" 'markdown="1"'>
+
+<h3> Balkan Budget Bubbles </h3>
+
+We're pleased to announce that the Where Does My Money Go bubbles are on their way to the Balkans! Thanks to a grant from the National Endowment for Democracy, the OpenSpending team will be working with the Centre for Public Interest Advocacy in Bosnia to produce interactive graphics of national and subnational budgets in Bosnia. 
+
+As part of this project we will be:
+
+* Building visualisations of national, entity-, cantonal- and district-level budgets for Bosnia
+* Doing training and capacity building workshops with organisations from other Balkan countries, on getting, wrangling and presenting financial data (with OpenSpending and other tools)
+* Building a tax calculator for Bosnia (similar to the [Daily Bread](http://wheredoesmymoneygo.org/dailybread.html))
+* Test-driving the [Spending Data Handbook](http://openspending.org/resources/handbook/ch001_introduction.html) and augment it with a more technical primer, for those organisations wishing to do more ambitious data work
+
+[Read more](http://openspending.org/blog/2012/09/26/Balkan-Budgets.html)
+
+</div> 
+
+<div class="well" 'markdown="1"'>
+
+<h3> Spending Stories </h3> 
+
+In 2011, the Open Knowledge Foundation was awarded a Knight News Challenge Grant to work on the [Spending Stories](http://blog.okfn.org/2011/01/18/spending-stories/) Project. Large numbers are often meaningless to the general public and despite a wealth of information around government spending, the topic of government finance is often overlooked by journalists. The Spending Stories project aims to facilitate reporting by speed up fact-checking around spending data as well as connecting news stories about public spending to relevant datasets and visualisations, to put these stories into context. 
+
+We're into our second year of the project now. See what we are up to by following our updates on the PBS Idea Lab blog. 
+
+</div> 
+
+## Unleashed into the wild 
 
 ### Where Does My Money Go? 
 
@@ -29,20 +73,6 @@ The success of Offener Haushalt and the demand to roll it out on a local level w
 
 * [Visit the OffenerHaushalt Project](http://bund.offenerhaushalt.de/)
 * [Follow OffenerHaushalt on Twitter](https://twitter.com/#!/offenerhaushalt)
-
-### Italian Regional Accounts Data
-
-![It Accounts](http://farm6.staticflickr.com/5224/5639223572_5451048271.jpg)
-
-During the International Journalism Festival in Perugia in 2011 - the OpenSpending team loaded and visualised the Italian regional accounts for 2008. The project received wide coverage in the Italian and International Press and was one of the earliest success stories for OpenSpending after Where Does My Money Go? went international. 
-
-* [Visit the Italian Regional Accounts on OpenSpending.org](http://openspending.org/it-regional-accounts)
-
-#### Coverage of the Italian Regional Accounts Data
-
-* [La Stampa](http://www3.lastampa.it/economia/sezioni/articolo/lstp/398705/)
-* [The Guardian](http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation)
-* [Daily Wired](http://daily.wired.it/news/economia/2011/04/19/open-spending.html)
 
 ### Uganda Aid Visualisation 
 
@@ -74,11 +104,20 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 * [View the IATI data on OpenSpending](http://openspending.org/iati?_time=2011)
 
-### Spending Stories
+## Stories and Data Journalism 
 
-In 2011, the Open Knowledge Foundation was awarded a Knight News Challenge Grant to work on the [Spending Stories](http://blog.okfn.org/2011/01/18/spending-stories/) Project. Large numbers are often meaningless to the general public and despite a wealth of information around government spending, the topic of government finance is often overlooked by journalists. The Spending Stories project aims to facilitate reporting by speed up fact-checking around spending data as well as connecting news stories about public spending to relevant datasets and visualisations, to put these stories into context. A few examples of the activities we're engaged in can be seen below.
+### Data Journalism
 
-#### Privacy International 
+![Caelainn DDJ](http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg)
+
+We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org. 
+
+* [Workshop on EU Spending, Utrecht](http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/)
+* [EuroHack: One-day data journalism competition and workshop on EU spending](http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/)
+
+We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
+
+### Privacy International 
 
 ![PI](http://farm8.staticflickr.com/7213/7315271184_921d9ed606.jpg)
 
@@ -91,47 +130,31 @@ As more datasets are loaded into OpenSpending, this universal search will get in
 * [Try out the search for yourself in the spendbrowser](http://opendatalabs.org/spendbrowser)
 * [Read more about the story](http://blog.openspending.org/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/)
 
-#### Data Journalism
+### Italian Regional Accounts Data
 
-![Caelainn DDJ](http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg)
+![It Accounts](http://farm6.staticflickr.com/5224/5639223572_5451048271.jpg)
 
-We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org. 
+During the International Journalism Festival in Perugia in 2011 - the OpenSpending team loaded and visualised the Italian regional accounts for 2008. The project received wide coverage in the Italian and International Press and was one of the earliest success stories for OpenSpending after Where Does My Money Go? went international. 
 
-[Workshop on EU Spending, Utrecht](http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/)
-[EuroHack: One-day data journalism competition and workshop on EU spending](http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/)
+* [Visit the Italian Regional Accounts on OpenSpending.org](http://openspending.org/it-regional-accounts)
+
+#### Coverage of the Italian Regional Accounts Data
+
+* [La Stampa](http://www3.lastampa.it/economia/sezioni/articolo/lstp/398705/)
+* [The Guardian](http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation)
+* [Daily Wired](http://daily.wired.it/news/economia/2011/04/19/open-spending.html)
+
+## Community 
 
 ### Spending Data Working Group
 
 ![Kaitlin Lee presents Sunlight's Analysis OGDCamp](http://farm7.staticflickr.com/6166/6270108254_5875c8a7ed.jpg)
 
-The spending data working group is a group of dedicated individuals working to create a community of best practice around opening up and using government financial data. With experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. Specifically, at the moment, the group is focussing in particular on:
-
-* Making financial data discoverable, building the budget and spending commons e.g. by contributing to the [OpenSpending data registry on the Data Hub](http://thedatahub.org/group/openspending)
-* Developing standards, to make financial datasets comparable and meaningful
-* Identifying strategies by which technology could aid transparency around financial data 
-* Technical solutions for citizen participation in budgeting decisions and citizen-auditing, holding governments to account to make sure budgeting plans transform into realities
-* Pinpointing key areas for future investigation, such as potential collaborations between diverse groups whose interests convert on financial transparency
+The spending data working group is a group of dedicated individuals working to create a community of best practice around opening up and using government financial data. With experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. Specifically, at the moment, the group is focussing on working on a standard for [transaction-level spending data](. We're also aiming to showcase and display some of the most promising projects from all over the world on the OpenSpending blog. 
 
 The working group is open to all with an interest in improving Government Financial Transparency around the world. If you're interested in joining, please join the [OpenSpending Mailing List](http://lists.okfn.org/mailman/listinfo/openspending) and drop us a line on info [at] openspending.org
-
-[Wiki Page for Spending Data Working Group](http://wiki.openspending.org/Working_Group)
-
-### Spending Data Community
-
-![Aidan Workshop](http://farm7.staticflickr.com/6230/6270064796_14f36605b1.jpg)
-
-A thriving community of spending enthusiasts is amassing online to share ideas, articles and participate in debates around consultations and best practice for spending data. 
-
-All are welcome to join [join the OpenSpending mailing list](http://lists.okfn.org/mailman/listinfo/openspending) and join the discussion!
 
 ### Your project here. 
 
 Have some data? Have a Spending Story? Get in touch - we'd love to hear from you and are open to suggestions!
 
-## Showcases
-
-The work of the following groups we can claim absolutely no credit for - these groups re-used components of OpenSpending and with next to no help from the OpenSpending team put together the following sites. 
-
-### BudovaniStatu.cz - KohoVolit.eu
-
-### A Mi Penzünk - Budapest Institute
