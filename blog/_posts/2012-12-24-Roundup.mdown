@@ -28,11 +28,7 @@ We put on our scout hats and set out to find some of the most interesting uses o
 
 ## April 
 
-Off to Perugia for an epic data-journalism training session with the European Journalism Centre...
-
-<iframe id="ijf" src="http://webtv.journalismfestival.com/v/1311" width="400" height="280" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
-
-Oh yeah, and the [Data Journalism Handbook](http://datajournalismhandbook.org) launched, and we built the widgets that allowed anyone to embed OpenSpending's visualisations in a website/blogpost (like this - Nigeria's proposed budget for 2013!:)
+Off to Perugia for an epic data-journalism training session with the European Journalism Centre... At Perugia the [Data Journalism Handbook](http://datajournalismhandbook.org) launched. Also in April, we built the widgets that allowed anyone to embed OpenSpending's visualisations in a website/blogpost (like this - Nigeria's proposed budget for 2013!:)
 
 <iframe width='700' height='400' src='http://openspending.org/propbudg13/embed?widget=treemap&state=%7B%22drilldown%22%3A%22from%22%2C%22year%22%3A%222013%22%2C%22cuts%22%3A%7B%7D%2C%22drilldowns%22%3A%5B%22from%22%5D%7D&width=700&height=400' frameborder='0'></iframe>
 
