@@ -26,7 +26,9 @@ The project incorporates the open-source 'bubble visualisations' first seen in W
 
 <div class="well" 'markdown="1"'>
 
-<h3> Balkan Budget Bubbles </h3>
+<h3> Bosnian Budget Bubbles </h3>
+
+<img alt="" src="http://farm9.staticflickr.com/8063/8219557569_cc12ebbdea_m.jpg" title="Balkan Budgets" class="pull-right" style="margin-left: 1em;" />
 
 We're pleased to announce that the Where Does My Money Go bubbles are on their way to the Balkans! Thanks to a grant from the National Endowment for Democracy, the OpenSpending team will be working with the Centre for Public Interest Advocacy in Bosnia to produce interactive graphics of national and subnational budgets in Bosnia. 
 
