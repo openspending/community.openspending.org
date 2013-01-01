@@ -1,3 +1,8 @@
+---
+title: EU Finances - Research Notes
+layout: eu
+---
+
 This is general research on the structure and size of the European Union budget and spending policies.
 
 There are two related documents:

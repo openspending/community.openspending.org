@@ -149,3 +149,8 @@ href="http://www.courtofaudit.nl/english/Publications/Topics/EU_governance_to_co
         </p>
     </div>
 </div>
+
+## More Information
+
+See the [Research Notes](./notes.html).
+
