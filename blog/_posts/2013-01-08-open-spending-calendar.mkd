@@ -11,13 +11,13 @@ Just over a month ago, the <a href="http://openspending.org">OpenSpending</a> te
 
 The idea was to monitor some key open spending data sets -- the ones that require work to get the story and that show where government money is going. Journalists can select which data sets they're interested in, and the calender will alert them when the data is due be released. When it's released, we'll suggest a host of ways to get a story in a second email with a link to where you can download the data. The suggestions for getting a story will be very specific to the data set, but examples are:
 
-* Related data sets and replies to freedom-of-information requests and suggested ways to combine them
-* Clean up the data if it's not already in a usable format 
-* Step-by-step guides for how to interpret the data from our team of statisticians and software developers working on our sister project, the <a href="http://schoolofdata.org/">School of Data</a>.
-* Links to previous stories on the same topic that were a success
-* Suggested people to talk to (e.g., those in NGOs) who may have interesting comments
-
-<img alt="openspending.jpg" src="http://www.pbs.org/idealab/openspending.jpg" width="500" height="170" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
+<ul> 
+<li>Related data sets and replies to freedom-of-information requests and suggested ways to combine them</li>
+<li>Clean up the data if it's not already in a usable format</li>
+<li>Step-by-step guides for how to interpret the data from our team of statisticians and software developers working on our sister project, the <a href="http://schoolofdata.org/">School of Data</a>.</li>
+<li>Links to previous stories on the same topic that were a success</li>
+<li>Suggested people to talk to (e.g., those in NGOs) who may have interesting comments</li>
+</ul>
 
 Now what we'd really like to know is: Would you sign up for this calendar, and if so, how would you like it to work?
 
