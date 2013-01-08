@@ -17,7 +17,6 @@ The idea was to monitor some key open spending data sets -- the ones that requir
 <li>Clean up the data if it's not already in a usable format</li>
 <li>Step-by-step guides for how to interpret the data from our team of statisticians and software developers working on our sister project, the <a href="http://schoolofdata.org/">School of Data</a>.</li>
 <li>Links to previous stories on the same topic that were a success</li>
-<li>Suggested people to talk to (e.g., those in NGOs) who may have interesting comments</li>
 </ul>
 
 Now what we'd really like to know is: Would you sign up for this calendar, and if so, how would you like it to work?
