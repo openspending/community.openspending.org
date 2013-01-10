@@ -1,12 +1,10 @@
 ---
-title: Follow the money: An exercise in tax evasion and avoidance
+title: Follow the money - An exercise in tax evasion and avoidance
 layout: journo
 ---
 
-<h2>Follow the money &mdash; A guide for journalists</h2> 
+<h2>Follow the money - A guide for journalists</h2> 
 <h3>Tax evasion and avoidance</h3>
-Tax avoidance/evasion
-=====================
 
 <p>This resource was originally designed as an exercise in journalistic judgement run at an <a href="http://blog.okfn.org/2012/11/14/data-expeditions-at-mozfest/">open day</a>, but it's a resource to facilitate many investigations into money lost from tax.</p> 
 

@@ -3,7 +3,7 @@ title: Follow the money
 layout: journo
 ---
 
-<h2>Follow the money &mdash; A guide for journalists</h2>
+<h2>Follow the money - A guide for journalists</h2>
 
         <p>Welcome to the Open Spending guide for journalists who want to investigate money flows. </p>
         <p>History is littered with awards and accolades for those tenacious journalists who have dutifully discovered money that was spent on something it shouldn't have been. Evidence of spending is often the ultimate proof of wrongdoing. These stories have ranged from <a href="http://en.wikipedia.org/wiki/Watergate_scandal">presidential campaigns spending money on surveillance</a> to <a href="http://en.wikipedia.org/wiki/United_Kingdom_parliamentary_expenses_scandal">Members of Parliament dipping into the public purse for their own benefit</a>, with many variations in between.</p>  
