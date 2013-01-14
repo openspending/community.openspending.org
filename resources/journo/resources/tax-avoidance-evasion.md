@@ -14,7 +14,7 @@ Here's the flow chart of options for this investigation.
 
 I should add straight away that there is no correct answer to this exercise - it simply offers a number of routes to investigating tax - all routes have a dataset so the resulting story is really a reflection of the morality and motivations of the journalist rather than available resources.  
  
-####Tax evasion of tax avoidance? 
+####Tax evasion or tax avoidance? 
 The first choice you, as a journalist, face in this tax investigation is to pursue tax avoidance (currently legal but this legality could be challenged) or tax evasion (illegal non payment of tax through non disclosure or non payment).
 
 Choosing the tax avoidance immediately leads you into schemes. You now choose between corporate and personal income tax avoidance.  
