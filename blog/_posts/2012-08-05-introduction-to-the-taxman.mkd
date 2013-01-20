@@ -10,7 +10,7 @@ One of the pieces of technology powering [Where Does My Money Go][wdmmg] is a st
 [wdmmg]: http://wheredoesmymoneygo.org/
 
 Enter the TaxMan. 
-TaxMan is a really simple JSON-over-HTTP API that aims to provide current and historical tax calculators for jurisdictions around the world based on locally applied tax rates. While it currently has support for South African and British tax codes, including estimated calculations for British indirect taxes, and it's to extend to other countries. Critically, it doesn't try to shoehorn a complicated algorithmic tax code into a tabular format.
+TaxMan is a really simple JSON-over-HTTP API that aims to provide current and historical tax calculators for jurisdictions around the world. It currently has support for South African, Mexican, and British tax codes, including estimated calculations for British indirect taxes, and it's easy to extend to other countries. Critically, it doesn't try to shoehorn a complicated algorithmic tax code into a tabular format.
 
 Before we go into details about how TaxMan works, let's see what it does. For example, find out which jurisdictions are supported by TaxMan (the following examples use [HTTPie][httpie] on the command line, but you can use anything capable of making HTTP GET requests, such as your browser or jQuery):
 
@@ -28,7 +28,8 @@ Before we go into details about how TaxMan works, let's see what it does. For ex
         "message": "Welcome to the TaxMan"
     }
 
-We explicitly link to the jurisdictions from the root of the API so that any client library can refer to `jurisdictions.gb` rather than having to "hard code" any of TaxMan's URL structure. So let's try follow the link for South Africa, here shown as `za` (TaxMan by convention uses [ISO3166 codes][iso3166] to denote countries):
+We explicitly link to the jurisdictions from the root of the API so that any client library can refer to `jurisdictions.gb` rather than having to "hard code" any of TaxMan's URL structure. So let's
+follow the link for South Africa, here shown as `za` (TaxMan by convention uses [ISO3166 codes][iso3166] to denote countries):
 
 [iso3166]: http://www.iso.org/iso/country_codes.htm
 
