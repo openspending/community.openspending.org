@@ -1,11 +1,10 @@
-_____
 
-layout: post 
-title: Tester
+---
+layout: post
+title: Test
+published: true
 type: post
-published: true 
 status: publish
-
-____
+---
 
 Tester
