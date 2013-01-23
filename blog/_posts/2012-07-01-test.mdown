@@ -1,0 +1,9 @@
+---
+layout: post
+title: Test
+published: true
+type: post
+status: publish
+---
+
+Test
