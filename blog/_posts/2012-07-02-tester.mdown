@@ -1,20 +1,11 @@
-<<<<<<< HEAD
-
 ---
 layout: post
 title: Test
-=======
----
-layout: post
-title: Testing
->>>>>>> Update test
-published: true
+published: false
 type: post
 status: publish
 ---
 
-<<<<<<< HEAD
 Tester
 =======
 Tester
->>>>>>> Update test
