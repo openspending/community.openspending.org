@@ -4,8 +4,8 @@ title: Can Open Data and Mobile Technology Eliminate the Need for a "Feedback" L
 published: true
 type: post
 status: publish
-
 ---
+
 This is a guest post by (Samuel Lee)[https://twitter.com/OpenNotion] with contributions from (Francesco Ciriaci)[https://twitter.com/fciriaci] and (Julia Bezgacheva)[https://twitter.com/ulkins]
 
 Efforts to make spending information more relevant and actionable often suffer from low levels of financial literacy, complexity, and just the unfavorable common perception that financial data is boring and hard to understand. At some level, "money" is the universal common denominator. However at scale and without context, it becomes harder to conceptualize and may even become entirely abstract. The layer of "development finance" adds yet more complexity. In the Open Spending space, many of us have tried to bridge this gap on the path of development transparency towards citizen empowerment through open data, data visualization, social media, and mobile technology. 
