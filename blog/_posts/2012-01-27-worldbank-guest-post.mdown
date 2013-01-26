@@ -6,24 +6,21 @@ type: post
 status: draft
 ---
 
-This is a guest post by (Samuel Lee)[https://twitter.com/OpenNotion] with contributions from (Francesco Ciriaci)[https://twitter.com/fciriaci] and (Julia Bezgacheva)[https://twitter.com/ulkins]
+This is a guest post by [Samuel Lee](https://twitter.com/OpenNotion) with contributions from [Francesco Ciriaci](https://twitter.com/fciriaci) and [Julia Bezgacheva](https://twitter.com/ulkins)
 
 Efforts to make spending information more relevant and actionable often suffer from low levels of financial literacy, complexity, and just the unfavorable common perception that financial data is boring and hard to understand. At some level, "money" is the universal common denominator. However at scale and without context, it becomes harder to conceptualize and may even become entirely abstract. The layer of "development finance" adds yet more complexity. In the Open Spending space, many of us have tried to bridge this gap on the path of development transparency towards citizen empowerment through open data, data visualization, social media, and mobile technology. 
 
-As an embodiment of this same spirit, the (World Bank Open Finances)[https://finances.worldbank.org/] team recently released a new mobile application (Android)[https://play.google.com/store/apps/details?id=com.worldbank.finances&hl=en], (iOS)[https://itunes.apple.com/us/app/world-bank-finances/id465555488?mt=8], (web)[http://financesapp.worldbank.org/]. While not ground-breaking, the thought process behind designing and the experience of building the app helps illustrate the challenges of working with financial data in an international development context and sheds light on what might be explored to take the next step. While (social media and mobile technology innovations)[http://www.guardian.co.uk/global-development/poverty-matters/2013/jan/04/saving-world-social-media-development-digital] hold much promise and may one day make good on its promise to "save the world," we recognize there is much more that needs to be done to begin realizing that potential. We invite you to join the discussion and share your ideas.
+As an embodiment of this same spirit, the [World Bank Open Finances](https://finances.worldbank.org/) team recently released a new mobile application [Android](https://play.google.com/store/apps/details?id=com.worldbank.finances&hl=en), [iOS](https://itunes.apple.com/us/app/world-bank-finances/id465555488?mt=8), [web](http://financesapp.worldbank.org/). While not ground-breaking, the thought process behind designing and the experience of building the app helps illustrate the challenges of working with financial data in an international development context and sheds light on what might be explored to take the next step. While (social media and mobile technology innovations)[http://www.guardian.co.uk/global-development/poverty-matters/2013/jan/04/saving-world-social-media-development-digital] hold much promise and may one day make good on its promise to "save the world," we recognize there is much more that needs to be done to begin realizing that potential. We invite you to join the discussion and share your ideas.
 
-## An Iterative Approach to Existing Challenges
+# An Iterative Approach to Existing Challenges
 Dispelling the notion that financial or spending information is boring or difficult to understand relative to other data was an important mental block to cast off. As Dino Citraro of Periscopic puts it, "There is no such thing as 'good data,' there is only good context." Good context is definitely a key to making financial data more relevant and actionable. 
 So what does better context in a mobile format look like? Here's a breakdown of our latest attempt.
 
 <em>Location</em>
 
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273595716_Screenshot_2013-01-08-05-44-14.png" title="" class="alignnone" width="640" height="640" />
-
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273771571_Mexico%20Nearby.jpg" title="" class="alignnone" width="640" height="640" />
-
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273696385_WBF%20App%20-%20Nearby%20Project%20Kenya.png" title="" class="alignnone" width="640" height="640" />
-
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273595716_Screenshot_2013-01-08-05-44-14.png" title="" class="inline-img" width="250" height="640" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273771571_Mexico%20Nearby.jpg" title="" class="inline-img" width="250" height="640" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273696385_WBF%20App%20-%20Nearby%20Project%20Kenya.png" title="" class="alignnone" width="250" height="640" />
 
 When someone looks at a photograph, often the first thing they do is to look for themselves. Given this dynamic, a pinchable map interface that gives users the chance to intuitively locate themselves in the larger "picture" made sense. Leveraging GPS technology and mashing up financial data with other data at the World Bank (projects, mapping, and procurement), the "Nearby" function helps users explore the question <strong>"What is the World Bank doing around me?"</strong> 
 
@@ -43,7 +40,7 @@ Have you ever tried to converse with someone who doesn't speak your language? Th
 
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276061005_Data%20Accuracy.png" title="Data accuracy" class="alignnone" width="640" height="640" />
 
-While the app is not designed for more robust manipulation of data like our (web platform)[https://finances.worldbank.org/], it allows interaction with financial data in a number of ways. The app offers the ability to share content through social media networks (Facebook and Twitter), e-mail, and SMS. Users also have the option to point out data accuracy issues and report allegations of fraud and corruption.
+While the app is not designed for more robust manipulation of data like our [web platform][https://finances.worldbank.org/], it allows interaction with financial data in a number of ways. The app offers the ability to share content through social media networks (Facebook and Twitter), e-mail, and SMS. Users also have the option to point out data accuracy issues and report allegations of fraud and corruption.
 
 <em>Demand-Driven Approach (Contracts/Procurement Data)</em>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276219125_ddc4_0.jpg" title="Development Data Challenge - June 2012" class="alignnone" width="640" height="640" />
@@ -65,7 +62,7 @@ Multiple languages were the first step. Better visualizations are also another a
 
 <em>3. Pushing the Limits of Engagement</em>
 One of the great powers of social media is in its ability to break down traditional communication barriers. It also allows for a more informed discussion and interaction. Social media integration is just the start- what else can we do to push the limits of open communication, conversation, and engagement? Dr. Agnes Binagwaho, Rwanda's Minister of Health, illustrates the (power of social media coupled with senior official engagement, endorsement, and commitment)[http://dr-agnes.blogspot.co.uk/2011/12/mondays-with-minister-3-malnutrition-in.html]. With growing demand for financial demand from the public (see new civil society driven efforts like Open Budget Morocco)[http://floussna.ma/], it is increasingly important to meet this interest with smart engagement and supply.
-Are we off base? Would you like to add or highlight other areas? Have relevant experiences or insight to share? Let's talk. Leave comments below or tweet (#WBFinances)[https://twitter.com/search?q=#wbfinances&src=savs].
+Are we off base? Would you like to add or highlight other areas? Have relevant experiences or insight to share? Let's talk. Leave comments below or tweet [#WBFinances](https://twitter.com/search?q=#wbfinances&src=savs).
 
 #Big Dreams, Small Steps
 Imagine if all the pieces fall into place. Mobile technology continues to make leaps and bounds and becomes more accessible and affordable. Social media extends its reach and becomes as common as communicating by telephone or in person. Open Data is embraced by all public institutions. Current barriers to access to public information in effect would cease to exist. It would no longer be about who has data, but more importantly what one can do with data- a beautiful world, isn't it? The possibilities for good are endless.
@@ -78,7 +75,7 @@ So let's dream big, but take small steps together.
 
 ---------------------------------------------------------------------------------------------------------
 Links - World Bank finances app:
-(Android)[https://play.google.com/store/apps/details?id=com.worldbank.finances&hl=en] 
-(iOS/iTunes)[https://itunes.apple.com/us/app/world-bank-finances/id465555488?mt=8] 
-(Web)[http://financesapp.worldbank.org]
-(Website)[https://finances.worldbank.org]
+[Android](https://play.google.com/store/apps/details?id=com.worldbank.finances&hl=en) 
+[iOS/iTunes](https://itunes.apple.com/us/app/world-bank-finances/id465555488?mt=8) 
+[Web](http://financesapp.worldbank.org)
+[Website](https://finances.worldbank.org)
