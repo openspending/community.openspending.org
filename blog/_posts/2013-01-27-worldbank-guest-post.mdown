@@ -20,15 +20,15 @@ So what does better context in a mobile format look like? Here's a breakdown of 
 
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273595716_Screenshot_2013-01-08-05-44-14.png" title="" class="inline-img" width="280" height="540" />
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273771571_Mexico%20Nearby.jpg" title="" class="inline-img" width="280" height="540" />
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273696385_WBF%20App%20-%20Nearby%20Project%20Kenya.png" title="" class="alignnone" width="280" height="540" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273696385_WBF%20App%20-%20Nearby%20Project%20Kenya.png" title="" class="inline-img" width="280" height="540" />
 
 When someone looks at a photograph, often the first thing they do is to look for themselves. Given this dynamic, a pinchable map interface that gives users the chance to intuitively locate themselves in the larger "picture" made sense. Leveraging GPS technology and mashing up financial data with other data at the World Bank (projects, mapping, and procurement), the "Nearby" function helps users explore the question <strong>"What is the World Bank doing around me?"</strong> 
 
 <em>Language</em>
 
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358275905994_China.png" title="Chinese language version" class="alignnone" width="280" height="540" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358275905994_China.png" title="Chinese language version" class="inline-img" width="280" height="540" />
 
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273817346_Screenshot%20Nearby%20Casablanca.png" title="Arabic language version" width="280" height="540" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273817346_Screenshot%20Nearby%20Casablanca.png" title="Arabic language version" class="inline-img" width="280" height="540" />
   
 Have you ever tried to converse with someone who doesn't speak your language? The first World Bank Finances mobile app was only in English, and we quickly felt its limitations. Presenting information in multiple languages was a high priority for this release, which we believe will increase the probability of generating interest, spurring conversation, and moving towards regional impact through open financial data. For this version, the app is available in seven languages- Arabic, Chinese, English, French, Portuguese, Russian, and Spanish. (Please let us know what additional languages we should offer for future releases!)
 
