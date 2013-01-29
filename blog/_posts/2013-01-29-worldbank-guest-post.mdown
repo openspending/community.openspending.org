@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Can Open Data and Mobile Technology Eliminate the Need for a "Feedback" Loop? - Reimagining the new World Bank Open Finances app
-published: false
+published: true
 type: post
-status: draft
+status: published
 ---
 
 This is a guest post by [Samuel Lee](https://twitter.com/OpenNotion) with contributions from [Francesco Ciriaci](https://twitter.com/fciriaci) and [Julia Bezgacheva](https://twitter.com/ulkins)
@@ -64,7 +64,7 @@ Have you ever tried to converse with someone who doesn't speak your language? Th
 
 While the app is not designed for more robust manipulation of data like our [web platform](https://finances.worldbank.org/), it allows interaction with financial data in a number of ways. The app offers the ability to share content through social media networks (Facebook and Twitter), e-mail, and SMS. Users also have the option to point out data accuracy issues and report allegations of fraud and corruption.
 
-<strong>Demand-Driven Approach (Contracts/Procurement Data)</strong><br>
+<strong>Demand-Driven Approach (Contracts and Procurement Data)</strong><br>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276219125_ddc4_0.jpg" title="Development Data Challenge - June 2012" class="inline-img" width="461" height="308" /><br>
 From the Development Data Challenge, June 2012<br>
 
