@@ -17,32 +17,66 @@ Dispelling the notion that financial or spending information is boring or diffic
 So what does better context in a mobile format look like? Here's a breakdown of our latest attempt.
 
 <em>Location</em>
-
+<table border="" cellpadding="0" cellspacing="1px">
+  <tr>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273595716_Screenshot_2013-01-08-05-44-14.png" title="" class="inline-img" width="280" height="540" />
+ </td>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273771571_Mexico%20Nearby.jpg" title="" class="inline-img" width="280" height="540" />
+ </td>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273696385_WBF%20App%20-%20Nearby%20Project%20Kenya.png" title="" class="inline-img" width="280" height="540" />
+   </td>
+  </tr>
+</table>
 
 When someone looks at a photograph, often the first thing they do is to look for themselves. Given this dynamic, a pinchable map interface that gives users the chance to intuitively locate themselves in the larger "picture" made sense. Leveraging GPS technology and mashing up financial data with other data at the World Bank (projects, mapping, and procurement), the "Nearby" function helps users explore the question <strong>"What is the World Bank doing around me?"</strong> 
 
 <em>Language</em>
-
+<table border="" cellpadding="0" cellspacing="1px">
+  <tr>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358275905994_China.png" title="Chinese language version" class="inline-img" width="280" height="540" />
+ </td>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358273817346_Screenshot%20Nearby%20Casablanca.png" title="Arabic language version" class="inline-img" width="280" height="540" />
-  
+   </td>
+  </tr>
+</table>
+
 Have you ever tried to converse with someone who doesn't speak your language? The first World Bank Finances mobile app was only in English, and we quickly felt its limitations. Presenting information in multiple languages was a high priority for this release, which we believe will increase the probability of generating interest, spurring conversation, and moving towards regional impact through open financial data. For this version, the app is available in seven languages- Arabic, Chinese, English, French, Portuguese, Russian, and Spanish. (Please let us know what additional languages we should offer for future releases!)
 
 <em>Share and Respond</em>
-
+<table border="" cellpadding="0" cellspacing="1px">
+  <tr>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358275376412_WBF%20App%20-%20Share%20Bolivia.png" title="Bolivia screen shot" class="inline-img" width="280" height="540" />
+ </td>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276073480_Fraud.png" title="Fraud report" class="inline-img" width="280" height="540" />
+ </td>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276061005_Data%20Accuracy.png" title="Data accuracy" class="inline-img" width="280" height="540" />
+   </td>
+  </tr>
+</table>
 
 While the app is not designed for more robust manipulation of data like our [web platform](https://finances.worldbank.org/), it allows interaction with financial data in a number of ways. The app offers the ability to share content through social media networks (Facebook and Twitter), e-mail, and SMS. Users also have the option to point out data accuracy issues and report allegations of fraud and corruption.
 
 <em>Demand-Driven Approach (Contracts/Procurement Data)</em>
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276219125_ddc4_0.jpg" title="Development Data Challenge - June 2012" class="inline-img" width="640" height="640" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276219125_ddc4_0.jpg" title="Development Data Challenge - June 2012" class="inline-img" width="320" height="213" />
+
+<table border="" cellpadding="0" cellspacing="1px">
+  <tr>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276914201_Screenshot_2013-01-08-05-44-45.png" title="Screen shot Morocco" class="inline-img" width="280" height="540" />
+ </td>
+    <td>
 <img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276932098_Screenshot_2013-01-08-05-44-52.png" title="Screen shot Morocco2" class="inline-img" width="280" height="540" />
+   </td>
+  </tr>
+</table>
   
 Often open data initiatives start as supply-driven efforts and sometimes continue as such. To add real value you need to answer real demand. We were fortunate to connect with like-minded partners to tap into creative views and perspectives.Through a collaborative "ideation" event [Development Data Challenge](http://developmentdatachallenge.org/), a joint initiative of Open Spending, the Guardian, Publish What You Fund, and other partners) and a Random Hacks of Kindness hackathon, the demand for more open procurement data was [captured and responded to](http://blogs.worldbank.org/opendata/the-power-of-open-crowd-sourced-ideas-crowd-powered-solutions). An early prototype created by community developers was a critical proof of concept for parts of the World Bank Open Finances app and resulted in expansion of the Major Contracts dataset from (four months to seven years)[https://finances.worldbank.org/Procurement/Major-Contract-Awards-FY2007-FY2013-Beta-version/kdui-wcs3]. We are committed to this demand-driven approach and plan to explore more creative methods of documenting and responding to demand in the coming months. (Please let us know if you'd like to get involved!)
 
