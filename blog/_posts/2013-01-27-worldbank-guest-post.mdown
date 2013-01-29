@@ -51,13 +51,13 @@ Have you ever tried to converse with someone who doesn't speak your language? Th
 <table border="" cellpadding="0" cellspacing="1px">
   <tr>
     <td>
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358275376412_WBF%20App%20-%20Share%20Bolivia.png" title="Bolivia screen shot" class="inline-img" width="280" height="540" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358275376412_WBF%20App%20-%20Share%20Bolivia.png" title="Bolivia screen shot" class="inline-img" width="281" height="500" />
  </td>
     <td>
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276073480_Fraud.png" title="Fraud report" class="inline-img" width="280" height="540" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276073480_Fraud.png" title="Fraud report" class="inline-img" width="281" height="500" />
  </td>
     <td>
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276061005_Data%20Accuracy.png" title="Data accuracy" class="inline-img" width="280" height="540" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276061005_Data%20Accuracy.png" title="Data accuracy" class="inline-img" width="281" height="500" />
    </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ Have you ever tried to converse with someone who doesn't speak your language? Th
 While the app is not designed for more robust manipulation of data like our [web platform](https://finances.worldbank.org/), it allows interaction with financial data in a number of ways. The app offers the ability to share content through social media networks (Facebook and Twitter), e-mail, and SMS. Users also have the option to point out data accuracy issues and report allegations of fraud and corruption.
 
 <em>Demand-Driven Approach (Contracts/Procurement Data)</em>
-<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276219125_ddc4_0.jpg" title="Development Data Challenge - June 2012" class="inline-img" width="320" height="213" />
+<img alt="" src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aUeICSaKtLb_p.13000_1358276219125_ddc4_0.jpg" title="Development Data Challenge - June 2012" class="inline-img" width="461" height="308" />
 
 <table border="" cellpadding="0" cellspacing="1px">
   <tr>
