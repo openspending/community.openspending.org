@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Opening Budgets in Morocco
-published: false
+published: true
 type: post
-status: draft
+status: publish
 ---
+
+This is a post by [Martin Keegan](http://mk.ucant.org/).
 
 Earlier this January I attended a conference in Morocco at the
 University of Mundiapolis in Casablanca, to present OpenSpending; the
@@ -13,13 +15,15 @@ organisations, journalists, private companies, academics and students,
 the World Bank, and a senior representative of the Ministry of
 Finance.
 
-http://www.lnt.ma/economie/la-transparence-budgetaire-au-centre-dune-rencontre-debat-63825.html
+There was some press coverage from
+[L'economiste](http://www.leconomiste.com/article/902383-la-transparence-budg-taire-fait-d-bat)
+and [La Nouvelle
+Tribune](http://www.lnt.ma/economie/la-transparence-budgetaire-au-centre-dune-rencontre-debat-63825.html)
 
-http://www.leconomiste.com/article/902383-la-transparence-budg-taire-fait-d-bat
+The [notes](http://mk.ucant.org/media/openspending-francais/) from my presentation.
 
-my own notes in french
+[status of the French translation](https://www.transifex.com/projects/p/openspending/language/fr/)
 
-link to transifex
 
 investigate wdmmg-kit
 
