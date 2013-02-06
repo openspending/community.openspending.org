@@ -49,16 +49,27 @@ in discussions of spending, and by changing the costs can help enable
 some actors to participate where previously this was infeasible.
 
 
-[OpenBudget Morocco](http://floussna.ma/)
 
 what role is this tool playing? process
 
-note the ongoing FOI law and budget commotions
+
+
+The details of any national budget are a always a matter of healthy
+political controversy, and this is [especially true of
+Morocco](http://www.reuters.com/article/2012/11/18/us-morocco-protest-idUSBRE8AH0LX20121118). 
+
+The Moroccan constitution contains an as yet unimplemented undertaking
+to establish a Freedom of Information law; this would enable civil society
+to obtain some information about expenditure. However, FOI laws tend not
+to allow the requester to specify the format of the material published,
+or that it be published as open data. Where governments publish fiscal
+information AND comply with an FOI law, it can be a [somewhat confrontational
+move](http://constitution-unit.com/2011/05/24/we-can-work-it-out-eric-pickles-vs-nottingham-city-council/) to use the FOI laws to compel publication of fiscal data
 
 note ministry of finance and university
 
 Transparency International Morocco had taken the OpenSpending software
-and got it working themselves, and encountered some problems. I was
+and [got it working themselves](http://floussna.ma/), but did encounter some problems. I was
 able to speak at length to their staff to discuss the issues they were
 having and what could done about them. What they wanted was:
 
