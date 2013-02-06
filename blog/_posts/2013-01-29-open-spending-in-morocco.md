@@ -25,9 +25,7 @@ The [notes](http://mk.ucant.org/media/openspending-francais/) from my presentati
 [status of the French translation](https://www.transifex.com/projects/p/openspending/language/fr/)
 
 
-investigate wdmmg-kit
-
-link to slee's stuff
+(Samuel Lee of the World Bank)[http://openspending.org/blog/2013/01/29/worldbank-guest-post.html]
 
 It was the experience of MySociety that their parliamentary monitoring
 tools were never accused of being partisan. It's important to keep
@@ -37,11 +35,23 @@ more money on this and less on that". The bulk of my presentation was on
 four or five country studies, demonstrating the diversity of the places
 which can use OpenSpending.
 
-explanation of the negotiable boundary between government and civil society
+What maybe was not clear to the audience (and indeed, the press
+coverage reflected this) was how OpenSpending and similar tools fit
+into the landscape.  I was directly asked "is the Government of
+Morocco going to use OpenSpending?", and very firmly responded that
+this was a question for the Government (after all, a representative of
+the government was sat only a few paces away).  The boundary between
+government and private sector (both commercial and civil society) is
+always evolving and sometimes contested, and it may be locate differently
+in different societies. OpenSpending enables actors of all types (government,
+private commercial, private non-profit and individuals) to participate
+in discussions of spending, and by changing the costs can help enable
+some actors to participate where previously this was infeasible.
 
-the question re govt use
 
-link to tarik's site
+[OpenBudget Morocco](http://floussna.ma/)
+
+what role is this tool playing? process
 
 note the ongoing FOI law and budget commotions
 
@@ -74,3 +84,6 @@ information laws
 Fundamentally, they're in the business of demonstrating what can usefully
 be done with more detailed spending data; OpenSpending is a key tool
 in a much larger process.
+
+samuel lee
+[vulgarisation](http://fr.wikipedia.org/wiki/Vulgarisation)
