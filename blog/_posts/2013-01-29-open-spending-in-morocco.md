@@ -129,5 +129,10 @@ Fundamentally, they're in the business of demonstrating what can usefully
 be done with more detailed spending data; OpenSpending is a key tool
 in a much larger process.
 
-samuel lee
-[vulgarisation](http://fr.wikipedia.org/wiki/Vulgarisation)
+The Moroccans placed a particular emphasis on what they termed
+"[vulgarisation](http://fr.wikipedia.org/wiki/Vulgarisation)", by which
+is meant the business of describing and explaining information intellgible
+to experts such that the general public can understand it as well (the word
+lacks the pejorative connotations it possesses in English). What this really
+means is that in French the motivation of OpenSpending is expressible in
+a *single word*.
