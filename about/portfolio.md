@@ -95,12 +95,12 @@ You can now build a site such as WDMMG for your own country using the OpenSpendi
 
 <img alt="" src="http://farm8.staticflickr.com/7077/7315281352_2c00d928d8.jpg" title="Offener Haushalt" class="pull-right" style="margin-left: 1em;" width="250" />
 
-[OffenerHaushalt](http://bund.offenerhaushalt.de/) allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new tree maps, the user can easily see and explore the different departments and programmes and see how much is spent, proportion and statistics on changes between years. 
+<a href="http://bund.offenerhaushalt.de/"OffenerHaushalt</a> allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new tree maps, the user can easily see and explore the different departments and programmes and see how much is spent, proportion and statistics on changes between years. 
 
 The success of Offener Haushalt and the demand to roll it out on a local level was one of the prime motivations for the creation of OpenSpending. 
-
-* [Visit the OffenerHaushalt Project](http://bund.offenerhaushalt.de/)
-* [Follow OffenerHaushalt on Twitter](https://twitter.com/#!/offenerhaushalt)
+<ul>
+<li><a href="http://bund.offenerhaushalt.de/">Visit the OffenerHaushalt Project</li>
+<li><a href="https://twitter.com/#!/offenerhaushalt">Follow OffenerHaushalt on Twitter</li>
 
 </div> 
 
@@ -116,13 +116,18 @@ Normally this overview is not available – leading to waste, overlap and ineffi
 
 The Uganda aid visualisation project was a joint between the OKFN and Publish What You Fund to combine two key types of fiscal data, revenues from aid together with spending information, and present them together in an informative way for the first time through an interactive visualisation.
 
-* [Visit the Publish What You Fund Uganda Visualisation Project](http://www.publishwhatyoufund.org/uganda/uganda-with-data.htm)
-* [Visit Publish What You Fund's website](http://www.publishwhatyoufund.org/)
-* [Uganda Budget and Aid to Uganda, 2003-2006 dataset in OpenSpending](http://openspending.org/ugandabudget)
+<ul>
+<li><a href="http://www.publishwhatyoufund.org/uganda/uganda-with-data.htm">Visit the Publish What You Fund Uganda Visualisation Project</li>
+<li><a href="http://www.publishwhatyoufund.org">Visit Publish What You Fund's website</li>
+<li><a href="http://openspending.org/ugandabudget">Uganda Budget and Aid to Uganda, 2003-2006 dataset in OpenSpending</li>
 
-#### Coverage of the Uganda Visualisation 
+<strong> Coverage of the Uganda Visualisation </strong>
 
 * [Guardian Poverty Matters Blog](http://www.guardian.co.uk/global-development/poverty-matters/2011/nov/25/uganda-aid-confusion-analyse-spending?newsfeed=true)
+
+</div> 
+
+<div class="well" 'markdown="1"'>
 
 ### IATI
 
