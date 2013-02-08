@@ -19,7 +19,9 @@ In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspen
 </ul>
 Transparency Slovakia hopes to promote the site as an example of how budgets could be made more accessible and comprehensible to the public once the site is localized and tested further. While not in its current plans, additional spending data and a feature to allow users to compare cities would improve opportunities for doing crowdsourced benchmarking.
 
-</div>
+</div> 
+
+<div class="well" 'markdown="1"'>
 
 <h3> Cameroon Budget Inquirer </h3>
 
@@ -34,6 +36,8 @@ The project incorporates the open-source 'bubble visualisations' first seen in W
 <li>A sub-national budget transparency index - similar to the work of the International Budget Partnership, but at sub-national levels. This highlights the availability of key budget documents and ranks regions on their availability. </li>
 <li> Explore the data: Filter the data by categories such as amount, location, and activity. </li> 
 </ul> 
+</div> 
+
 </div> 
 
 <div class="well" 'markdown="1"'>
