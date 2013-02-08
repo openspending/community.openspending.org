@@ -75,7 +75,7 @@ We're into our second year of the project now. <a href="http://www.pbs.org/ideal
 
 <div class="well" 'markdown="1"'>
 
-### Where Does My Money Go? 
+<h3>Where Does My Money Go?</h3> 
 
 <img alt="" src="http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg" title="WDMMG original" class="pull-left" style="margin-right: 1em;" width="250" />
 
