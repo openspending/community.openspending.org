@@ -19,7 +19,7 @@ In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspen
 </ul>
 Transparency Slovakia hopes to promote the site as an example of how budgets could be made more accessible and comprehensible to the public once the site is localized and tested further. While not in its current plans, additional spending data and a feature to allow users to compare cities would improve opportunities for doing crowdsourced benchmarking.
 
-<div class="well" 'markdown="1"'>
+</div>
 
 <h3> Cameroon Budget Inquirer </h3>
 
