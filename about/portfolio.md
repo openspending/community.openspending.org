@@ -79,15 +79,19 @@ We're into our second year of the project now. <a href="http://www.pbs.org/ideal
 
 <img alt="" src="http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg" title="WDMMG original" class="pull-left" style="margin-right: 1em;" width="250" />
 
-[Where Does My Money Go?](http://wheredoesmymoneygo.org/) (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the [Daily Bread](http://wheredoesmymoneygo.org/dailybread.html) app. 
+<a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app. 
 
 You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit. 
 
-* [Visit the Where Does My Money Go? project](http://wheredoesmymoneygo.org/)
-* [Follow Where Does My Money Go? on Twitter](https://twitter.com/#!/wdmmg)
-* [Read more about how to create your own Where Does My Money Go? site](http://blog.openspending.org/2012/02/16/thekit/)
+* <a href="http://wheredoesmymoneygo.org/">Visit the Where Does My Money Go?</a> project
+* <a href="https://twitter.com/#!/wdmmg">Follow Where Does My Money Go? on Twitter</a>
+* <a href="http://blog.openspending.org/2012/02/16/thekit/">Read more about how to create your own Where Does My Money Go?</a> site
 
-### OffenerHaushalt 
+</div> 
+
+<div class="well" 'markdown="1"'>
+
+<h3> OffenerHaushalt</h3> 
 
 <img alt="" src="http://farm8.staticflickr.com/7077/7315281352_2c00d928d8.jpg" title="Offener Haushalt" class="pull-right" style="margin-left: 1em;" width="250" />
 
