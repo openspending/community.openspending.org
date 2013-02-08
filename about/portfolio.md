@@ -81,11 +81,11 @@ We're into our second year of the project now. <a href="http://www.pbs.org/ideal
 
 <a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app. 
 
-You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit. 
-
-* <a href="http://wheredoesmymoneygo.org/">Visit the Where Does My Money Go?</a> project
-* <a href="https://twitter.com/#!/wdmmg">Follow Where Does My Money Go? on Twitter</a>
-* <a href="http://blog.openspending.org/2012/02/16/thekit/">Read more about how to create your own Where Does My Money Go?</a> site
+You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit:
+<ul> 
+<li><a href="http://wheredoesmymoneygo.org/">Visit the Where Does My Money Go?</a> project</li>
+<li><a href="https://twitter.com/#!/wdmmg">Follow Where Does My Money Go? on Twitter</a></li>
+<li><a href="http://blog.openspending.org/2012/02/16/thekit/">Read more about how to create your own Where Does My Money Go?</a> site</li>
 
 </div> 
 
@@ -102,7 +102,11 @@ The success of Offener Haushalt and the demand to roll it out on a local level w
 * [Visit the OffenerHaushalt Project](http://bund.offenerhaushalt.de/)
 * [Follow OffenerHaushalt on Twitter](https://twitter.com/#!/offenerhaushalt)
 
-### Uganda Aid Visualisation 
+</div> 
+
+<div class="well" 'markdown="1"'>
+
+<h3>Uganda Aid Visualisation</h3>
 
 Aid flows often do not pass through a recipient government’s conventional budget mechanisms. When this happens, recipient governments themselves may not have the complete overview of where aid money goes and how donor priorities align with their own. This information is vital for governments and aid donors to be able to make the best use of scarce resources.
 
