@@ -10,7 +10,7 @@ Here are some of the projects, past and present that we have been involved with 
 <div class="well" 'markdown="1"'>
 
 <h3> OpenSpending Slovakia </h3> 
-<img alt="" src="https://photos-1.dropbox.com/t/0/AADE17zC3bcxr0xCfytFOGZZjm-eV8cWvF-HypnYVvd1Cw/10/845877/jpeg/178x178/1/1360364400/0/2/Slovakia%20Openspending.jpg/NEIzoTrbncRTfblbeaDkS7xYeYeWm3nx08IfEfG-CmU?prep_size=1024x768%2C32bf" title="Slovakia Openspending" class="pull-left" style="margin-right: 2em;" />
+<img alt="" src="https://photos-1.dropbox.com/t/0/AADE17zC3bcxr0xCfytFOGZZjm-eV8cWvF-HypnYVvd1Cw/10/845877/jpeg/178x178/1/1360364400/0/2/Slovakia%20Openspending.jpg/NEIzoTrbncRTfblbeaDkS7xYeYeWm3nx08IfEfG-CmU?prep_size=1024x768%2C32bf" title="Slovakia Openspending" class="pull-right" style="margin-right: 2em;" />
 
 In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspending</a> prepared in collaboration with transparency and anti-corruption watchdog, <a href="www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:<ul>
 <li>Year on year comparison for spending categories.</li>
@@ -79,8 +79,8 @@ We're into our second year of the project now. <a href="http://www.pbs.org/ideal
 
 <img alt="" src="http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg" title="WDMMG original" class="pull-left" style="margin-right: 1em;" width="250" />
 
-<a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app. 
-
+<a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app.<ul> 
+<ul>
 You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit:
 <ul> 
 <li><a href="http://wheredoesmymoneygo.org/">Visit the Where Does My Money Go?</a> project</li>
@@ -95,7 +95,7 @@ You can now build a site such as WDMMG for your own country using the OpenSpendi
 
 <img alt="" src="http://farm8.staticflickr.com/7077/7315281352_2c00d928d8.jpg" title="Offener Haushalt" class="pull-right" style="margin-left: 1em;" width="250" />
 
-<a href="http://bund.offenerhaushalt.de/"OffenerHaushalt</a> allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new tree maps, the user can easily see and explore the different departments and programmes and see how much is spent, proportion and statistics on changes between years. 
+<a href="http://bund.offenerhaushalt.de/">OffenerHaushalt</a> allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new tree maps, the user can easily see and explore the different departments and programmes and see how much is spent, proportion and statistics on changes between years. 
 
 The success of Offener Haushalt and the demand to roll it out on a local level was one of the prime motivations for the creation of OpenSpending. 
 <ul>
@@ -120,7 +120,7 @@ The Uganda aid visualisation project was a joint between the OKFN and Publish Wh
 <li><a href="http://www.publishwhatyoufund.org/uganda/uganda-with-data.htm">Visit the Publish What You Fund Uganda Visualisation Project</li>
 <li><a href="http://www.publishwhatyoufund.org">Visit Publish What You Fund's website</li>
 <li><a href="http://openspending.org/ugandabudget">Uganda Budget and Aid to Uganda, 2003-2006 dataset in OpenSpending</li>
-
+</ul>
 <strong> Coverage of the Uganda Visualisation </strong>
 
 * [Guardian Poverty Matters Blog](http://www.guardian.co.uk/global-development/poverty-matters/2011/nov/25/uganda-aid-confusion-analyse-spending?newsfeed=true)
