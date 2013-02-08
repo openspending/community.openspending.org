@@ -9,18 +9,30 @@ Here are some of the projects, past and present that we have been involved with 
 
 <div class="well" 'markdown="1"'>
 
+<h3> OpenSpending Slovakia </h3> 
+<img alt="" src="https://photos-1.dropbox.com/t/0/AADE17zC3bcxr0xCfytFOGZZjm-eV8cWvF-HypnYVvd1Cw/10/845877/jpeg/178x178/1/1360364400/0/2/Slovakia%20Openspending.jpg/NEIzoTrbncRTfblbeaDkS7xYeYeWm3nx08IfEfG-CmU?prep_size=1024x768%2C32bf" title="Slovakia Openspending" class="pull-left" style="margin-right: 2em;" />
+
+In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspending</a> prepared in collaboration with transparency and anti-corruption watchdog, <a href="www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:<ul>
+<li>Year on year comparison for spending categories.</li>
+<li>Improved listing and more contextual presentation of the data.</li>
+<li>Embedable graphic drilldowns with accompanying tables.</li> 
+</ul>
+Transparency Slovakia hopes to promote the site as an example of how budgets could be made more accessible and comprehensible to the public once the site is localized and tested further. While not in its current plans, additional spending data and a feature to allow users to compare cities would improve opportunities for doing crowdsourced benchmarking.
+
+<div class="well" 'markdown="1"'>
+
 <h3> Cameroon Budget Inquirer </h3>
 
 <img alt="" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" title="Cameroon Budget Inquirer" class="pull-left" style="margin-right: 2em;" />
 
-We're collaborating with the World Bank to produce a citizen-friendly representation of Cameroon's budget. 
+We're collaborating with the World Bank to produce a citizen-friendly representation of <a href="http://cameroon.openspending.org/">Cameroon's budget</a>. 
 
-The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project will include 
+The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project will include: 
 
 <ul>
-<li>Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget </li>
+<li>Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget. </li>
 <li>A sub-national budget transparency index - similar to the work of the International Budget Partnership, but at sub-national levels. This highlights the availability of key budget documents and ranks regions on their availability. </li>
-<li> Explore the data: Filter the data by categories such as amount, location, and activity </li> 
+<li> Explore the data: Filter the data by categories such as amount, location, and activity. </li> 
 </ul> 
 </div> 
 
@@ -36,10 +48,10 @@ As part of this project we will be:
 
 <ul>
 
-<li> Building visualisations of national, entity-, cantonal- and district-level budgets for Bosnia </li>
-<li> Doing training and capacity building workshops with organisations from other Balkan countries, on getting, wrangling and presenting financial data (with OpenSpending and other tools) </li>
-<li> Building a tax calculator for Bosnia (similar to the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread.</a> </li>
-<li> Test-driving the <a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook.</a> and augment it with a more technical primer, for those organisations wishing to do more ambitious data work</li>
+<li> Building visualisations of national, entity-, cantonal- and district-level budgets for Bosnia. </li>
+<li> Doing training and capacity building workshops with organisations from other Balkan countries, on getting, wrangling and presenting financial data (with OpenSpending and other tools).</li>
+<li> Building a tax calculator for Bosnia (similar to the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a>).</li>
+<li> Test-driving the <a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook</a> and augment it with a more technical primer, for those organisations wishing to do more ambitious data work.</li>
 </ul> 
 
 <a href="http://openspending.org/blog/2012/09/26/Balkan-Budgets.html">Read more about the project.</a>
