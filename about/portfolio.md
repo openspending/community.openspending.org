@@ -10,7 +10,7 @@ Here are some of the projects, past and present that we have been involved with 
 <div class="well" 'markdown="1"'>
 
 <h3> OpenSpending Slovakia </h3> 
-<img alt="" src="https://photos-1.dropbox.com/t/0/AADE17zC3bcxr0xCfytFOGZZjm-eV8cWvF-HypnYVvd1Cw/10/845877/jpeg/178x178/1/1360364400/0/2/Slovakia%20Openspending.jpg/NEIzoTrbncRTfblbeaDkS7xYeYeWm3nx08IfEfG-CmU?prep_size=1024x768%2C32bf" title="Slovakia Openspending" class="pull-right" style="margin-right: 2em;" />
+<img alt="" src="https://photos-1.dropbox.com/t/0/AADE17zC3bcxr0xCfytFOGZZjm-eV8cWvF-HypnYVvd1Cw/10/845877/jpeg/178x178/1/1360364400/0/2/Slovakia%20Openspending.jpg/NEIzoTrbncRTfblbeaDkS7xYeYeWm3nx08IfEfG-CmU?prep_size=1024x768%2C32bf" title="Slovakia Openspending" class="pull-right" style="margin-left: 1em;" />
 
 In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspending</a> prepared in collaboration with transparency and anti-corruption watchdog, <a href="www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:<ul>
 <li>Year on year comparison for spending categories.</li>
@@ -120,16 +120,12 @@ The Uganda aid visualisation project was a joint between the OKFN and Publish Wh
 <li><a href="http://www.publishwhatyoufund.org/uganda/uganda-with-data.htm">Visit the Publish What You Fund Uganda Visualisation Project</li>
 <li><a href="http://www.publishwhatyoufund.org">Visit Publish What You Fund's website</li>
 <li><a href="http://openspending.org/ugandabudget">Uganda Budget and Aid to Uganda, 2003-2006 dataset in OpenSpending</li>
-</ul>
-<strong> Coverage of the Uganda Visualisation </strong>
-
-* [Guardian Poverty Matters Blog](http://www.guardian.co.uk/global-development/poverty-matters/2011/nov/25/uganda-aid-confusion-analyse-spending?newsfeed=true)
-
+<li> Coverage of the Uganda Visualisation: <a href="http://www.guardian.co.uk/global-development/poverty-matters/2011/nov/25/uganda-aid-confusion-analyse-spending?newsfeed=true">Guardian Poverty Matters Blog</a>
 </div> 
 
 <div class="well" 'markdown="1"'>
 
-### IATI
+<h3>IATI</h3>
 
 The International Aid Transparency Initiative is a common format for publishing aid information. 29 signatories representing 75% of global Official Development Finance have committed to reporting timely information about their aid activities in this standard format. Already, 13 signatories representing 45% of ODF have published.
 
@@ -139,9 +135,13 @@ IATI publishers release the data as open data feeds in a common XML format throu
 
 However, the nature of IATI as a distributed collection of raw data feeds also presents a challenge to non-technical users. The Open Knowledge Foundation worked with Publish What You Fund to transform the data into a format suitable for import into OpenSpending, where the data can be much more easily visualised and analysed.
 
-* [View the IATI data on OpenSpending](http://openspending.org/iati?_time=2011)
+<a href="http://openspending.org/iati?_time=2011">View the IATI data on OpenSpending</a>
 
-## Stories and Data Journalism 
+</div> 
+
+<div class="well" 'markdown="1"'>
+
+<h3>Stories and Data Journalism<h3> 
 
 ### Data Journalism
 
