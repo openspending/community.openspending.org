@@ -9,20 +9,35 @@ Here are some of the projects, past and present that we have been involved with 
 
 <div class="well" 'markdown="1"'>
 
+<h3> OpenSpending Slovakia </h3> 
+<img alt="" src="https://photos-1.dropbox.com/t/0/AADE17zC3bcxr0xCfytFOGZZjm-eV8cWvF-HypnYVvd1Cw/10/845877/jpeg/178x178/1/1360364400/0/2/Slovakia%20Openspending.jpg/NEIzoTrbncRTfblbeaDkS7xYeYeWm3nx08IfEfG-CmU?prep_size=1024x768%2C32bf" title="Slovakia Openspending" class="pull-right" style="margin-left: 1em;" />
+
+In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspending</a> prepared in collaboration with transparency and anti-corruption watchdog, <a href="www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:<ul>
+<li>Year on year comparison for spending categories.</li>
+<li>Improved listing and more contextual presentation of the data.</li>
+<li>Embedable graphic drilldowns with accompanying tables.</li> 
+</ul>
+Transparency Slovakia hopes to promote the site as an example of how budgets could be made more accessible and comprehensible to the public once the site is localized and tested further. While not in its current plans, additional spending data and a feature to allow users to compare cities would improve opportunities for doing crowdsourced benchmarking.
+
+</div>
+
+<div class="well" 'markdown="1"'>
+
 <h3> Cameroon Budget Inquirer </h3>
 
 <img alt="" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" title="Cameroon Budget Inquirer" class="pull-left" style="margin-right: 2em;" />
 
-We're collaborating with the World Bank to produce a citizen-friendly representation of Cameroon's budget. 
+We're collaborating with the World Bank to produce a citizen-friendly representation of <a href="http://cameroon.openspending.org/">Cameroon's budget</a>. 
 
-The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project will include 
+The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project will include: 
 
 <ul>
-<li>Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget </li>
+<li>Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget. </li>
 <li>A sub-national budget transparency index - similar to the work of the International Budget Partnership, but at sub-national levels. This highlights the availability of key budget documents and ranks regions on their availability. </li>
-<li> Explore the data: Filter the data by categories such as amount, location, and activity </li> 
+<li> Explore the data: Filter the data by categories such as amount, location, and activity. </li> 
 </ul> 
-</div> 
+
+</div>
 
 <div class="well" 'markdown="1"'>
 
@@ -36,10 +51,10 @@ As part of this project we will be:
 
 <ul>
 
-<li> Building visualisations of national, entity-, cantonal- and district-level budgets for Bosnia </li>
-<li> Doing training and capacity building workshops with organisations from other Balkan countries, on getting, wrangling and presenting financial data (with OpenSpending and other tools) </li>
-<li> Building a tax calculator for Bosnia (similar to the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread.</a> </li>
-<li> Test-driving the <a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook.</a> and augment it with a more technical primer, for those organisations wishing to do more ambitious data work</li>
+<li> Building visualisations of national, entity-, cantonal- and district-level budgets for Bosnia. </li>
+<li> Doing training and capacity building workshops with organisations from other Balkan countries, on getting, wrangling and presenting financial data (with OpenSpending and other tools).</li>
+<li> Building a tax calculator for Bosnia (similar to the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a>).</li>
+<li> Test-driving the <a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook</a> and augment it with a more technical primer, for those organisations wishing to do more ambitious data work.</li>
 </ul> 
 
 <a href="http://openspending.org/blog/2012/09/26/Balkan-Budgets.html">Read more about the project.</a>
@@ -58,30 +73,40 @@ We're into our second year of the project now. <a href="http://www.pbs.org/ideal
 
 ## Already unleashed into the wild 
 
-### Where Does My Money Go? 
+<div class="well" 'markdown="1"'>
+
+<h3>Where Does My Money Go?</h3> 
 
 <img alt="" src="http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg" title="WDMMG original" class="pull-left" style="margin-right: 1em;" width="250" />
 
-[Where Does My Money Go?](http://wheredoesmymoneygo.org/) (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the [Daily Bread](http://wheredoesmymoneygo.org/dailybread.html) app. 
+<a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app.<ul> 
+<ul>
+You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit:
+<ul> 
+<li><a href="http://wheredoesmymoneygo.org/">Visit the Where Does My Money Go?</a> project</li>
+<li><a href="https://twitter.com/#!/wdmmg">Follow Where Does My Money Go? on Twitter</a></li>
+<li><a href="http://blog.openspending.org/2012/02/16/thekit/">Read more about how to create your own Where Does My Money Go?</a> site</li>
 
-You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit. 
+</div> 
 
-* [Visit the Where Does My Money Go? project](http://wheredoesmymoneygo.org/)
-* [Follow Where Does My Money Go? on Twitter](https://twitter.com/#!/wdmmg)
-* [Read more about how to create your own Where Does My Money Go? site](http://blog.openspending.org/2012/02/16/thekit/)
+<div class="well" 'markdown="1"'>
 
-### OffenerHaushalt 
+<h3> OffenerHaushalt</h3> 
 
 <img alt="" src="http://farm8.staticflickr.com/7077/7315281352_2c00d928d8.jpg" title="Offener Haushalt" class="pull-right" style="margin-left: 1em;" width="250" />
 
-[OffenerHaushalt](http://bund.offenerhaushalt.de/) allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new tree maps, the user can easily see and explore the different departments and programmes and see how much is spent, proportion and statistics on changes between years. 
+<a href="http://bund.offenerhaushalt.de/">OffenerHaushalt</a> allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new tree maps, the user can easily see and explore the different departments and programmes and see how much is spent, proportion and statistics on changes between years. 
 
 The success of Offener Haushalt and the demand to roll it out on a local level was one of the prime motivations for the creation of OpenSpending. 
+<ul>
+<li><a href="http://bund.offenerhaushalt.de/">Visit the OffenerHaushalt Project</li>
+<li><a href="https://twitter.com/#!/offenerhaushalt">Follow OffenerHaushalt on Twitter</li>
 
-* [Visit the OffenerHaushalt Project](http://bund.offenerhaushalt.de/)
-* [Follow OffenerHaushalt on Twitter](https://twitter.com/#!/offenerhaushalt)
+</div> 
 
-### Uganda Aid Visualisation 
+<div class="well" 'markdown="1"'>
+
+<h3>Uganda Aid Visualisation</h3>
 
 Aid flows often do not pass through a recipient government’s conventional budget mechanisms. When this happens, recipient governments themselves may not have the complete overview of where aid money goes and how donor priorities align with their own. This information is vital for governments and aid donors to be able to make the best use of scarce resources.
 
@@ -91,15 +116,16 @@ Normally this overview is not available – leading to waste, overlap and ineffi
 
 The Uganda aid visualisation project was a joint between the OKFN and Publish What You Fund to combine two key types of fiscal data, revenues from aid together with spending information, and present them together in an informative way for the first time through an interactive visualisation.
 
-* [Visit the Publish What You Fund Uganda Visualisation Project](http://www.publishwhatyoufund.org/uganda/uganda-with-data.htm)
-* [Visit Publish What You Fund's website](http://www.publishwhatyoufund.org/)
-* [Uganda Budget and Aid to Uganda, 2003-2006 dataset in OpenSpending](http://openspending.org/ugandabudget)
+<ul>
+<li><a href="http://www.publishwhatyoufund.org/uganda/uganda-with-data.htm">Visit the Publish What You Fund Uganda Visualisation Project</li>
+<li><a href="http://www.publishwhatyoufund.org">Visit Publish What You Fund's website</li>
+<li><a href="http://openspending.org/ugandabudget">Uganda Budget and Aid to Uganda, 2003-2006 dataset in OpenSpending</li>
+<li> Coverage of the Uganda Visualisation: <a href="http://www.guardian.co.uk/global-development/poverty-matters/2011/nov/25/uganda-aid-confusion-analyse-spending?newsfeed=true">Guardian Poverty Matters Blog</a>
+</div> 
 
-#### Coverage of the Uganda Visualisation 
+<div class="well" 'markdown="1"'>
 
-* [Guardian Poverty Matters Blog](http://www.guardian.co.uk/global-development/poverty-matters/2011/nov/25/uganda-aid-confusion-analyse-spending?newsfeed=true)
-
-### IATI
+<h3>IATI</h3>
 
 The International Aid Transparency Initiative is a common format for publishing aid information. 29 signatories representing 75% of global Official Development Finance have committed to reporting timely information about their aid activities in this standard format. Already, 13 signatories representing 45% of ODF have published.
 
@@ -109,9 +135,13 @@ IATI publishers release the data as open data feeds in a common XML format throu
 
 However, the nature of IATI as a distributed collection of raw data feeds also presents a challenge to non-technical users. The Open Knowledge Foundation worked with Publish What You Fund to transform the data into a format suitable for import into OpenSpending, where the data can be much more easily visualised and analysed.
 
-* [View the IATI data on OpenSpending](http://openspending.org/iati?_time=2011)
+<a href="http://openspending.org/iati?_time=2011">View the IATI data on OpenSpending</a>
 
-## Stories and Data Journalism 
+</div> 
+
+<div class="well" 'markdown="1"'>
+
+<h3>Stories and Data Journalism</h3> 
 
 ### Data Journalism
 
