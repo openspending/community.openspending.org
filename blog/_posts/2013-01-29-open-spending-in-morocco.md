@@ -5,27 +5,40 @@ published: true
 type: post
 status: publish
 ---
+This post is written by [Martin Keegan](https://twitter.com/mk270). 
 
-This is a post by [Martin Keegan](http://mk.ucant.org/).
-
-Earlier this January I attended a conference in Morocco at the
-University of Mundiapolis in Casablanca, to present OpenSpending; the
+In January I attended a conference in Morocco at the
+[University of Mundiapolis in Casablanca](http://mundiapolis.ma/), to present OpenSpending. The
 conference attracted a broad range of interests: civil society
 organisations, journalists, private companies, academics and students,
-the World Bank, and a senior representative of the Ministry of
+the World Bank, and a senior representative of Morocco's Ministry of
 Finance.
-
-There was some press coverage from
-[L'economiste](http://www.leconomiste.com/article/902383-la-transparence-budg-taire-fait-d-bat)
-and [La Nouvelle
-Tribune](http://www.lnt.ma/economie/la-transparence-budgetaire-au-centre-dune-rencontre-debat-63825.html)
 
 The [notes](http://mk.ucant.org/media/openspending-francais/) from my presentation.
 
-[status of the French translation](https://www.transifex.com/projects/p/openspending/language/fr/)
-
-
 (Samuel Lee of the World Bank)[http://openspending.org/blog/2013/01/29/worldbank-guest-post.html]
+
+The local press coverage from the conference reaffirmed the perception
+that financial transparency is rising on the agenda in Morocco (in
+French
+[1](http://www.lnt.ma/economie/la-transparence-budgetaire-au-centre-dune-rencontre-debat-63825.html)
+amd
+[2](http://www.leconomiste.com/article/902383-la-transparence-budg-taire-fait-d-bat))
+
+Following this introduction it would be good to write up:
+1) What were the premisses for the meeting:
+
+"The Moroccan government is currently examining a new proposal for
+freedom of information law, and is considering to what extend
+fianncial and budget transpanrency can be implemented. From
+OpenSpending the message was that...
+
+2) What role can OpenSpending, MySociety and other platforms play for transparency in Morocco and in the wider region?  
+
+3) Challenges ahead:
+- getting viable partners with technical capacities and ressources to take on financial transparency monitoring
+- to develop local solutions and implementations, which can make a real impact (demands for localization, training)
+- to push for strong transparency practises and laws in the country
 
 It was the experience of MySociety that their parliamentary monitoring
 tools were never accused of being partisan. It's important to keep
@@ -136,3 +149,9 @@ to experts such that the general public can understand it as well (the word
 lacks the pejorative connotations it possesses in English). What this really
 means is that in French the motivation of OpenSpending is expressible in
 a *single word*.
+
+We're hoping to push for the localization of OpenSpending into
+French. You can check our progress and help contribute at our site on
+the translation site
+[Transifix](https://www.transifex.com/projects/p/openspending/language/fr/).
+
