@@ -85,34 +85,7 @@ note ministry of finance and university
 
 Transparency International Morocco had taken the OpenSpending software
 and [got it working themselves](http://floussna.ma/), but did
-encounter some problems. I was able to speak at length to their staff
-to discuss the issues they were having and what could done about
-them. They were using OpenSpending as part of their efforts to increase
-fiscal literacy in their country, and they wanted to be able to point
-news articles and discussion forums at it. These already existed, and so
-OpenSpending had to find its place within a larger ecosystem.
-
-Specifically, what was needed was as follows:
-
-0) French and Arabic language support; Morocco uses several languages for
-different purposes: French is used in commerce and the private sector and
-academia (all the advertising in Casablanca was in French); Arabic is
-used by government and spoken as the home language by the majority of
-the population; Berber languages such as Tamazight are used by a substantial
-minority and have recently received official status, and Spanish and English
-are widely known. 
-
-To be useful, OpenSpending needs to be available in French at the very
-least. This is just a matter of translation, and our efforts are
-apparently about 20% complete. Arabic on the other hand is one of the
-few living languages which is written right-to-left language (like
-Hebrew, Yiddish and Tamazight), so this presents some web design
-challenges.
-
-It is already possible to submit datasets to OpenSpending in other
-languages (though not really, as I understand it, to have a dataset
-with multiple translations, without going to some duplication of effort),
-but the software interface must be translated separately.
+encounter some problems.
 
 When Samuel Lee demonstrated his World Bank mobile app in Arabic at
 the conference, there was a marked uptick in audience attention;
@@ -120,23 +93,6 @@ ultimately OpenSpending is going to need an Arabic translation; it's
 an official language in about twenty countries, many of which don't
 use multiple languages Moroccan-style.
 
-
-1) In Morocco, there is discussion of particular budget items in Facebook
-forums and similar sites; it is either impossible or non-obvious how to
-link into a particular view of a visualisation in OpenSpending from one
-of these external systems, as opposed to linking to the dataset itself;
-this is also useful for news sites that don't want to embed the visualisations.
-
-2) a good list of the best quality country-level datasets such that
-fiscal transparency is not seen to be preponderantly a Western or
-developed world phenomenon (we discuseed this; my presentation at the
-conference concentrated on this)
-
-3) some sort of case studies on the process of getting governments to open up
-spending information; how this interacts if at all with the freedom of
-information laws
-
-4) some assistance with getting the WDMMG assembly kit working for them
 
 Fundamentally, they're in the business of demonstrating what can usefully
 be done with more detailed spending data; OpenSpending is a key tool
