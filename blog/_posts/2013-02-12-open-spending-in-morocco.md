@@ -21,12 +21,13 @@ The conference covered the efforts in the country, the region and globally
 towards fiscal transparency and accountability; there was much discussion of
 the proposed Freedom of Information law in Morocco, and the Moroccan
 government's efforts towards publishing fiscal data. Several of the
-presentations incorporated technology demonstrations. Local press coverage reaffirmed the perception
-that financial transparency is rising on the agenda in Morocco (in
+presentations incorporated technology demonstrations. There was some
+local press coverage of the conference, and some involvement from broadcast
+media (in
 French
 [1](http://www.lnt.ma/economie/la-transparence-budgetaire-au-centre-dune-rencontre-debat-63825.html)
 and
-[2](http://www.leconomiste.com/article/902383-la-transparence-budg-taire-fait-d-bat))
+[2](http://www.leconomiste.com/article/902383-la-transparence-budg-taire-fait-d-bat)).
 
 
 What maybe was not clear to the audience (and indeed, the press
@@ -72,7 +73,15 @@ move](http://constitution-unit.com/2011/05/24/we-can-work-it-out-eric-pickles-vs
 
 It was exciting to see that Transparency International Morocco have used the OpenSpending software
 for [a site on the Moroccan budget](http://floussna.ma/). They however encountered some challenges with the implementation, which the OpenSpending community will work with them
-to help resolve or mitigate these such as language. 
+to help resolve or mitigate these such as language.
+By the stage in the conference where the Moroccan OpenSpending instance was
+demonstrated, the audience had been subjected to about ten other countries'
+spending visualisations, so this presentation by Dr Nesh-Nash came across
+as just more of the same, which is an excellent situation to be in. The
+audience immediately took to noting that regional spending was arguably
+misallocated in his visualisation: this is great progress on the previous
+state of not having easy access to this information, and underlies the point
+that the raw data, and interpretations thereof, are linked but separable.
 
 [Samuel Lee from the World Bank demonstrated their new mobile app](http://openspending.org/blog/2013/01/29/worldbank-guest-post.html) and its Arabic language features, which was very well receieved from the participants. 
 Ultimately it would be great if OpenSpending could have an Arabic translation; it's
