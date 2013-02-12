@@ -23,25 +23,28 @@ French
 and
 [2](http://www.leconomiste.com/article/902383-la-transparence-budg-taire-fait-d-bat))
 
-Discussions at the conference ranged across the transparency field from concerns about being percieved as partisan 
-MySociety, another transparency organisation, which attended the conference noted that their parliamentary monitoring
+
+What maybe was not clear to the audience (and indeed, the press
+coverage reflected this) was how OpenSpending and similar tools fit
+into the landscape.  I was directly asked "is the Government of
+Morocco going to use OpenSpending?", and very firmly responded that
+this was a question for the Government (after all, a representative of
+the government was sat only a few paces away).  The boundary between
+government and private sector (both commercial and civil society) is
+always evolving and sometimes contested, and it may be locate differently
+in different societies. OpenSpending enables actors of all types (government,
+private commercial, private non-profit and individuals) to participate
+in discussions of spending, and by changing the costs can help enable
+some actors to participate where previously this was infeasible.
+
+
+It was the experience of [MySociety](http://mysociety.org) that their parliamentary monitoring
 tools were never accused of being partisan. It's important to keep
 out of conventional politics: we're here to say "if you have transparency,
 this is what you get" not "you should have transparency" or "you should spend
 more money on this and less on that". The bulk of my presentation was on
 four or five country studies, demonstrating the diversity of the places
 which can use OpenSpending.
-
-It was clear from the conference that both the public, media and government are still trying to make sense how OpenSpending and similar tools fit into the wider landscape. 
-I was directly asked by participants: "Is the Government of Morocco going to use OpenSpending?", and very firmly responded that
-this was a question for the Government (after all, a representative of
-the government was sat only a few paces away). The boundary between
-government and private sector (both commercial and civil society) is
-always evolving and sometimes contested. Often these boundaries vary
-in different societies. At OpenSpending we try to enable actors of all types (government,
-private commercial, private non-profit and individuals) to participate
-in discussions of spending. By making spending data available to the public without costs can help enable
-the public to participate in discussions about how the government spend its money, where this were previously infeasible.
 
 
 The details of any national budget are a always a matter of healthy
