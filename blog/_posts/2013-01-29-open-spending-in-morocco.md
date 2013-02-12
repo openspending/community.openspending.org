@@ -79,14 +79,10 @@ encounter some problems; the OpenSpending community will work with them
 to help resolve or mitigate these; 
 fundamentally, they're in the business of demonstrating what can usefully
 be done with more detailed spending data; OpenSpending is a key tool
-in a much larger process. We'll be pushing for the localization of OpenSpending into
+in a much larger process of "vulgarisation". The public explanation role
+of OpenSpending depends on it being able to be read in the read in the
+languages people use, so we'll be pushing for the localization of OpenSpending into
 French. You can check our progress and help contribute at our site on
 the translation site at
 [Transifex](https://www.transifex.com/projects/p/openspending/language/fr/).
-
-
-what role is this tool playing? process
-
-
-note ministry of finance and university
 
