@@ -13,10 +13,15 @@ conference attracted a broad range of interests: civil society
 organisations, journalists, private companies, academics and students,
 the World Bank, and the director general of Morocco's Ministry of
 Finance. My presentation ([notes here](http://mk.ucant.org/media/openspending-francais/)) showcased the use of OpenSpending in a variety of countries, by
-state, civil and commercial actors.
+state, civil and commercial actors. We are very generous to [Transparency
+International Morocco](http://www.transparencymaroc.ma/) and the University
+for their gracious invitation.
 
-
-The local press coverage from the conference reaffirmed the perception
+The conference covered the efforts in the country, the region and globally
+towards fiscal transparency and accountability; there was much discussion of
+the proposed Freedom of Information law in Morocco, and the Moroccan
+government's efforts towards publishing fiscal data. Several of the
+presentations incorporated technology demonstrations. Local press coverage reaffirmed the perception
 that financial transparency is rising on the agenda in Morocco (in
 French
 [1](http://www.lnt.ma/economie/la-transparence-budgetaire-au-centre-dune-rencontre-debat-63825.html)
@@ -37,6 +42,14 @@ private commercial, private non-profit and individuals) to participate
 in discussions of spending, and by changing the costs can help enable
 some actors to participate where previously this was infeasible.
 
+The key point why I made in response to this question is that a
+Freedom of Information law can in theory substitute for
+government-initiated publication of spending data, but that this
+should be a complement, not a substitute. What I ought to have
+remembered to say was that the access to information, either via FOI
+or regular publication does not guarantee that the information be Open
+Data, which is effectively necessary for civil society use in
+OpenSpending.
 
 It was the experience of [MySociety](http://mysociety.org) that their parliamentary monitoring
 tools were never accused of being partisan. It's important to keep
@@ -45,6 +58,7 @@ this is what you get" not "you should have transparency" or "you should spend
 more money on this and less on that". The bulk of my presentation was on
 four or five country studies, demonstrating the diversity of the places
 which can use OpenSpending.
+
 
 
 The details of any national budget are a always a matter of healthy
