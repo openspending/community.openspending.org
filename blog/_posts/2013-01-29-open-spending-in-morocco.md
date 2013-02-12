@@ -45,11 +45,6 @@ in discussions of spending, and by changing the costs can help enable
 some actors to participate where previously this was infeasible.
 
 
-When [Samuel Lee demonstrated his World Bank mobile app](http://openspending.org/blog/2013/01/29/worldbank-guest-post.html) in Arabic at
-the conference, there was a marked uptick in audience attention;
-ultimately OpenSpending is going to need an Arabic translation; it's
-an official language in about twenty countries, many of which don't
-use multiple languages Moroccan-style.
 
 
 The Moroccans placed a particular emphasis on what they termed
@@ -76,10 +71,16 @@ move](http://constitution-unit.com/2011/05/24/we-can-work-it-out-eric-pickles-vs
 Transparency International Morocco had taken the OpenSpending software
 and [got it working themselves](http://floussna.ma/), but did
 encounter some problems; the OpenSpending community will work with them
-to help resolve or mitigate these; 
+to help resolve or mitigate these, such as the language issue discussed below; 
 fundamentally, they're in the business of demonstrating what can usefully
 be done with more detailed spending data; OpenSpending is a key tool
-in a much larger process of "vulgarisation". The public explanation role
+in a much larger process of "vulgarisation". 
+
+When [Samuel Lee demonstrated his World Bank mobile app](http://openspending.org/blog/2013/01/29/worldbank-guest-post.html) in Arabic at
+the conference, there was a marked uptick in audience attention;
+ultimately OpenSpending is going to need an Arabic translation; it's
+an official language in about twenty countries, many of which don't
+use multiple languages Moroccan-style. The public explanation role
 of OpenSpending depends on it being able to be read in the read in the
 languages people use, so we'll be pushing for the localization of OpenSpending into
 French. You can check our progress and help contribute at our site on
