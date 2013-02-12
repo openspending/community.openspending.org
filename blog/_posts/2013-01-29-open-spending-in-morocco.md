@@ -11,10 +11,9 @@ In January I attended a conference in Morocco at the
 [University of Mundiapolis in Casablanca](http://mundiapolis.ma/), to present OpenSpending. The
 conference attracted a broad range of interests: civil society
 organisations, journalists, private companies, academics and students,
-the World Bank, and a senior representative of Morocco's Ministry of
-Finance.
-
-The [notes](http://mk.ucant.org/media/openspending-francais/) from my presentation.
+the World Bank, and the director general of Morocco's Ministry of
+Finance. My presentation ([notes here](http://mk.ucant.org/media/openspending-francais/)) showcased the use of OpenSpending in a variety of countries, by
+state, civil and commercial actors.
 
 
 The local press coverage from the conference reaffirmed the perception
@@ -23,20 +22,6 @@ French
 [1](http://www.lnt.ma/economie/la-transparence-budgetaire-au-centre-dune-rencontre-debat-63825.html)
 and
 [2](http://www.leconomiste.com/article/902383-la-transparence-budg-taire-fait-d-bat))
-
-1) What were the premisses for the meeting:
-
-"The Moroccan government is currently examining a new proposal for
-freedom of information law, and is considering to what extend
-fianncial and budget transpanrency can be implemented. From
-OpenSpending the message was that...
-
-2) What role can OpenSpending, MySociety and other platforms play for transparency in Morocco and in the wider region?  
-
-3) Challenges ahead:
-- getting viable partners with technical capacities and ressources to take on financial transparency monitoring
-- to develop local solutions and implementations, which can make a real impact (demands for localization, training)
-- to push for strong transparency practises and laws in the country
 
 It was the experience of MySociety that their parliamentary monitoring
 tools were never accused of being partisan. It's important to keep
