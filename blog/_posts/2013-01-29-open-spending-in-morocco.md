@@ -76,9 +76,6 @@ means is that in French the motivation of OpenSpending is expressible in
 a *single word*.
 
 
-what role is this tool playing? process
-
-
 
 The details of any national budget are a always a matter of healthy
 political controversy, and this is [especially true of
@@ -90,21 +87,21 @@ or that it be published as open data. Where governments publish fiscal
 information AND comply with an FOI law, it can be a [somewhat confrontational
 move](http://constitution-unit.com/2011/05/24/we-can-work-it-out-eric-pickles-vs-nottingham-city-council/) to use the FOI laws to compel publication of fiscal data
 
-note ministry of finance and university
-
-
 
 Transparency International Morocco had taken the OpenSpending software
 and [got it working themselves](http://floussna.ma/), but did
 encounter some problems; the OpenSpending community will work with them
-to help resolve or mitigate these
-
-Fundamentally, they're in the business of demonstrating what can usefully
+to help resolve or mitigate these; 
+fundamentally, they're in the business of demonstrating what can usefully
 be done with more detailed spending data; OpenSpending is a key tool
-in a much larger process.
-
-We're hoping to push for the localization of OpenSpending into
+in a much larger process. We'll be pushing for the localization of OpenSpending into
 French. You can check our progress and help contribute at our site on
 the translation site at
 [Transifex](https://www.transifex.com/projects/p/openspending/language/fr/).
+
+
+what role is this tool playing? process
+
+
+note ministry of finance and university
 
