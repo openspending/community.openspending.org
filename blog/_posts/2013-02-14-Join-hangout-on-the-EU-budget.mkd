@@ -21,8 +21,8 @@ At the hangout we'll discuss how to get started if you want to report on the spe
 If you have decided to investigate EU spending, one of the first steps will be to find where the spending data is published. We will talk about how to find spending data published both at [EU-level](http://ec.europa.eu/beneficiaries/fts/index_en.htm) and at [national level](http://eustructuralfunds.gov.ie/). We have gathered a lot of information in this [map of EU spending](http://openspending.org/resources/eu/index.html).</li> 
 
 <li>What's new to report on in the 2014-2020 EU budget?<br>
-What are the consequenses of the new budget to individual prorgammes such as research or farm subsidies? 
-How do I for instance find out, if the distribution of structural funds between regions will change with the new budget?</li> 
+How can you analyse the consequenses to smaller sub-programmes such as [nature conservation](http://rendezvous.blogs.nytimes.com/2013/02/11/e-u-says-20-percent-of-budget-green-critics-disagree/) under the big umbrella of farm subsidies? 
+And how do you find out, if changes will occur in the distribution of structural funds between regions the new budget?</li> 
 <br>
 If some of the questions above have peaked your interest you should join us at the hangout. If you wish to get started now, have a look at some of the [EU spending data](http://openspending.org/eu-commission-fts) or [notes](http://openspending.org/resources/eu/notes.html) we're already featuring.
 Join the Google Hangout by adding your name and email in the form below.  
