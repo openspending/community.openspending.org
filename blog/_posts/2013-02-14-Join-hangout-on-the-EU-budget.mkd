@@ -7,7 +7,7 @@ status: published
 ---
 
 <iframe width='600' height='343' src='http://openspending.org/eu-budget-mff/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22main-programme%22%2C%22programme%22%2C%22sub-programme%22%5D%2C%22year%22%3A2020%2C%22cuts%22%3A%7B%7D%7D&width=700&height=400' frameborder='0'></iframe>
-
+<br>
 Last week leaders from the European Union agreed, after months of haggling, on the 2014-2020 EU budget - also known as the Multiannual Financial Framework (MFF). The [€960bn budget](http://openspending.org/eu-budget-mff/entries) shown above marked a widely reported reduction in spending, but many other stories could be told from the [48 page agreement (PDF) ](http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ec/135344.pdf). Despite accounting for a merely [1.08 % of EU's GNI](http://europa.eu/newsroom/highlights/multiannual-financial-framework-2014-2020/index_en.htm), the EU budget should arguably be considered important for every citizen or journalist with a spending nerd hidden inside. Whether you think of [the last minute cuts in broad band investments](http://www.guardian.co.uk/technology/2013/feb/11/broadband-budget-cut-rural-connection-billion-euro) or the continued commitment to one of the worlds largest [farm subsidy programmes](http://farmsubsidy.org/), the agreement on the EU budget reflects the current priorities of the member states. 
 
 At OpenSpending we want to invite journalists and the OpenSpending community to share experiences about how to access and analyse the spending data behind EU's budget. So join us <strong>Monday 18 February at 19:00 CET / 18:00 GMT</strong> for a Google Hangout. 
@@ -24,7 +24,7 @@ How do I find out, if the distribution of structural funds between regions will 
 
 
 If the questions above have peeked your interest, come join us at the hangout. If you wish to get started now, have a look at some of the [EU spending data](http://openspending.org/eu-commission-fts) or [notes](http://openspending.org/resources/eu/notes.html) we're already featuring.
-
+<br>
 Join the Google Hangout by adding your name and email in the form below.  
 <iframe src="https://docs.google.com/forms/d/1YHLe9oH-Vxv04PQ7Kk6BuocsD06TTfYrc7aK9A9DbCk/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
