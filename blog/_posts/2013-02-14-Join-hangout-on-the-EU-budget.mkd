@@ -18,7 +18,7 @@ Join us <strong>Monday 18 February at 19:00 CET / 18:00 GMT</strong> for a Googl
 
 At the hangout we'll discuss how to get started if you want to report on the spending behind the EU budget, and attempt to answer: 
 <li>Where to find EU spending data?<br>
-If you have decided to investigate EU spending, one of the first steps will be to find where the spending data is published. We will talk about how to find spending data published both at [EU-level](http://ec.europa.eu/beneficiaries/fts/index_en.htm) and at [national level](http://eustructuralfunds.gov.ie/). We have gathered a lot of information in this [map of EU spending](http://openspending.org/resources/eu/index.html).</li> 
+If you have decided to investigate EU spending you will want to find who is responsible for releasing the data. We will talk about how to find spending data published at both [EU-level](http://ec.europa.eu/beneficiaries/fts/index_en.htm) and [national level](http://eustructuralfunds.gov.ie/). We have gathered a lot of information in this [map of EU spending](http://openspending.org/resources/eu/index.html).</li> 
 
 <li>What's new to report on in the 2014-2020 EU budget?<br>
 How can you analyse the consequenses to smaller sub-programmes such as [nature conservation](http://rendezvous.blogs.nytimes.com/2013/02/11/e-u-says-20-percent-of-budget-green-critics-disagree/) under the big umbrella of farm subsidies? 
