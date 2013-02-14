@@ -15,16 +15,14 @@ At OpenSpending we want to invite journalists and the OpenSpending community to 
 [Ronny Patz](http://twitter.com/ronpatz) from [Transparency International, Brussels](http://www.transparencyinternational.eu/) will join us to share his experiences on access to information on EU spending. 
 
 At the hangout we'll discuss how to get started if you want to report on the spending behind the EU budget, and attempt to answer: 
-<li>Where to find EU spending data? 
+<li>Where to find EU spending data?<br>
 If you have decided to investigate EU spending, one of the first steps will be to find where the spending data is published. We will talk about how to find spending data published both at [EU-level](http://ec.europa.eu/beneficiaries/fts/index_en.htm) and at [national level](http://eustructuralfunds.gov.ie/). Our [map of EU spending](http://openspending.org/resources/eu/index.html).</li> 
 
-<li>What's new to report on in the 2014-2020 EU budget?
+<li>What's new to report on in the 2014-2020 EU budget?<br>
 What are the consequenses to individual prorgammes such as research or farm subsidies? 
 How do I find out, if the distribution of structural funds between regions will change with the new budget?</li> 
-
-
-If the questions above have peeked your interest, come join us at the hangout. If you wish to get started now, have a look at some of the [EU spending data](http://openspending.org/eu-commission-fts) or [notes](http://openspending.org/resources/eu/notes.html) we're already featuring.
 <br>
+If the questions above have peeked your interest, come join us at the hangout. If you wish to get started now, have a look at some of the [EU spending data](http://openspending.org/eu-commission-fts) or [notes](http://openspending.org/resources/eu/notes.html) we're already featuring.
 Join the Google Hangout by adding your name and email in the form below.  
 <iframe src="https://docs.google.com/forms/d/1YHLe9oH-Vxv04PQ7Kk6BuocsD06TTfYrc7aK9A9DbCk/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
