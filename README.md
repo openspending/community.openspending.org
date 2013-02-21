@@ -2,7 +2,7 @@
 OpenSpending Blog and Content Sections
 ======================================
 
-This repo will contains: 
+This repo contains: 
 
   * Spending Blog (posts)
   * Help and documentation for the platform
