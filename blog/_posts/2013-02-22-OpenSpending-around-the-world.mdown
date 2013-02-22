@@ -6,6 +6,8 @@ type: post
 status: published
 ---
 
+<iframe width='700' height='400' src='http://openspending.org/budgetmarocain/embed?widget=treemap&state=%7B%22drilldown%22%3A%22Department%22%2C%22year%22%3A%222011%22%2C%22cuts%22%3A%7B%7D%2C%22drilldowns%22%3A%5B%22Department%22%5D%7D&width=700&height=400' frameborder='0'></iframe>
+
 We're bringing you an update on news from OpenSpending and fiscal transparency around the world.  
 
 ### Fresh data on OpenSpending 
