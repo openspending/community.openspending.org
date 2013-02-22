@@ -10,7 +10,7 @@ status: published
 
 We're bringing you an update with news from OpenSpending and financial transparency around the world.  
 
-### Fresh data and activities on OpenSpending 
+### Fresh data and activities from OpenSpending 
 City budgets: We're thrilled to see how lots of new cities have been added to OpenSpending. Have a look at some of the budgets added recently from [Umeaa, Sweden](http://openspending.org/budget2013politicalview/views/budgetdata-2103-nonpolitical), [St. Etienne, France](http://openspending.org/budget_2013_saint-etienne/views/budget-2013-de-saint-etienne), [Laatzen, Germany](http://openspending.org/stadtlaatzenplan2013), [Rotterdam, The Netherlands](http://openspending.org/begrotingrotterdam2012_3?_view=default6) and [Oakland, United States](http://openspending.org/oakland_adopted_budget_fy2011-12/views/city-of-oakland-adopted-budget-fy-2011-12-dept-program-expenditures-tree-map). 
 
 From the 135,000 person town of Cary, United States, you can now browse [expenditures](http://openspending.org/town_of_cary_expenditures/views/expenditures-fy2011) and [revenues](http://openspending.org/town_of_cary_revenues/views/revenue-fy2011) on everything from the [fire services](http://openspending.org/town_of_cary_expenditures/Program/27/entries#Program:27) to [solid waste management](http://openspending.org/town_of_cary_expenditures/Program/52/entries#Program:52) from 2009-2011. 
