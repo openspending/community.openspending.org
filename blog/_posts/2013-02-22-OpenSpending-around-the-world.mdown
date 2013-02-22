@@ -8,7 +8,7 @@ status: published
 
 <iframe width='600' height='343' src='http://openspending.org/budgetmarocain/embed?widget=treemap&state=%7B%22drilldown%22%3A%22Department%22%2C%22year%22%3A%222011%22%2C%22cuts%22%3A%7B%7D%2C%22drilldowns%22%3A%5B%22Department%22%5D%7D&width=700&height=400' frameborder='0'></iframe>
 
-We're bringing you an update on news from OpenSpending and fiscal transparency around the world.  
+We're bringing you an update with news from OpenSpending and financial transparency around the world.  
 
 ### Fresh data on OpenSpending 
 City budgets: We're thrilled to see how lots of new cities have been added to OpenSpending. Have a look at some of the budgets added recently from [Umeaa, Sweden](http://openspending.org/budget2013politicalview/views/budgetdata-2103-nonpolitical), [St. Etienne, France](http://openspending.org/budget_2013_saint-etienne/views/budget-2013-de-saint-etienne), [Laatzen, Germany](http://openspending.org/stadtlaatzenplan2013), [Rotterdam, The Netherlands](http://openspending.org/begrotingrotterdam2012_3?_view=default6) and [Oakland, United States](http://openspending.org/oakland_adopted_budget_fy2011-12/views/city-of-oakland-adopted-budget-fy-2011-12-dept-program-expenditures-tree-map). 
