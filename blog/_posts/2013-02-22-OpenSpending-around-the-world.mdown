@@ -8,7 +8,7 @@ status: published
 
 We're bringing you an update on news from OpenSpending and fiscal transparency around the world.  
 
-## Fresh data on OpenSpending 
+### Fresh data on OpenSpending 
 City budgets: We're thrilled to see how lots of new cities have been added to OpenSpending. Have a look at some of the budgets added recently from [Umeaa, Sweden](http://openspending.org/budget2013politicalview/views/budgetdata-2103-nonpolitical), [St. Etienne, France](http://openspending.org/budget_2013_saint-etienne/views/budget-2013-de-saint-etienne), [Laatzen, Germany](http://openspending.org/stadtlaatzenplan2013), [Rotterdam, The Netherlands](http://openspending.org/begrotingrotterdam2012_3?_view=default6) and [Oakland, United States](http://openspending.org/oakland_adopted_budget_fy2011-12/views/city-of-oakland-adopted-budget-fy-2011-12-dept-program-expenditures-tree-map). 
 
 From the 135,000 person town of Cary, North Carolina, United States, you can now browse [expenditures](http://openspending.org/town_of_cary_expenditures/views/expenditures-fy2011) and [revenues](http://openspending.org/town_of_cary_revenues/views/revenue-fy2011) on everything from the [fire services](http://openspending.org/town_of_cary_expenditures/Program/27/entries#Program:27) to [solid waste management](http://openspending.org/town_of_cary_expenditures/Program/52/entries#Program:52) from 2009-2011. 
@@ -17,21 +17,21 @@ Australia: Data on more than 5,000 [Federal government contracts](http://openspe
 
 EU: [We covered](http://openspending.org/blog/2013/02/14/Join-hangout-on-the-EU-budget.html) the newly passed budget for the European Union for 2014-2020 with a GoogleHangout. In the future we plan follow up with more coverage of transparency in EU spending data. 
 
-## Spending transparency around the world
+### Spending transparency around the world
 Earlier this month the Sunlight Foundation relaunched [Clearspending](http://sunlightfoundation.com/clearspending/), with updated transactional spending data from the United States federal government for 2012. A thorough [review](http://sunlightfoundation.com/blog/2013/02/04/clearspending-released-with-new-data/) of the new data found $1.55 trillion in misreported grants. 
 
 Haiti: A [report](http://www.cgdev.org/doc/full_text/CGDBriefs/1426965/US-Spending-in-Haiti-The-Need-for-Greater-Transparency-and-Accountability.html) from the Global Center for Development concludes that tracking US spending in Haiti has been nearly impossible due to lack of transparency from NGOs and constractors working with disaster relief. The report has among its recommendations to require prime contractors to report subcontracting data.
 
 The Comptroller of New York City [relaunched](http://techpresident.com/news/23404/new-york-city-officials-announce-new-dashboard-municipal-spending) its transparency site [Checkbook NYC](http://www.checkbooknyc.com/spending_landing/yeartype/B/year/114) with transactional spending data from across departments as well. The site offers you to access data both via download and API.
 
-## Resources
+### Resources
 A new study [Assessing Open Government Budgetary Data in Brazil](http://www.gpopai.usp.br/IMG/pdf/Craveiro-ICDS2013.pdf), has been published by Gisele S. Craveiro and her colleagues at University of São Paulo. The comprehensive paper reviews data from 54 budgetary websites across different Brazilian executive power levels (national, state and municipal), as well as 34 Brazilian audit court websites.
 
 The most recent issue of [Public Deliberation](http://www.publicdeliberation.net/jpd/) is dedicated entirely to participatory budgeting and include several articles worth a read. 
 
 [Sam Lee](https://twitter.com/OpenNotion) from the World Bank reviewed in a [guest post](http://openspending.org/blog/2013/01/29/worldbank-guest-post.html) how mobile technologies can help advance financial transparency. 
 
-## Events on our radar
+### Events on our radar
 Open Data Day is coming up tomorrow Ferbruary 23. Join an [event near you](http://opendataday.org/)!
 
 On March 6 journalists who enjoy to dig deep into the rules of the #EUbudget are in for a treat, when the European Journalism Center organise a seminar dedicated solely to [new rules for spending in EU programmes](http://www.ejcseminars.eu/index.php/seminars/350/new-rules-for-the-unions-budget-simplified-access-to-funding-better-accountability-and-further-improvements-of-eu-spending-programmes).  
