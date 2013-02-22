@@ -19,7 +19,7 @@ Australia: Data on more than 5,000 [Federal government contracts](http://openspe
 
 EU: [We covered](http://openspending.org/blog/2013/02/14/Join-hangout-on-the-EU-budget.html) the newly passed budget for the European Union for 2014-2020 with a GoogleHangout. In the future we plan follow up with more coverage on access to EU spending data. 
 
-Morocco: Last month [Martin Keegan](https://twitter.com/mk270) did a talk on OpenSpending at a conference on transparency in Morocco. Read his take from the event here [here](http://openspending.org/blog/2013/02/12/open-spending-in-morocco.html).
+Morocco: Last month [Martin Keegan](https://twitter.com/mk270) did a talk on OpenSpending at a conference on transparency in Morocco. Read his take from the event [here](http://openspending.org/blog/2013/02/12/open-spending-in-morocco.html).
 
 ### Spending transparency around the world
 Earlier this month the Sunlight Foundation relaunched [Clearspending](http://sunlightfoundation.com/clearspending/), with updated transactional spending data from the United States federal government for 2012. A thorough [review](http://sunlightfoundation.com/blog/2013/02/04/clearspending-released-with-new-data/) of the new data found $1.55 trillion in misreported grants. 
