@@ -22,9 +22,9 @@ EU: [We covered](http://openspending.org/blog/2013/02/14/Join-hangout-on-the-EU-
 Morocco: Last month [Martin Keegan](https://twitter.com/mk270) did a talk on OpenSpending at a conference on transparency in Morocco. Read his take from the event [here](http://openspending.org/blog/2013/02/12/open-spending-in-morocco.html).
 
 ### Spending transparency around the world
-Earlier this month the Sunlight Foundation relaunched [Clearspending](http://sunlightfoundation.com/clearspending/), with updated transactional spending data from the United States federal government for 2012. A thorough [review](http://sunlightfoundation.com/blog/2013/02/04/clearspending-released-with-new-data/) of the new data found $1.55 trillion in misreported grants. 
+Earlier this month the Sunlight Foundation (USA) relaunched [Clearspending](http://sunlightfoundation.com/clearspending/), with updated transactional spending data from the United States federal government for 2012. A thorough [review](http://sunlightfoundation.com/blog/2013/02/04/clearspending-released-with-new-data/) of the new data found $1.55 trillion in misreported grants. 
 
-Haiti: A [report](http://www.cgdev.org/doc/full_text/CGDBriefs/1426965/US-Spending-in-Haiti-The-Need-for-Greater-Transparency-and-Accountability.html) from the Global Center for Development concludes that tracking US spending in Haiti has been nearly impossible due to lack of transparency from NGOs and constractors working with disaster relief. The report has among its recommendations to require prime contractors to report subcontracting data.
+Haiti: A [report](http://www.cgdev.org/doc/full_text/CGDBriefs/1426965/US-Spending-in-Haiti-The-Need-for-Greater-Transparency-and-Accountability.html) from the Global Center for Development concluded that tracking of US disaster relief spending in Haiti has been nearly impossible due to lack of transparency of NGOs and constractors. The report recommends to require prime contractors to report subcontracting data.
 
 The Comptroller of New York City [relaunched](http://techpresident.com/news/23404/new-york-city-officials-announce-new-dashboard-municipal-spending) its transparency site [Checkbook NYC](http://www.checkbooknyc.com/spending_landing/yeartype/B/year/114) with transactional spending data from across departments. The site offers access to data both via download and API.
 
@@ -35,7 +35,7 @@ A new study [Assessing Open Government Budgetary Data in Brazil](http://www.gpop
 
 The International Budget Partnership published the [Open Budget Survey](http://survey.internationalbudget.org/), with detailed data on budget processes across 100 countries. Following the launch we hosted a community call discussing the survey.
 
-The most recent issue of [Public Deliberation](http://www.publicdeliberation.net/jpd/) is dedicated entirely to participatory budgeting and include several articles worth a read.
+The newest issue of [Public Deliberation](http://www.publicdeliberation.net/jpd/) is dedicated entirely to participatory budgeting and include several articles worth a read.
 
 ### Events on our radar
 Open Data Day is coming up tomorrow Ferbruary 23. Join an [event near you](http://opendataday.org/)!
