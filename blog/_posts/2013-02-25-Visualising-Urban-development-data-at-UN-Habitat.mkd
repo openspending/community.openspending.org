@@ -1,0 +1,23 @@
+---
+layout: post
+title: Visualising Urban development data at UN-Habitat
+published: false
+type: post
+status: false
+---
+
+This is a guest post by [Pontus Westerberg](https://twitter.com/pontusw), [UN-Habitat](open.unhabitat.org) 
+
+In September 2012, UN-Habitat, the UN agency responsible for promoting sustainable towns and cities, became the third UN organisation to publish data to the [International Aid Transparency Initiative (IATI)](http://www.aidtransparency.net/) standard. As the project manager for what we have called “The Open UN-Habitat Initiative”, I am really pleased that we have taken this important step in our journey to become a more open and transparent organisation. 
+
+At the same time as we began publishing IATI data, we also launched the Open UN-Habitat website which will be the focal point for our open data and transparency work over the coming months and years. At the moment (February 2013) the site contains information about 115 UN-Habitat projects, equivalent to 70 per cent of our current projects. It includes project data required by the IATI standard as well as project descriptions, budgets and information about project partners. We are working to provide additional documents for each project.
+
+Obviously releasing this kind of data takes time. One of our biggest challenges is lack of digitization. Many of our documents have added to the database as scanned copies, which means that entering those raw data has been difficult. Essentially, a lot of the information would have to be retyped, which is an extremely resource-intensive. Currently we are working on refining internal procedures to ensure that data is entered into databases in a timely and complete fashion. 
+
+The technology behind the site is all open source. We worked with the Dutch company Akvo and their [OIPA tool](http://oipa.openaidsearch.org/api/v2/docs/) to parse the IATI data. OIPA is a search tool built in Django by Zimmerman & Zimmerman, which enables IATI compliant datasets to be easily parsed. The front end was built by Kenyan web agency Verviant in Wordpress, the bubble visualisations were developed by the Open Knowledge Foundation and all the technology we used is available under a Creative Commons license on Github.
+
+However we don’t think that publishing information about the projects we are involved with is enough. By May 2013 we will release all the statistical data collected by UN-Habitat over the years - data on more than 1,200 cities. Some data such as the number of urban and slum dwellers has been published before in different formats, where other data sets have never previously been published. Little of it has been published as open data. In addition to publishing the raw data, we are currently looking at ways of visualizing it – comparing different data sets and looking at changes over time, with the aim of making the site becoming a leading resource for urban development data. 
+
+If you have any comments or thoughts, we would love to hear them. 
+
+Pontus Westerberg is project manager for the Open UN-Habitat transparency initiative at UN-Habitat. 
