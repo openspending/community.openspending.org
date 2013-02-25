@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenSpending around the world
+title: OpenSpending around the world, Week 8
 published: true
 type: post
 status: published
