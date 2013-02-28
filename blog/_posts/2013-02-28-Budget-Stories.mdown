@@ -5,6 +5,7 @@ published: false
 type: post
 status: false
 ---
+<iframe width='600' height='343' src='http://www.budgetstories.md/wp-content/uploads/cit-ne-costa-parlamentul.jpg' frameborder='0'></iframe>
 
 This is a guest post by [Victoria Vlad](www.twitter.com/victoriavladd) from [BudgetStories.md](BudgetStories.md).
 
