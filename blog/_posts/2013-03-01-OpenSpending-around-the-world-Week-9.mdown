@@ -32,5 +32,11 @@ In a thorough story Ars Electronica account how a one room library in West Virgi
 The state of New Jersey (US) has produced a useful [guide for citizens (PDF)](http://www.state.nj.us/treasury/omb/publications/12citizensguide/pdf/citguide.pdf) to make the budget more accessible. 
 
 ### Events on our radar
-On [March 9 a Hackathon](http://gatineauouverte-hackathon03-esli.eventbrite.ca/) will take place in Ville de Gatineau. The budget from the city [is already up](http://openspending.org/gatineau_deprev_cat_12_13).
+March 7: OpenSpending Community Call with Alan Hudson. All details available [here](http://wdmmg.okfnpad.org/22?).
 
+March 9: [A Hackathon in Ville de Gatineau](http://gatineauouverte-hackathon03-esli.eventbrite.ca/) will among other topics deal with OpenSpending. The budget from the city [is already up](http://openspending.org/gatineau_deprev_cat_12_13).
+
+May 2-4: [Data Harvest](http://www.wobbing.eu/news/look-back-data-harvest-conference) will bring geeks, journalists and civi hackers together in Brussels to wrangle EU spending data from [farm subsidies](http://farmsubsidy.org/) and the [Comission](http://openspending.org/eu-commission-fts).  
+
+We're hosting bi-monthly community calls, and are eager to hear your [ideas](https://twitter.com/openspending) for topics we should cover. 
+How to get involved? Join the discussion on our [mailing list](http://lists.okfn.org/mailman/listinfo/openspending). 
