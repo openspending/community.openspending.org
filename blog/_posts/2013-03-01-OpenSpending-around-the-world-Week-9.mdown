@@ -21,7 +21,7 @@ All details on the agenda and how to register to join are available [here](http:
 ### Spending transparency around the world
 In the Miami Herald, [Nathaniel Heller](https://twitter.com/Integrilicious) of Global Integrity called the state of [financial transparency in Florida](http://www.miamiherald.com/2013/02/17/3237026/floridas-murky-fiscal-transparency.html#.USD_R5DCCvg.twitter) into question following an unsuccessful launch of a $5m transparency portal.  
 
-During this week a one year old [blog post stating that "Fiscal transparency is not enough"](http://davidsasaki.name/2012/04/fiscal-transparency-is-not-enough/) by [David Sasaki](https://twitter.com/oso), got the (again) from the budget geek community and sparked [this response](http://openbudgetsblog.org/2013/02/28/twitter-activism-is-not-enough/) from the OpenBudgetsBlog. Both posts raise releavnt questions about the importance of access to fiscal data and how to measure its impact.  
+During this week a one year old [blog post titled "Fiscal transparency (is not enough)"](http://davidsasaki.name/2012/04/fiscal-transparency-is-not-enough/) by [David Sasaki](https://twitter.com/oso), got the (again) from the budget geek community and sparked [this response](http://openbudgetsblog.org/2013/02/28/twitter-activism-is-not-enough/) from the OpenBudgetsBlog. Both posts raise releavnt questions about the importance of access to fiscal data and how to measure the release of such financial data.  
 
 In a thorough local spending story Ars Electronica reports how a one-room library in West Virginia purchased a [$20,000 CISCO router](http://arstechnica.com/tech-policy/2013/02/why-a-one-room-west-virginia-library-runs-a-20000-cisco-router/). 
 
