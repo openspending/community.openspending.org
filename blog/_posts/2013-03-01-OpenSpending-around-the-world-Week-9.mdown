@@ -1,0 +1,29 @@
+---
+layout: post
+title: OpenSpending around the worl - Week 9
+published: false
+type: post
+status: false
+---
+
+
+### Fresh data and activities from OpenSpending 
+During #OpenDataDay we saw activities across cities. 
+
+In Goettingen, Germany the Pirate Party used OpenSpending to visualize the city budget for [expenditures and revenues](http://offenerhaushalt.piratenpartei-goettingen.de/goettingen-haushalt-2011.php?view=).
+
+
+### Spending transparency around the world
+In the Miami Herald, Nathaniel Heller of Global Integrity called the [financial transparency of the state of Florida](http://www.miamiherald.com/2013/02/17/3237026/floridas-murky-fiscal-transparency.html#.USD_R5DCCvg.twitter) into question an unsuccessful launch of a $5m transparency website.  
+ 
+
+### Resources
+@Oso?
+
+The state of New Jersey (US) has produced a useful [guide for citizens (PDF)](http://www.state.nj.us/treasury/omb/publications/12citizensguide/pdf/citguide.pdf) to make the budget more accessible. 
+
+
+### Events on our radar
+
+OpenSpending activities are brewing in Ottawa. First we got the Ottawa budget up and now a Hackathon is coming up. 
+http://gatineauouverte-hackathon03-esli.eventbrite.ca/
