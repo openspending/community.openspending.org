@@ -1,13 +1,10 @@
 ---
 layout: post
-title: OpenSpending around the worl - Week 9
+title: OpenSpending around the world, Week 9
 published: true
 type: post
 status: published
 ---
-
-
-<iframe width='600' height='343' src='- See more at: http://openspending.org/ottawa_exprev_2013/views/treemap-city-of-ottawa-expenditure-revenue-summary-by-category-2013-estimate#sthash.TlGAr0vi.dpuf' frameborder='0'></iframe>
 
 ### Fresh data and activities from OpenSpending 
 During Open Data Day we saw activities across cities.In Ottawa [Stephane Frechette](https://twitter.com/sfrechette) helped upload budget data for [city for 2013](http://openspending.org/ottawa_exprev_2013/views/treemap-city-of-ottawa-expenditure-revenue-summary-by-category-2013-estimate). 
