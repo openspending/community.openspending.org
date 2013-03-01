@@ -16,7 +16,7 @@ In Goettingen, Germany the Pirate Party used OpenSpending to visualize the city 
 
 [Victoria Vlad](https://twitter.com/Victoriavladd) from Expert Grup added budget data from [Moldova](http://openspending.org/sintezabugetuluidestat2013cheltuieli/views/vizualizare-sinteza-bugetului-de-stat-2013-pe-cheltuieli) and wrote a [guest post](http://openspending.org/blog/2013/02/28/Budget-Stories.html) yesterday about BudgetStories.md, a new project you should check out.  
 
-As a growing number of city budets are to OpenSpending we're looking to map these in a GoogleDoc, in order to visualise them on the site. You can help by adding the cities, whch are already on OpenSpending in [this GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0). 
+As a growing number of city budgets are to OpenSpending we're looking to map these in a GoogleDoc, in order to visualise them on the site. You can help by adding the cities, whch are already on OpenSpending in [this GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0). 
 
 On Thursday March 7, we're organising another Community Call, as Alan Hudson from ONE joins us to discuss: "How to use spending data to estimate unit costs and development outputs across the world?"
 All details on the agenda and how to register to join are available [here](http://wdmmg.okfnpad.org/22?).  
@@ -24,12 +24,13 @@ All details on the agenda and how to register to join are available [here](http:
 ### Spending transparency around the world
 In the Miami Herald, [Nathaniel Heller](https://twitter.com/Integrilicious) of Global Integrity called the state [financial transparency in the state of Florida](http://www.miamiherald.com/2013/02/17/3237026/floridas-murky-fiscal-transparency.html#.USD_R5DCCvg.twitter) into question following an unsuccessful launch of a $5m transparency portal.  
 
-In the last week several retweets of a one year old [blog post](http://davidsasaki.name/2012/04/fiscal-transparency-is-not-enough/) on fiscal transparency by [David Sasaki](https://twitter.com/oso), sparked [this response](http://openbudgetsblog.org/2013/02/28/twitter-activism-is-not-enough/) from the OpenBudgetsBlog. Both posts raise releavnt questions about the importance of access to fiscal data and how to measure its impact.  
+During this week a one year old [blog post stating that "Fiscal transparency is not enough"](http://davidsasaki.name/2012/04/fiscal-transparency-is-not-enough/) by [David Sasaki](https://twitter.com/oso), got the (again) from the budget geek community and sparked [this response](http://openbudgetsblog.org/2013/02/28/twitter-activism-is-not-enough/) from the OpenBudgetsBlog. Both posts raise releavnt questions about the importance of access to fiscal data and how to measure its impact.  
+
+In a thorough story Ars Electronica account how a one room library in West Virginia purchased a [$20,000 CISCO router](http://arstechnica.com/tech-policy/2013/02/why-a-one-room-west-virginia-library-runs-a-20000-cisco-router/). 
 
 ### Resources
-
 The state of New Jersey (US) has produced a useful [guide for citizens (PDF)](http://www.state.nj.us/treasury/omb/publications/12citizensguide/pdf/citguide.pdf) to make the budget more accessible. 
 
 ### Events on our radar
-
 On [March 9 a Hackathon](http://gatineauouverte-hackathon03-esli.eventbrite.ca/) will take place in Ville de Gatineau. The budget from the city [is already up](http://openspending.org/gatineau_deprev_cat_12_13).
+
