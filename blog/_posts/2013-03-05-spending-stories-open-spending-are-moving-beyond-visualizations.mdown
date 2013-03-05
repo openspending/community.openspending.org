@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spending Stories, Open Spending Are Moving Beyond Visualizations
-published: false
+published: true
 type: post
-status: draft
+status: published
 ---
 
 <iframe width='600' height='343' src='http://www.pbs.org/idealab/os.jpg' frameborder='0'></iframe>
