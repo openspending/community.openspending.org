@@ -6,7 +6,7 @@ type: post
 status: draft
 ---
 
-http://www.pbs.org/idealab/os.jpg
+<iframe width='600' height='343' src='http://www.pbs.org/idealab/os.jpg' frameborder='0'></iframe>
 
 This post is by [Lisa Evan](https://twitter.com/objectgroup) of the Spending Stories project at OpenSpending. The post is cross-posted from the [PBS Idea Lab](http://www.pbs.org/idealab/2013/03/spending-stories-open-spending-are-moving-beyond-visualizations059.html).
 
