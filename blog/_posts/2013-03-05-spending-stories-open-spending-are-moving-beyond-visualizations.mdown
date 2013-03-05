@@ -8,7 +8,7 @@ status: draft
 
 <iframe width='600' height='343' src='http://www.pbs.org/idealab/os.jpg' frameborder='0'></iframe>
 
-This post is by [Lisa Evan](https://twitter.com/objectgroup) of the Spending Stories project at OpenSpending. The post is cross-posted from the [PBS Idea Lab](http://www.pbs.org/idealab/2013/03/spending-stories-open-spending-are-moving-beyond-visualizations059.html).
+This post is by [Lisa Evans](https://twitter.com/objectgroup) of the Spending Stories project at OpenSpending. The post is cross-posted from the [PBS Idea Lab](http://www.pbs.org/idealab/2013/03/spending-stories-open-spending-are-moving-beyond-visualizations059.html).
 
 2013 is going to be a big year for the spending stories project. In 2012, as we explained [in more detail on our blog](http://openspending.org/blog/2012/12/24/Roundup.html), we improved [usability of our platform for spending data](http://openspending.org/help/index.html) and developed stronger community ties around the world. Now we're primed to roll out some really empowering resources for the open spending community based on our experiences so far. Here's a look at what to expect in 2013.
 
