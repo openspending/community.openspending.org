@@ -33,6 +33,7 @@ OpenSpending is developed by an active community of individuals. The following l
 * [Christiane Schulzki-Haddouti](http://schulzki-haddouti.de/), [@kooptech](https://twitter.com/#!/kooptech)
 * [Christian Kreutz](http://www.crisscrossed.net/), [@ckreutz](https://twitter.com/#!/ckreutz)
 * Christian Burtchen, [@burtchen](https://twitter.com/#!/burtchen)
+* Anders Pedersen, [@anpe](https://twitter.com/#!/anpe)
 
 ### Special Thanks
 
