@@ -143,7 +143,7 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 <h3>Stories and Data Journalism</h3> 
 
-### Data Journalism
+###Data Journalism
 
 <img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
 
@@ -154,7 +154,11 @@ We regularly conduct training sessions for journalists on how to locate, extract
 
 We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
 
-### Privacy International 
+</div> 
+
+<div class="well" 'markdown="1"'>
+
+<h3>Privacy International</h3>
 
 In early 2012, Privacy International recently approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference and wanted to check which attendees also became customers of these companies. 
 
@@ -167,7 +171,11 @@ As more datasets are loaded into OpenSpending, this universal search will get in
 * [Try out the search for yourself in the spendbrowser](http://opendatalabs.org/spendbrowser)
 * [Read more about the story](http://blog.openspending.org/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/)
 
-### France - PLF 2012
+</div> 
+
+<div class="well" 'markdown="1"'>
+
+<h3>France - PLF 2012</h3>
 
 We experienced an extremely high traffic spike when a visualisation based on French data was featured in Le Monde.
 
@@ -177,7 +185,11 @@ The OpenSpending visualisation used in the article is intended to give a high-le
 
 [The same week, a different view on the data was published by Libération](http://openspending.org/blog/2012/10/20/openspending-lemonde.html). 
 
-### Italian Regional Accounts Data
+</div> 
+
+<div class="well" 'markdown="1"'>
+
+<h3>Italian Regional Accounts Data</h3>
 
 <img alt="" src="http://farm6.staticflickr.com/5224/5639223572_5451048271.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
 
