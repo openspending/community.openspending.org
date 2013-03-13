@@ -24,7 +24,9 @@ The implementation schedules were published in individual Excel files, containin
   <tr>
     <td>
 <img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden1.png" title="" class="inline-img" width="281" height="500" />
- </td>
+####General<br>
+Approach to publication: includes timeliness and frequency, licence, initial publication dates, scope of publication.
+</td>
     <td>
   </tr>
 </table>
