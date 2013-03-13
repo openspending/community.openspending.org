@@ -67,12 +67,12 @@ Doing it again: we want to check the assumptions and interpretations we’ve mad
 Looking at publication: now that we have better data on what donors are committing to do, the question arises: what are they actually publishing, and are they meeting their commitments? We’ll be working on that throughout the year and will release this analysis in October. Until then, all of our code is of course being developed as an [open-source project on Github](https://github.com/markbrough/IATI-Data-Quality).
 We’d love your feedback, so please get in touch:
 
-[email](info@publishwhatyoufund.org)
+[email](info@publishwhatyoufund.org)<br>
 twitter: [@mark_brough](https://twitter.com/mark_brough) or [@aidtransparency](https://twitter.com/aidtransparency)
 
 ####Links
-[Aid Transparency Tracker](http://tracker.publishwhatyoufund.org/)
-[Source code](https://github.com/Bjwebb/iati-implementationxml)
-Licenses: [AGPL v3](http://www.gnu.org/licenses/agpl-3.0.html) (code); [PDDL](http://opendatacommons.org/licenses/pddl/) (data); [CC-BY](http://creativecommons.org/licenses/by/3.0/) (report and analysis)
-[IATI (International Aid Transparency Initiative)](http://www.aidtransparency.net/)
+[Aid Transparency Tracker](http://tracker.publishwhatyoufund.org/)<br>
+[Source code](https://github.com/Bjwebb/iati-implementationxml)<br>
+Licenses: [AGPL v3](http://www.gnu.org/licenses/agpl-3.0.html) (code); [PDDL](http://opendatacommons.org/licenses/pddl/) (data); [CC-BY](http://creativecommons.org/licenses/by/3.0/) (report and analysis)<br>
+[IATI (International Aid Transparency Initiative)](http://www.aidtransparency.net/)<br>
 [OECD/DAC Common Standard website](http://www.oecd.org/dac/aid-architecture/acommonstandard.htm)
