@@ -86,7 +86,6 @@ None of this would have been possible without:<br>
 - OKFN’s [ReclineJS](http://reclinejs.com/) (for the graphs and timeline; which itself relies on a range of great open source software)
 - [Bootstrap](http://twitter.github.com/bootstrap/), [JQuery](http://jquery.com/), and [JQuery Tablesorter](http://tablesorter.com/docs/) (for the front-end)
 - [Python](http://python.org), [Flask](http://flask.pocoo.org/), and a range of libraries (for the back-end)
-</tr>
 <br>
 2) [Implementation schedules](http://www.oecd.org/dac/aid-architecture/acommonstandard.htm) released by donors as part of the common standard, transparently outlining in detail their specific commitments to publish more and better data.
 
