@@ -20,43 +20,38 @@ Pulling all the schedules into a single application allows us to [assess donors�
 ###The original implementation schedules
 The implementation schedules were published in individual Excel files, containing three main sheets: general, agency, and activity-level information.
 
+<br><strong>General</strong><br>
+Approach to publication: includes timeliness and frequency, licence, initial publication dates, scope of publication.
 <table border="" cellpadding="0" cellspacing="1px">
   <tr>
     <td>
 <img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden1.png" title="" class="inline-img" width="281" height="500" />
-<br><strong>General</strong><br>
-Approach to publication: includes timeliness and frequency, licence, initial publication dates, scope of publication.
- </td>
-    <td>
-<img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden2.png" title="" class="inline-img" width="281" height="500" />
-<br><strong>Agency</strong><br>
-Agency-level publication: includes country budgets, organisation documents.
  </td>
     <td>
 </tr>
 </table>
 
+<br><strong>Agency</strong><br>
+Agency-level publication: includes country budgets, organisation documents.
+<img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden2.png" title="" class="inline-img" width="281" height="500" />
+ </td>
+    <td>
+</tr>
+</table>
+
+<br><strong>Activity</strong>
+Activity-level publication: includes information about when the organisation will (or won’t) be compliant with each field in the standard.
+</td>
 <table border="" cellpadding="0" cellspacing="1px">
   <tr>
     <td>
 <img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden3.png" title="" class="inline-img" width="281" height="500" />
-<br><strong>Activity</strong>
-Activity-level publication: includes information about when the organisation will (or won’t) be compliant with each field in the standard.
-</td>
     <td>
   </tr>
 </table>
 
 ###Templates
 While there is a template for the common standard implementation schedules, several different templates exist, and donors further added to this complexity by modifying the templates, changing options, and adding and deleting rows – in all, we counted eleven different versions. Importing the schedules proved difficult because of this. In addition, some donors published their Excel-based templates in PDF format, which made it impossible to automatically parse them. In these cases, it was necessary to copy and paste the same data into new spreadsheets. While the data was thoroughly checked, it is possible that some human error will have resulted. Some interpretation was necessary to ensure consistency and comparability across the schedules.
-<table border="" cellpadding="0" cellspacing="1px">
-  <tr>
-    <td>
-<img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden3.png" title="" class="inline-img" width="281" height="500" />
-</td>
-    <td>
-  </tr>
-</table>
 
 ###Importing
 The schedules were automatically parsed and imported into this application. Publish What You Fund staff then checked the resulting data to ensure that it had been parsed correctly and that it made sense.
