@@ -26,7 +26,11 @@ The implementation schedules were published in individual Excel files, containin
 <img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden1.png" title="" class="inline-img" width="281" height="500" />
 ####General
 Approach to publication: includes timeliness and frequency, licence, initial publication dates, scope of publication.
-
+ </td>
+    <td>
+<img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden2.png" title="" class="inline-img" width="281" height="500" />
+####Agency
+Agency-level publication: includes country budgets, organisation documents.
 </td>
     <td>
   </tr>
