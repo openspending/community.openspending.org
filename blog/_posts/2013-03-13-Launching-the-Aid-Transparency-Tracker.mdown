@@ -33,23 +33,19 @@ Approach to publication: includes timeliness and frequency, licence, initial pub
 Agency-level publication: includes country budgets, organisation documents.
  </td>
     <td>
-<img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden3.png" title="" class="inline-img" width="281" height="500" />
-<br><strong>Activity</strong>
-Activity-level publication: includes information about when the organisation will (or won’t) be compliant with each field in the standard.
 </tr>
 </table>
 
-####Agency
-Agency-level publication: includes country budgets, organisation documents.
 <table border="" cellpadding="0" cellspacing="1px">
   <tr>
     <td>
-<img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden2.png" title="" class="inline-img" width="281" height="500" />
+<img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden3.png" title="" class="inline-img" width="281" height="500" />
+<br><strong>Activity</strong>
+Activity-level publication: includes information about when the organisation will (or won’t) be compliant with each field in the standard.
 </td>
     <td>
   </tr>
 </table>
-
 
 ###Templates
 While there is a template for the common standard implementation schedules, several different templates exist, and donors further added to this complexity by modifying the templates, changing options, and adding and deleting rows – in all, we counted eleven different versions. Importing the schedules proved difficult because of this. In addition, some donors published their Excel-based templates in PDF format, which made it impossible to automatically parse them. In these cases, it was necessary to copy and paste the same data into new spreadsheets. While the data was thoroughly checked, it is possible that some human error will have resulted. Some interpretation was necessary to ensure consistency and comparability across the schedules.
