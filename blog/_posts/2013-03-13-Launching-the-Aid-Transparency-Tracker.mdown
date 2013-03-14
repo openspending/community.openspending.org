@@ -95,7 +95,8 @@ Now that we’ve looked at what information different donors are committing to p
 
 1) <strong>Doing it again:</strong> we want to check the assumptions and interpretations we’ve made with donors to ensure that they’re accurate, as well as encouraging all donors to be more ambitious about the information they’re planning to publish. As part of this, we’ll also aim to iron out the problems in the schedule.
 2) <strong>Looking at publication:</strong> now that we have better data on what donors are committing to do, the question arises: what are they actually publishing, and are they meeting their commitments? We’ll be working on that throughout the year and will release this analysis in October. Until then, all of our code is of course being developed as an [open-source project on Github](https://github.com/markbrough/IATI-Data-Quality).
-We’d love your feedback, so please get in touch:
+<br>
+<br>We’d love your feedback, so please get in touch:<br>
 
 [email](mailto:info@publishwhatyoufund.org)<br>
 twitter: [@mark_brough](https://twitter.com/mark_brough) or [@aidtransparency](https://twitter.com/aidtransparency)
