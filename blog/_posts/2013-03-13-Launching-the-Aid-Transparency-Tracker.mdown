@@ -39,7 +39,7 @@ Agency-level publication: includes country budgets, organisation documents.
 </tr>
 </table>
 
-<br><strong>Activity</strong>
+<br><strong>Activity</strong><br>
 Activity-level publication: includes information about when the organisation will (or won’t) be compliant with each field in the standard.
 </td>
 <table border="" cellpadding="0" cellspacing="1px">
@@ -56,11 +56,20 @@ While there is a template for the common standard implementation schedules, seve
 ###Importing
 The schedules were automatically parsed and imported into this application. Publish What You Fund staff then checked the resulting data to ensure that it had been parsed correctly and that it made sense.
 
-####Select a file
+<br><strong>Select a file</strong><br>
 The user can select a schedule from any publicly-accessible URL. This could be the OECD/DAC common standard website, the IATI website, or the donor’s own website. Where the original schedules could not be automatically parsed (e.g. because they were in PDF), a new spreadsheet was created by Publish What You Fund using the information included in the original schedule.
+</td>
+<table border="" cellpadding="0" cellspacing="1px">
+  <tr>
+    <td>
+<img alt="" src="http://tracker.publishwhatyoufund.org/static/img/import.png" title="" class="inline-img" width="300" height="246" />
+    <td>
+  </tr>
+</table>
 
-####Check fields
+<br><strong>Check fields</strong><br>
 The schedule was successfully parsed and is presented to the user to check and correct, make sure that all information has been parsed correctly, ensure that compliance status is consistent with notes, and score for partially compliant fields if the publisher has understated their publication relative to other donors.
+
 
 ###Openness begets openness
 None of this would have been possible without:
