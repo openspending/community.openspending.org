@@ -80,7 +80,7 @@ The user can select a schedule from any publicly-accessible URL. This could be t
 </table>
 
 ###Openness begets openness
-None of this would have been possible without:
+None of this would have been possible without:<br>
 1) A range of great open-source tools:
 - [iati-implementationxml](https://github.com/Bjwebb/iati-implementationxml) (originally converted Excel IATI implementation schedules to XML)
 - OKFN’s [ReclineJS](http://reclinejs.com/) (for the graphs and timeline; which itself relies on a range of great open source software)
