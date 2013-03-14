@@ -29,7 +29,7 @@ Approach to publication: includes timeliness and frequency, licence, initial pub
  </td>
     <td>
 <img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden2.png" title="" class="inline-img" width="281" height="500" />
-<strong>Agency</strong><br>
+<br><strong>Agency</strong><br>
 Agency-level publication: includes country budgets, organisation documents.
  </td>
     <td>
