@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Launching the Aid Transparency Tracker
-published: false
+published: true
 type: post
-status: draft
+status: published
 ---
 
 Publish What You Fund has undertaken some initial [analysis of aid donors’ plans](http://tracker.publishwhatyoufund.org/) to publish to the [IATI](http://www.aidtransparency.net/) component of the agreed [common standard](http://www.oecd.org/dac/aid-architecture/acommonstandard.htm) for aid information. Here, [Mark Brough](https://twitter.com/mark_brough) explains the process they went through to take a series of Excel files, convert them into a format suitable for analysis, and come to some overall conclusions.
