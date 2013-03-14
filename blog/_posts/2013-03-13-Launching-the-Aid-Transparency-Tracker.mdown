@@ -21,7 +21,7 @@ Pulling all the schedules into a single application allows us to [assess donors�
 The implementation schedules were published in individual Excel files, containing three main sheets: general, agency, and activity-level information.
 
 <br><strong>General</strong><br>
-Approach to publication: includes timeliness and frequency, licence, initial publication dates, scope of publication.
+Approach to publication: includes timeliness and frequency, licence, initial publication dates, scope of publication.<br>
 <table border="" cellpadding="0" cellspacing="1px">
   <tr>
     <td>
@@ -40,7 +40,7 @@ Agency-level publication: includes country budgets, organisation documents.<br>
 </table>
 
 <br><strong>Activity</strong><br>
-Activity-level publication: includes information about when the organisation will (or won’t) be compliant with each field in the standard.
+Activity-level publication: includes information about when the organisation will (or won’t) be compliant with each field in the standard.<br>
 </td>
 <table border="" cellpadding="0" cellspacing="1px">
   <tr>
@@ -93,8 +93,8 @@ But, we’ve also fed back: iati-implementationxml has been expanded to add comp
 ###What’s next?
 Now that we’ve looked at what information different donors are committing to publish, there are two main steps for us:
 
-Doing it again: we want to check the assumptions and interpretations we’ve made with donors to ensure that they’re accurate, as well as encouraging all donors to be more ambitious about the information they’re planning to publish. As part of this, we’ll also aim to iron out the problems in the schedule.
-Looking at publication: now that we have better data on what donors are committing to do, the question arises: what are they actually publishing, and are they meeting their commitments? We’ll be working on that throughout the year and will release this analysis in October. Until then, all of our code is of course being developed as an [open-source project on Github](https://github.com/markbrough/IATI-Data-Quality).
+1) <strong>Doing it again:</strong> we want to check the assumptions and interpretations we’ve made with donors to ensure that they’re accurate, as well as encouraging all donors to be more ambitious about the information they’re planning to publish. As part of this, we’ll also aim to iron out the problems in the schedule.
+2) <strong>Looking at publication:</strong> now that we have better data on what donors are committing to do, the question arises: what are they actually publishing, and are they meeting their commitments? We’ll be working on that throughout the year and will release this analysis in October. Until then, all of our code is of course being developed as an [open-source project on Github](https://github.com/markbrough/IATI-Data-Quality).
 We’d love your feedback, so please get in touch:
 
 [email](mailto:info@publishwhatyoufund.org)<br>
