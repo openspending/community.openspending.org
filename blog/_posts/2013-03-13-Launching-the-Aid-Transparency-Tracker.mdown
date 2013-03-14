@@ -85,7 +85,7 @@ None of this would have been possible without:<br>
 - [iati-implementationxml](https://github.com/Bjwebb/iati-implementationxml) (originally converted Excel IATI implementation schedules to XML)
 - OKFN’s [ReclineJS](http://reclinejs.com/) (for the graphs and timeline; which itself relies on a range of great open source software)
 - [Bootstrap](http://twitter.github.com/bootstrap/), [JQuery](http://jquery.com/), and [JQuery Tablesorter](http://tablesorter.com/docs/) (for the front-end)
-- [Python](http://python.org), [Flask](http://flask.pocoo.org/), and a range of libraries (for the back-end)</br>
+- [Python](http://python.org), [Flask](http://flask.pocoo.org/), and a range of libraries (for the back-end)<br>
 2) [Implementation schedules](http://www.oecd.org/dac/aid-architecture/acommonstandard.htm) released by donors as part of the common standard, transparently outlining in detail their specific commitments to publish more and better data.
 
 But, we’ve also fed back: iati-implementationxml has been expanded to add compatibility with the common standard formats of implementation schedules; to detect the format of different schedules; and to function as a module that can be imported. We provided a couple of pull request for some small bugs with ReclineJS, and of course, we’re releasing all of our own code as well (although, it could definitely do with some tidying up…).
