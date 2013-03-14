@@ -34,7 +34,7 @@ Agency-level publication: includes country budgets, organisation documents.
  </td>
     <td>
 <img alt="" src="http://tracker.publishwhatyoufund.org/static/img/sweden3.png" title="" class="inline-img" width="281" height="500" />
-<strong>Activity</strong>
+<br><strong>Activity</strong>
 Activity-level publication: includes information about when the organisation will (or won’t) be compliant with each field in the standard.
 </tr>
 </table>
