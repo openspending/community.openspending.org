@@ -82,7 +82,7 @@ The user can select a schedule from any publicly-accessible URL. This could be t
 ###Openness begets openness
 None of this would have been possible without:<br>
 1) A range of great open-source tools:
-- [iati-implementationxml](https://github.com/Bjwebb/iati-implementationxml) (originally converted Excel IATI implementation schedules to XML)
+<li>[iati-implementationxml](https://github.com/Bjwebb/iati-implementationxml) (originally converted Excel IATI implementation schedules to XML)</li>
 - OKFN’s [ReclineJS](http://reclinejs.com/) (for the graphs and timeline; which itself relies on a range of great open source software)
 - [Bootstrap](http://twitter.github.com/bootstrap/), [JQuery](http://jquery.com/), and [JQuery Tablesorter](http://tablesorter.com/docs/) (for the front-end)
 - [Python](http://python.org), [Flask](http://flask.pocoo.org/), and a range of libraries (for the back-end)
