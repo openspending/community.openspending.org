@@ -30,14 +30,12 @@ Marc Maxson used the model of [Benford's Law](http://en.wikipedia.org/wiki/Benfo
 
 Pulbish What You Fund launched this week a comprehensive Aid Transparency Tracker. [Mark Brough](https://twitter.com/mark_brough) explains how it works [here](http://openspending.org/blog/2013/03/13/Launching-the-Aid-Transparency-Tracker.html).
 
-### Events on our radar
-March 15-17: https://docs.google.com/a/okfn.org/document/d/1qq0zvI2Xo45zUZw-_sfxk-Y6DH7icAVtWFqhzMFOc6k/edit
-
+### Events and deadlines on our radar
 March 18: Deadline for proposals for the [News Challenge](https://www.newschallenge.org/) of the Knight Foundation.
 
 March 19: OpenData "Maker" night in London. OpenSpending will be looking into UK government finances at the. RSVP [here](http://bit.ly/Zpo5OU) 
 
-March 25: Deadline for applications for [Journalism Grants](journagrants.org) on international development issues. 
+March 25: Deadline for proposals for [Journalism Grants](journagrants.org) on international development issues. 
 
 May 2-4: [Data Harvest](http://www.journalismfund.eu/dataharvest13) will bring geeks, journalists and civi hackers together in Brussels to wrangle EU spending data from [farm subsidies](http://farmsubsidy.org/) and the [Comission](http://openspending.org/eu-commission-fts). We'll be there and regsistration is now open.
 
