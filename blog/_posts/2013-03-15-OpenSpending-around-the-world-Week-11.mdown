@@ -29,7 +29,7 @@ possible due to absence of data."
 Tax app: In Philadelphia (US) the initiative to reassess property taxes in the city spured the development of an app documenting the changed tax payments [parcel by parcel](http://axisphillyapps.tumblr.com/post/44714283089/how-we-made-the-avi-map). 
 
 ### Resources
-Marc Maxson used the model of [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law) to analyse financial data from everything from [Kenyan public agenices to international non-profits](http://chewychunks.wordpress.com/2013/02/17/the-weekend-i-audited-the-world/). Benford's Law is known for its ability to assess distributions across financial transactions to detects irregularities, which can be an indicator of corruption.
+Marc Maxson used the model of [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law) to analyse financial data from a few [public agenices in Kenya and an international non-profit](http://chewychunks.wordpress.com/2013/02/17/the-weekend-i-audited-the-world/). Benford's Law can be used to assess distributions across financial transactions to detect irregularities, which can be an indicator of corruption.
 
 Pulbish What You Fund launched this week a comprehensive Aid Transparency Tracker. [Mark Brough](https://twitter.com/mark_brough) explains how it works [here](http://openspending.org/blog/2013/03/13/Launching-the-Aid-Transparency-Tracker.html).
 
