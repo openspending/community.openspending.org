@@ -9,7 +9,7 @@ status: published
 We're bringing you an update with news from OpenSpending and financial transparency around the world.
 
 ### Fresh data and activities from OpenSpending 
-[Tajima Itsuro](https://twitter.com/niryuu) has written an [excellent guide](http://qiita.com/items/4adb658c627d2e6d48e4) for uploading data to OpenSending in Japanese.
+[Tajima Itsuro](https://twitter.com/niryuu) has written an [excellent guide](http://qiita.com/items/4adb658c627d2e6d48e4) in Japanese for uploading data to OpenSending.
 
 The [Open Data Census](http://census.okfn.org/) demonstrated that several countries like Slovenia, Czech Republic and Italy (for EU Structural Funds) have released transactional spending data, which yet have to make it onto OpenSpending. If you can to help to get the data up on OpenSpending, we've added links and other information in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AvdkMlz2NopEdElqWTBJS0Q1Q083VlI3YUFLTl9OY0E&usp=sharing).  
 
