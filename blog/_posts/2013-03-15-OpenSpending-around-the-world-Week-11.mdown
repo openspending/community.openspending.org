@@ -40,7 +40,7 @@ March 19: OpenData "Maker" night in London. OpenSpending will be looking into UK
 
 March 25: Deadline for proposals for [Journalism Grants](journagrants.org) on international development issues. 
 
-May 2-4: [Data Harvest](http://www.journalismfund.eu/dataharvest13) will bring geeks, journalists and civi hackers together in Brussels to wrangle EU spending data from [farm subsidies](http://farmsubsidy.org/) and the [Comission](http://openspending.org/eu-commission-fts). We'll be there and regsistration is now open.
+May 3-4: [Data Harvest](http://www.journalismfund.eu/dataharvest13) will bring geeks, journalists and civi hackers together in Brussels to wrangle EU spending data from [farm subsidies](http://farmsubsidy.org/) and the [Comission](http://openspending.org/eu-commission-fts). We'll be there and regsistration is now open.
 
 We're hosting bi-monthly community calls, and are eager to hear your [ideas](https://twitter.com/openspending) for topics we should cover. 
 How to get involved? Join the discussion on our [mailing list](http://lists.okfn.org/mailman/listinfo/openspending). 
