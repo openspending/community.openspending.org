@@ -26,7 +26,7 @@ EU Structural funds: Consultant and analyst [Luiggi Reggi](http://www.luigireggi
 EU fish subsidies: Last month the European Commission published a report highlighting the [poor quality of data on fish subsidies and over fishing](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2013:0085:FIN:EN:PDF). About Spain, the biggest receiver of fish subsidies, the report concluded: "A comparable and objective evaluation of overfishing and of economic sustainability is not 
 possible due to absence of data." 
 
-Tax app: In Philadelphia (US) the initiative to reassess property taxes in the city spured the development of an app documenting the changed tax payments [parcel by parcel](http://axisphillyapps.tumblr.com/post/44714283089/how-we-made-the-avi-map). 
+Tax app: In Philadelphia (US) the initiative to reassess property taxes in the city spured the development of an app documenting changes in tax payments [parcel by parcel](http://axisphillyapps.tumblr.com/post/44714283089/how-we-made-the-avi-map). 
 
 ### Resources
 Marc Maxson used the model of [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law) to analyse financial data from a few [public agenices in Kenya and an international non-profit](http://chewychunks.wordpress.com/2013/02/17/the-weekend-i-audited-the-world/). Benford's Law can be used to assess distributions across financial transactions to detect irregularities, which can be an indicator of corruption.
