@@ -21,10 +21,12 @@ Back in January Steven Brill published the long read [The Bitter Pill](http://ww
 
 EU Structural funds: Consultant and analyst [Luiggi Reggi](http://www.luigireggi.eu/) has [mapped the various formats member states apply]((http://www.luigireggi.eu/Innovation-policies/Home/Entries/2012/11/9_an_interactive_map_to_find_real_open_data_on_Structural_funds_ACROSS_EUROPE.html)) when publishing spending data on the EU Structural Fund published at national and regional sites. The study shows that Italy and Poland are among the countries delivering machine redable CSV-files, whereas countries like Germany and Spain only release data in PDF. 
 
+Tax app: In Philadelphia the reassessment of the property taxes spured the development of an app showing the changes [parcel by parcel](http://axisphillyapps.tumblr.com/post/44714283089/how-we-made-the-avi-map). 
+
 ### Resources
 Marc Maxson used the model of [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law) to analyze financial data from everything from [Kenyan public agenices to international non-profits](http://chewychunks.wordpress.com/2013/02/17/the-weekend-i-audited-the-world/). Benford's Law is known for its ability to analyze distribution across financial transactions to detects irregular concentrations in particular amounts. 
 
-Pulbish What You Fund launched this week a comprehensive Aid TRansparency Tracker. [Mark Brough](https://twitter.com/mark_brough) explained how it works [blog](http://openspending.org/blog/2013/03/13/Launching-the-Aid-Transparency-Tracker.html).
+Pulbish What You Fund launched this week a comprehensive Aid TRansparency Tracker. [Mark Brough](https://twitter.com/mark_brough) explained how it works in this [post](http://openspending.org/blog/2013/03/13/Launching-the-Aid-Transparency-Tracker.html).
 
 ### Events on our radar
 March 15-17: https://docs.google.com/a/okfn.org/document/d/1qq0zvI2Xo45zUZw-_sfxk-Y6DH7icAVtWFqhzMFOc6k/edit
