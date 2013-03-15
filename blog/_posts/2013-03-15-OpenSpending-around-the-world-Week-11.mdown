@@ -6,18 +6,20 @@ type: post
 status: false
 ---
 
+We're bringing you an update with news from OpenSpending and financial transparency around the world.
+
 ### Fresh data and activities from OpenSpending 
 [Tajima Itsuro](https://twitter.com/niryuu) has written an [excellent guide](http://qiita.com/items/4adb658c627d2e6d48e4) for uploading data to OpenSending in Japanese.
 
-The Open Data Census reveled that, that several countries like Slovenia, Czech Republic and Italy (EU Structural Funds) have released transactional spending data, which yet have to make it onto OpenSpending. If you want to help to get the data up on OpenSpending, we've added links and other information in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AvdkMlz2NopEdElqWTBJS0Q1Q083VlI3YUFLTl9OY0E&usp=sharing).  
+The [Open Data Census](http://census.okfn.org/) showed that several countries like Slovenia, Czech Republic and Italy (for EU Structural Funds) have released transactional spending data, which yet have to make it onto OpenSpending. If you can to help to get the data up on OpenSpending, we've added links and other information in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AvdkMlz2NopEdElqWTBJS0Q1Q083VlI3YUFLTl9OY0E&usp=sharing).  
 
-We're also working to visualise the cities who are making it on to OpenSpending. You can help by adding cities, which are already on the site in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0).
+We're also working to visualise the cities who are already on OpenSpending. You can help by adding cities in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0).
 
 Last week we had a community call with Alan Hudson from ONE, where we discussed: "How to use spending data to estimate unit costs and development outputs across the world?"
-The agenda is [here](http://wdmmg.okfnpad.org/22?) and we'll follow up with more information on this project.  
+The agenda from the call is available [here](http://wdmmg.okfnpad.org/22?) and we'll follow up with more information about the ideas we discussed.
 
 ### Spending transparency around the world
-Back in January Steven Brill published the long read [The Bitter Pill](http://www.time.com/time/magazine/article/0,9171,2136864,00.html), in which he documented the lack of pricing transparency on the American health care market. The story led to this [podcast on Planet Money](http://www.npr.org/blogs/money/2013/02/26/172996963/episode-439-the-mysterious-power-of-a-hospital-bill), where they take up the key sources of the piece - the medical bill and the price lists of American hospitals.    
+Back in January Steven Brill published the long read article [The Bitter Pill](http://www.time.com/time/magazine/article/0,9171,2136864,00.html), in which he documented the lack of pricing transparency on the American health care market. The story led to this [podcast on Planet Money](http://www.npr.org/blogs/money/2013/02/26/172996963/episode-439-the-mysterious-power-of-a-hospital-bill), where they take up the key sources of the piece - the medical bill and the price lists of American hospitals.    
 
 EU Structural funds: Consultant and analyst [Luiggi Reggi](http://www.luigireggi.eu/) has [mapped the various formats member states apply]((http://www.luigireggi.eu/Innovation-policies/Home/Entries/2012/11/9_an_interactive_map_to_find_real_open_data_on_Structural_funds_ACROSS_EUROPE.html)) when publishing spending data on the EU Structural Fund published at national and regional sites. The study shows that Italy and Poland are among the countries delivering machine redable CSV-files, whereas countries like Germany and Spain only release data in PDF. 
 
