@@ -1,9 +1,9 @@
 ---
 layout: post
 title: OpenSpending around the world, Week 11
-published: false
+published: true
 type: post
-status: false
+status: published
 ---
 
 We're bringing you an update with news from OpenSpending and financial transparency around the world.
@@ -21,9 +21,9 @@ The agenda from the call is available [here](http://wdmmg.okfnpad.org/22?) and w
 ### Spending transparency around the world
 Back in January Steven Brill published the long read article [The Bitter Pill](http://www.time.com/time/magazine/article/0,9171,2136864,00.html), in which he documented the lack of pricing transparency on the American health care market. The story led to this [podcast on Planet Money](http://www.npr.org/blogs/money/2013/02/26/172996963/episode-439-the-mysterious-power-of-a-hospital-bill), where they take up the key sources of the piece - the medical bill and the price lists of American hospitals.    
 
-EU Structural funds: Consultant and analyst [Luiggi Reggi](http://www.luigireggi.eu/) has [mapped the various formats member states apply]((http://www.luigireggi.eu/Innovation-policies/Home/Entries/2012/11/9_an_interactive_map_to_find_real_open_data_on_Structural_funds_ACROSS_EUROPE.html)) when publishing spending data on the EU Structural Fund published at national and regional sites. The study shows that Italy and Poland are among the countries delivering machine redable CSV-files, whereas countries like Germany and Spain only release data in PDF. 
+EU Structural funds: Consultant and analyst [Luiggi Reggi](http://www.luigireggi.eu/) has [mapped the various formats member states](http://www.luigireggi.eu/Innovation-policies/Home/Entries/2012/11/9_an_interactive_map_to_find_real_open_data_on_Structural_funds_ACROSS_EUROPE.html), when publishing spending data from the EU Structural Fund at national and regional sites. The study shows that Italy and Poland are among the countries delivering machine redable CSV-files, whereas countries like Germany and Spain only release data in PDF. 
 
-Tax app: In Philadelphia the reassessment of the property taxes spured the development of an app showing the changes [parcel by parcel](http://axisphillyapps.tumblr.com/post/44714283089/how-we-made-the-avi-map). 
+Tax app: In Philadelphia (US) the initiative to reassess property taxes in the city spured the development of an app documenting the changed tax payments [parcel by parcel](http://axisphillyapps.tumblr.com/post/44714283089/how-we-made-the-avi-map). 
 
 ### Resources
 Marc Maxson used the model of [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law) to analyze financial data from everything from [Kenyan public agenices to international non-profits](http://chewychunks.wordpress.com/2013/02/17/the-weekend-i-audited-the-world/). Benford's Law is known for its ability to analyze distribution across financial transactions to detects irregular concentrations in particular amounts. 
