@@ -23,7 +23,7 @@ Health spending: Back in January Steven Brill published the long read article [T
 
 EU Structural funds: Consultant and analyst [Luiggi Reggi](http://www.luigireggi.eu/) has [mapped the various formats member states](http://www.luigireggi.eu/Innovation-policies/Home/Entries/2012/11/9_an_interactive_map_to_find_real_open_data_on_Structural_funds_ACROSS_EUROPE.html), when publishing spending data from the EU Structural Fund at national and regional sites. The study shows that Italy and Poland are among the countries delivering machine redable CSV-files, whereas countries like Germany and Spain only release data in PDF. 
 
-EU fish subsidies: Last month the European Commission published a report highlighting the [poor quality of data on fish subsidies and over fishing](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2013:0085:FIN:EN:PDF). On, Spain, which is the biggest receiver of fish subsidies the report concluded: "A comparable and objective evaluation of overfishing and of economic sustainability is not 
+EU fish subsidies: Last month the European Commission published a report highlighting the [poor quality of data on fish subsidies and over fishing](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2013:0085:FIN:EN:PDF). About Spain, the biggest receiver of fish subsidies, the report concluded: "A comparable and objective evaluation of overfishing and of economic sustainability is not 
 possible due to absence of data." 
 
 Tax app: In Philadelphia (US) the initiative to reassess property taxes in the city spured the development of an app documenting the changed tax payments [parcel by parcel](http://axisphillyapps.tumblr.com/post/44714283089/how-we-made-the-avi-map). 
