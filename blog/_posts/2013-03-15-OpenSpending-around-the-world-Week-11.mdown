@@ -9,12 +9,12 @@ status: false
 ### Fresh data and activities from OpenSpending 
 [Tajima Itsuro](https://twitter.com/niryuu) has written an [excellent guide](http://qiita.com/items/4adb658c627d2e6d48e4) for uploading data to OpenSending in Japanese.
 
-We have now gathered information on transactional spending data from countries like Slovenia, Czech Republic and Italy (EU Structural Funds), which is ready to go up on OpenSpending. The information and links have been added in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AvdkMlz2NopEdElqWTBJS0Q1Q083VlI3YUFLTl9OY0E&usp=sharing).  
+The Open Data Census reveled that, that several countries like Slovenia, Czech Republic and Italy (EU Structural Funds) have released transactional spending data, which yet have to make it onto OpenSpending. If you want to help to get the data up on OpenSpending, we've added links and other information in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AvdkMlz2NopEdElqWTBJS0Q1Q083VlI3YUFLTl9OY0E&usp=sharing).  
 
-We're also working to visualise the cities who are making it on to OpenSpending. You can help by adding cities, which are already on the site in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0). 
+We're also working to visualise the cities who are making it on to OpenSpending. You can help by adding cities, which are already on the site in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0).
 
 Last week we had a community call with Alan Hudson from ONE, where we discussed: "How to use spending data to estimate unit costs and development outputs across the world?"
-Notes from the agenda are [here](http://wdmmg.okfnpad.org/22?) and more will follow on this project.  
+The agenda is [here](http://wdmmg.okfnpad.org/22?) and we'll follow up with more information on this project.  
 
 ### Spending transparency around the world
 Back in January Steven Brill published the long read [The Bitter Pill](http://www.time.com/time/magazine/article/0,9171,2136864,00.html), in which he documented the lack of pricing transparency on the American health care market. The story led to this [podcast on Planet Money](http://www.npr.org/blogs/money/2013/02/26/172996963/episode-439-the-mysterious-power-of-a-hospital-bill), where they take up the key sources of the piece - the medical bill and the price lists of American hospitals.    
