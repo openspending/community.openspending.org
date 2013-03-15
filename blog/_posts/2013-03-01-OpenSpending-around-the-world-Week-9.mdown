@@ -13,7 +13,7 @@ In Goettingen, Germany the Pirate Party used OpenSpending to visualize the city 
 
 [Victoria Vlad](https://twitter.com/Victoriavladd) from Expert Grup added budget data from [Moldova](http://openspending.org/sintezabugetuluidestat2013cheltuieli/views/vizualizare-sinteza-bugetului-de-stat-2013-pe-cheltuieli) and wrote a [guest post](http://openspending.org/blog/2013/02/28/Budget-Stories.html) yesterday about BudgetStories.md, a new project which is trying to explain budget data recently released in Moldova.  
 
-As a growing number of city budgets are to OpenSpending we're looking to map these in a GoogleDoc, in order to visualise them on the site. You can help by adding the cities, whch are already on OpenSpending in [this GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0). 
+As a growing number of city budgets are to OpenSpending we're looking to map these in a GoogleDoc, in order to visualise them on the site. You can help by adding the cities, which are already on OpenSpending in [this GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0). 
 
 On Thursday March 7, we're organising another Community Call, as Alan Hudson from ONE joins us to discuss: "How to use spending data to estimate unit costs and development outputs across the world?"
 All details on the agenda and how to register to join are available [here](http://wdmmg.okfnpad.org/22?).  
