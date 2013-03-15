@@ -1,0 +1,39 @@
+---
+layout: post
+title: OpenSpending around the world, Week 11
+published: false
+type: post
+status: false
+---
+
+### Fresh data and activities from OpenSpending 
+[Tajima Itsuro](https://twitter.com/niryuu) has written an [excellent guide](http://qiita.com/items/4adb658c627d2e6d48e4) for uploading data to OpenSending in Japanese.
+
+We have now gathered information on transactional spending data from countries like Slovenia, Czech Republic and Italy (EU Structural Funds), which is ready to go up on OpenSpending. The information and links have been added in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AvdkMlz2NopEdElqWTBJS0Q1Q083VlI3YUFLTl9OY0E&usp=sharing).  
+
+We're also working to visualise the cities who are making it on to OpenSpending. You can help by adding cities, which are already on the site in this [GoogleDoc](https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0). 
+
+Last week we had a community call with Alan Hudson from ONE, where we discussed: "How to use spending data to estimate unit costs and development outputs across the world?"
+Notes from the agenda are [here](http://wdmmg.okfnpad.org/22?) and more will follow on this project.  
+
+### Spending transparency around the world
+Back in January Steven Brill published the long read [The Bitter Pill](http://www.time.com/time/magazine/article/0,9171,2136864,00.html), in which he documented the lack of pricing transparency on the American health care market. The story led to this [podcast on Planet Money](http://www.npr.org/blogs/money/2013/02/26/172996963/episode-439-the-mysterious-power-of-a-hospital-bill), where they take up the key sources of the piece - the medical bill and the price lists of American hospitals.    
+
+### Resources
+Marc Maxson used the model of [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law) to analyze financial data from everything from [Kenyan public agenices to international non-profits](http://chewychunks.wordpress.com/2013/02/17/the-weekend-i-audited-the-world/). Benford's Law is known for its ability to analyze distribution across financial transactions to detects irregular concentrations in particular amounts. 
+
+Pulbish What You Fund launched this week a comprehensive Aid TRansparency Tracker. [Mark Brough](https://twitter.com/mark_brough) explained how it works [blog](http://openspending.org/blog/2013/03/13/Launching-the-Aid-Transparency-Tracker.html).
+
+### Events on our radar
+March 15-17: https://docs.google.com/a/okfn.org/document/d/1qq0zvI2Xo45zUZw-_sfxk-Y6DH7icAVtWFqhzMFOc6k/edit
+
+March 18: Deadline for proposals for the [News Challenge](https://www.newschallenge.org/) of the Knight Foundation.
+
+March 19: OpenData "Maker" night in London. OpenSpending will be looking into UK government finances at the. RSVP [here](http://bit.ly/Zpo5OU) 
+
+March 25: Deadline for applications for [Journalism Grants](journagrants.org) on international development issues. 
+
+May 2-4: [Data Harvest](http://www.journalismfund.eu/dataharvest13) will bring geeks, journalists and civi hackers together in Brussels to wrangle EU spending data from [farm subsidies](http://farmsubsidy.org/) and the [Comission](http://openspending.org/eu-commission-fts). We'll be there and regsistration is now open.
+
+We're hosting bi-monthly community calls, and are eager to hear your [ideas](https://twitter.com/openspending) for topics we should cover. 
+How to get involved? Join the discussion on our [mailing list](http://lists.okfn.org/mailman/listinfo/openspending). 
