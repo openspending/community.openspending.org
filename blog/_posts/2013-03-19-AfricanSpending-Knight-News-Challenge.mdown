@@ -6,7 +6,7 @@ type: post
 status: draft
 ---
 
-<!--magazine.image = http://farm9.staticflickr.com/8382/8567258949_406828f94b_c.jpg -->
+<iframe src='http://farm9.staticflickr.com/8382/8567258949_406828f94b_c.jpg' frameborder='0'></iframe>
 
 <strong>The Open Knowledge Foundation, in partnership with the Open Institute in Kenya and the African Media Initiative have submitted a proposal to the Knight News Challenge on Open Government with the title AfricanSpending - Monitoring the Money. The focus of this proposal is enabling journalists & CSOs to effectively track government finances. 
 
