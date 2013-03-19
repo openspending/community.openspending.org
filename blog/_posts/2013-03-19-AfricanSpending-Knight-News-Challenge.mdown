@@ -1,9 +1,9 @@
 ---
 layout: post
 title: AfricanSpending - Knight News Challenge with Open Institute and African Media Initiative
-published: false
+published: true
 type: post
-status: draft
+status: published
 ---
 
 <iframe src='http://farm9.staticflickr.com/8382/8567258949_406828f94b_c.jpg' frameborder='0'></iframe>
