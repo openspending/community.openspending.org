@@ -6,8 +6,6 @@ type: post
 status: published
 ---
 
-<iframe width='600' height='343' src='http://farm9.staticflickr.com/8382/8567258949_406828f94b_c.jpg' frameborder='0'></iframe>
-
 <strong>The Open Knowledge Foundation, in partnership with the Open Institute in Kenya and the African Media Initiative have submitted a proposal to the Knight News Challenge on Open Government with the title AfricanSpending - Monitoring the Money. The focus of this proposal is enabling journalists & CSOs to effectively track government finances. 
 
 We want to develop [AfricanSpending](http://africanspending.org/) as a community driven project to monitor the money in Africa, building on the strong base we have already with OpenSpending and pulling in new types of data, very relevant for Africa... </strong>
@@ -43,8 +41,8 @@ By building on the existing OpenSpending platform, and its world-wide user-group
 
 ### 2. Getting The Data
 
-Whilst the platform will make it much easier for journalists and others to access and understand financial information, it will be of little value if it contains little or no data! A second element of our work will therefore be dedicated effort to obtain and process key Government financial information from as many countries as possible. We've already done substantial work here (Kenya, South Africa, Tanzania, etc), and run regular DataLiberation Scraperthons and [dBootcamp workshops](https://ghana.databootcamp.org) through the 13 African HacksHackers.com chapters that form part of our network.<br>
-
+Whilst the platform will make it much easier for journalists and others to access and understand financial information, it will be of little value if it contains little or no data! A second element of our work will therefore be dedicated effort to obtain and process key Government financial information from as many countries as possible. We've already done substantial work here (Kenya, South Africa, Tanzania, etc), and run regular DataLiberation Scraperthons and [dBootcamp workshops](https://ghana.databootcamp.org) through the 13 African HacksHackers.com chapters that form part of our network.
+<br>
 <img alt="" src="http://farm9.staticflickr.com/8108/8567258995_3185321aa4_n.jpg" title="Oluseun Onigbinde speaks at OKFestival" class="pull-right" style="margin-left: 1em;" />
 <br>
 We also have working relationships with groups with relevant knowledge and skills elsewhere (e.g. Nigeria BudgIT and Revenue Watch on extractives, etc) and are assisting the 14-member African Network of Centers for Investigative Reporting (ANCIR) with their investigation into the African extractives industry.
