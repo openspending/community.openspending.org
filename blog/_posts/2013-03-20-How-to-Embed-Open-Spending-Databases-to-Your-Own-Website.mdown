@@ -31,9 +31,9 @@ So, if you're a journalist looking to add an interactive to your online news sto
 The reason it's possible to embed code comes down to the Open Spending widgets.
 
 In very simplified terms a widget is a piece of code you can add into your webpage, and it pulls data -- in this case from the Open Spending database -- so you don't need to store datasets yourself. If you have any difficulties or questions about using the Open Spending widgets, then please don't hesitate to [contact us](http://lists.okfn.org/mailman/listinfo/openspending). If you're curious about how the widget code works, then here are three examples shown in jsfiddle where you can see the full web environment for the:<br>
-<il>Bubble Tree</il><br>
-<il>Tree Map</il><br>
-<il>Aggregate Table</il>
+<il>[Bubble Tree](http://jsfiddle.net/vitorbaptista/jhaKT/)</il><br>
+<il>[Tree Map](http://jsfiddle.net/vitorbaptista/RVdNt/)</il><br>
+<il>[Aggregate Table](http://jsfiddle.net/vitorbaptista/mFVMv/)</il>
 <br>
 The three main visualizations we offer at the moment are listed below along with links to the open-source code on Github.
 
@@ -48,11 +48,11 @@ Widget code for the bubble tree on Github is [here](https://github.com/openspend
 <img alt="" src="http://www.pbs.org/idealab/squares.png" class="pull-right" style="margin-left: 1em;" />
 <br>
 Widget code for the tree map on Github is [here](https://github.com/openspending/openspendingjs/tree/master/widgets/treemap).
-
+<br>
 ### The table view
-
+<br>
 <img alt="" src="http://www.pbs.org/idealab/table.png" class="pull-right" style="margin-left: 1em;" />
-
+<br>
 Widget code for the table view on Github is [here](https://github.com/openspending/openspendingjs/tree/master/widgets/aggregate_table).
 
 And it's likely more interactive displays will be available over time. Have fun with the widgets. Let us know how easy you find them to use and when you use them by posting a link to your site on the Open Spending mailing list.
