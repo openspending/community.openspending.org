@@ -49,5 +49,6 @@ Widget code for the tree map on Github is [here](https://github.com/openspending
 <img alt="" src="http://www.pbs.org/idealab/table.png" class="pull-right" style="margin-left: 1em;" />
 <br>
 Widget code for the table view on Github is [here](https://github.com/openspending/openspendingjs/tree/master/widgets/aggregate_table).
-
+<br>
 And it's likely more interactive displays will be available over time. Have fun with the widgets. Let us know how easy you find them to use and when you use them by posting a link to your site on the Open Spending mailing list.
+<br>
