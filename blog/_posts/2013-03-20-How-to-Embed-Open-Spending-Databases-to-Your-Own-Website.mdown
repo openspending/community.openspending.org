@@ -17,9 +17,12 @@ Let's say you have chosen a visualization on the Open Spending platform; notice 
 
 <img alt="" src="http://www.pbs.org/idealab/budget-eg-line.png" title="A visualised budget can easily be embedded" class="pull-right" style="margin-left: 1em;" />
 <br>
+<br>
 Just click "embed" and you'll be presented with the code to embed on your website and some options for the size (in pixels) of the interactive.
 <br>
+<br>
 <img alt="" src="http://www.pbs.org/idealab/embed.png" class="pull-right" style="margin-left: 1em;" />
+<br>
 <br>
 The rest is just cut and pasting this code extract into your site.
 
@@ -35,15 +38,15 @@ In very simplified terms a widget is a piece of code you can add into your webpa
 The three main visualizations we offer at the moment are listed below along with links to the open-source code on Github.
 
 ### The bubble tree
-
+<br>
 <img alt="" src="http://www.pbs.org/idealab/bubble.png" >
-
+<br>
 Widget code for the bubble tree on Github is [here](https://github.com/openspending/openspendingjs/tree/master/widgets/bubbletree).
 
 ### The tree map
-
+<br>
 <img alt="" src="http://www.pbs.org/idealab/squares.png" class="pull-right" style="margin-left: 1em;" />
-
+<br>
 Widget code for the tree map on Github is [here](https://github.com/openspending/openspendingjs/tree/master/widgets/treemap).
 
 ### The table view
