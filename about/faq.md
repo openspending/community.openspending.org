@@ -33,6 +33,10 @@ Whether you are technical or non-technical. Whether your aims are advocacy, jour
 
 See the [get involved](contribute.html) page for more information. 
 
+### What kind of language support do you offer?
+We currently provide language versions of the OpenSpending platform in Greek, Indonesian and Italian. We expect to enable French as well as other languages in the near future.
+You can help translate OpenSpending into another language at our [Transifex page](https://www.transifex.com/projects/p/openspending/).
+
 ### How are you funded? 
 
 OpenSpending is a community-run project, but it would not be able to exist without the generous support of many organisations. See [this page](funders.html) for more information. 
