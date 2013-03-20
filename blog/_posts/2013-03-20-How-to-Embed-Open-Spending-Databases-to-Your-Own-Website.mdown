@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How to Embed Open Spending Databases to Your Own Website
-published: false
+published: true
 type: post
-status: draft
+status: published
 ---
 
 This post is by [Lisa Evans](https://twitter.com/objectgroup) of the Spending Stories project at OpenSpending and cross-posted from the [PBS Idea Lab](http://www.pbs.org/idealab/2013/03/how-to-embed-open-spending-databases-to-your-own-website078.html).
@@ -34,11 +34,11 @@ In very simplified terms a widget is a piece of code you can add into your webpa
 <br>
 The three main visualizations we offer at the moment are listed below along with links to the open-source code on Github.
 
-### The bubble chart
+### The bubble tree
 
 <img alt="" src="http://www.pbs.org/idealab/bubble.png" class="pull-right" style="margin-left: 1em;" />
 
-Widget code for the bubble chart on Github is [here](https://github.com/openspending/openspendingjs/tree/master/widgets/bubbletree).
+Widget code for the bubble tree on Github is [here](https://github.com/openspending/openspendingjs/tree/master/widgets/bubbletree).
 
 ### The tree map
 
