@@ -16,11 +16,11 @@ For some time now, users have been able to [upload](http://openspending.org/help
 Let's say you have chosen a visualization on the Open Spending platform; notice there's an "embed" button at the bottom right of the webpage. The red arrow points to the button below.
 
 <img alt="" src="http://www.pbs.org/idealab/budget-eg-line.png" title="A visualised budget can easily be embedded" class="pull-right" style="margin-left: 1em;" />
-
+<br>
 Just click "embed" and you'll be presented with the code to embed on your website and some options for the size (in pixels) of the interactive.
-
+<br>
 <img alt="" src="http://www.pbs.org/idealab/embed.png" class="pull-right" style="margin-left: 1em;" />
-
+<br>
 The rest is just cut and pasting this code extract into your site.
 
 So, if you're a journalist looking to add an interactive to your online news story, an NGO looking to show spending on your cause, or you work in a government department and want to show how you allocate funds, then you can add this code to your site. If you are unsure how to paste the code then contact your site administrator.
@@ -28,15 +28,15 @@ So, if you're a journalist looking to add an interactive to your online news sto
 The reason it's possible to embed code comes down to the Open Spending widgets.
 
 In very simplified terms a widget is a piece of code you can add into your webpage, and it pulls data -- in this case from the Open Spending database -- so you don't need to store datasets yourself. If you have any difficulties or questions about using the Open Spending widgets, then please don't hesitate to [contact us](http://lists.okfn.org/mailman/listinfo/openspending). If you're curious about how the widget code works, then here are three examples shown in jsfiddle where you can see the full web environment for the:<br>
-<il>Bubble Tree</il>
-<il>Tree Map</il>
+<il>Bubble Tree</il><br>
+<il>Tree Map</il><br>
 <il>Aggregate Table</il>
 <br>
 The three main visualizations we offer at the moment are listed below along with links to the open-source code on Github.
 
 ### The bubble tree
 
-<img alt="" src="http://www.pbs.org/idealab/bubble.png" class="pull-right" style="margin-left: 1em;" />
+<img alt="" src="http://www.pbs.org/idealab/bubble.png" >
 
 Widget code for the bubble tree on Github is [here](https://github.com/openspending/openspendingjs/tree/master/widgets/bubbletree).
 
