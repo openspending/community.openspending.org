@@ -1,9 +1,9 @@
 ---
 layout: post
 title: FAQ: Daily Bread in the UK
-published: draft
+published: true
 type: post
-status: false
+status: published
 ---
 
 FAQ: Daily Bread in the UK
