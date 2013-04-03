@@ -8,14 +8,9 @@ status: false
 
 FAQ: Daily Bread in the UK
 
-The release of the budget proposal from the UK government in March, once again sparked interest in the [Daily Bread calculator](http://wheredoesmymoneygo.org/dailybread.html), which was featured over at the [Guardian](http://www.guardian.co.uk/uk/datablog/interactive/2013/mar/20/budget-2013-how-taxes-spent-interactive). 
+The annual release of the [budget proposal](http://www.guardian.co.uk/news/datablog/2010/oct/18/deficit-debt-government-borrowing-data) from the UK government last month, once again sparked interest in the [Daily Bread calculator](http://wheredoesmymoneygo.org/dailybread.html), which was featured at the [Guardian](http://www.guardian.co.uk/uk/datablog/interactive/2013/mar/20/budget-2013-how-taxes-spent-interactive). 
 
-With this guide we're providing a quick methodological walk-trough on how and why we made the calculations behind the Daily Bread. 
-
-### How does Daily Bread Calculate the tax I pay?
-Which Year does Daily Bread calculate taxes for?
-How does Daily Bread workout how much my tax contributes to public spending?
-Where can I find the code behind Daily Bread?
+This FAQ is intended to give you a quick walk-trough on how and why we made the calculations behind the Daily Bread. If you have any questions or comments, please let us know on the [OpenSpending list](http://lists.okfn.org/mailman/listinfo/openspending). 
 
 ### How does Daily Bread Calculate the tax I pay?
 We use the tax rates available at the [HM Revenue and Customs (HMRC)](http://www.hmrc.gov.uk/rates/it.htm) to calculate the tax you pay. For each year from 2000 to 2012, HMRC provides information about the amount of money you could earn before you had to start paying tax on it. In 2013-14 you can earn £9,440 before you are taxed. 
