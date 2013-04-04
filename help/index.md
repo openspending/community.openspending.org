@@ -57,7 +57,7 @@ layout: help_frame
         <img src="images/kit_teaser.png" />
         <h3>Make your own budget monitoring site</h3>
         <ul>
-            <li>Read the <a href="/blog/2012/02/16/thekit.html">intro to the Where Does My Money Go? Assembly Kit</a> and <a href="https://github.com/openspending/wheredoesmymoneygo.org/blob/master/README.rst">follow the intro</a>.</li>
+            <li>Read the <a href="/blog/2012/02/16/thekit.html">intro to the Where Does My Money Go? Assembly Kit</a> and <a href="https://github.com/openspending/satellite-template#readme">follow the intro</a>.</li>
             <li><a href="api.html">Experiment with our API</a> to power custom visualizations.</li>
             <li>Browse <a href="http://github.com/openspending/openspendingjs">existing JavaScript apps</a> on GitHub.</li>
         </ul>

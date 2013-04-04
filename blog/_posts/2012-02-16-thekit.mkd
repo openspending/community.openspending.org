@@ -26,4 +26,4 @@ Our next step in March will be to make it easier for users - especially Journali
 
 Our goal is to make OpenSpending the easiest way to publish and analyze a government finance dataset - with your help! So please provide us with feedback and contribute your own visualizations to the OpenSpending platform.
 
-* [Assembly Kit](https://github.com/openspending/wheredoesmymoneygo.org)
+* [Assembly Kit](https://github.com/openspending/satellite-template)
