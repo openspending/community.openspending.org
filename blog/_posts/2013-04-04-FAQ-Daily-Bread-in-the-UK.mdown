@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAQ - The Daily Bread 
+title: FAQ - The Daily Bread in the UK
 published: true
 type: post
 status: published
@@ -10,7 +10,7 @@ The annual release of the [budget proposal](http://www.guardian.co.uk/news/datab
 
 This FAQ is intended to give you a quick walk-trough on how and why we made the calculations behind the Daily Bread. If you have any questions or comments, we will be thrilled to hear from you on the [OpenSpending list](http://lists.okfn.org/mailman/listinfo/openspending). 
 
-### How does Daily Bread Calculate the tax I pay?
+### How does Daily Bread calculate the tax I pay?
 We use the tax rates available at the [HM Revenue and Customs (HMRC)](http://www.hmrc.gov.uk/rates/it.htm) to calculate the tax you pay. For each year from 2000 to 2012, HMRC provides information about the amount of money you could earn before you had to start paying tax on it. In 2013-14 you can earn £9,440 before you are taxed. 
 
 We then take factors (deductions), which will raise your non-taxable income limit even higher. For instance blind people receive an additional £2,100 to their £9,440 non taxable income limit, which bring their non-taxable income to £11,600 (that's £2,160 + £9,440).
