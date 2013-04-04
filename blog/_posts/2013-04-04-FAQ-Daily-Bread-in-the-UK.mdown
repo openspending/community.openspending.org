@@ -6,8 +6,6 @@ type: post
 status: published
 ---
 
-FAQ: Daily Bread in the UK
-
 The annual release of the [budget proposal](http://www.guardian.co.uk/news/datablog/2010/oct/18/deficit-debt-government-borrowing-data) from the UK government last month, once again sparked interest in the [Daily Bread calculator](http://wheredoesmymoneygo.org/dailybread.html), which was featured at the [Guardian](http://www.guardian.co.uk/uk/datablog/interactive/2013/mar/20/budget-2013-how-taxes-spent-interactive). 
 
 This FAQ is intended to give you a quick walk-trough on how and why we made the calculations behind the Daily Bread. If you have any questions or comments, we will be thrilled to hear from you on the [OpenSpending list](http://lists.okfn.org/mailman/listinfo/openspending). 
