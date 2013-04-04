@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAQ: Daily Bread in the UK
+title: FAQ - Daily Bread in the UK
 published: true
 type: post
 status: published
