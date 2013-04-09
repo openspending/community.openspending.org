@@ -15,14 +15,22 @@ We're therefore pretty excited to announce that OpenSpending will invite for a H
 We hope that you'll [join us](http://procurement-hack.eventbrite.com/#) in person or remotely. 
 
 ### Why open up procurements?
-Procurement data has for good reasons enjoyed less attention from journalists than for instance spending data. A major reason for this is the that we have yet to develop [good data feeds](http://pudo.org/blog/2013/04/08/inklink-eu-through-data.html) for procurement data.
+Procurement data has for good reasons enjoyed less attention from journalists than for instance spending data. A major reason for this is the that we have yet to develop [good data feeds](http://pudo.org/blog/2013/04/08/inklink-eu-through-data.html) for the more than 100,000 contracts, which are published annually by the [European procurement register](https://ted.europa.eu). There are however many reasons to take a dive into contracts as they can help fill out the blanks. 
+
+####When spending data is unavailable 
+Most European governments have yet to publish transactional spending data as for instance done in the [UK](http://openspending.org/ukgov-25k-spending) and [Slovenia](https://www.kpk-rs.si/en/faq/supervizor). And outside the UK we should not even get staretd on the lack of spending data at regional and municipal level. Therefore procurement data on contracts awarded from any public above the EU threshold at approx. EUR 200,000, is often the only resort for a paper trail documenting public spending on particular contractors.       
+
+####A back door into publicly owned companies: 
+We've not managed yet to gain access to publicly owned companies such as utilities and transportation. However with EU procurement rules, we can for instance search among the more than 500 contracts awarded by Vattenfall across Europe, such as [this contract in Berlin](http://ted.europa.eu/udl?uri=TED:NOTICE:12176-2013:TEXT:EN:HTML&src=0), due to the fact that it is majority owned by the Swedish state. 
+
+####Contracts - source for single stories
+Journalists can use contract data to tell the stories on questionable [recipients of contracts](http://euobserver.com/institutional/116152) or [no-bid contracts](http://en.wikipedia.org/wiki/No-bid_contract), when authorities "forgets" to announce a formal tender process. An open and searchable database of contracts would innevetable improve the possibilities for covering such procurement processes more systematic. Would it be possible to create an alert, which notified journalists whenever a payment above EUR 200,000 was done to a supplier in the spending data, whithout appearing in the register for official contract winners?  
+
+- Public bodies: Getting good data on public agencies is an ongong discussion. From TED we've got more than 750,000 contracts, each including the name, address and contact details of the procuring authority. Could this offer a first basis for European public bodies? 
+
 - Accuracy: Spending data data offers the final amount each payment - ie. in this case all purchases at [IBM for the UK Department of Transportation](http://openspending.org/ukgov-25k-spending/from/driver-and-vehicle-licensing-agency/entries#from:driver-and-vehicle-licensing-agency/to:ibm-united-kingdom-limited). For contracts the indicated amount will often merly include a total sum for the entirety of the contract. 
 - Contracts are mostly bulks of messy strings: Add to the the numerical inaccuracy, the limited usefulness of contract award notices where services or works are described in very simplified terms as big strings blocks.
 
-When we want to look more closely at contracts it's because they can sometimes help fill out the blanks when spending data is missing:
-- When spending data is unavailable: Most European governments have yet to publish transactional spending data as is the fact in for instance the [UK](http://openspending.org/ukgov-25k-spending) and [Slovenia](https://www.kpk-rs.si/en/faq/supervizor). And outside the UK we should not even get staretd on the lack of spending data at regional and municipal level. Therefore procurement data on contracts awarded from any public above the EU threshold at approx. EUR 200,000, is often the only resort for a paper trail doumenting public spending on particular contractors.       
-- Publicly owned companies: We've not managed yet to gain access to publicly owned companies such as utilities and transportation. However with EU procurement rules, we can for instance search among the more than 500 contracts awarded by Vattenfall across Europe, such as [this contract in Berlin](http://ted.europa.eu/udl?uri=TED:NOTICE:12176-2013:TEXT:EN:HTML&src=0), due to the fact that it is majority owned by the Swedish state. 
-- Public bodies: Getting good data on public agencies is an ongong discussion. From TED we've got more than 750,000 contracts, each including the name, address and contact details of the procuring authority. Could this offer a first basis for European public bodies? 
 
 Now trasparency organisations have been on the look out on this for a while. 
 http://www.timdavies.org.uk/2013/04/04/developing-data-standards-for-open-contracting/
