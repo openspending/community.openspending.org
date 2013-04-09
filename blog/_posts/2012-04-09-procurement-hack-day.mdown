@@ -6,14 +6,33 @@ type: post
 status: draft
 ---
 
-The Open Data Census recently revealed that transactional spending is slowly picking up and is published in countries like Slovenia and Czech Republic. In most European countries spending data remains unavailable to the public.
+Next month OpenSpending will be at the annual DataHarvest when investigative journalists and civic hackers dig deep into data projects from across Europe. The DataHarvest takes it name from the annual release of farm subsidy data, which is again this year crunched by Farmsubsidy.org.
 
-Procurement - a detour to transactional spending data
+At OpenSpending we've got a project on EU procurements, which would be great to share with journalists. Opented.org did some of the ground work [scraping](http://opented.org/code-repositories/) and parsing of the [TED data](http://opented.org/getthedata/). 
+
+We're therefore pretty excited to announce that OpenSpending will invite for a Hack Day on procurement data on May 2 thanks to the support of @pudo and [Mozilla OpenNews](http://www.mozillaopennews.org/). 
+
+We hope that you'll [join us](http://procurement-hack.eventbrite.com/#) in person or remotely. 
+
+### Why open up procurements?
+Procurement data has for good reasons enjoyed less attention from journalists than for instance spending data. A major reason for this is the that we have yet to develop [good data feeds](http://pudo.org/blog/2013/04/08/inklink-eu-through-data.html) for procurement data.
+- Accuracy: Spending data data offers the final amount each payment - ie. in this case all purchases at [IBM for the UK Department of Transportation](http://openspending.org/ukgov-25k-spending/from/driver-and-vehicle-licensing-agency/entries#from:driver-and-vehicle-licensing-agency/to:ibm-united-kingdom-limited). For contracts the indicated amount will often merly include a total sum for the entirety of the contract. 
+- Contracts are mostly bulks of messy strings: Add to the the numerical inaccuracy, the limited usefulness of contract award notices where services or works are described in very simplified terms as big strings blocks.
+
+When we want to look more closely at contracts it's because they can sometimes help fill out the blanks when spending data is missing:
+- When spending data is unavailable: Most European governments have yet to publish transactional spending data as is the fact in for instance the [UK](http://openspending.org/ukgov-25k-spending) and [Slovenia](https://www.kpk-rs.si/en/faq/supervizor). And outside the UK we should not even get staretd on the lack of spending data at regional and municipal level. Therefore procurement data on contracts awarded from any public above the EU threshold at approx. EUR 200,000, is often the only resort for a paper trail doumenting public spending on particular contractors.       
+- Publicly owned companies: We've not managed yet to gain access to publicly owned companies such as utilities and transportation. However with EU procurement rules, we can for instance search among the more than 500 contracts awarded by Vattenfall across Europe, such as [this contract in Berlin](http://ted.europa.eu/udl?uri=TED:NOTICE:12176-2013:TEXT:EN:HTML&src=0), due to the fact that it is majority owned by the Swedish state. 
+- Public bodies: Getting good data on public agencies is an ongong discussion. From TED we've got more than 750,000 contracts, each including the name, address and contact details of the procuring authority. Could this offer a first basis for European public bodies? 
+
+Now trasparency organisations have been on the look out on this for a while. 
+http://www.timdavies.org.uk/2013/04/04/developing-data-standards-for-open-contracting/
+
+
+In  transactional spending is slowly picking up and is published in countries like Slovenia and Czech Republic. In most European countries spending data remains unavailable to the public.
 
 So, while we wait for transactional spending data to be released, here are a few things we'd like from procurement data:
 
 ### What public agencies are outsourcing
-
 Some of the differences in data quality stems from the legal nature of the data. Transactional spending originates from financial reporting systems. They are accountable to internal management and auditors. Procurement data tends to be viewed as legal documents, as contract awards contain a contractual agreement between parties. 
 
 In practise this means that procurement data, at least in the European tender register, should informs us of the kind of work being contracted including within the socalled NACE system. In this way we can potentially detect if suppliers win contracts across a wide variety of works and services, which could be seen as either a sign of a vercatile company or a red flag for corrupt practises. 
