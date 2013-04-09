@@ -20,39 +20,17 @@ Procurement data has for good reasons enjoyed less attention from journalists th
 ####When spending data is unavailable 
 Most European governments have yet to publish transactional spending data as for instance done in the [UK](http://openspending.org/ukgov-25k-spending) and [Slovenia](https://www.kpk-rs.si/en/faq/supervizor). And outside the UK we should not even get staretd on the lack of spending data at regional and municipal level. Therefore procurement data on contracts awarded from any public above the EU threshold at approx. EUR 200,000, is often the only resort for a paper trail documenting public spending on particular contractors.       
 
-####A back door into publicly owned companies: 
+####A back door into publicly owned companies 
 We've not managed yet to gain access to publicly owned companies such as utilities and transportation. However with EU procurement rules, we can for instance search among the more than 500 contracts awarded by Vattenfall across Europe, such as [this contract in Berlin](http://ted.europa.eu/udl?uri=TED:NOTICE:12176-2013:TEXT:EN:HTML&src=0), due to the fact that it is majority owned by the Swedish state. 
 
 ####Contracts - source for single stories
 Journalists can use contract data to tell the stories on questionable [recipients of contracts](http://euobserver.com/institutional/116152) or [no-bid contracts](http://en.wikipedia.org/wiki/No-bid_contract), when authorities "forgets" to announce a formal tender process. An open and searchable database of contracts would innevetable improve the possibilities for covering such procurement processes more systematic. Would it be possible to create an alert, which notified journalists whenever a payment above EUR 200,000 was done to a supplier in the spending data, whithout appearing in the register for official contract winners?  
 
-- Public bodies: Getting good data on public agencies is an ongong discussion. From TED we've got more than 750,000 contracts, each including the name, address and contact details of the procuring authority. Could this offer a first basis for European public bodies? 
+###Why we're still short of good data feed for EU procurements 
+When journalists haven't spend more time extractng data from TED until now there are however a few reasons. 
+If spending data is available, it will tend to be more accurate as it depicts the final amount of each payment - ie. all purchases at [IBM for the UK Department of Transportation](http://openspending.org/ukgov-25k-spending/from/driver-and-vehicle-licensing-agency/entries#from:driver-and-vehicle-licensing-agency/to:ibm-united-kingdom-limited). For contracts the indicated amount will often merly include a total sum for the entirety of the contract. It is also the case that contracts tend to contain lots of messy text data, where the service or work is described in simplified terms.
 
-- Accuracy: Spending data data offers the final amount each payment - ie. in this case all purchases at [IBM for the UK Department of Transportation](http://openspending.org/ukgov-25k-spending/from/driver-and-vehicle-licensing-agency/entries#from:driver-and-vehicle-licensing-agency/to:ibm-united-kingdom-limited). For contracts the indicated amount will often merly include a total sum for the entirety of the contract. 
-- Contracts are mostly bulks of messy strings: Add to the the numerical inaccuracy, the limited usefulness of contract award notices where services or works are described in very simplified terms as big strings blocks.
+Transparency organisations and international institutions have however also begun looking at contract data, though until now mostly outside the EU. The last year has seen lots of new initiatives on procurement including #opencontracting from WBI and Sunight's [Procurement Initiative](http://sunlightfoundation.com/blog/2013/03/11/announcing-a-new-procurement-initiative/). A few weeks back the folks at WBI helped lay out some ground work for [a draft for a data standard](https://github.com/birdsarah/oc-datamerge-spike/tree/master/draft-standard) based on procurement data from the UK, US, Columbia, the Phillipines and the World Bank. For EU procurement data, I've helped write up a similar suggested draft at [OpenTed](http://opented.org/getthedata/data-standards-in-procurement/). 
+Tim Davies recently wrote up this account on the work to sort out a  [draft of a contracting data standard](http://www.timdavies.org.uk/2013/04/04/developing-data-standards-for-open-contracting/).   
 
-
-Now trasparency organisations have been on the look out on this for a while. 
-http://www.timdavies.org.uk/2013/04/04/developing-data-standards-for-open-contracting/
-
-
-In  transactional spending is slowly picking up and is published in countries like Slovenia and Czech Republic. In most European countries spending data remains unavailable to the public.
-
-So, while we wait for transactional spending data to be released, here are a few things we'd like from procurement data:
-
-### What public agencies are outsourcing
-Some of the differences in data quality stems from the legal nature of the data. Transactional spending originates from financial reporting systems. They are accountable to internal management and auditors. Procurement data tends to be viewed as legal documents, as contract awards contain a contractual agreement between parties. 
-
-In practise this means that procurement data, at least in the European tender register, should informs us of the kind of work being contracted including within the socalled NACE system. In this way we can potentially detect if suppliers win contracts across a wide variety of works and services, which could be seen as either a sign of a vercatile company or a red flag for corrupt practises. 
-
-### getting comparable data up
-The last year has seen lots of new initiatives on procurement including #opencontracting from WBI and Sunight's [Procurement Initiative](http://sunlightfoundation.com/blog/2013/03/11/announcing-a-new-procurement-initiative/). A few weeks back the folks at WBI helped lay out some ground work for [a draft for a data standard](https://github.com/birdsarah/oc-datamerge-spike/tree/master/draft-standard) based on procurement data from the UK, US, Columbia, the Phillipines and the World Bank. For EU procurement data, I've helped write up a similar suggested draft at [OpenTed](http://opented.org/getthedata/data-standards-in-procurement/). 
-
-### Do governments practise what they preach on procurement?
-A dy hardly go by without a senior government official or a government praise the work of small and medium sized businesses. An [EU Commission study from 2010](http://ec.europa.eu/enterprise/policies/sme/business-environment/files/smes_access_to_public_procurement_final_report_2010_en.pdf) however concluded that public procurements in EU countries are awarded proportionally less to SME's compared to their actual share of the economy. From 2006-2008 SMEs won contracts  equivalent to 31% to 38% of the total contract value, despite the fact that their share in total turnover was 52%."
-
-http://cor.europa.eu/fr/news/highlights/Pages/Public-procurement-SMEs-financial-crisis.aspx
-
-For journalists this can be real hazzle, bacause it severely limits the ability to track how government deals with suppliers.  
-
-http://www.journalismfund.eu/programme
+We hope to see you at the Procurement Hack Day in Brussels on May 2
