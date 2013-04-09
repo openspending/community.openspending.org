@@ -1,0 +1,31 @@
+---
+layout: post
+title: Join us for Hack Day on EU procurement data May 2 in Brussels
+published: false
+type: post
+status: draft
+---
+
+The Open Data Census recently revealed that transactional spending is slowly picking up and is published in countries like Slovenia and Czech Republic. In most European countries spending data remains unavailable to the public.
+
+Procurement - a detour to transactional spending data
+
+So, while we wait for transactional spending data to be released, here are a few things we'd like from procurement data:
+
+### What public agencies are outsourcing
+
+Some of the differences in data quality stems from the legal nature of the data. Transactional spending originates from financial reporting systems. They are accountable to internal management and auditors. Procurement data tends to be viewed as legal documents, as contract awards contain a contractual agreement between parties. 
+
+In practise this means that procurement data, at least in the European tender register, should informs us of the kind of work being contracted including within the socalled NACE system. In this way we can potentially detect if suppliers win contracts across a wide variety of works and services, which could be seen as either a sign of a vercatile company or a red flag for corrupt practises. 
+
+### getting comparable data up
+The last year has seen lots of new initiatives on procurement including #opencontracting from WBI and Sunight's [Procurement Initiative](http://sunlightfoundation.com/blog/2013/03/11/announcing-a-new-procurement-initiative/). A few weeks back the folks at WBI helped lay out some ground work for [a draft for a data standard](https://github.com/birdsarah/oc-datamerge-spike/tree/master/draft-standard) based on procurement data from the UK, US, Columbia, the Phillipines and the World Bank. For EU procurement data, I've helped write up a similar suggested draft at [OpenTed](http://opented.org/getthedata/data-standards-in-procurement/). 
+
+### Do governments practise what they preach on procurement?
+A dy hardly go by without a senior government official or a government praise the work of small and medium sized businesses. An [EU Commission study from 2010](http://ec.europa.eu/enterprise/policies/sme/business-environment/files/smes_access_to_public_procurement_final_report_2010_en.pdf) however concluded that public procurements in EU countries are awarded proportionally less to SME's compared to their actual share of the economy. From 2006-2008 SMEs won contracts  equivalent to 31% to 38% of the total contract value, despite the fact that their share in total turnover was 52%."
+
+http://cor.europa.eu/fr/news/highlights/Pages/Public-procurement-SMEs-financial-crisis.aspx
+
+For journalists this can be real hazzle, bacause it severely limits the ability to track how government deals with suppliers.  
+
+http://www.journalismfund.eu/programme
