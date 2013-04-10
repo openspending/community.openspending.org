@@ -6,11 +6,11 @@ type: post
 status: published
 ---
 
-Next month OpenSpending will be at the annual DataHarvest when investigative journalists and civic coders dig into data projects from across Europe. The DataHarvest takes it name from the annual release of payments to farmers under the Common Agricultural Policy, which is crunched by the folks at [Farmsubsidy](www.farmsubsidy.org).
+Next month OpenSpending will be at the annual [DataHarvest](http://www.journalismfund.eu/dataharvest13), where investigative journalists and civic coders dig into data projects from across Europe. The DataHarvest takes it name from the annual release of payments to farmers under the Common Agricultural Policy analyzes by the friends at [Farmsubsidy](www.farmsubsidy.org).
 
-At OpenSpending we wanted to follow up on the work on EU procurements, which we believe could be a great source to share with journalists. Opented.org did some of the ground work [scraping](http://opented.org/code-repositories/) and parsing of the [TED data](http://opented.org/getthedata/). 
+We wanted to follow up on the work on EU procurements, which could become a useful source for journalists. Opented.org did some of the ground work [scraping](http://opented.org/code-repositories/) and parsing of the data from the [European procurement register, TED](http://opented.org/getthedata/). 
 
-We're therefore excited to invite for a Hack Day on procurement data on May 2 thanks to the [Mozilla OpenNews programme](http://www.mozillaopennews.org/). 
+We're therefore excited to host a Hack Day on procurement data on May 2 before the DataHarvest thanks to the [Mozilla OpenNews programme](http://www.mozillaopennews.org/). 
 
 We hope that you'll [join us](http://procurement-hack.eventbrite.com/#) in person or remotely. 
 
