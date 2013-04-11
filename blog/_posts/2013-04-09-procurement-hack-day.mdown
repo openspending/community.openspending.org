@@ -12,7 +12,7 @@ We wanted to follow up on the work on EU procurements, which could become a usef
 
 We're therefore excited to host a Hack Day on procurement data on May 2 before the DataHarvest thanks to the [Mozilla OpenNews programme](http://www.mozillaopennews.org/). 
 
-We hope that you'll [join us](http://procurement-hack.eventbrite.com/#) in person or remotely. 
+**Register [here](http://procurement-hack.eventbrite.com/#)!** 
 
 ### Why open up procurements?
 Procurement data tended, for good reasons, to enjoy much less attention from journalists than for instance spending data. A major reason is the fact that contract information tend to be more about text than spreadsheets, but also because access to aggregate data has been limited. However with access to more than 100,000 public sector contracts annually from the [European procurement register](https://ted.europa.eu) originating from tiny municipalities to large government agencies, there are good reasons to explore if contracts can help fill out the blanks. What is needed is good data feeds, which can provide journalists with contract data beyond the single search options offered at TED. So how does contract data supplement other data sources?
