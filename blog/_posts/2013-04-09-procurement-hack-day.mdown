@@ -10,7 +10,7 @@ Next month OpenSpending will be at the annual [DataHarvest](http://www.journalis
 
 We wanted to follow up on the work on EU procurements, which could become a useful source for journalists. Opented.org did some of the ground work [scraping](http://opented.org/code-repositories/) and parsing of the data from the [European procurement register, TED](http://opented.org/getthedata/). 
 
-We're therefore excited to host a Hack Day on procurement data on May 2 before the DataHarvest thanks to the [Mozilla OpenNews programme](http://www.mozillaopennews.org/). 
+We're therefore excited to host a Hack Day on procurement data on May 2 before the DataHarvest thanks to support from the [Mozilla OpenNews programme](http://www.mozillaopennews.org/). 
 
 **Register [here](http://procurement-hack.eventbrite.com/#)!** 
 
