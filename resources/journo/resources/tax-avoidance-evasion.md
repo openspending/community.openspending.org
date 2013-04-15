@@ -63,7 +63,7 @@ An online book retailer might have a company specifically for its book sales bas
 
 Alternatively if you are interested in ways that tax avoidance may be managed they are recommended to investigate the General Anti-Abuse Rule (GAAR) that is being developed at the moment [here](http://www.hm-treasury.gov.uk/tax_avoidance_gaar.htm). The rule aims to deter abusive tax avoidance by reducing legal uncertainty around what constitutes aggressive tax evasion and what constitutes legitimate tax planning. 
 
-### Route 2: Tax evasion
+## Route 2: Tax evasion
 
 If your selection was tax evasion rather than tax avoidance then you can choose the severity of the evasion; ranging from shadow market to individuals evading tax and wanted by the tax authorities.
 
@@ -80,11 +80,11 @@ The individuals considered to be evading tax and with a warrant issued by a UK c
 
 So, we've described the main routes for this little exercise in tax reporting. Below, we've suggested some possible challenges for you to investigate yourselves - please let us know via the [open spending mailing list](http://lists.okfn.org/mailman/listinfo/openspending) if you have any success in uncovering avoidance or evasion via these routes!
 
-#### Challenges 
+### Challenges 
 
-1) Write a piece on how the K2 scheme works, who has been shown to use it and which organisations facilitate it.
-2) Show the history of the EBT scheme, who used it and how did HMRC attempt to stop the use of EBT schemes.
-3) Pick one of Starbucks, Amazon or Google who were recently accused of tax avoidance and take a look at the [written evidence](http://www.publications.parliament.uk/pa/cm201213/cmselect/cmpubacc/writev/716/contents.htm) for their taxable involvement in the UK. Use this a basis for an explanation of the company's specific tax avoidance mechanism.
-4) Collate and compare different estimates of the size of the shadow market in a wide range of countries. The reports with estimates we suggest are from [the European Commission](http://ec.europa.eu/europe2020/pdf/themes/06_shadow_economy.pdf) and the [IMF](http://www.imf.org/external/pubs/ft/wp/2012/wp1247.pdf) but other sources should be added. You can explore the significants of the shadow market and measures to reduce its size.
-5) Classify tax evaders published on the [official HMRC account](http://www.flickr.com/photos/hmrcgovuk/sets/72157631087785530)  for example as importing goods without paying UK tax and fraudulently claiming state benefits etc. Then to put these individual costs in the context of cost estimates for these crimes in the country as a whole. For example we can get overall cost of benefit fraud [here](http://research.dwp.gov.uk/asd/asd2/index.php?page=fraud_error) and the loss of funds through importing goods without paying tax from this [HMRC report on tax gaps](http://www.hmrc.gov.uk/research/direct-tax-gaps.pdf).
+1. Write a piece on how the K2 scheme works, who has been shown to use it and which organisations facilitate it.
+2. Show the history of the EBT scheme, who used it and how did HMRC attempt to stop the use of EBT schemes.
+3. Pick one of Starbucks, Amazon or Google who were recently accused of tax avoidance and take a look at the [written evidence](http://www.publications.parliament.uk/pa/cm201213/cmselect/cmpubacc/writev/716/contents.htm) for their taxable involvement in the UK. Use this a basis for an explanation of the company's specific tax avoidance mechanism.
+4. Collate and compare different estimates of the size of the shadow market in a wide range of countries. The reports with estimates we suggest are from [the European Commission](http://ec.europa.eu/europe2020/pdf/themes/06_shadow_economy.pdf) and the [IMF](http://www.imf.org/external/pubs/ft/wp/2012/wp1247.pdf) but other sources should be added. You can explore the significants of the shadow market and measures to reduce its size.
+5. Classify tax evaders published on the [official HMRC account](http://www.flickr.com/photos/hmrcgovuk/sets/72157631087785530)  for example as importing goods without paying UK tax and fraudulently claiming state benefits etc. Then to put these individual costs in the context of cost estimates for these crimes in the country as a whole. For example we can get overall cost of benefit fraud [here](http://research.dwp.gov.uk/asd/asd2/index.php?page=fraud_error) and the loss of funds through importing goods without paying tax from this [HMRC report on tax gaps](http://www.hmrc.gov.uk/research/direct-tax-gaps.pdf).
 
