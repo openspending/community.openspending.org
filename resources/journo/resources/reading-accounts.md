@@ -17,6 +17,7 @@ We will outline common patterns that you will see in accounts over and over, no 
 To fully describe the financial health of an organisation there are usually three financial statements and a document full of description and footnotes to contextualise them. 
 
 The three statements are:
+
 ### cash flow statement 
 For the year it shows money the organisation received and spent through particular activities. Usually it starts with money coming into the organisation followed by money leaving the organisation and ends with a total where spending is deducted from income to give a figure that represents the balance of money gained or needed. Often there are cash flow statements for different aspects or activities in the organisation. For example there may be a cash flow for profit making activities and another for costs of keeping the organisation ticking over. 
 <div class="well" 'markdown="1"'> 
