@@ -9,7 +9,7 @@ Tax evasion and tax avoidance are constantly in the news - but what are the diff
 
 This resource was originally designed as an exercise in journalistic judgement run at the first [data expedition at Mozilla Festival](http://blog.okfn.org/2012/11/14/data-expeditions-at-mozfest/) and we'll continue to build on it as we do more and more investigations into the topics. 
 
-Read the explanations of the various options below and then try out the **challenges** at the bottom of the page to see try them for yourself.  
+Read the explanations of the various options below and then try out the **challenges** at the bottom of the page to find them for yourself.  
 
 ## Tax evasion or tax avoidance? 
 
@@ -78,7 +78,7 @@ The individuals considered to be evading tax and with a warrant issued by a UK c
 
 ## What now? 
 
-So, we've described the main routes for this little exercise in tax reporting. Below, we've suggested some possible challenges for you to investigate yourselves - please let us know via the [open spending mailing list](http://lists.okfn.org/mailman/listinfo/openspending) if you have any success in uncovering avoidance or evasion via these routes!
+So, we've described the main routes for this little exercise in tax reporting. Below, we've suggested some possible challenges for you to investigate yourselves - please let us know via the [OpenSpending mailing list](http://lists.okfn.org/mailman/listinfo/openspending) if you have any success in uncovering avoidance or evasion via these routes!
 
 ### Challenges 
 
