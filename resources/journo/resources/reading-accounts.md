@@ -1,3 +1,8 @@
+---
+title: Reading accounts
+layout: journo
+---
+
 # Reading accounts
 
 *Reading accounts, both public and corporate is all too often seen as something best left to specialists and accountants. But with a few key ideas and some terms explained you will find that accounts are really quite readable and a great source of news.* 
