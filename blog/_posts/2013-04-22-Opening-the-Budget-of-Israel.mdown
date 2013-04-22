@@ -23,6 +23,8 @@ The flow of money through Israel's coffers became a concern for the developers o
 <br>
 ##Open Budget 1.0
 To clear up the argument, activists from Israeli non-profit [The Public Knowledge Workshop](http://www.hasadna.org.il/en/) asked Michael Eitan, then Minister of Improvement of Government Services, to help retrieve data they could use to put together a comprehensive picture of Israel's state budget. Unfortunately, the Israeli Ministry of Finance did just the bare minimum and released several files in various formats, such as Excel, PDF and html. The files were rife with human errors, like parts of the Hebrew text mistakenly written left-to-right. (Hebrew is written from right to left.)
+<br>
+<br>
 First, the "Open Budget" developers at the Public Knowledge Workshop took the data and organized it in a uniform database. Secondly they built a web-based interface allowing any user to explore the budget. Eventually the database of the Public Knowledge Workshop reached a stage where this was the most accurate and comprehensive database of Israel's budget. Some ministries have even asked to export data from the Open Budget for them, because the state systems were much more cumbersome.
 <br>
 <br>
@@ -30,15 +32,17 @@ The first version of Open Budget 1.0 was launched in March 2011 and is still ava
 <br>
 ##Open Budget 2.0
 
-Over time, "Open Budget" developers realized that many of their basic assumptions for analyzing the data were wrong, and that several important features were missing in version 1.0. 
+Following the first release, the "Open Budget"-developers realized that many of their basic assumptions for analyzing the data were wrong, and that several important features were missing in version 1.0. 
 <br>
-First, they knew that each item on the budget had an ID number, like item 15 for the Ministry of Defense budget, and assumed that it had a constant meaning over time. This turned out to be wrong. The Ministry of Finance changed the meanings of many items and sub-items over the years, so looking at a graph tracking spending on a given item over time may be meaningless. While most high-level numbers usually kept similar meanings over time, the Ministry of Education (Item 20), for example, had changed responsibilities over time: Namely, it was in charge of sports and culture in some years, but not in others. This makes it hard to track the education budget proper over time. Regrettably, the IDs on lower level budgetary items are even less stable in meaning, and little or no annotations were made available to help observers discern the semantic changes.
 <br>
-Moreover, to track spending on issues such as firefighting, one would need to put together the sums spent on various different items, paying attention to the differences between salaries, procurement and other items.
+For instance, they knew that each item of the budget had an ID number, like item 15 for the Ministry of Defense budget, and assumed that such ID numbers would be consistant over time. This turned out however to be wrong. The Ministry of Finance changed the meanings of many items and sub-items from year to year, and therefore tracking spending on a given item over time based on the ID number seemed meaningless. While most high-level numbers usually kept similar meanings over time, the Ministry of Education (Item 20), for example, had changed responsibilities over time: Namely, it was in charge of sports and culture in some years, but not in others. This made it hard to track the education budget properly over time. Regrettably, the IDs on lower level budgetary items were detected to be even less stable in meaning, and little or no annotations were made available from the government to help observers discern the semantic changes.
 <br>
+<br>
+Moreover, to track spending on issues such as for instance firefighting, one would need to put together the sums spent on various different items, paying attention to the differences between salaries, procurement and other items.
 Last but not least, while the budget may contain all the data, one can't easily determine if the sums are too much, too little, or just right. Nor can that be determined objectively. This is a value judgment, and different people will analyze the budget in different, and sometimes contradicting, ways, and use different data to frame and support their arguments. For example, one could argue spending in the Ministry of Education was appropriate 30 years ago, but has not kept up with the number of students and inflation. Hence, a good system for viewing the budget would allow one to easily examine spending versus those data. What’s more, a good system would then allow experts and civic activists in Israel to publicly annotate budgetary items with their respective opinions, to enrich the budgetary debate with accessible, evidence-based arguments. 
 <br>
-These needs are addressed in Open Budget 2.0, which is due within the next few weeks. Namely, the next version of the system will allow users to:<br>
+<br>
+These needs are addressed in Open Budget 2.0, which is due for release from the Public Knowledge Workshop within the next few weeks. Namely, the next version of the system will allow users to:<br>
 - unify related budgetary items,<br> 
 - analyze them together,<br>
 - compare spending between different items, or between budgetary items and other data sets, which can help put the budget in a larger context, and<br>
@@ -48,17 +52,19 @@ These needs are addressed in Open Budget 2.0, which is due within the next few w
 
 Our dream at the Public Knowledge Workshop is to make any Israeli governmental expense as transparent as reasonably possible, in real time.
 <br>
-Predictably, one of the biggest roadblocks for progress on budgetary transparency comes from the government itself. Right now we're trying to make the most of the data, which have already been released, but the Ministry of Finance and other branches of government still have a lot of data sets they won't share, and Open Budget developers suspect that until they're forced to release them, it'll stay that way. Some examples are:<br>
+<br>
+Predictably, one of the biggest roadblocks for progress on budgetary transparency comes from the government itself. Currently we are trying to make the most of the data, which have already been released, but the Ministry of Finance and other branches of government still hold a lot of data sets which they reject to share. Open Budget developers suspect that until they are forced to release them, it will stay that way. Some examples of data sets yet not released are:<br>
 - state-provided evaluations of the effect of each budget item on the economy,<br> 
 - budgets on the ministerial level,<br> 
 - budgets of governmental agencies,<br>
 - details of individual procurements, and<br>
 - much greater detail on outsourced activities.<br>
 <br>
-Presumably as part of the changes made by the new Israeli Minister of Finance, Yair Lapid, the [2012 budget was made fully available](http://data.gov.il/dataset/534) to the public on April 12, 2013. Amazingly, a representative of the Ministry personally contacted the Public Knowledge Workshop to verify that Workshop activists have seen the new release. Hopefully, this is a sign of more openness to come.
+Presumably as part of the changes made by the new Israeli Minister of Finance, Yair Lapid, the [2012 budget was made fully available](http://data.gov.il/dataset/534) to the public on April 12, 2013. Amazingly, a representative of the Ministry personally contacted the Public Knowledge Workshop to verify that activists at the Workshop had seen the new release. Hopefully, this is a sign of more openness to come.
 <br>
-We encourage new volunteers to join the effort. There are many important causes to contribute to, but extracting knowledge from a bunch of numbers, that's a real challenge.
 <br>
-Aviv Sharon is a volunteer at the Israeli non-profit "The Open Knowledge Workshop". He writes material for the public and plans educational projects.
+We encourage new volunteers to join the effort. There are many important causes to contribute to, but extracting knowledge from a bunch of numbers, that is a real challenge.
 <br>
-Adam Kariv is a board member of "The Open Knowledge Workshop" and the project leader of "Taktziv Patuakh" (Hebrew for "Open Budget").
+Aviv Sharon is a volunteer at the Israeli non-profit "The Open Knowledge Workshop". He writes materials for the public and plans educational projects.
+<br>
+Adam Kariv is a board member of "The Open Knowledge Workshop" and project leader of "Taktziv Patuakh" (Hebrew for "Open Budget").
