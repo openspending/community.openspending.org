@@ -3,7 +3,7 @@ layout: post
 title: Opening Israel's Budget
 published: true
 type: post
-status: draft
+status: published
 ---
 
 <a href="http://www.hasadna.org.il/wp-content/uploads/2012/01/obudget.jpg" title="Public Knowledge Workshop"><img src="http://www.hasadna.org.il/wp-content/uploads/2012/01/obudget.jpg" width="629" height="462" alt="Public Knowledge Workshop"></a>
@@ -59,12 +59,13 @@ Predictably, one of the biggest roadblocks for progress on budgetary transparenc
 - budgets of governmental agencies,<br>
 - details of individual procurements, and<br>
 - much greater detail on outsourced activities.<br>
-<br>
+
 ##Recent changes
 Presumably as part of the changes made by the new Israeli Minister of Finance, Yair Lapid, the [2012 budget was made fully available](http://data.gov.il/dataset/534) to the public on April 12, 2013. Amazingly, a representative of the Ministry personally contacted the Public Knowledge Workshop to verify that activists at the Workshop had seen the new release. Hopefully, this is a sign of more openness to come.
 <br>
 <br>
 We encourage new volunteers to [join the effort](www.hasadna.org.il). There are many important causes to contribute to, but extracting knowledge from a bunch of numbers, that is a real challenge.
+<br>
 <br>
 Aviv Sharon is a volunteer at the Israeli non-profit "The Open Knowledge Workshop". He writes materials for the public and plans educational projects.
 <br>
