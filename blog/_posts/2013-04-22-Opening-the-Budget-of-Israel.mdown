@@ -11,22 +11,16 @@ status: published
 
 This is a guest post by Aviv Sharon and Adam Kariv from [The Public Knowledge Workshop](http://www.hasadna.org.il/en/) based in Israel.
 <br>
-<br>
 "Show me the money!" If you ask the developers of "Taktziv Patuakh" (Hebrew for "Open Budget"), one of the projects of Israeli non-profit “The Public Knowledge Workshop”, that's more than just a line from a film. The government's true priorities are reflected in the budget, not in its statements. That's what makes budgets interesting. And that’s why looking at budgets is one of the most important things that the public should be demanding from the government. As the negotiations for Israel's 2013 budget draw near, informed public discourse on budgetary matters becomes an even more pressing need.
-<br>
 <br>
 There are a few important decision-making points in the budgeting process that are most important for the Israeli public to keep track of. First, each law and ordinance gets an overall, macro budget. Then, that budget is broken down into smaller items, on which the state can spend money for purposes like paying salaries, ordering equipment, supporting various non-profits and more. If we, as the public, don't keep track of the whole process, the state can deceive us in several ways: The state might decide on a policy but not budget it, it might budget it but not spend the cash, and it might spend it in ways worth watching closely, like paying suppliers that were chosen without conducting a tender. In short, there are too many leaky holes in this pipe, and it's hard for the public to follow the money.
 <br>
-<br>
 The flow of money through Israel's coffers became a concern for the developers of "Open Budget" following a large [forest fire on Mount Carmel in December 2010](http://en.wikipedia.org/wiki/Mount_Carmel_forest_fire_%282010%29), the deadliest and most widespread fire Israel had ever seen. After the fact, Israel's ministries of Finance and Interior blamed each other for having neglected the fire brigades. On the one hand, the Ministry of Interior claimed that its requests to increase the budget for the brigades were only partially funded by the Ministry of Finance, and very late at that. On the other hand, the Ministry of Finance claimed that it had passed along all the sums stipulated in the relevant governmental resolutions. The Ministry of Finance also added that these resolutions had even greatly increased the funds for aerial firefighting in 2010 compared with previous years.
-<br>
 <br>
 ##Open Budget 1.0
 To clear up the argument, activists from Israeli non-profit [The Public Knowledge Workshop](http://www.hasadna.org.il/en/) asked Michael Eitan, then Minister of Improvement of Government Services, to help retrieve data they could use to put together a comprehensive picture of Israel's state budget. Unfortunately, the Israeli Ministry of Finance did just the bare minimum and released several files in various formats, such as Excel, PDF and html. The files were rife with human errors, like parts of the Hebrew text mistakenly written left-to-right. (Hebrew is written from right to left.)
 <br>
-<br>
 First, the "Open Budget" developers at the Public Knowledge Workshop took the data and organized it in a uniform database. Secondly they built a web-based interface allowing any user to explore the budget. Eventually the database of the Public Knowledge Workshop reached a stage where this was the most accurate and comprehensive database of Israel's budget. Some ministries have even asked to export data from the Open Budget for them, because the state systems were much more cumbersome.
-<br>
 <br>
 The first version of [Open Budget 1.0](http://open-budget.readthedocs.org/en/latest/) was launched in March 2011 and is still available on [Israel's governmental services portal](http://budget.msh.gov.il/). It allows the public to track budget changes over time, search items for particular keywords and compare the budgeted amounts with the sums spent on each item.<br>
 <br>
