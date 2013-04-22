@@ -28,7 +28,7 @@ To clear up the argument, activists from Israeli non-profit [The Public Knowledg
 First, the "Open Budget" developers at the Public Knowledge Workshop took the data and organized it in a uniform database. Secondly they built a web-based interface allowing any user to explore the budget. Eventually the database of the Public Knowledge Workshop reached a stage where this was the most accurate and comprehensive database of Israel's budget. Some ministries have even asked to export data from the Open Budget for them, because the state systems were much more cumbersome.
 <br>
 <br>
-The first version of Open Budget 1.0 was launched in March 2011 and is still available on [Israel's governmental services portal](http://budget.msh.gov.il/). It allows the public to track budget changes over time, search items for particular keywords and compare the budgeted amounts with the sums spent on each item.<br>
+The first version of [Open Budget 1.0](http://open-budget.readthedocs.org/en/latest/) was launched in March 2011 and is still available on [Israel's governmental services portal](http://budget.msh.gov.il/). It allows the public to track budget changes over time, search items for particular keywords and compare the budgeted amounts with the sums spent on each item.<br>
 <br>
 ##Open Budget 2.0
 
@@ -58,13 +58,13 @@ Predictably, one of the biggest roadblocks for progress on budgetary transparenc
 - budgets on the ministerial level,<br> 
 - budgets of governmental agencies,<br>
 - details of individual procurements, and<br>
-- much greater detail on outsourced activities.<br></li>
-</li>
+- much greater detail on outsourced activities.<br>
 <br>
+##Recent changes
 Presumably as part of the changes made by the new Israeli Minister of Finance, Yair Lapid, the [2012 budget was made fully available](http://data.gov.il/dataset/534) to the public on April 12, 2013. Amazingly, a representative of the Ministry personally contacted the Public Knowledge Workshop to verify that activists at the Workshop had seen the new release. Hopefully, this is a sign of more openness to come.
 <br>
 <br>
-We encourage new volunteers to join the effort. There are many important causes to contribute to, but extracting knowledge from a bunch of numbers, that is a real challenge.
+We encourage new volunteers to [join the effort](www.hasadna.org.il). There are many important causes to contribute to, but extracting knowledge from a bunch of numbers, that is a real challenge.
 <br>
 Aviv Sharon is a volunteer at the Israeli non-profit "The Open Knowledge Workshop". He writes materials for the public and plans educational projects.
 <br>
