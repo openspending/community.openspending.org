@@ -1,5 +1,6 @@
 ---
 layout: post
+author: $authornamehere
 title: Visualising Urban development data at UN-Habitat
 published: true
 type: post

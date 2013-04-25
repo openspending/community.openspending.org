@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lucy
 title: Athens to Berlin - PROFILE - Linked Data and Public Spending
 published: true
 type: post

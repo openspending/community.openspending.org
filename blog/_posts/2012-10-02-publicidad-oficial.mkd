@@ -1,5 +1,6 @@
 ---
 layout: post
+author: federico
 title: PROFILE - 'Publicidad Oficial' - Official Advertising, Fundar, Mexico
 published: true
 type: post

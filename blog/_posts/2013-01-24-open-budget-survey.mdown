@@ -1,5 +1,6 @@
 ---
 layout: post
+author: anders
 title: The Open Budget Survey is out
 published: true
 type: post

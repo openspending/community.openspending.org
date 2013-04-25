@@ -1,5 +1,6 @@
 ---
 layout: post
+author: $authornamehere
 title: Join us for Hack Day on EU procurement data May 2 in Brussels
 published: true
 type: post

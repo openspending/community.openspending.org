@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lucy
 title: Athens to Berlin - a European Financial Profile
 published: true
 type: post

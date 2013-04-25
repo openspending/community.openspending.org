@@ -1,5 +1,6 @@
 ---
 layout: post
+author: anders
 title: OpenSpending around the world, Week 9
 published: true
 type: post

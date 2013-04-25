@@ -1,3 +1,35 @@
 markdown: rdiscount
 pygments: true
-permalink: /:categories/:year/:month/:day/:title.html 
+permalink: /:categories/:year/:month/:day/:title.html
+authors:
+  anders:
+    name: Anders Pedersen
+  fabiano:
+    name: Fabiano Angélico
+  federico:
+    name: Federico Ramirez
+  pudo:
+    name: Friedrich Lindenberg
+  gisele:
+    name: Gisele Craveiro
+  lisa:
+    name: Lisa Evans
+  lucy:
+    name: Lucy Chambers
+  mark:
+    name: Mark Brough
+  mk270:
+    name: Martin Keegan
+  matthias:
+    name: Matthias Stürmer
+  michal:
+    name: Michal Škop
+  nick:
+    name: Nick Stenning
+  raimo:
+    name: Raimo Muurinen, Henri Ahti
+  samuel:
+    name: Samuel Lee
+  victoria:
+    name: Victoria Vlad
+

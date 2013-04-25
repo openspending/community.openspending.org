@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lucy
 title: UK Departmental Government Spending - Improving the Quality of Reporting
 published: true
 type: post

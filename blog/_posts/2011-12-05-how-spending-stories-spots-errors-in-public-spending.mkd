@@ -1,5 +1,6 @@
 --- 
 layout: post
+author: martin
 title: How Spending Stories Spots Errors in Public Spending
 published: true
 meta: 

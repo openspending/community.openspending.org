@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lucy
 title: Athens to Berlin - PROFILE - Our Money, the Budapest Institute
 published: true
 type: post

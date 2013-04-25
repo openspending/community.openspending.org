@@ -1,5 +1,6 @@
 --- 
 layout: post
+author: $authornamehere
 title: "Open Data: Reverse Engineering and Maintenance - the ERDF hunt begins."
 published: false
 meta: 

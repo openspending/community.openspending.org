@@ -1,5 +1,6 @@
 --- 
 layout: post
+author: lucy
 title: Uploading Data to OpenSpending
 published: true
 meta: 

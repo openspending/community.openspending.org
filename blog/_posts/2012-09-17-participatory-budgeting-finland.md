@@ -1,5 +1,6 @@
 ---
 layout: post
+author: raimo
 title: First steps for Participatory Budgeting in Finland
 published: true
 type: post

@@ -1,5 +1,6 @@
 --- 
 layout: post
+author: fabiano
 title: "Transparency and technology in Brazil: linking politicians to bad entrepreneurs"
 published: true
 meta: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lucy
 title: OpenSpending visualisations featured in Le Monde 
 published: true
 type: post

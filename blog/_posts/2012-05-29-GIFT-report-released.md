@@ -1,5 +1,6 @@
 --- 
 layout: post
+author: lucy
 title: Technology for Transparent and Accountable Public Finance
 published: true
 type: post

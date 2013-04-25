@@ -1,5 +1,6 @@
 ---
 layout: post
+author: $authornamehere
 title: The Open Budget Survey is out
 published: false
 type: post

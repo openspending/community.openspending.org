@@ -1,5 +1,6 @@
 ---
 layout: post
+author: $authornamehere
 title: An introduction to the TaxMan
 published: true
 type: post

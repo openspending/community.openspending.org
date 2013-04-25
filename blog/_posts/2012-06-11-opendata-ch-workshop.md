@@ -1,5 +1,6 @@
 --- 
 layout: post
+author: matthias
 title: Workshop - Open Budget and Procurement Zurich June 28th 2012
 published: true
 type: post

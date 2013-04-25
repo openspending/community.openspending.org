@@ -1,10 +1,11 @@
---- 
+---
 layout: post
+author: lucy
 title: Thoughts from the Global Investigative Journalism Conference
 published: true
-meta: 
+meta:
   _edit_last: "239"
-tags: 
+tags:
 - Data Journalism
 - Spending Stories
 type: post

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lucy
 title: AfricanSpending - Knight News Challenge with Open Institute and African Media Initiative
 published: true
 type: post

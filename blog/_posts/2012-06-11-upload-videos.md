@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lucy
 title: Video Instruction Guide - Loading Data Into OpenSpending
 published: true
 type: post

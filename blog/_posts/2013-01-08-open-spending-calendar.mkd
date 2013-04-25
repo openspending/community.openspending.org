@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lisa
 title: An Open Call for Ideas - How Would You Use OpenSpending's Data Calendar?  
 published: true
 type: post

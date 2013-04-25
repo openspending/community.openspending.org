@@ -1,5 +1,6 @@
 ---
 layout: post
+author: $authornamehere
 title: Welcome Anders
 published: false
 type: post

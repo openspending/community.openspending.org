@@ -1,5 +1,6 @@
 layout: post title: Test
 type: post
+author: $authornamehere
 published: true
 status: publish
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: lucy
 title: Upcoming call - Spending Standard
 published: true
 type: post

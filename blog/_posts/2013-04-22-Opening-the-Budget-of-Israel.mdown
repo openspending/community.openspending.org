@@ -1,5 +1,6 @@
 ---
 layout: post
+author: $authornamehere
 title: Opening Israel's Budget
 published: true
 type: post
