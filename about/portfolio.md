@@ -82,7 +82,8 @@ We're into our second year of the project now. <a href="http://www.pbs.org/ideal
 <a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app.<ul> 
 <ul>
 You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit:
-<ul> 
+<ul>
+<ul>
 <li><a href="http://wheredoesmymoneygo.org/">Visit the Where Does My Money Go?</a> project</li>
 <li><a href="https://twitter.com/#!/wdmmg">Follow Where Does My Money Go? on Twitter</a></li>
 <li><a href="http://blog.openspending.org/2012/02/16/thekit/">Read more about how to create your own Where Does My Money Go?</a> site</li>
@@ -147,8 +148,8 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.<ul> 
 
-<li><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></li>
-<li><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a></li>
+*<a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></li>
+*<a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a></li>
 
 We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
 
