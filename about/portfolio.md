@@ -145,10 +145,10 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 <img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
 
-We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org. 
+We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.<ul> 
 
-* <a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a>
-* <a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a>
+<li>* <a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></li>
+<li>* <a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a></li>
 
 We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
 
