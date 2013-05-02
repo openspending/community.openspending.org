@@ -143,14 +143,12 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 <h3>Stories and Data Journalism</h3> 
 
-###Data Journalism
-
 <img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
 
 We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org. 
 
-* [Workshop on EU Spending, Utrecht](http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/)
-* [EuroHack: One-day data journalism competition and workshop on EU spending](http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/)
+* (Workshop on EU Spending, Utrecht)[http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/]
+* (EuroHack: One-day data journalism competition and workshop on EU spending)[http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/]
 
 We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
 
@@ -160,7 +158,7 @@ We are also delighted to work closely with journalists from around the world on 
 
 <h3>Privacy International</h3>
 
-In early 2012, Privacy International recently approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference and wanted to check which attendees also became customers of these companies. 
+In early 2012, Privacy International approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference and wanted to check which attendees also became customers of these companies. 
 
 <img alt="" src="http://farm8.staticflickr.com/7213/7315271184_921d9ed606.jpg" title="Caelainn Barr" class="pull-right" style="margin-left: 1em;" width="250"  />
 
