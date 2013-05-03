@@ -154,7 +154,6 @@ We regularly conduct training sessions for journalists on how to locate, extract
 We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
 
 </div> 
-</div>
 
 <div class="well" 'markdown="1"'>
 
