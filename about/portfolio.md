@@ -148,12 +148,13 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.<ul> 
 
-<br><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a><
-<br><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a><
+<br><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></br>
+<br><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a></br>
 
 We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
 
 </div> 
+</div>
 
 <div class="well" 'markdown="1"'>
 
@@ -194,7 +195,7 @@ The OpenSpending visualisation used in the article is intended to give a high-le
 
 During the International Journalism Festival in Perugia in 2011 - the OpenSpending team loaded and visualised the Italian regional accounts for 2008. The project received wide coverage in the Italian and International Press and was one of the earliest success stories for OpenSpending after Where Does My Money Go? went international. 
 
-* [Visit the Italian Regional Accounts on OpenSpending.org](http://openspending.org/it-regional-accounts)
+* <a href="(http://openspending.org/it-regional-accounts)">Visit the Italian Regional Accounts on OpenSpending.org
 
 #### Coverage of the Italian Regional Accounts Data
 
