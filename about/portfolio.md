@@ -200,9 +200,9 @@ During the International Journalism Festival in Perugia in 2011 - the OpenSpendi
 
 #### Coverage of the Italian Regional Accounts Data
 
-* <a href="http://www3.lastampa.it/economia/sezioni/articolo/lstp/398705/">La Stampa
-* <a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian
-* <a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired
+* <a href="http://www3.lastampa.it/economia/sezioni/articolo/lstp/398705/">La Stampa<br>
+* <a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian<br>
+* <a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired<br>
 
 </div> 
 
