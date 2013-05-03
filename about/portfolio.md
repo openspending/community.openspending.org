@@ -204,17 +204,18 @@ During the International Journalism Festival in Perugia in 2011 - the OpenSpendi
 * <a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian
 * <a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired
 
-## Community 
+</div> 
 
-### Spending Data Working Group
+<div class="well" 'markdown="1"'>
+
+## Community 
 
 <img alt="" src="http://farm7.staticflickr.com/6166/6270108254_5875c8a7ed.jpg" title="Kaitlin Lee presents Sunlight's Analysis OGDCamp" class="pull-right" style="margin-left: 1em;" width="250" />
 
-The spending data working group is a group of dedicated individuals working to create a community of best practice around opening up and using government financial data. With experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. Specifically, at the moment, the group is focussing on working on a standard for [transaction-level spending data](http://openspending.org/resources/standard/index.html). We're also aiming to showcase and display some of the most promising projects from all over the world on the OpenSpending blog. 
+The OpenSpending community includes engaged citizens, dedicated journalists and members of civil society organisations working on developing best practice around opening up and using government financial data with experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. The community is continously focussing on working on a standard for [transaction-level spending data](http://openspending.org/resources/standard/index.html). We're also aiming to showcase and display some of the most promising projects from all over the world on the OpenSpending blog. 
 
 The working group is open to all with an interest in improving Government Financial Transparency around the world. If you're interested in joining, please join the [OpenSpending Mailing List](http://lists.okfn.org/mailman/listinfo/openspending) and drop us a line on info [at] openspending.org
 
 ### Your project here. 
 
 Have some data? Have a Spending Story? Get in touch - we'd love to hear from you and are open to suggestions!
-
