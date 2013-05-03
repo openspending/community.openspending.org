@@ -10,7 +10,6 @@ Here are some of the projects, past and present that we have been involved with 
 <div class="well" 'markdown="1"'>
 
 <h3> OpenSpending Slovakia </h3> 
-<img alt="" src="https://photos-1.dropbox.com/t/0/AADE17zC3bcxr0xCfytFOGZZjm-eV8cWvF-HypnYVvd1Cw/10/845877/jpeg/178x178/1/1360364400/0/2/Slovakia%20Openspending.jpg/NEIzoTrbncRTfblbeaDkS7xYeYeWm3nx08IfEfG-CmU?prep_size=1024x768%2C32bf" title="Slovakia Openspending" class="pull-right" style="margin-left: 1em;" />
 
 In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspending</a> prepared in collaboration with transparency and anti-corruption watchdog, <a href="www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:<ul>
 <li>Year on year comparison for spending categories.</li>
