@@ -151,8 +151,8 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.<ul> 
 
 <br><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></br>
-<br><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a></br>
-
+<br><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a>
+</br>
 We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
 
 </div> 
@@ -184,7 +184,7 @@ The article "PLF : des avions au bouclier fiscal, la java des amendements", (PLF
 
 The OpenSpending visualisation used in the article is intended to give a high-level representation of some of the main areas of government expenditure in France. 
 
-[The same week, a different view on the data was published by Libération](http://openspending.org/blog/2012/10/20/openspending-lemonde.html). 
+<a href="http://openspending.org/blog/2012/10/20/openspending-lemonde.html">The same week, a different view on the data was published by Libération
 
 </div> 
 
