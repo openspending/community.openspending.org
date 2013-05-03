@@ -197,9 +197,9 @@ The OpenSpending visualisation used in the article is intended to give a high-le
 During the International Journalism Festival in Perugia in 2011 - the OpenSpending team loaded and visualised the Italian regional accounts for 2008. The project received wide coverage in the Italian and International Press and was one of the earliest success stories for OpenSpending after Where Does My Money Go? went international. 
 
 * <a href="http://openspending.org/it-regional-accounts">Visit the Italian Regional Accounts on OpenSpending.org
-
-#### Coverage of the Italian Regional Accounts Data
-
+<br>
+Coverage of the Italian Regional Accounts Data:
+<br>
 * <a href="http://www3.lastampa.it/economia/sezioni/articolo/lstp/398705/">La Stampa<br>
 * <a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian<br>
 * <a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired<br>
