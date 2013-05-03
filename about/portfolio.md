@@ -152,13 +152,12 @@ We regularly conduct training sessions for journalists on how to locate, extract
 <br><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></br>
 <br><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a><br>
 <br>
-We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
+We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...
+<br>  
 
-</div> 
+#### Privacy International
 
 <div class="well" 'markdown="1"'>
-
-<h3>Privacy International</h3>
 
 In early 2012, Privacy International approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference and wanted to check which attendees also became customers of these companies. 
 
