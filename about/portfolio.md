@@ -214,7 +214,7 @@ During the International Journalism Festival in Perugia in 2011 - the OpenSpendi
 
 The OpenSpending community includes engaged citizens, dedicated journalists and members of civil society organisations working on developing best practice around opening up and using government financial data with experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. The community is continously focussing on working on a standard for [transaction-level spending data](http://openspending.org/resources/standard/index.html). We're also aiming to showcase and display some of the most promising projects from all over the world on the OpenSpending blog. 
 
-The working group is open to all with an interest in improving Government Financial Transparency around the world. If you're interested in joining, please join the <a href="http://lists.okfn.org/mailman/listinfo/openspending">OpenSpending Mailing List and drop us a line on info [at] openspending.org
+The working group is open to all with an interest in improving Government Financial Transparency around the world. If you're interested in joining, please join the <a href="http://lists.okfn.org/mailman/listinfo/openspending">OpenSpending Mailing List/ and drop us a line on info [at] openspending.org
 
 </div> 
 
