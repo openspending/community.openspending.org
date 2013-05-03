@@ -155,9 +155,9 @@ We regularly conduct training sessions for journalists on how to locate, extract
 We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...
 <br>  
 
-</h4>Privacy International</h4>
-
 <div class="well" 'markdown="1"'>
+
+</h3>Privacy International</h3>
 
 In early 2012, Privacy International approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference and wanted to check which attendees also became customers of these companies. 
 
@@ -202,6 +202,7 @@ Coverage of the Italian Regional Accounts Data:
 * <a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian<br>
 * <a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired<br>
 
+</div> 
 </div> 
 
 ## Community 
