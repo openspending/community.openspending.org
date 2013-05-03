@@ -140,9 +140,11 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 </div> 
 
+## Stories and Data Journalism 
+
 <div class="well" 'markdown="1"'>
 
-<h3>Stories and Data Journalism</h3> 
+<h3>Data Journalism</h3>
 
 <img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
 
