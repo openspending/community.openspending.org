@@ -148,8 +148,8 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.<ul> 
 
-*<a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></li>
-*<a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a></li>
+<br><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a><
+<br><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a><
 
 We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...  
 
@@ -167,8 +167,8 @@ Some attendees posed no surprises, the FBI, the US Drug Enforcement Administrati
 
 As more datasets are loaded into OpenSpending, this universal search will get increasingly more powerful, and we look forward to hearing what other people use the search for. 
 
-* [Try out the search for yourself in the spendbrowser](http://opendatalabs.org/spendbrowser)
-* [Read more about the story](http://blog.openspending.org/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/)
+<br><a href="http://opendatalabs.org/spendbrowser">Try out the search for yourself in the spendbrowser
+<br><a href="http://blog.openspending.org/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/">Read more about the story
 
 </div> 
 
