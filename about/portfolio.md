@@ -206,9 +206,9 @@ During the International Journalism Festival in Perugia in 2011 - the OpenSpendi
 
 </div> 
 
-<div class="well" 'markdown="1"'>
-
 ## Community 
+
+<div class="well" 'markdown="1"'>
 
 <img alt="" src="http://farm7.staticflickr.com/6166/6270108254_5875c8a7ed.jpg" title="Kaitlin Lee presents Sunlight's Analysis OGDCamp" class="pull-right" style="margin-left: 1em;" width="250" />
 
