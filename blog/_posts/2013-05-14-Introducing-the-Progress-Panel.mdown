@@ -6,7 +6,7 @@ type: post
 status: draft
 ---
 
-<img alt="" src="http://farm8.staticflickr.com/7287/8736993520_01ab3f689d_b_d.jpg" title="The Progress Panel" class="alignnone" width="640" height="480" />
+<img alt="" src="http://farm8.staticflickr.com/7287/8736993520_01ab3f689d_b_d.jpg" title="The Progress Panel" class="alignnone" width="640" height="406" />
 
 For the past months we've seen an increase in contributions of data to OpenSpeding from across the community. The community now use OpenSending to visualise budget data from more than [80 cities](http://apps.openspending.org/maps/) and most recently [universities](http://openspending.org/ugr-spending) have also found their way onto OpenSpending.
 
