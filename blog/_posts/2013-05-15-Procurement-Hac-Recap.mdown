@@ -1,0 +1,29 @@
+---
+layout: post
+title: Hacking through the EU procurement database
+published: true
+type: post
+status: draft
+---
+
+Thursday 2 May 18 civic coders and journalists from across Europe from Norway to Slovenia met up in Brussels for quite a brilliant hack day looking into the EU procurement register. Here are some of the takes from the event. 
+
+## Procurement Hack Day - Outcomes
+- Scraping and parsing TED into OpenTED 
+Thanks to Friedrich Lindenberg we had a prepared scrape of the TED-data to work with. During the day several people got together to build and improve the parser. 
+
+You can find the latest updates here - we would love your help 
+https://github.com/opented/opented
+
+- Finding a way around poor data quality
+The poor data quality of the TED database remain a major challenge. Many important fields in the dataset such as "contract amount" or "number of bids" for the contract apear to be non-mandatory, which cause them often to be left blank. In other cases amounts are assigned in the wrong format using commas and decimals interchangeably. We're working to get some numbers on the overall data quality and would be eager to hear from you, if you've got ideas for ways to help clean the data. Using Open Refine might be one way to go, when we have a fully parsed dataset to work on. 
+
+- Public bodies
+As the EU procurement register is supposed to include all public contracts above 150,000 EUR from governments as well as municipalities and public utility companies, TED has been viewed as a potential source for mapping public bodies. The current breakdown from the scrape have indicated that TED might include address data and other information on 70,000 public bodies. We look forward to get these data unlocked and would love your help on this as well.   
+
+Link to the current work on public bodies here: https://github.com/okfn/publicbodies
+
+- User stories - ideas for data journalism on the data
+During the Hack Day a good handful of datajournalists gathered to line up more than 20 questions on procurements relevant to journalists, which should be investigated when the data becomes available. 
+
+
