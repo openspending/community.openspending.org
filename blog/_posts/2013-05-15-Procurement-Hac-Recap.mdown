@@ -1,21 +1,22 @@
 ---
 layout: post
 title: Hacking through the EU procurement database
-published: true
+published: false
 type: post
 status: draft
 ---
 
-Thursday 2 May 18 civic coders and journalists from across Europe from Norway to Slovenia met up in Brussels for quite a brilliant hack day looking into the EU procurement register. Here are some of the takes from the event. 
+On 2 May 18 civic coders and journalists from across Europe from Norway to Slovenia met up in Brussels for quite a brilliant hack day looking into the EU procurement register. Here are a few takes from the event. 
 
-## Procurement Hack Day - Outcomes
-- Scraping and parsing TED into OpenTED 
-Thanks to Friedrich Lindenberg we had a prepared scrape of the TED-data to work with. During the day several people got together to build and improve the parser. 
+### Scraping and parsing of TED into OpenTED 
+Thanks to Friedrich Lindenberg we had a prepared scrape of the TED-data to work with. During the day several people got together to build and improve the parser. During the day a few different dry runs of the parser were tested. 
 
-You can find the latest updates here - we would love your help 
+You can find the latest updates and find out how you can help here: 
 https://github.com/opented/opented
 
-- Finding a way around poor data quality
+### A first peak under the hood of TED
+The Hack Day also allowed us to have a first look at the TED data. Though data from TED could get us a big step further towards spending transparency in EU member states, our first impression indicates that this will not be the case.
+
 The poor data quality of the TED database remain a major challenge. Many important fields in the dataset such as "contract amount" or "number of bids" for the contract apear to be non-mandatory, which cause them often to be left blank. In other cases amounts are assigned in the wrong format using commas and decimals interchangeably. We're working to get some numbers on the overall data quality and would be eager to hear from you, if you've got ideas for ways to help clean the data. Using Open Refine might be one way to go, when we have a fully parsed dataset to work on. 
 
 - Public bodies
