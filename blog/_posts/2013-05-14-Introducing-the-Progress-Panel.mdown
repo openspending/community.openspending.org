@@ -10,24 +10,22 @@ status: draft
 
 For the past months we've seen an increase in contributions of data to OpenSpeding from across the community. The community now use OpenSending to visualise budget data from more than [80 cities](http://apps.openspending.org/maps/) and most recently [universities](http://openspending.org/ugr-spending) have also found their way onto OpenSpending.
 
-While we're thrilled by the uptake in use of openspending for visualising budgets, we've however also noticed that transactional spending data are added to the platform less often than we'd hope for. We're well aware that transactional datasets can be difficult to both get a hold of and work with:
-- governments tend not to release them easily 
-- the data tend to be of a size that makes cleaning in Excel difficult
-- loading of data can be complicated if data contains lots of colums
+While we're thrilled by the uptake in use of openspending for visualising budgets, we've however also noticed that transactional spending data are added to the platform less often than we'd hope for. We're well aware that transactional datasets can be difficult get a hold as well as to work with. We have noticed that tranactional dataÆ
+- can be difficult to locate and is rarely released in useful formats 
+- data tends to be of a size that makes cleaning in Excel difficult
+- can be complicated to load into OpenSpending if data contains lots of colums
 
-That's why we're launching a new feature today, which we hope will enable users better to collaborate around adding datasets to OpenSpending.
+We'd like to help you add transactional spending data easier yourself and to find ways to collaborate with others when adding datasets to OpenSpending.
 
-### Enter the Progress Panel
-The [Data Progress panel](http://progress.openspending.org/) is now live. We'd love if you'd have a look and let us know what you think! 
-
-With the Progress Panel we wish to make it easy to show what datasets people are working on and what help is needed. 
+### Enter - the [Progress panel](http://progress.openspending.org/) 
+With the Progress Panel we wish to make it easy to show what datasets people are working on and what help is needed. We'd love if you'd have a look and let us know what you think! 
 
 ### What can you do there?
 - Request a dataset you'd like to see on OpenSpending. 
 - Claim a dataset you'd like to clean and upload to OpenSpending - and ask the list for help if needed
 - Check what datasets other people are working on - and offer your help if you can
 
-In other words, we hope that the Progress Panel can help assist in a few cases, for instance:
+We therefore hope that the Progress Panel can help assist in a few cases, for instance:
 - "I'm working on a dataset, but got stuck cleaning the spreadsheet - who can help?"
 - "I've found this excellent dataset on Italian structural Fund payments. I would like to add it to OS, but need help translating the columns before uploading."
 - "I wonder if someone is already working to add the EU budget to OpenSpending?"
@@ -36,5 +34,3 @@ At this early stage we're really interested to hear feedback from you, so let us
 
 Do you feel like contributing to the Progress Panel, check our issues on [Github](https://github.com/openspending/dataprogress/issues). 
 
-
-Anders
