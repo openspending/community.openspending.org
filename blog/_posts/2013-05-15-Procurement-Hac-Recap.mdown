@@ -13,6 +13,8 @@ On 2 May 18 civic coders and journalists from across Europe from Norway to Slove
 ### Scraping and parsing of TED into OpenTED 
 Several people got together to build and improve the parsing of data already scraped. You can find the latest updates and find out how you can help [here](https://github.com/opented/opented). 
 
+###Showcases - Slovenian and Greek procurement cases
+
 ### User stories - ideas for data journalism on procurement data
 During the Hack Day a good handful of datajournalists gathered to line up more than 20 questions on procurements, which should be investigated by journalists such as: 
 
@@ -38,10 +40,10 @@ During the Hack Day a good handful of datajournalists gathered to line up more t
 ### A first look at the TED data
 Two weeks after the Hack Day the [full TED data set](http://opented.pudo.org) is now available, thanks to the hack team and in particular [Friedrich Lindenberg](twitter.com/pudo).
 
-Everyone who's curious should dig right in and examine the data from all procurements across EU or the contracts awarded in their own country. If you're curious about the format of the data, we've uploaded the [data for Czech Republic (2013)](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AvdkMlz2NopEdEtxU3dDYktRT3ltbTdadnZBcmdaVVE#gid=0) as a sample. 
+We hope that many of you will dig right in and examine the either procurements across EU or in your own country. If you would like to know more about the format, we've uploaded the [data for Czech Republic (2013)](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AvdkMlz2NopEdEtxU3dDYktRT3ltbTdadnZBcmdaVVE#gid=0) as a sample. 
 
 ####Reviewing the data quality
-At an OpenSpending community call on May 15, we decided to take some time to do a thorough review of the data quality of the data in OpenTED.
+At a community call on May 15, it was agreed to do a thorough quality review of the data available in TED. 
 You can join us testing the data [here](https://docs.google.com/a/okfn.org/document/d/16tXDgtMQVIX5TnzWPPZScRZEd0FkW14Zcc_lche5T_w/edit#) for the following:
 The first look at the TED data has indicated that the inaccuracy is a major challenge. Many important fields in the dataset such as "contract amount" or "number of bids" for the contract are simply non-mandatory, which cause them often to be left blank. In other cases amounts are assigned in the wrong format using commas and decimals interchangeably. With the review we will get some numbers on the overall data quality, which we'll share as soon as they are ready. Let us know if you want to get involved cleaning or analysing the data.  
 
