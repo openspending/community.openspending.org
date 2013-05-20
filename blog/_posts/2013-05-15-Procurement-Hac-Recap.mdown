@@ -6,13 +6,17 @@ type: post
 status: draft
 ---
 
-On 2 May 18 civic coders and journalists from across Europe from Norway to Slovenia met up in Brussels for quite a brilliant hack day looking into the EU procurement register. Here are a few takes from the event. 
+<a href="http://www.flickr.com/photos/94746900@N06/8754972519/" title="OpenTed datastore by anderspedersenOKF, on Flickr"><img src="http://farm4.staticflickr.com/3797/8754972519_7290637fb4_z.jpg" width="640" height="318" alt="OpenTed datastore"></a>
+
+On 2 May 18 civic coders and journalists from across Europe from Norway to Slovenia met up in Brussels for a hack day to dig into the EU procurement register, [Tender Electronic Daily](ted.europa.eu). Here are a few highlights from the event and what we've been up to since. 
 
 ### Scraping and parsing of TED into OpenTED 
-Thanks to Friedrich Lindenberg we had a prepared scrape of the TED-data to work with. During the day several people got together to build and improve the parser. During the day a few different dry runs of the parser were tested. 
-
-You can find the latest updates and find out how you can help here: 
+Several people got together to build and improve the parsing of data already scraped. You can find the latest updates and find out how you can help here: 
 https://github.com/opented/opented
+
+### User stories - ideas for data journalism on the data
+During the Hack Day a good handful of datajournalists gathered to line up more than 20 questions on procurements relevant to journalists, which should be investigated when the data becomes available. 
+
 
 ### A first peak under the hood of TED
 The Hack Day also allowed us to have a first look at the TED data. Though data from TED could get us a big step further towards spending transparency in EU member states, our first impression indicates that this will not be the case.
@@ -24,7 +28,5 @@ As the EU procurement register is supposed to include all public contracts above
 
 Link to the current work on public bodies here: https://github.com/okfn/publicbodies
 
-- User stories - ideas for data journalism on the data
-During the Hack Day a good handful of datajournalists gathered to line up more than 20 questions on procurements relevant to journalists, which should be investigated when the data becomes available. 
 
 
