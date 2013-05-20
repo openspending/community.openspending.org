@@ -15,18 +15,35 @@ Several people got together to build and improve the parsing of data already scr
 https://github.com/opented/opented
 
 ### User stories - ideas for data journalism on the data
-During the Hack Day a good handful of datajournalists gathered to line up more than 20 questions on procurements relevant to journalists, which should be investigated when the data becomes available. 
+During the Hack Day a good handful of datajournalists gathered to line up more than 20 questions on procurements, which should be investigated by journalists such as: 
 
+####Key questions to ask
+- Where in the EU are highways most expensive to build?
+- What are the best ways to expose cartel formations
+- What companies are running food services at public school (and what's on the menu)?
+- Who is the biggest weapons salesman in the EU?
+- Who are the biggest public transport providers - Arriva vs. Connexion?
+- What's the relationship between procurement process (time) and what companies gets the contract?
+- How many contracts go outside the EU?
+- Do the governments purchase from big or small suppliers?
+- How can we predict when a project will go over budget?
+- What sector is the least competitive (CPV-code vs. average bid)? 
+- Are there companies within certain sectors that get a suspicous large amount of contracts?
 
-### A first peak under the hood of TED
-The Hack Day also allowed us to have a first look at the TED data. Though data from TED could get us a big step further towards spending transparency in EU member states, our first impression indicates that this will not be the case.
+####Using other data with procurement data from TED
+- Reconcile with company data from Opencorporates
+- Match contracts to actual spending data eg. [UK government spending](http://openspending.org/ukgov-25k-spending)
+- Ask Freedom of Information requests to the procuring authority for entire contract (see examples of such successful FOI requests [here](http://www.asktheeu.org/en/request/292/response/805/attach/2/Signed%20Framework%20Agreement%20with%20Eurocontrol.PDF.pdf) and [here](http://www.asktheeu.org/en/request/293/response/909/attach/3/answer%20del%20BD%20GESTDEM%202012%205786.pdf)
+- Get to understand what the contracts are actually about with the [official taxonomy of the CPV-code](http://simap.europa.eu/codes-and-nomenclatures/codes-cpv/codes-cpv_en.htm)
 
-The poor data quality of the TED database remain a major challenge. Many important fields in the dataset such as "contract amount" or "number of bids" for the contract apear to be non-mandatory, which cause them often to be left blank. In other cases amounts are assigned in the wrong format using commas and decimals interchangeably. We're working to get some numbers on the overall data quality and would be eager to hear from you, if you've got ideas for ways to help clean the data. Using Open Refine might be one way to go, when we have a fully parsed dataset to work on. 
+### A first look at the TED data
+Two weeks after the Hack Day the [full TED data set](http://opented.pudo.org) is now available, thanks to the hack team and in particular [Friedrich Lindenberg](twitter.com/pudo).
 
-- Public bodies
-As the EU procurement register is supposed to include all public contracts above 150,000 EUR from governments as well as municipalities and public utility companies, TED has been viewed as a potential source for mapping public bodies. The current breakdown from the scrape have indicated that TED might include address data and other information on 70,000 public bodies. We look forward to get these data unlocked and would love your help on this as well.   
+Everyone who's curious should dig right in and examine the data from all procurements across EU or the contracts awarded in their own country. If you're curious about the format of the data, we've uploaded the [data for Czech Republic (2013)](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AvdkMlz2NopEdEtxU3dDYktRT3ltbTdadnZBcmdaVVE#gid=0) as a sample. 
 
-Link to the current work on public bodies here: https://github.com/okfn/publicbodies
-
+####Reviewing the data quality
+At an OpenSpending community call on May 15, we decided to take some time to do a thorough review of the data quality of the data in OpenTED.
+You can join us testing the data [here](https://docs.google.com/a/okfn.org/document/d/16tXDgtMQVIX5TnzWPPZScRZEd0FkW14Zcc_lche5T_w/edit#) for the following:
+The first look at the TED data has indicated that the inaccuracy is a major challenge. Many important fields in the dataset such as "contract amount" or "number of bids" for the contract are simply non-mandatory, which cause them often to be left blank. In other cases amounts are assigned in the wrong format using commas and decimals interchangeably. With the review we will get some numbers on the overall data quality, which we'll share as soon as they are ready. Let us know if you want to get involved cleaning or analysing the data.  
 
 
