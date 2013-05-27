@@ -40,7 +40,7 @@ During the Hack Day a handful of data journalists sat down to line up questions,
 
 ### A first look at the TED data
 Two weeks after the Hack Day the [full TED data set](http://opented.pudo.org) is now available, thanks to the hack team and in particular [Friedrich Lindenberg](twitter.com/pudo). 
-We hope that many of you will dig right in and examine the either procurements across EU or in your own country. If you would like to know more about the format, we've uploaded the [data for Czech Republic (2013)](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AvdkMlz2NopEdEtxU3dDYktRT3ltbTdadnZBcmdaVVE#gid=0) as a sample. 
+We hope that many of you will dig right in and examine either procurements across EU or in your own country. If you would like to know more about the data format, we've uploaded the [data for Czech Republic (2013)](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AvdkMlz2NopEdEtxU3dDYktRT3ltbTdadnZBcmdaVVE#gid=0) as a sample. 
 
 ####Reviewing the data quality
 At a community call on May 15, it was agreed to do begin a quality review of the data available in TED. 
