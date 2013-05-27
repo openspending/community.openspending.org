@@ -11,9 +11,9 @@ status: draft
 On 2 May civic coders and journalists from across Europe from Norway to Slovenia met up in Brussels for a Hack Day supported by [Knight Mozilla Open News](www.mozillaopennews.org/) to dig into the EU procurement register, [Tender Electronic Daily](ted.europa.eu). Here are a few of the highlights from the day and where we've been able to get the TED data since. 
 
 ### Scraping and parsing of TED into OpenTED 
-Several people got together to build and improve the parsing of data already scraped. You can find the latest updates and find out how you can help [here](https://github.com/opented/opented). 
+Several people got together to build and improve the parsing of data already scraped. The past years has seen several attempts to scrape and parse TED, but past scraping projects have been missing the granular parsing of the which is needed in order to make it useful for investigations.
 
-###Showcases - Slovenian and Greek procurement cases
+You can find the latest updates and how you can help [here](https://github.com/opented/opented). 
 
 ### User stories - ideas for data journalism on procurement data
 During the Hack Day a good handful of datajournalists gathered to line up more than 20 questions on procurements, which should be investigated by journalists such as: 
