@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hacking through the EU procurement database
-published: false
+published: true
 type: post
-status: draft
+status: published
 ---
 
 <a href="http://www.flickr.com/photos/94746900@N06/8754972519/" title="OpenTed datastore by anderspedersenOKF, on Flickr"><img src="http://farm4.staticflickr.com/3797/8754972519_7290637fb4_z.jpg" width="640" height="318" alt="OpenTed datastore"></a>
