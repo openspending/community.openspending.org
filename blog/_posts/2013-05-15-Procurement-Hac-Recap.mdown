@@ -8,7 +8,7 @@ status: draft
 
 <a href="http://www.flickr.com/photos/94746900@N06/8754972519/" title="OpenTed datastore by anderspedersenOKF, on Flickr"><img src="http://farm4.staticflickr.com/3797/8754972519_7290637fb4_z.jpg" width="640" height="318" alt="OpenTed datastore"></a>
 
-On 2 May 18 civic coders and journalists from across Europe from Norway to Slovenia met up in Brussels for a Hack Day supported by [Knight Mozilla Open News](www.mozillaopennews.org/) to dig into the EU procurement register, [Tender Electronic Daily](ted.europa.eu). Here are the highlights from the event and what we've been up to since. 
+On 2 May civic coders and journalists from across Europe from Norway to Slovenia met up in Brussels for a Hack Day supported by [Knight Mozilla Open News](www.mozillaopennews.org/) to dig into the EU procurement register, [Tender Electronic Daily](ted.europa.eu). Here are a few of the highlights from the day and where we've been able to get the TED data since. 
 
 ### Scraping and parsing of TED into OpenTED 
 Several people got together to build and improve the parsing of data already scraped. You can find the latest updates and find out how you can help [here](https://github.com/opented/opented). 
