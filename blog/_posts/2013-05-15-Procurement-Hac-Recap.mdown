@@ -13,7 +13,10 @@ On 2 May civic coders and journalists from across Europe from Norway to Slovenia
 ### Scraping and parsing of TED into OpenTED 
 Several people got together to build and improve the parsing of data already scraped. The past years has seen several attempts to scrape and parse TED, but past scraping projects have been missing the granular parsing of the which is needed in order to make it useful for investigations.
 
-You can find the latest updates and how you can help [here](https://github.com/opented/opented). 
+We're now asking you to join us as we're starting to [review the data quality](https://docs.google.com/a/okfn.org/document/d/16tXDgtMQVIX5TnzWPPZScRZEd0FkW14Zcc_lche5T_w/edit#heading=h.t1acmd7rub4n). In particular we'll be looking at missing amounts (non mandatory fields), missing contract fields and inconsistent data formats. Though we do not have an estimate at the moment, we expect that the review will show substantial issues around the data as well as varieties between countries. In other words: We're quite sure you'll find interesting results if you dig, so please go ahead! The quality review will be really useful in order for us to begin discussing the release policy of the EU Publication Office. We'd be particular interested to hear from projects who are already working on procurement data in EU countries.  
+
+You can find the latest updates here - we'd love your help: 
+https://github.com/opented/opented
 
 ### User stories - ideas for data journalism on procurement data
 During the Hack Day a good handful of datajournalists gathered to line up more than 20 questions on procurements, which should be investigated by journalists such as: 
