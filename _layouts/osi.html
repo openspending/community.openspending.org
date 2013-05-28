@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<ul class="breadcrumb">
+    <li>
+        <i class="icon-book"></i>
+        <a href="index.html">OSI Report</a>
+        <span class="divider">/</span>
+    </li>
+    <li class="active">{{ page.title }}</li>
+</ul>
+
+<div class="row">
+    <div class="span4">
+        <h3>Contents</h3>
+        <ul class="nav nav-list">
+            <li><a href="index.html">Introduction</a>
+            <li><a href="case-studies-budgets.html">Case Studies - Budgets</a>
+                <ul class="nav nav-list">
+                <li><a href="expert-grup.html">Expert Grup</a></li>
+                <li><a href="openbudgetoakland.html">OpenOakLand, United States </a></li>
+                </ul>
+            </li>
+            <li><a href="case-studies-spending.html">Case Studies - Spending</a>
+	      <ul class="nav nav-list">
+		<li><a href="okfn-greece.html">OKFN Greece</a>
+		<li><a href="eu-spending-data.html">EU Spending Data</a>
+		<li><a href="farmsubsidy.html">Farmsubsidy.org</a>
+		<li><a href="farmsubsidies-mexico.html">Farmsubsidies in Mexico</a>
+	      </ul>
+	    </li>
+            <li><a href="case-studies-procurements.html">Case Studies - Procurement</a>
+	      <ul class="nav nav-list">
+		<li><a href="hutspace.html">Hutspace, Ghana</a>
+		<li><a href="texty.html">Texty, Ukraine</a>
+		<li><a href="opented.html">OpenTED, EU contracts</a>
+	      </ul>
+	    </li>
+        </ul>
+    </div>
+    <div class="span8">
+        {{ content }}
+    </div>
+</div>
