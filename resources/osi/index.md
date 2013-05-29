@@ -3,10 +3,13 @@ title: A Spending Data Report
 layout: osi
 ---
 
-![Cover of Spending Data Report](http://farm8.staticflickr.com/7383/8881059615_a2ec544d73.jpg)
+# Mapping the Open Spending Data Community 
 
+How civil society organisations use technology to promote transparent and accountable financial
 
-# Introduction
+![Cover of Spending Data Report](http://farm8.staticflickr.com/7414/8881834696_4176e6d2ea_b.jpg)
+
+## Introduction
 
 In early 2012, we set out on a mission. Our aim was threefold: 
 
@@ -24,7 +27,7 @@ This report is the output of that research. Here, we bring together key case stu
 
 At the end of the report - you will find an appendix which outlines what are, in our view, a few key tools which may be of use to those investigating or working with government financial information. We hope that this is a useful resource for those building training curriculae around financial data - and would welcome any feedback if there is anything we have missed. 
 
-This report is deliberately short. We know that people seldom read page upon page of long winded explanation. 
+This report is deliberately short. We know that people seldom read page upon page of long winded explanation. We believe that there are some very quick ways to make the work that these organisations do a lot easier, more thorough and sustainable. Hence, we talk here a) about how the data could be improved and b) about training needs for these organisations. 
 
 The team behind the report can be reached at any time on info [at] openspending.org. 
 
