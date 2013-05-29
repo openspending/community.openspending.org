@@ -13,11 +13,11 @@ How civil society organisations use technology to promote transparent and accoun
 
 In early 2012, we set out on a mission. Our aim was threefold: 
 
-* *To identify Civil Society organisations (CSOs) around the world who are interested in working with government financial data* - building on the existing network of contacts from the OpenSpending.org project.
+* *To identify Civil Society organisations (CSO's) around the world who are interested in working with government financial data* - building on the existing network of contacts from the OpenSpending.org project.
 
-* *To connect these CSOs with each other*, with open data communities and with other key stakeholders to exchange knowledge, experiences and best practices in relation to spending data
+* *To connect these CSO's with each other*, with open data communities and with other key stakeholders to exchange knowledge, experiences and best practices in relation to spending data
 
-* *To establish how CSOs currently work with spending data, how they would like to use it, and what they would like to achieve* - including:
+* *To establish how CSO's currently work with spending data, how they would like to use it, and what they would like to achieve* - including:
 
   * what existing tools are being used
   * what current technical needs are unmet
@@ -27,7 +27,11 @@ This report is the output of that research. Here, we bring together key case stu
 
 At the end of the report - you will find an appendix which outlines what are, in our view, a few key tools which may be of use to those investigating or working with government financial information. We hope that this is a useful resource for those building training curriculae around financial data - and would welcome any feedback if there is anything we have missed. 
 
-This report is deliberately short. We know that people seldom read page upon page of long winded explanation. We believe that there are some very quick ways to make the work that these organisations do a lot easier, more thorough and sustainable. Hence, we talk here a) about how the data could be improved and b) about training needs for these organisations. 
+This report is deliberately short. We know that people seldom read page upon page of long winded explanation. We believe that there are some very quick ways to make the work that these organisations do a lot easier, more thorough and sustainable. Hence in this report we:
+
+  * outline how the data could be improved in order to make it more usable 
+  * examine some key case studies of how organisations are using technology to do groundbreaking research,  citizen engagement, visualisation and tracking of accountability.
+  * talk about the training needs for CSO's to help them better use the data available, and to demand better data. 
 
 The team behind the report can be reached at any time on info [at] openspending.org. 
 
