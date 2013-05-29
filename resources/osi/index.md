@@ -5,7 +5,9 @@ layout: osi
 
 # Mapping the Open Spending Data Community 
 
-How civil society organisations use technology to promote transparent and accountable financial
+*How civil society organisations use technology to wrangle government spending data.*
+
+<br></br> 
 
 ![Cover of Spending Data Report](http://farm8.staticflickr.com/7414/8881834696_4176e6d2ea_b.jpg)
 
