@@ -9,12 +9,12 @@ This summary is based on the full case study by Aviv Sharon and Adam Kariv from 
 Hasadna is a civil society organisation working on government transparency across fields with strong technological resources as well as a lively community. 
 
 Notable tech projects on financial transparency include: 
-Open Budget 1.0 - launched 2011
-Omuni budget - an open budget project launched May 2013
-Open 2.0 - to be launched May-June 2013 
-A project to open up the Finance Committee 
+- [Open Budget 1.0](http://open-budget.readthedocs.org/en/latest/) - launched 2011
+- [Omuni budget](http://open-budget.readthedocs.org/en/latest/) - an [open budget project](http://en.open-budget.prjts.com/) launched May 2013
+- Open 2.0 - to be launched May-June 2013 
+- A project to [open up the Finance Committee](http://www.hasadna.org.il/en/our-projects/opening-the-finance-committee/) 
 
-Hasadna’s flagship project is the parliamentary app Open Knesset.
+Fianlly Hasadna’s flagship project is the parliamentary app Open Knesset.
 
 ## Background on the Open Budget
 The flow of money through Israel's coffers became a concern for the developers of "Open Budget" following a large forest fire on Mount Carmel in December 2010 , the deadliest and most widespread fire Israel had ever seen. After the fact, Israel's ministries of Finance and Interior blamed each other for having neglected the fire brigades. On the one hand, the Ministry of Interior claimed that its requests to increase the budget for the brigades were only partially funded by the Ministry of Finance, and very late at that. On the other hand, the Ministry of Finance claimed that it had passed along all the sums stipulated in the relevant governmental resolutions. The Ministry of Finance also added that these resolutions had even greatly increased the funds for aerial firefighting in 2010 compared with previous years.
