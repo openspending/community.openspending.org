@@ -12,9 +12,14 @@ datasets. In November 2012, while finalizing the project concept,
 members of the organising team took part in the [Balkan Budget
 Workshop](http://openspending.org/blog/2012/11/26/Sarajevo-Workshop-Writeup.html) organised by the OpenSpending team.
 
+> “It was really helpful to learn about data formats. It is the equivalent
+> of a data literacy 101 class.” - <strong> Victoria Vlad </strong>
+
 ![BudgetStoriesImg](http://www.budgetstories.md/wp-content/uploads/cit-ne-costa-parlamentul.jpg)
 
-About the team: The core BudgetStories.md team at the Expert-Grup
+## About the team 
+
+The core BudgetStories.md team at the Expert-Grup
 consists of 3 core staff members: the project director, one project
 communication and analytical expert, with one additional analytic expert
 as support. The implementation was made with an external web design
@@ -27,32 +32,32 @@ spending data. The main challenges pointed out have related around
 accessing data, cleaning the data (using Excel), and managing the data
 visualisation work, which was done by an an external web agency. Most of
 the needed data was available to the public on
-[data.gov.md](http://data.gov.md/) and in the World Banks [BOOST data
+[data.gov.md](http://data.gov.md/) and in the World Bank's [BOOST data
 tool](http://www.mf.gov.md/ro/BOOST/), and government agencies were open
 to provide direct requests for data requested in a timely manner. The
 data was analysed with Excel. During the research Expert Grup used the
-Spending Data Handbook, the Open Data Handbook and the Data Journalism
-Handbook as resources:
-
-> “It was really helpful to learn about data formats. It is the equivalent
-> of a data literacy 101 class.”
+<a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook</a>, the <a href="http://opendatahandbook.org/">Open Data Handbook</a> and the <a href="http://datajournalismhandbook.org/">Data Journalism
+Handbook</a> as resources:
 
 ## Technical challenges
 
-Presenting the data: “It is still a challenge for us to make
-visualizations meaningful. We plan to improve with every infographic we
-publish.” Expert Grup is planning to work more on developing their
+### Presenting the data 
+> “It is still a challenge for us to make visualizations meaningful. We plan to improve with every infographic we
+> publish.” 
+
+Expert Grup is planning to work more on developing their
 presentations of their data. Most of their visualisations have been
 developed by a web agency based on the directions from Expert Grup. One
-exception is the visualisation of the [Moldava
-budget](http://www.budgetstories.md/bugetul-2013/), which was done with
+exception is the visualisation of the [Moldova
+budget](http://www.budgetstories.md/bugetul-2013/), which was created with
 OpenSpending treemaps by Expert Grup.
 
-In the future Expert Grup wil be looking to expand their work: “There is
-still a lot of work to be done. We have until now published three data
-visualizations.”
+In the future Expert Grup wil be looking to expand their work: 
 
-So far their portfolio include excellent examples such as:
+> “There is still a lot of work to be done. We have until now published three data
+> visualizations.”
+
+So far their portfolio includes excellent examples such as:
 
 1.  The [Budget
     calendar](http://www.budgetstories.md/anul-bugetar-2013/) enabling
