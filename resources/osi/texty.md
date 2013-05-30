@@ -46,7 +46,8 @@ They [delivered data
 analysis](http://forbes.ua/ratings/people) for Forbes Ukraine, on
 concentration in procurement contracts within the business elite.
 
-Challenges: Texty points to the lack of resources in the data journalism
+#Challenges 
+Texty points to the lack of resources in the data journalism
 field as the biggest challenge. While both data and tools are available,
 the lack of resources for completing the required data analysis
 currently hinders more elaborative projects on spending transparency.
@@ -55,14 +56,14 @@ Texty, the demand is currently not enough for taking advantage of the
 data actually available. Texty is supplementing their investigations
 with offering data-journalism trainings.
 
-Open database for public procurements in Ukraine
+##Open database for public procurements in Ukraine
 In 2011 when Texty began working on public procurements in Ukraine.
 Getting the data was a top priority because of the huge volumes
 available and rumors about big level of corruption in this field. In
 2012 spending on procurements was approaching 40% GDP of Ukraine, which
 could be one of the highest in the world.
 
-The main problem with the govermental site
+##The main problem with the govermental site
 [http://tender.me.gov.ua](http://tender.me.gov.ua) is working with the
 data. The site requires account and login and only gives access to the
 data via a html-table with max 100 results from one of the issues of the
@@ -72,8 +73,7 @@ important the data is dirty: you could easily find several different
 versions of the same supplier (company) name. The site includes around
 5-10 thousand tenders per week.
 
-Getting data from the site
-
+##Getting data from the site
 The Texty team wrote a ruby script to mimic user login, check for
 updates and to scrape data from html webpages, all of which had a
 different structure. After cleaning they imported it into a relational
@@ -105,9 +105,7 @@ Additionally:
     possibility to export result in form of a simple and portable CSV
     format.
 
-Impact and coverage
-
-
+#Impact and coverage of the project
 One year into the projects existence, the site reached about 1,500 daily
 users per day despite having almost zero advertising. It has gained
 attention and been used by investigative journalists as well. Some
@@ -127,8 +125,7 @@ visualization of this data for Forbes.ua
 
 <a href="http://www.flickr.com/photos/94746900@N06/8895650387/" title="thumbnail by anderspedersenOKF, on Flickr"><img src="https://farm9.staticflickr.com/8123/8895650387_c1f6582979_o.jpg" width="600" height="373" alt="thumbnail"></a>
 
-The impact of open tender data
-
+#Impact of open tender data
 Since 2008 when information about tenders became openly available for
 the first time, there has been a shift in the public opinion about
 tenders and public spending on procurement. Today there seems to be a
@@ -138,12 +135,10 @@ even a TV-programme on the channel TVi, opposing the government called -
 "Tenders News".
 
 Ukraine has a couple of projects about tenders, though Texty appears to
-be the most sizeable and complete database.
-
-There has however been continuing lobby attempts to close down access to
+be the most sizeable and complete database. There has however been continuing lobby attempts to close down access to
 as much information about tenders as possible and many of these have
-unfortunately been successful. Last example was a law accepted by
-majority in Ukrainian parliament in autumn 2012, which meant that 35% of
+unfortunately been successful. Last example was a law accepted by a
+majority of the Ukrainian parliament in autumn 2012, which meant that 35% of
 all volumes of tenders would be hidden from the public.
 
 The ongoing hope for transparency in public procurement is based on a
