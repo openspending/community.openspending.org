@@ -5,12 +5,14 @@ layout: osi
 
 # Expert Grup
 
-<th class="inner">Project: Budgetstories, Moldova</th>
+<div class="well">Project: <a href="http://www.budgetstories.md/">Budgetstories, Moldova</a></div>
 
 In mid 2012, Expert Grup began to work to make sense of huge budget
 datasets. In November 2012, while finalizing the project concept,
 members of the organising team took part in the [Balkan Budget
 Workshop](http://openspending.org/blog/2012/11/26/Sarajevo-Workshop-Writeup.html) organised by the OpenSpending team.
+
+![BudgetStoriesImg](http://www.budgetstories.md/wp-content/uploads/cit-ne-costa-parlamentul.jpg)
 
 About the team: The core BudgetStories.md team at the Expert-Grup
 consists of 3 core staff members: the project director, one project
