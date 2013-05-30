@@ -5,10 +5,10 @@ layout: osi
 
 # Growing the community working on EU spending data
 
-This segment is based on a [community call organised on 18 February
+<div classT="well">his segment is based on a [community call organised on 18 February
 2013](http://openspending.org/blog/2013/01/09/privacy.html) with
 additional input from [Ronny Patz](https://twitter.com/ronpatz),
-Transparency International, Brussels Office.
+Transparency International, Brussels Office.</div>
 
 Among journalists and CSOs European spending programmes are in these
 years undergoing increased scrutiny. In this section we will examine the
@@ -32,7 +32,7 @@ setup. Three years later it is however also clear that such centralised
 initiated projects have clear limitations, and therefore challenges
 remain when thinking about how European wide spending transparency.
 
-Data issues
+### Data issues
 
 The FT-TBIJ structural funds-investigation exposed a series of barriers,
 which limits the use of structural funds for CSOs and journalists:
@@ -46,7 +46,7 @@ which limits the use of structural funds for CSOs and journalists:
 2.  A dispersed model of distribution across regions in Europe from
     dusins of local sites without a European centralised clearing house
 
-Community challenges
+### Community challenges
 
 We’ve identified a few important points, which should be noted from the
 project:
@@ -81,13 +81,13 @@ project:
 [Luigi Reggi](http://luigireggi.eu) has also mapped the accessibility of
 EU structural funds data across the EU:
 
-![](http://placehold.it/500x500&text=EU%20structural%20funds)
+![EU Structural Funds](hhttp://farm6.staticflickr.com/5444/8895739707_955cb8bcac_z.jpg)
 
-Description: Rating of the accessibility of data
+<small>Description: Rating of the accessibility of data
 from the Structural Funds, Red: PDF only, to Dark greeen: Machine
-readible. Source: luigireggi.eu
+readible. Source: luigireggi.eu</small>
 
-Future perspectives
+## Future perspectives
 
 The data from the EU Structural Funds is an example where CSOs and media
 outlets are still falling short from the potential of covering already
@@ -100,8 +100,8 @@ central site (eg. on the European Data Portal).
 
 New rules will however mandate publishing of structural fund data
 according to certain dimensions or fields, which provide a small step in
-the right direction (page
-157,[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0496:FIN:EN:PDF](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0496:FIN:EN:PDF))
+the right direction ([page
+157](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0496:FIN:EN:PDF))
 
 ## The Financial Transparency System (FTS)
 
