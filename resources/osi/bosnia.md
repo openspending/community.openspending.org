@@ -1,17 +1,24 @@
 ---
-title: "Case Study: Centre for Public Interest Advocacy"
+title: "Case Study: Centre for Public Interest Advocacy - Training for Budget Data Wrangling. "
 layout: osi
 ---
 
 # Bosnia-Herzegovina 
 
-After meeting the team from the Public Interest Advocacy Centre (CPI) at
+<div class="well">After meeting the team from the Public Interest Advocacy Centre (CPI) at
 the POINT conference in Sarajevo in 2012, a proposal was launched to
 start the Budzeti.ba ([beta version online](http://budzeti.ba/))
 project. In November 2012, the project had a kick-off workshop to get
 the ball rolling and cover some of the key data-wrangling issues faced
-by CSOs wanting to create a budget monitoring site. Some of the topics
-we covered were:
+by CSOs wanting to create a budget monitoring site. </well>
+
+![CPI Bosnia](http://farm9.staticflickr.com/8063/8219557569_cc12ebbdea_z.jpg)
+
+This workshop happened shortly after the Spending Data Handbook sprint - and was a great opportunity to do a test run on the material.
+
+## What we covered
+
+Some of the topics we covered were:
 
 1.  An introduction to [DataWrapper](http://datawrapper.de/) for making
     simple charts and web visualisations,
@@ -21,15 +28,20 @@ we covered were:
 5.  Cleaning data using [Google
     Refine](http://code.google.com/p/google-refine/).
 
-Also present at this workshop were the team from Expert Grup in Moldova,
+Also present at this workshop were the team from [Expert Grup in Moldova](expert-grup.html),
 prior to the launch of their Budget Stories project.
+
+## Status
 
 The Budzeti.ba project is still in progress and is due for a full launch
 in autumn 2013. The aim of the project is to provide a one-stop shop for
 budget information in a format which is accessible for citizens.
 
-Several things make this process harder from the point of view of the
-re-users of the data:
+## Comprehensibility of Budget Data
+
+The training in Bosnia was a trigger to build on the material in the handbook by developing some guidelines on how to make data published by governments more accessible for citizens. One of the key methodologies which was used to produce [Where Does My Money Go?](http://wheredoesmymoneygo.org), was to think carefullly about how we aggregated the data and opting for a functional classification. Producing just enough categories to be useful, and not to many to overwhelm.
+
+### Demanding data in functional classifications: why and what's difficult?
 
 1.  Countries such as [Bosnia do not publish Citizen’s
     Budgets](http://survey.internationalbudget.org/#profile/BA) in the

@@ -5,7 +5,7 @@ layout: osi
 
 ## Case Study: Centre for Budget and Governance Accountability
 
-<div class="well">Before a tech project even gets off the ground, it need s a good source of data. On our trip to India, the Centre for Budget and Governance Accountability clearly outlined which problems they have with the data released by government, which clearly slows down and impedes their work.</div>
+<div class="well">Before a tech project even gets off the ground, it need s a good source of data. On our trip to India, the Centre for Budget and Governance Accountability clearly outlined which problems they have with the data released by governments.</div>
 
 ![CBGA India](http://farm9.staticflickr.com/8446/7794135644_572bf30d0e_z.jpg)
 
