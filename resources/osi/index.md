@@ -40,34 +40,18 @@ The team behind the report can be reached at any time on info [at] openspending.
 
 ## Extra Material 
 
-As part of the research for this project, we travelled from [Athens to Berlin](http://openspending.org/blog/2012/07/05/OSI.html) to conduct a series of interviews with Civil Society Organisations across Europe. We were interested to know whether everyone suffered from similar problems in using the data - or whether some countries had a far easier time using the data. We found both statements to be true... 
-
-Part 1: Introductions to the Organisations
-
-<iframe src="http://player.vimeo.com/video/66233020" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-Part 2: The organisations talk about issues when working with data and tools they use in their work
-
-<iframe src="http://player.vimeo.com/video/66240855" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-Part 3: Organisations talk about the impact of their projects
-
-<iframe src="http://player.vimeo.com/video/66281152" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-Part 4: Organisations talk about their wishlist of what could be done to make their work in the field of government financial transparency easier 
-
-<iframe src="http://player.vimeo.com/video/66184506" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+As part of the research for this project, we travelled from [Athens to Berlin](http://openspending.org/blog/2012/07/05/OSI.html) to conduct a series of interviews with Civil Society Organisations across Europe. We were interested to know whether everyone suffered from similar problems in using the data - or whether some countries had a far easier time using the data. We found both statements to be true... These films can be found in the dedicated [videos section](videos.html). 
 
 ## Map of projects 
 
 As an additional appendix to this report, we have published links to all of the organisations who we encountered of spoke to during our research. The majority of these projects have some kind of online presence and use technology either to get, clean, analyse or present their data.
 
-([Map of projects](http://stefanwehrmeyer.com/projects/osmap/))
+([Map of projects](http://apps.openspending.org/oscontactsmap/))
 
 Timeline of activities, visits and events.
 ------------------------------------------
 
-A visual timeline of key activities can be seen here:
+A visual timeline of key activities from the project can be seen here:
 
 <iframe src="http://timeliner.okfnlabs.org/view/?url=https://docs.google.com/a/okfn.org/spreadsheet/ccc%3Fkey%3D0AqwLVP6U7FhDdEZlb29nSHZkeU1ha3JJSEFMLTZVR1E%23gid%3D0&embed=1" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
 
