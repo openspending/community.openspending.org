@@ -10,7 +10,7 @@ the POINT conference in Sarajevo in 2012, a proposal was launched to
 start the Budzeti.ba ([beta version online](http://budzeti.ba/))
 project. In November 2012, the project had a kick-off workshop to get
 the ball rolling and cover some of the key data-wrangling issues faced
-by CSOs wanting to create a budget monitoring site. </well>
+by CSOs wanting to create a budget monitoring site. </div>
 
 ![CPI Bosnia](http://farm9.staticflickr.com/8063/8219557569_cc12ebbdea_z.jpg)
 
