@@ -21,12 +21,12 @@ For each tool - we’ve outlined the its use and what the barrier to entry is, h
 
 ## Stage 1: Extracting and getting data 
 
-<table>
+<table border="1">
     <tr>
-        <td>Issue</td>
-        <td>Tools</td>
-        <td>Level</td>
-        <td>Notes</td>
+        <td><b>Issue</b></td>
+        <td><b>Tools</b></td>
+        <td><b>Level</b></td>
+        <td><b>Notes</b></td>
     </tr>
     <tr>
     	<td>Data not available</td>
@@ -57,12 +57,12 @@ For each tool - we’ve outlined the its use and what the barrier to entry is, h
 ## Stage 2: Cleaning, Working with and Analyzing Data 
  
 
-<table>
+<table border="1">
     <tr>
-        <td>Issue</td>
-        <td>Tools</td>
-        <td>Level</td>
-        <td>Notes</td>
+        <td><b>Issue</b></td>
+        <td><b>Tools</b></td>
+        <td><b>Level</b></td>
+        <td><b>Notes</b></td>
     </tr>
     <tr>
     	<td>Messy data, typos, blanks (various)</td>
@@ -134,12 +134,12 @@ Finally a few notes on the differences between SPSS and R: Though SPSS is fairly
 ## Stage 3: Presenting Data 
 
 
-<table>
+<table border="1">
     <tr>
-        <td>Issue</td>
-        <td>Tools</td>
-        <td>Level</td>
-        <td>Notes</td>
+        <td><b>Issue</b></td>
+        <td><b>Tools</b></td>
+        <td><b>Level</b></td>
+        <td><b>Notes</b></td>
     </tr>
     <tr>
     	<td> Basic visualisation, time series, bar charts </td>
@@ -171,10 +171,10 @@ Finally a few notes on the differences between SPSS and R: Though SPSS is fairly
 
 <table>
     <tr>
-        <td>Issue</td>
-        <td>Tools</td>
-        <td>Level</td>
-        <td>Notes</td>
+        <td><b>Issue</b></td>
+        <td><b>Tools</b></td>
+        <td><b>Level</b></td>
+        <td><b>Notes</b></td>
     </tr>
     <tr>
     	<td> Need a place online to store and manage data, raw, especially from Freedom of Information Requests. </td> 
