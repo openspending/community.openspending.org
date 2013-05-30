@@ -5,24 +5,28 @@ layout: osi
 
 # OKFN Greece
 
-Project: Tracing financial reporting from the Cl@rity program
+<div class="well">Project: Tracing financial reporting from the Cl@rity program</div>
 
-This project review is based on the detailed review of Thodoris
-Papadopoulos, Open Knowledge Foundation Local Group.
+<strong>This project review is based on the detailed review of Thodoris
+Papadopoulos, Open Knowledge Foundation Local Group.</strong>
 
-Summary: OKFN Greece is monitoring the financial reporting systems in
-Greece thoroughly during the crisis, resulting in detailed reviews of
-the rapid legal and technical changes, which the Greek financial
-reporting system has undergone the last few years ultimately leading to
-several proposals for technical changes to the reporting standards.
+## Summary
 
-About the project:
+OKFN Greece is monitoring the financial reporting systems in
+Greece during the financial crisis, resulting in detailed reviews of
+the rapid legal and technical changes in the Greek financial
+reporting system. This has ultimately lead to several proposals for technical changes to the reporting standards.
+
+![Diavgeia](http://farm8.staticflickr.com/7140/7548263168_74dd2d423c_z.jpg)
+
+
+## About the project
 
 In Greece the most important piece of legislation in recent years
 regarding the transparency of government action is the “Clarity”
 program, which introduced the obligation to publish all the decisions of
 government and all administrative entities on the Internet.
-[“Cl@rity”](http://diavgeia.gov.gr/) aims to generate maximum
+[“Cl@rity”](http://diavgeia.gov.gr/) (Diavgeia) aims to generate maximum
 accessibility of government policy and administrative actions. Since the
 programme was launched in October 2010, almost 6 million administrative
 decisions have been uploaded to the cl@rity website, with a daily
@@ -66,7 +70,7 @@ public financial data.
 OKFN Greece highlights two major achievements from their data quality
 review and proposals:
 
-1.  For the CL@rity programme substantial improvements have been
+1.  For the Cl@rity programme substantial improvements have been
     implemented by the end of 2012. These corrections included changes
     of significant importance to journalists and CSOs such as improving
     the data quality of the transactional spending amounts.
@@ -83,7 +87,7 @@ review and proposals:
     Repository](http://joinup.ec.europa.eu/community/osor/description) under
     a [EUPL](http://joinup.ec.europa.eu/software/page/eupl) licence.
 
-Links:
+### Links:
 
 1.  A short video about researchers at the National Technical University
     of Athens and Students of WebScience and active members of OKFN
