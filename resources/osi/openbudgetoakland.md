@@ -5,16 +5,18 @@ layout: osi
 
 # OpenOakland, United States
 
-Project: [OpenBudgetOakland](http://openbudgetoakland.org/), launched
-April 2013
+<div class="well">Project: [OpenBudgetOakland](http://openbudgetoakland.org/), launched
+April 2013</div>
 
-About: Open Budget Oakland is a group of civic hackers working on budget
-issues based on the . At the beginning of 2013 they initiated the idea
+## About
+
+Open Budget Oakland is a group of civic hackers working on budget
+issues. At the beginning of 2013 they initiated the idea
 to launch a budget visualization site with the goal to increase
 participation from citizens and stimulate citizens debate around the
 city budget. The platform should enable citizens to explore budget
-nuances, to discuss the implications and to ask informed questions and
-to share knowledge for those who really know public finance.
+nuances, to discuss the implications of policy decisions, to ask informed questions and
+facilitate information flow from experts in the field to interested parties.
 
 In February 2013 Open Budget Oakland connected with OpenSpending in
 order to plan the launch of [OpenBudgetOakland.org](http://openbudgetoakland.org/).
@@ -26,15 +28,17 @@ launch the project gained recognition from the City of Oakland as it was
 offered to [present the project at city
 hall](https://twitter.com/openbudgetOAK/status/329667951265472512/photo/1).
 
+<iframe width='700' height='400' src='http://openspending.org/oakland-adopted-budget-fy-2011-13-expenditures/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22department%22%2C%22unit%22%2C%22child-fund%22%5D%2C%22year%22%3A2012%2C%22cuts%22%3A%7B%7D%7D&width=700&height=400' frameborder='0'></iframe>
+
 ## Technological setup and challenges
 
 The first budget of Oakland was accessed in July 2012 as a 350 page
 PDF-file, which was copy-pasted into a coherent spreadsheet and an
 almost-interactive pie chart at a
 [one-day](http://codeforoakland.org/meet-our-2012-winning-apps) hackathon.
-The process delivered the direct conclusion, that “accessing Oakland
-city budget data isn’t easy, and even once you have data, it isn’t
-immediately clear how it can be shared in a way that helps people.”
+The process delivered the direct conclusion, that:
+>“accessing Oakland city budget data isn’t easy, and even once you have data, it isn’t
+> immediately clear how it can be shared in a way that helps people.”
 
 The small volunteer team at Open Budget Oakland built the site within a
 few months of 2013 based on OpenSpending technology adding two new
