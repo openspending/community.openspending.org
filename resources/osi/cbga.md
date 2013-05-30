@@ -3,11 +3,17 @@ title: "Case Study: Centre for Budget and Governance Accountability"
 layout: osi
 ---
 
+## Case Study: Centre for Budget and Governance Accountability
+
+<div class="well">Before a tech project even gets off the ground, it need s a good source of data. On our trip to India, the Centre for Budget and Governance Accountability clearly outlined which problems they have with the data released by government, which clearly slows down and impedes their work.</div>
+
+![CBGA India](http://farm9.staticflickr.com/8446/7794135644_572bf30d0e_z.jpg)
+
 Centre for Budget and Governance Accountability (CBGA) is a policy research and advocacy organisation based in New Delhi, India. Its work promotes transparent, participatory and accountable governance, and a people-centred perspective in government budgets. 
 
 The main questions CBGA asks are about the priorities underlying budgets, quality of government interventions in the social sector, responsiveness of policies and budgets to disadvantaged sections of population (e.g. religious minorities, scheduled castes, women), progressivity of the taxation policies, and some of the structural issues in India’s fiscal federalism.
 
-They talked about some of the problems they had had in using the data; here are just a few of the most striking. 
+They talked about some of the problems they had had in using the data made available by the government; here are just a few of the most striking.
 
 When working with data on expenditure by the Union Government and State Governments in India: 
 
@@ -17,7 +23,7 @@ When working with data on expenditure by the Union Government and State Governme
 * In some of the Union Government schemes, where the Union Budget funds are routed outside the State Budgets, fund advances to implementing agencies get reported as expenditures and there is no way we can ascertain whether the money has actually been spent or is lying parked in the bank account at some level. 
 As regards State Budget data, CBGA gets PDFs from the websites of the State Governments in about 1/3 of States – in case of the rest, they have to procure hard copies from offices of the Finance Departments of the States. 
 
-A matrix of available budget data sources for India and comments about their usability has been compiled by the CBGA team and can be found online here: http://www.cbgaindia.org/sources_for_budget_data.htm.  
+A matrix of available budget data sources for India and comments about their usability has been compiled by the CBGA team and can be found [online](http://www.cbgaindia.org/sources_for_budget_data.htm).
 
 <em>See the full list of organisations we visited on the India trip on the <a href="http://in.okfn.org/2012/09/18/okfn-india-trip-the-roundup/">OKFN-India blog</a></em>. 
 
