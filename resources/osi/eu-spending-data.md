@@ -5,7 +5,7 @@ layout: osi
 
 # Growing the community working on EU spending data
 
-<div classT="well">his segment is based on a [community call organised on 18 February
+<div class="well">This segment is based on a [community call organised on 18 February
 2013](http://openspending.org/blog/2013/01/09/privacy.html) with
 additional input from [Ronny Patz](https://twitter.com/ronpatz),
 Transparency International, Brussels Office.</div>
@@ -81,7 +81,7 @@ project:
 [Luigi Reggi](http://luigireggi.eu) has also mapped the accessibility of
 EU structural funds data across the EU:
 
-![EU Structural Funds](hhttp://farm6.staticflickr.com/5444/8895739707_955cb8bcac_z.jpg)
+![EU Structural Funds](http://farm6.staticflickr.com/5444/8895739707_955cb8bcac_z.jpg)
 
 <small>Description: Rating of the accessibility of data
 from the Structural Funds, Red: PDF only, to Dark greeen: Machine
