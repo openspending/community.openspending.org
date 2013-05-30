@@ -72,7 +72,7 @@ So far their portfolio includes excellent examples such as:
 
 ## Community challenges
 
-Engaging CSOs in spending data: According to Expert Grup civil society
+<strong>Engaging CSOs in spending data:</strong> According to Expert Grup civil society
 (NGOs, journalists and universities) has until now shown little
 knowledge or interest in the existence of open data. The goal has
 therefore been to engage with and educate journalists and policy makers.
