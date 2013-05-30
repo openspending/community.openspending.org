@@ -3,7 +3,7 @@ title: "Case Study: Texty"
 layout: osi
 ---
 
-# Texty, Ukraine
+# Texty
 
 Project: [z.Texty.ua](http://z.texty.org.ua/) - procurement database
 based on data from the Ukrainian government.
@@ -125,7 +125,7 @@ proprietary database of these). The Texty team also made an interactive
 visualization of this data for Forbes.ua
 (http://forbes.ua/ratings/people).
 
-![](http://placehold.it/500x500&text=Forbes.ua)
+<a href="http://www.flickr.com/photos/94746900@N06/8895650387/" title="thumbnail by anderspedersenOKF, on Flickr"><img src="https://farm9.staticflickr.com/8123/8895650387_c1f6582979_o.jpg" width="600" height="373" alt="thumbnail"></a>
 
 The impact of open tender data
 
