@@ -5,7 +5,8 @@ layout: osi
 
 This summary is based on the full case study by Aviv Sharon and Adam Kariv from The Public Knowledge Workshop published in this extensive guest post on their work on financial transparency in Israel.
 
-About: Hasadna is a civil society organisation working on government transparency across fields with strong technological resources as well as a lively community. 
+## About
+Hasadna is a civil society organisation working on government transparency across fields with strong technological resources as well as a lively community. 
 
 Notable tech projects on financial transparency include: 
 Open Budget 1.0 - launched 2011
@@ -15,7 +16,7 @@ A project to open up the Finance Committee
 
 Hasadna’s flagship project is the parliamentary app Open Knesset.
 
-Background on the Open Budget
+## Background on the Open Budget
 The flow of money through Israel's coffers became a concern for the developers of "Open Budget" following a large forest fire on Mount Carmel in December 2010 , the deadliest and most widespread fire Israel had ever seen. After the fact, Israel's ministries of Finance and Interior blamed each other for having neglected the fire brigades. On the one hand, the Ministry of Interior claimed that its requests to increase the budget for the brigades were only partially funded by the Ministry of Finance, and very late at that. On the other hand, the Ministry of Finance claimed that it had passed along all the sums stipulated in the relevant governmental resolutions. The Ministry of Finance also added that these resolutions had even greatly increased the funds for aerial firefighting in 2010 compared with previous years.
 Open Budget 1.0
 To clear up the argument, activists The Public Knowledge Workshop  asked Michael Eitan, then Minister of Improvement of Government Services, to help retrieve data they could use to put together a comprehensive picture of Israel's state budget. Unfortunately, the Israeli Ministry of Finance did just the bare minimum and released several files in various formats, such as Excel, PDF and html. The files were rife with human errors, like parts of the Hebrew text mistakenly written left-to-right. (Hebrew is written from right to left.)
@@ -27,13 +28,13 @@ While most high-level numbers usually kept similar meanings over time, the Minis
 Moreover, to track spending on issues such as for instance firefighting, one would need to put together the sums spent on various different items, paying attention to the differences between salaries, procurement and other items.
 Last but not least, while the budget may contain all the data, one can't easily determine if the sums are too much, too little, or just right. Nor can that be determined objectively. This is a value judgment, and different people will analyze the budget in different, and sometimes contradicting, ways, and use different data to frame and support their arguments. What’s more, a good system would then allow experts and civic activists in Israel to publicly annotate budgetary items with their respective opinions, to enrich the budgetary debate with accessible, evidence-based arguments.
 
-These needs are addressed in Open Budget 2.0, which is due for release from the Public Knowledge Workshop within the next few weeks. Namely, the next version of the system will allow users to:
-unify related budgetary items
-analyze them together
-compare spending between different items, or between budgetary items and other data sets, which can help put the budget in a larger context, and
-publicly annotate budgetary items.
+These needs have addressed in Open Budget 2.0, which is due for release from the Public Knowledge Workshop within the next few weeks. Namely, the next version of the system will allow users to:
+- unify related budgetary items
+- analyze them together
+- compare spending between different items, or between budgetary items and other data sets, which can help put the budget in a larger context, and
+- publicly annotate budgetary items.
 
-Looking Ahead
+## Looking Ahead
 Predictably, one of the biggest roadblocks for progress on budgetary transparency comes from the government itself. Currently we are trying to make the most of the data, which have already been released, but the Ministry of Finance and other branches of government still hold a lot of data sets which they reject to share. Open Budget developers suspect that until they are forced to release them, it will stay that way. Some examples of data sets yet not released are:
 state-provided evaluations of the effect of each budget item on the economy
 budgets on the ministerial level
