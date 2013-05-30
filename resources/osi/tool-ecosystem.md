@@ -23,10 +23,10 @@ For each tool - we’ve outlined the its use and what the barrier to entry is, h
 
 <table border="1">
     <tr>
-        <td><b>Issue</b></td>
-        <td><b>Tools</b></td>
-        <td><b>Level</b></td>
-        <td><b>Notes</b></td>
+        <td><strong>Issue</strong></td>
+        <td><strong>Tools</strong></td>
+        <td><strong>Level</strong></td>
+        <td><strong>Notes</strong></td>
     </tr>
     <tr>
     	<td>Data not available</td>
@@ -59,10 +59,10 @@ For each tool - we’ve outlined the its use and what the barrier to entry is, h
 
 <table border="1">
     <tr>
-        <td><b>Issue</b></td>
-        <td><b>Tools</b></td>
-        <td><b>Level</b></td>
-        <td><b>Notes</b></td>
+        <td><strong>Issue</strong></td>
+        <td><strong>Tools</strong></td>
+        <td><strong>Level</strong></td>
+        <td><strong>Notes</strong></td>
     </tr>
     <tr>
     	<td>Messy data, typos, blanks (various)</td>
@@ -136,10 +136,10 @@ Finally a few notes on the differences between SPSS and R: Though SPSS is fairly
 
 <table border="1">
     <tr>
-        <td><b>Issue</b></td>
-        <td><b>Tools</b></td>
-        <td><b>Level</b></td>
-        <td><b>Notes</b></td>
+        <td><strong>Issue</strong></td>
+        <td><strong>Tools</strong></td>
+        <td><strong>Level</strong></td>
+        <td><strong>Notes</strong></td>
     </tr>
     <tr>
     	<td> Basic visualisation, time series, bar charts </td>
@@ -171,10 +171,10 @@ Finally a few notes on the differences between SPSS and R: Though SPSS is fairly
 
 <table>
     <tr>
-        <td><b>Issue</b></td>
-        <td><b>Tools</b></td>
-        <td><b>Level</b></td>
-        <td><b>Notes</b></td>
+        <td><strong>Issue</strong></td>
+        <td><strong>Tools</strong></td>
+        <td><strong>Level</strong></td>
+        <td><strong>Notes</strong></td>
     </tr>
     <tr>
     	<td> Need a place online to store and manage data, raw, especially from Freedom of Information Requests. </td> 
