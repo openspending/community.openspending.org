@@ -5,7 +5,8 @@ layout: osi
 
 # Mapping the Open Spending Data Community 
 
-*How civil society organisations use technology to wrangle government spending data.*
+<th class="inner">How civil society organisations use technology to wrangle government spending data.</th>
+
 
 <br></br> 
 
