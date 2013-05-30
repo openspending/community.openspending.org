@@ -24,11 +24,11 @@ index rating the spending transparency across the EU member states,
 which served as an important guideline before transactional spending had
 yet become a topic of governmental attention.
 
-![](http://placehold.it/500x500&text=Farm%20Subsidy)
+![FarmSubsidy](http://farm4.staticflickr.com/3780/8895739487_b03be6f0fa.jpg)
 
-Source: Farm Subsidy. Along with the annual retrieval of farm subsidy
+<small>Source: Farm Subsidy. Along with the annual retrieval of farm subsidy
 payments, Farm Subsidy produced a comprehensive index on farm subsidy
-spending transparency.
+spending transparency.</small>
 
 Early 2013 Farm Subsidy approached OpenSpending suggesting the two
 projects to  collaborate around the hosting of the site as well as the
