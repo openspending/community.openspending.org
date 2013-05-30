@@ -15,9 +15,9 @@ We continue to hunt for more and better tools to do the job and hope that some o
 
 For each tool - we’ve outlined the its use and what the barrier to entry is, here's a guide to the rough categorisation we used: 
 
-*Basic* = An off-the-shelf tool that can be learned and first independent usage made of within 1 day. No installation on servers etc required.
-*Intermediate* = Between 1 day - 1 week to master basic functionality. May require tweaking of code but not new creation thereof. 
-*Advanced* = Requires code
+<p><strong>*Basic* = An off-the-shelf tool that can be learned and first independent usage made of within 1 day. No installation on servers etc required.</strong></p>
+<p><strong>*Intermediate* = Between 1 day - 1 week to master basic functionality. May require tweaking of code but not new creation thereof. </strong> </p>
+<p><strong>*Advanced* = Requires code. </strong> </p> 
 
 ## Stage 1: Extracting and getting data 
 
@@ -122,12 +122,14 @@ For each tool - we’ve outlined the its use and what the barrier to entry is, h
 	</tr> 
 </table> 
 
-Note on SPSS and R: It’s our impression that interviewees seemed largely to have been trained to use SPSS. R is however important to mention as it offers a free access to a broad section of the same models, though based on a programming interface. 
+<strong>Note on SPSS and R:</strong> It’s our impression that interviewees seemed largely to have been trained to use SPSS. R is however important to mention as it offers a free access to a broad section of the same models, though based on a programming interface. 
 
 A few examples of analysis on spending data, which can be done with statistical software such as SPSS or R: 
 
-a) <a href="http://en.wikipedia.org/wiki/Hidden_Markov_model">Hidden Markov</a>: Hidden Markov was originally developed for finding patterns in bioinformatics, but has turned out useful for predicting fraudulent and corrupt behaviour. Using Hidden Markov requires high quality data, and was for instance used to analyse spending data from 50 mio transactions in the Slovenian platform Supervizor. 
-b) <a href="http://en.wikipedia.org/wiki/Benford%27s_law">Benford's law</a>: Benford's law examines the distribution of figures in your data, against how it should actually look. Diversions from the normal distribution can help detect fraudulent reporting (eg. if companies tend to report ernings less than $500 mio. in order to fit a particular regulation Benford’s law could be a tool to detect that). Check this example using Benford’s law to test the release of all <a href="http://friism.com/tax-records-for-danish-companies">Danish corporate tax filings</a> and check this <a href="http://friism.com/tax-records-for-danish-companies">R blog post on the topic</a>. 
+<p>
+<strong>a)</strong> <a href="http://en.wikipedia.org/wiki/Hidden_Markov_model">Hidden Markov</a>: Hidden Markov was originally developed for finding patterns in bioinformatics, but has turned out useful for predicting fraudulent and corrupt behaviour. Using Hidden Markov requires high quality data, and was for instance used to analyse spending data from 50 mio transactions in the Slovenian platform Supervizor. </p>
+<p>
+<strong>b)</strong> <a href="http://en.wikipedia.org/wiki/Benford%27s_law">Benford's law</a>: Benford's law examines the distribution of figures in your data, against how it should actually look. Diversions from the normal distribution can help detect fraudulent reporting (eg. if companies tend to report ernings less than $500 mio. in order to fit a particular regulation Benford’s law could be a tool to detect that). Check this example using Benford’s law to test the release of all <a href="http://friism.com/tax-records-for-danish-companies">Danish corporate tax filings</a> and check this <a href="http://friism.com/tax-records-for-danish-companies">R blog post on the topic</a>. </p>
 
 Finally a few notes on the differences between SPSS and R: Though SPSS is fairly easy to get started using, it can be difficult to collaborate around as it applies its own SPSS data format. Some models might also be unavailable from the basic SPSS package. R is the free alternative, uses a programme interface, where all extensions are accessible, and where community support and code samples are widely available. One possible compromise bridging the convenience of SPSS and the wide usability of R, is the proprietary software <a href="http://www.revolutionanalytics.com/">R Revolution</a>.
 
@@ -169,7 +171,7 @@ Finally a few notes on the differences between SPSS and R: Though SPSS is fairly
 
 ## Publishing Data 
 
-<table>
+<table border="1">
     <tr>
         <td><strong>Issue</strong></td>
         <td><strong>Tools</strong></td>
@@ -190,14 +192,16 @@ Finally a few notes on the differences between SPSS and R: Though SPSS is fairly
     </tr> 
 </table> 
 
-See also: http://openspending.org/resources/handbook/ch014_resources.html 
-Note: Many of these tools will have difficulty working on Internet Explorer (especially older versions), but we have yet to find more powerful tools which also work there.
+### Notes 
+
+<p>See also the resources section in the [Spending Data Handbook](http://openspending.org/resources/handbook/ch014_resources.html)</p>
+<p>Note: Many of these tools will have difficulty working on Internet Explorer (especially older versions), but we have yet to find more powerful tools which also work there.</p>
 
 ## A note on Network Analysis 
 
 As you will see from the case studies in the videos, Network Analysis is an area that more and more people are looking into with regard to public procurement and contracts. 
 
-Network visualisations are commonly used as a solution to this problem, however, we offer a note of caution not to overuse them; due to the amount of data on which they are often used, they can sometimes be overwhelming and the average non-expert can find them hard to interpret. Often the types of information that it is possible to extract from a network visualisation e.g. “who is best connected?”, “are there links between person X and person Y?” -  could equally be found with a searchable database of connections. 
+Network visualisations are commonly used as a solution to this problem, however, we offer a note of caution not to overuse them; due to the amount of data on which they are often used, they can sometimes be overwhelming and the average non-expert can find them hard to interpret. Often the types of information that it is possible to extract from a network visualisation e.g. “who is best connected?”, “are there links between person X and person Y?” -  could be more easily be found with a searchable database of connections. 
 
 By way of illustration, see how easy to search http://littlesis.org/ is. If someone knows who they are looking for, the most powerful tool you can provide them with could be a search box! Both Little Sis and the future Ahalo project from K-Monitor offer crucial additional background context in the form of a searchable database of articles. (Tool gap alert: it would be amazing if every country had one of these!). 
 

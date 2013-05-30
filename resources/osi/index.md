@@ -40,9 +40,11 @@ The team behind the report can be reached at any time on info [at] openspending.
 
 ## Extra Material 
 
+### Videos 
+
 As part of the research for this project, we travelled from [Athens to Berlin](http://openspending.org/blog/2012/07/05/OSI.html) to conduct a series of interviews with Civil Society Organisations across Europe. We were interested to know whether everyone suffered from similar problems in using the data - or whether some countries had a far easier time using the data. We found both statements to be true... These films can be found in the dedicated [videos section](videos.html). 
 
-## Map of projects 
+### Map of projects 
 
 As an additional appendix to this report, we have published links to all of the organisations who we encountered of spoke to during our research. The majority of these projects have some kind of online presence and use technology either to get, clean, analyse or present their data.
 
