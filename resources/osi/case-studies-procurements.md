@@ -14,5 +14,5 @@ As procurement data is increasingly becoming available in more countries such as
 
 * [Hutspace, Ghana](hutspace.html)
 * [Texty, Ukraine](texty.html)
-* [OpenTED, EU contracts](opented.html)
+* [OpenTED, procurements from EU](opented.html)
 
