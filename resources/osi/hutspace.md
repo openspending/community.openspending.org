@@ -5,13 +5,15 @@ layout: osi
 
 # Hutspace, Ghana
 
-Based on interview with Emmanuel Okyere, Hutspace (Ghana)
+<div class="well">Project: Scraping, analysing and publishing procurement data.</well>
 
-Project: Scraping, analysing and publishing procurement data.
+## Status
 
-Status: In progress. Version 1.0 scheduled for publication June, 2013.
+In progress. Version 1.0 scheduled for publication June, 2013.
 
-About the project: Emmanuel is running a project to scrape, publish and
+## About the project
+
+Emmanuel Okyere is running a project to scrape, publish and
 analyse the Ghana procurement register, while working on his own
 IT-start up.
 
@@ -23,18 +25,22 @@ procurement opportunities. Future plans include building a searchable
 database, and a flat CSV file download option, in order to enable
 journalists and CSOs work with the data.
 
-## Technical challenges:
+## Technical challenges
 
-Cleaning data: “Cleaning the data has been a substantial issue for the
-project. There’s a lot of validation, which we need to do before we can
-publish it simply because the data appear to be inaccurate. As an
-example we might have unrealistically small amounts appearing in a
-contract awards or a date might not make sense. This has been the most
-substantial bottleneck for the project”
+### Cleaning data
 
-Reconciling company entities: “Many companies appear with a variety of
-entities and so finding a good way to reconcile companies, which are
-actually the same, has been difficult.”
+> “Cleaning the data has been a substantial issue for the
+> project. There’s a lot of validation, which we need to do before we can
+> publish it simply because the data appear to be inaccurate. As an
+> example we might have unrealistically small amounts appearing in a
+> contract awards or a date might not make sense. This has been the most
+> substantial bottleneck for the project”
+
+### Reconciling company entities
+
+> “Many companies appear with a variety of
+> entities and so finding a good way to reconcile companies, which are
+> actually the same, has been difficult.”
 
 Emmanuel is planning to utilize a helpful codebase from the open
 parliament field, originally developed by MySociety for name
@@ -54,21 +60,25 @@ availability of procurement data as well as the lack of skills to
 analyse among journalists and CSOs the data are the main barriers for
 achieving more usage of the data.
 
-“For much of the work to be done on the data, having skills to use Excel
-would actually be sufficient for journalists in order to get to work
-with the data. However skills to use Excel for analysis are lacking
-among almost all journalists today. When it comes to more challenging
-tasks, which require coding skills for analysing the data, I know
-actually only one journalist. She will be involved in this project.”
+> “For much of the work to be done on the data, having skills to use Excel
+> would actually be sufficient for journalists in order to get to work
+> with the data. However skills to use Excel for analysis are lacking
+> among almost all journalists today. When it comes to more challenging
+> tasks, which require coding skills for analysing the data, I know
+> actually only one journalist. She will be involved in this project.”
 
-“Trainings could help equip more journalists to work with the
-procurement data we are planning to release. We really need more people
-to look and use the data, but that require that they have the skills. I
-think that what trainings like databootcamps are for.”
+> “Trainings could help equip more journalists to work with the
+> procurement data we are planning to release. We really need more people
+> to look and use the data, but that require that they have the skills. I
+> think that what trainings like databootcamps are for.”
 
-“As publishers of the database we would like to build visualisations to
-spot trends in the data. For instance we have noticed that when new
-governments get into power, we see this reflected in the procurement
-data as new contractors appear, while others vanish. This is analytical
-work we can do, which I think journalists will not be able to do on
-their own.”
+> “As publishers of the database we would like to build visualisations to
+> spot trends in the data. For instance we have noticed that when new
+> governments get into power, we see this reflected in the procurement
+> data as new contractors appear, while others vanish. This is analytical
+> work we can do, which I think journalists will not be able to do on
+> their own.”
+
+<em>Based on interview with Emmanuel Okyere, Hutspace (Ghana)</em>
+
+
