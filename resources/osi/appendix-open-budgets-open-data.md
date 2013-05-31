@@ -11,19 +11,19 @@ The purpose of the call was to investigate whether it would be possible to speci
 
 ## Questions
 
-### How should updates and changes to budget data be documented or tracked? One requirement could be to ask governments to clearly specify for all the posted documents the "when" (writing something like  "latest  updated on"  or "posted on", etc...)
+#### How should updates and changes to budget data be documented or tracked? One requirement could be to ask governments to clearly specify for all the posted documents the "when" (writing something like  "latest  updated on"  or "posted on", etc...)
 
 The open data community is quite familiar with version numbers, so using them is one possible solution. 
 Crucial is that there should be access to all drafts (i.e. they should not be removed from their place of publication and should remain available) even when new versions are published. 
 
-### How should budgetary breakdowns and classifications be outlined?
+#### How should budgetary breakdowns and classifications be outlined?
 
 The conclusion from the group was that this was largely a political question and the answer would depend on context. There may be far more specific requests for breakdowns than this, we highlight here only the simplest of requests. Nevertheless - it is possible to infer some preferences from the broader context of the interviews from this report: 
 
 * The most popular request from our group was for functional or programme classifications. (It is common to receive data in administrative breakdowns and then have to convert it, e.g. in order to visualise it to explain to citizens where their money goes.)
 * It should be possible to map the (functional) classifications from the budget formulation process onto the spending categories to see projected vs. actual expenditure. 
 
-### For how long should budget information be kept online (minimum amount of time)?
+#### For how long should budget information be kept online (minimum amount of time)?
 
 The participants of the call felt quite strongly that as the costs of storing information online were so minimal, this question was essentially redundant (i.e. the answer was "forever"). 
 
@@ -39,15 +39,15 @@ In this last case, we would however urge governments to consider a variety of ar
 
 Some interviewed requested data to be released via an API. This is indeed a useful move particularly when data is updated regularly, but should not be the only method to aquire the data - many non-technical users require simply bulk download of the data. 
 
-## How should the budget information be displayed in order for interested parties to know where to find it (relatedly if it moves web addresses, links should be provided so users can easily navigate to the new address)?
+#### How should the budget information be displayed in order for interested parties to know where to find it (relatedly if it moves web addresses, links should be provided so users can easily navigate to the new address)?
 
 Ideally - the data would have a constant URL, but in the worst case scenario - the redirects should be clear. 
 
-## What data formats to provide - ie. machine-readable format?
+#### What data formats to provide - ie. machine-readable format?
 
 The number one low-hanging fruit which could be solved in order to vastly improve the usability of available budget and spending (plus procurement and other types listed above) information is to make **data machine-readable**. 
 
-### What does Machine-readable mean?
+<div class="well"><h4>What does Machine-readable mean?: Implementation guidelines from the UK government.</h4>
 
 The UK government have now issued very good clear, <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">plain-language guides</a> for service managers on which data formats are appropriate for publishing data. The US government has also decreed that all data shall be published in machine-readable formats. An extract from the UK service manual from gov.uk is copied below for the convenience of the reader: 
 
@@ -64,6 +64,7 @@ The UK government have now issued very good clear, <a href="https://www.gov.uk/s
 
 Read the full version of the guidelines <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">here</a>.
 
+</well>
 
 ## Why is this so important? 
 Civil Society Organisations currently waste a huge amount of time and resources in converting data from non-machine-readable formats into ones that they can use for analysis, visualisations or other projects. Any data project has a data pipeline: 
