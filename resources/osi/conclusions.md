@@ -17,9 +17,9 @@ This report has clearly outlined that there is demand for openly available, open
 	<li><strong>Spending</strong> - crucially, at <strong> transaction level</strong></li>
 	<li> <strong>Procurement</strong> - includes information on contractual agreements between suppliers and government entities:</li>
 		<ul>
-			<li> <strong> Contracts </strong> - understood as the documents containing the contractual agreements between public agencies and private companies. These can be important sources for CSOs and journalists when examining the terms of service, fee structures and names of the signatories. Many governments however argue that contracts are commercially confidential as reasoning for only disclosing redacted contracts or not disclosing contract at all. Read more at <a href="http://www.open-contracting.org/">Open Contracting</a></li>.
+			<li> <strong> Contracts </strong> - understood as the documents containing the contractual agreements between public agencies and private companies. These can be important sources for CSOs and journalists when examining the terms of service, fee structures and names of the signatories. Many governments however argue that contracts are commercially confidential as reasoning for only disclosing redacted contracts or not disclosing contract at all. Read more at <a href="http://www.open-contracting.org/">Open Contracting</a>.</li>
 			<li><strong>Company Information</strong> - in order to be able to answer questions related to policy and outsourcing decisions, integrity and effectiveness of the contracting process and the track records of companies contracting with governments to name but a few. Further reading - the <a href="http://opencorporates.com/downloads/ogp_company_data_report.pdf">OpenCorporates report</a> on open corporate data in Open Government Partnership Countries.
-			<li><strong>Information on Individuals</li> - <em>not</em> information about individual citizens, but those in a position of power within government, or within a company doing business with government. This is to help understand key questions, “who is responsible for a given political decision?”, “what relationships (family, friend etc) are there between winners of tenders and people within government? (are there any conflicts of interest?)”. (* See note) </li>
+			<li><strong>Information on people in positions of power, business and family associations </strong> - <em>not</em> information about individual citizens. This is to help understand key questions, “who is responsible for a given political decision?”, “what relationships (family, friend etc) are there between winners of tenders and people within government? (are there any conflicts of interest?)”. (* See note) </li>
 			</ul>
 </ul>
 
@@ -31,11 +31,11 @@ International (e.g. Farm Subsidies), National - and Local level data is demanded
 
 ### No bulk download
 
-Many governments have a clear perception that publishing financial data online (in html or PDF) equals making the data “open”. For this reason many CSOs struggle with the cumbersome tasks of scraping content off websites. Despite the fact that tools such as ScraperWiki are increasingly making it easier to access such material, it doesn’t change the fact that governments are in reality obstructing access by not providing bulk download access to data. In the worst cases  - download rate may be artificially impeded by using CAPTCHA codes.
+Many governments believe that publishing financial data online (in html or PDF) equals making the data “open”. For this reason many CSOs struggle with the task of scraping content off websites (if they even know it is possible to do so). In the worst cases  - automatic access or scrapers may be impeded by using CAPTCHA codes.
 
-In practice the technical skills required for scraping spending data from government websites means that far fewer individuals and CSOs have access to this information - moreover, it is difficult for organisations to keep a copy in the case that this information disappears from the internet. Therefore by limiting access to raw, downloadable data, government also limits the ability for CSOs to share and develop innovative processes for working with financial data.
+Bulk download is crucial to allow organisations to keep a copy in case information disappears from the internet.
 
-Governmental PDF release policies major barrier for re-use
+### Governmental PDF release policies major barrier for re-use
 
 Many organisations have identified PDF releases as a substantial barrier to re-use. Though organisations often manage to complete projects, the governmental policies to release PDFs impedes workflow and increase demand for members with technical skills.
 

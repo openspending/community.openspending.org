@@ -9,7 +9,7 @@ layout: osi
 
 ### Demand for data 
 
-It is clear and undeniable that there is an unquenched demand for financial data about governments from Civil Societies. In particular, for data on: 
+It is clear and undeniable that there is an unquenched demand for financial data about governments from Civil Society. In particular, for data on:
 
 <ul>
 	<li><strong>Budgets</strong></li>
@@ -17,8 +17,9 @@ It is clear and undeniable that there is an unquenched demand for financial data
 	<li> Procurement</li>
 </ul>
 
-This should be *[machine readable](machinereadfaq.html)*.
-Available at international (e.g. EU farm subsisides), national and local levels. 
+This should be:
+* *[machine readable](machinereadfaq.html)*.
+* Available at international (e.g. EU farm subsisides), national and local levels.
 
 
 ## Looking Forward 
