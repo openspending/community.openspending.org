@@ -8,14 +8,15 @@ layout: osi
 In our conclusions section, we highlighted the main types of data which are in demand (budgets, transaction-level spending, procurement...). We have kept the demands in the conclusion short for clarity's sake, however there are lots of other datasets which are essential for many organisations to be able to combine with the key data:
 
 <ul>
-	<li><strong>Information on targets or outputs</strong>, these should be clearly mappable to the project or programme area to which they relate in order to be able to answer questions such as “What is the delivery rate?” or “Did that injection of funds/stimulus package result in better performance?”. These are not always produced by governments, but frequently in demand. </li><strong>Geographic information</strong>, should be available at reasonable granular levels. Governments often transfer grants and other payments to geographically identified areas, eg. as part of redistribution schemes. Providing access to such regionalised accounts can be crucial in order to enable CSOs to assess equality and distribution of budgetary priorities. Note that regional data does often provide too little granularity to expose local inequality.
+	<li><strong>Information on targets or outputs</strong>, these should be clearly mappable to the project or programme area to which they relate in order to be able to answer questions such as “What is the delivery rate?” or “Did that injection of funds/stimulus package result in better performance?”. These are not always produced by governments, but frequently in demand.</li>
+	<li><strong>Geographic information</strong>, should be available at reasonable granular levels. Governments often transfer grants and other payments to geographically identified areas, eg. as part of redistribution schemes. Providing access to such regionalised accounts can be crucial in order to enable CSOs to assess equality and distribution of budgetary priorities. Note that regional data does often provide too little granularity to expose local inequality.</li>
 </ul>
 
 Two cases exemplify to what extent including geographic information can be helpful for different missions:
 
 > “What we would like to be able to do is pull out ward-level data [...] or very very micro-level data, neighbourhood level, most of the data which is released [in the UK] is Local Authority Level, and that’s just too big for us.” - <strong> Jez Hall of the Participatory Budgeting Unit (UK) </strong>
 
-Additionally, in the case study from the <strong>Centre for Budget and Governance Accountability (India)</strong>, a lot of questions the group strove to answer could be answered simply by ensuring that the data contained information on, which state received the funds (this is pretty high level information, but still was unavailable.
+Additionally, in the [case study](cbga.html) from the <strong>Centre for Budget and Governance Accountability (India)</strong>, a lot of questions the group strove to answer could be answered simply by ensuring that the data contained information on, which state received the funds (this is pretty high level information, but still was unavailable.
 
 <ul>
 	<li><strong>Information on demographics:</strong> Most policy researchers want to be able to answer questions more specific than per-capita estimates. This makes data such as "Household Surveys" particularly important. They might ask questions such as:
