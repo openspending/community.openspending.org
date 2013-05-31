@@ -15,12 +15,15 @@ It is clear and undeniable that there is an unquenched demand for financial data
 	<li><strong>Budgets</strong></li>
 	<li>Spending - crucially, at <strong> transaction level</strong></li>  
 	<li> Procurement</li>
+	<li><a href="http://openspending.org/resources/osi/other-handy-datasets.html">Other Useful Datasets</a></li>
 </ul>
 
 This should be:
+* proactively released 
 * [machine readable](machinereadfaq.html).
 * Available at international (e.g. EU farm subsisides), national and local levels.
 
+It should also be stated that no amount of proactive release can replace the need for Freedom of Information requests, which remain of prime importance. 
 
 ### Key Obstacles in Preventing Re-use of the Data
 
@@ -51,11 +54,14 @@ Two of the most common words which frame this debate *open* and *standard*, are 
 	</tr.
 </table>
 
-### Regarding publishing standards- there are clear government role-models to follow
+
+### When it comes to publishing standards- there are clear role-models to follow
 
 We regularly heard phrases such as “I want procurement data like Slovakia” or “How did you convince the UK government to release transaction-level spending?”. While we acknowledge that there is still work to be done on both accounts, such examples should be seen as the forefront of open data policies, and used as examples to help civil society initiatives demand more from their own countries.
 
 ### Offering civil-society-led, free technical help to governments may promote transparency
+
+In Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-transparency/supervizor-73) seems to have been driven by a combination of a strong independent anti-corruption commission and access to pro-bono development resources to prototype and develop the models.
 
 
 ## Looking Forward 
