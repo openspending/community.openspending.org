@@ -61,8 +61,7 @@ We regularly heard phrases such as “I want procurement data like Slovakia” o
 
 ### Offering civil-society-led, free technical help to governments may promote transparency
 
-In Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-transparency/supervizor-73) seems to have been driven by a combination of a strong independent anti-corruption commission and access to pro-bono development resources to prototype and develop the models.
-
+For example, in Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-transparency/supervizor-73) seems to have been driven by a combination of a strong independent anti-corruption commission and access to pro-bono development resources to prototype and develop the models.
 
 ## Looking Forward 
 
