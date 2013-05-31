@@ -5,6 +5,8 @@ layout: osi
 
 In Slovenia, the anti-corruption agency has published the financial transparency site [Supervizor](http://supervizor.kpk-rs.si/) since 2011. 
 
+![Supervizorimg](http://tctechcrunch2011.files.wordpress.com/2011/08/slov.png)
+
 The Supervizor application:
 - contains by now 50 mio. transactions from both government and local agencies to government contractors from 2003 to 2013
 - matched such transactions to company records including director lists and corporate leadership 
