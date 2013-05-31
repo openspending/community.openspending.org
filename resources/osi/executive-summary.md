@@ -1,9 +1,9 @@
 ---
-title: "Executive Summary"
+title: "Highlights"
 layout: osi
 ---
 
-# Executive Summary 
+# Highlights
 
 ## Status Quo 
 
@@ -20,6 +20,7 @@ It is clear and undeniable that there is an unquenched demand for financial data
 This should be:
 * [machine readable](machinereadfaq.html).
 * Available at international (e.g. EU farm subsisides), national and local levels.
+
 
 ### Key Obstacles in Preventing Re-use of the Data
 
@@ -49,6 +50,12 @@ Two of the most common words which frame this debate *open* and *standard*, are 
 		<td>Best practice guidelines for a particular behaviour, or benchmarks.</td>
 	</tr.
 </table>
+
+### Regarding publishing standards- there are clear government role-models to follow
+
+We regularly heard phrases such as “I want procurement data like Slovakia” or “How did you convince the UK government to release transaction-level spending?”. While we acknowledge that there is still work to be done on both accounts, such examples should be seen as the forefront of open data policies, and used as examples to help civil society initiatives demand more from their own countries.
+
+### Offering civil-society-led, free technical help to governments may promote transparency
 
 
 ## Looking Forward 

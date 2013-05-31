@@ -27,6 +27,15 @@ International (e.g. Farm Subsidies), National - and Local level data is demanded
 
 <small>* So far, there have been a few well-coordinated attempts to standardise and collect this information biographical information, [Popit from MySociety](http://popit.mysociety.org/) and [Popolo from OpenNorth and the Participatory Politics Foundation](http://blog.opennorth.ca/2013/02/21/update-on-opengovernment/), however - a coordinated international effort is required in order to maintain this enormous, and rapidly evolving dataset. </small>
 
+
+####  Nevertheless: proactive spending release doesn’t nessesarily make strong civil societies
+
+In some countries there is high quality spending data and no journalists or CSOs making much use of the data.
+
+For example Slovenia has since 2011 arguably had one of the leading models for publishing government transactions. Yet there seems to have been little uptake among journalists or CSOs. While one reason might clearly be that making sense of large spending datasets requires substantial skills, what the case of Slovenia maybe demonstrates more than anything is that governmental access to data might actually offer little guidance as to how vibrant the civil society on spending transparency actually is. This is perhaps simply a matter of training, or perhaps a language barrier for countries where training materials are available.
+
+Likewise, we struggled to find many civil society organisations in Greece, who were not technical users, making use of the data in the Cl@rity programme.
+
 ## Key obstacles preventing re-use of data
 
 ### No bulk download
@@ -63,67 +72,60 @@ Are these thresholds appropriate? That can't be known for sure without more info
 
 During our research, we regularly heard phrases such as “I want procurement data like Slovakia” or “How did you convince the UK government to release transaction-level spending?”. While we acknowledge that there is still work to be done on both accounts, such examples should be seen as the forefront of open data policies, and used as examples to help civil society initiatives demand more from their own countries.
 
-Civil Society organisations could be equipped with these examples, for example, when entering consultations with governments as part of Civil Society Action plans for Open Government Partnership meetings. A lot of effort is currently being dedicated to talking about standards for open government data, and this early benchmarking would enable countries to act independently (and hence more quickly than an international standardisation effort) to open up their data in a usable format. A possible next step is to prepare a toolkit of best practice examples for Civil Society organisations to use in benchmarking and consultations with governments.
+Civil Society organisations could be equipped with these examples, for example, when entering consultations with governments as part of Civil Society Action plans for Open Government Partnership meetings. A lot of effort is currently being dedicated to talking about standards for open government data, and this early benchmarking would enable countries to act independently (and hence more quickly than a full, international standardisation effort) to open up their data in a usable format. A possible next step is to prepare a toolkit of best practice examples for Civil Society organisations to use in benchmarking and consultations with governments.
 
-We have a unique opportunity while momentum for Open Government is still high, to leverage these examples. Using these examples as part of a consultation model, would mean discussions were held based on practical examples. This would hopefully lead to more concrete, and actionable action plans for the Open Government Partnership, based on real practical examples.
+This would hopefully lead to more concrete, and actionable country action plans for the Open Government Partnership, based on real, practical examples.
 
+### A few improvements on spending transparency occur for reasons other than public pressure
 
-Lack of civil society and journalists (or good spending models doesn’t nessesarily make strong civil societies)
-
-In some countries we find that the supply of government spending data has increased substantially in recent years without having journalists and CSOs making much use of the data.
-
-For example Slovenia today has since 2011 arguably had one of the leading models for publishing government transactions. Yet there seems to have been little uptake among journalists or CSOs. While one reason might clearly be that making sense of large spending datasets requires substantial skills, what the case of Slovenia maybe demonstrates more than anything is that governmental access to data might actually offer little guidance as to how vibrant the civil society on spending transparency actually is. (See next point for counter example).
-
-This is perhaps simply a matter of training, or perhaps a language barrier (transactions in English-speaking countries are already being relatively regularly used.
-
-A few improvements on spending transparency occur for reasons other than public pressure
-
-Some of the recent improvements to spending transparency in Greece and Slovenia appear to be somewhat driven by factors not related to public pressure for transparency. In Greece the crisis has created a significant boost to centralised fiscal management endorsed. It is somewhat striking that Greece has gone from one of the least financially transparent in Europe to one of the most transparent. In Greece we have seen that technical experts with specific knowledge on the financial reporting standards and data workflows have been able to deliver precise advice that could advance the reporting models.
+Recent improvements to spending transparency in Greece and Slovenia appear to be driven by factors not related to public pressure for transparency. In Greece the financial crisis has created a significant boost to centralised fiscal management endorsed. It is somewhat striking that Greece has gone from one of the least financially transparent in Europe enforcing transparency, by mandating that decisions must be published on the internet, in order to be legally enforcable.
 
 In Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-transparency/supervizor-73) seems to have been driven by a combination of a strong independent anti-corruption commission and access to pro-bono development resources to prototype and develop the models.
 
-Any policy commitments can be hampered by poor implementation
-One relevant point might be that campaigning as a CSO for spending transparency is challenging as even well intentioned decisions at policy level can be followed up by poor technical implementation.
+# Looking ahead
 
-For example the EU procurement register (TED) has for many years published procurement data with essential data fields such as amounts or contract winner appearing missing. The lack of data quality is likely caused either because data fields are considered non-mandatory or because of other accountability flaws in the data workflow between EU and member states. The lack of understanding of data quality at policy level means that it is challenging for CSOs to drive forward a conversation around practical data quality.
+## Don’t reinvent the wheel
 
-Hasadna is an example of successful advocacy on data quality on Israels budgeting process. The CSO has filed continued inquiries, which has lead to very direct dialogue with the ministry responsible for the budgetary system.
+Many of the budget and spending projects which we feature in this report have developed tailored applications fitting their particular conditions. From the comprehensive budget site of Hasadna to the database of [K-Monitor in Hungary](http://www.k-monitor.hu/search) platforms have been developed to adapt to the data available and the focus of the individual project.
 
-No matter the political declaration spending data will in the end never be better than the technical developers who set up the financial reporting system.
+It is a wise approach to develop a tool for one country initially (it helps prevent 'meta solutions' that half-solve everyone's issues). However, once a solution has been proven to work, using it as a template to roll out in other countries may be very wise. We hope the case studies featured here and in the videos are of use, and we would be hapy to facilitate connections to those behind the projects. (Simply email info [at] openspending.org).
 
-The hole between open data and FOI
-The increasing availability of budget, spending and procurement data via public sites has enabled some organisations to work without the need to run regular Freedom of Information requests (FOIs). However the norm is more often that groups needs to work with both means - while some can be retrieved via government sites others data sets must be retrieved as FOIs. While some organisations with both technical and legal expertise such as K-Monitor cover both areas, we find that strengthening FOI skills could help improve their ability to access data through traditional FOI requests.
+## More community mapping projects!
 
-You are not alone - language barriers challenge the idea of a global community
+Mapping research such as this is incredibly important to help find gaps and make connections. We have highlighted in this report a couple of other areas which could perhaps benefit from a similar research project, for example: [Open Modelling]
 
-In several countries we’ve seen that energised CSOs are running impressive projects often with few resources. In countries such as India, Slovenia and Greece we however also see that language barriers can become a factor affecting the ability to share and acquire new strategies. We note that despite having multiple online forums to discuss transparency, conversations tend to be occurring largely without representation of activists from the global south.
+## Teach people
 
-While there are no easy fixes to this we consider it important to recognise that the financial transparency community remain largely anglophone in the conversation and that a greater diversity of voices will be needed if we wish to broaden the conversation deeper.
-
-Of such projects, which we consider outside the global network of the civic sector could be Hutspace and India Spend.
-Looking ahead
-
-Don’t reinvent the wheel
-Many of the budget and spending projects which we feature in this report have developed tailored applications fitting their particular conditions. From the comprehensive budget site of Hasadna to the database of K-Monitor in Hungary http://www.k-monitor.hu/search platforms have been developed to adapt to the data available and the focus of the individual project.
-
-Applying tools according to the needs is important. However at the same time we find important to highlight that mapping of tools and templates already available can help offer. To help CSOs to assess tool and development could help the limited technical resources to be brought to most possible use and limit technical isolation of projects. When designing individually tailored applications CSOs commit themselves to a certain set of developer skills and risk becoming unnecessarily dependent on the tech side of a project.
-
-Teach people
-Based on the interview we’ve found that several skills are repeatedly emerging. While the pool of skills is hugely diversity across the community, key parts of the data pipeline from data retrieval to data cleaning are major hurdles, which steal time from activism and other parts of the work.
+Based on the interviews we’ve found that several skills are repeatedly emerging. While the pool of skills is hugely diversity across the community, key parts of the data pipeline from data retrieval to data cleaning are major hurdles, which steal time from activism and other parts of an organisation's work.
 
 We could therefore see a strong potential in offering focused trainings around the key needs identified:
-webscrabing: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval
-liberate and clean PDFs quickly: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.
-build FOI request skills: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.
-the various other tools in the ecosystem should be shared
+<ul>
+	<li>webscrabing: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
+	<li>liberating and cleaning PDFs quickly: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.</li>
+	<li>build FOI request skills: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.</li>
+	<li>see the [tools ecosystem](tool-ecosystem) for more details on particular problems regularly faced by organisations, and how to tackle them.</li>
+</ul>
 
-
-Develop strategies for obtaining quick wins on transactional spending transparency
-The past three years UK, Brazil, US, Slovenia and Greece has released transactional spending data. Despite those successes it is relevant to ask why release policies on transactional spending data have not spread faster eg. to neighboring countries.
+## Develop strategies for obtaining quick wins on transactional spending transparency
+The past three years UK, Brazil, US, Slovenia and Greece has released transactional spending data. Despite those successes it is relevant to ask why release policies on transactional spending data have not spread faster eg. to neighbouring countries.
 
 The spending community should be equipped to push for spending data by mapping access, regulation and publication flows across countries.
 
-Language - boost translations
+## Language - boost translations
+
 The demand for training materials and knowledge sharing outside the anglophone language community should be addressed. In practise this can be done by providing trainings in first languages across countries where spending transparency is advanced.
 
 Multi-language knowledge sharing should also include boosting translations of key resource materials such as the Spending Data Handbook into multiple languages. As practical factsheets are being drafted on topics such as spending standards, FOI-models, privacy and data analysis these should be translated as well. Distribution across CSO networks should also be increased in order to reach the organisations who might work on spending transparency.
+
+
+# On the methodology
+
+## Language diversity and inclusiveness
+
+We recognise in this report that we have largely covered examples from projects who are able to communicate fluently in English. We also recognise that often, having projects featured in reports such as this, which are read by funders, policy-makers and researchers can give projects a much-needed PR boost.
+
+Likewise, language presents problems for the people working on the data. In countries like India - with multiple national languages, there need to be coalitions of like-minded people who are both linguists and data wranglers if real analysis covering entire countries is to be achieved.
+
+In a similar vein, while terms like "data journalism" are currently dominating English Language discourse, it is unclear to what extent they have spread into other languages. Translation efforts, and careful construction of networks will be key to ensuring that this debate does not become too anglo-centric.
+
+We would hate to miss a great project in whatever language. So please, put us in touch (info [at] openspending.org) if you are a poliglot, who can help bring an otherwise undiscovered project to the fore.
