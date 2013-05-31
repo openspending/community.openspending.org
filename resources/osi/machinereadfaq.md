@@ -1,5 +1,5 @@
 ---
-title: "Common arguments against not publishing data in machine-readable format"
+title: "Common arguments against publishing data in machine-readable formats"
 layout: osi
 ---
 

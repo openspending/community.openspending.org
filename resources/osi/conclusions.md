@@ -35,18 +35,19 @@ Many governments believe that publishing financial data online (in html or PDF) 
 
 Bulk download is crucial to allow organisations to keep a copy in case information disappears from the internet.
 
-### Governmental PDF release policies major barrier for re-use
+(Further reading: [Appendix: Putting the Open Data into Open Budgets](appendix-open-budgets-open-data.html).
+
+### Governmental PDF release policies
 
 Many organisations have identified PDF releases as a substantial barrier to re-use. Though organisations often manage to complete projects, the governmental policies to release PDFs impedes workflow and increase demand for members with technical skills.
 
-While PDF extraction tools are rapidly improving this doesn’t change the fact that PDF releases only limit the ability of CSOs and journalist to develop fast and precise data driven analysis and campaigns. (See section: [Putting the Open Data into Open Budgets](appendix-open-budgets-open-data.html) for more details on the precise requirements here).
+(Further reading to understand which formats are appropriate for publishing financial data: [Appendix: Common arguments against publishing](appendix-open-budgets-open-data.html).
 
-Lack of coordinated push for transactional spending data
-
-Three years after the UK government decided to release transactional spending and one year after it became law in Brazil - there has not been much of an international consensus that transaction-level data should be provided. There are a few suggestions which might increase the availability and coverage of existing datasets.
-Privacy Concerns...
+### Privacy Concerns...
 
 are often cited as one of the reasons for not releasing this level of detail in detail, but often needlessly so. Technology and good data-management practices make it possible to develop a workflow, which allows sensitive information to be removed within a government body, prior to publication. A little training may be required within government, but the process is relatively straightforward once a suppression list is built. With Ian Makgill, OpenSpending has developed a thorough guide, which addresses main risks when releasing spending data from local councils. This guide can be found in the appendix.
+
+(Further reading: [How to publish spending data without disclosing personal information](privacyguide.md))
 
 Arbitrary release thresholds
 
