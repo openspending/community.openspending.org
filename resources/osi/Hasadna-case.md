@@ -1,9 +1,9 @@
 ---
-title: "Case Study: Hasadna, Israel (Public Knowledge Workshop)"
+title: "Case Study: Hasadna, Israel"
 layout: osi
 ---
 
-This summary is based on the full case study by Aviv Sharon and Adam Kariv from The Public Knowledge Workshop published in this extensive guest post on their work on financial transparency in Israel.
+This summary is based on the full case study by Aviv Sharon and Adam Kariv from Hasadna (The Public Knowledge Workshop) published in this extensive guest post on their work on financial transparency in Israel.
 
 ## About
 Hasadna is a civil society organisation working on government transparency across fields with strong technological resources as well as a lively community. 
