@@ -71,7 +71,7 @@ A key aim during our work was to work out an [ecosystem of tools](tool-ecosystem
 
 We could therefore see a strong potential in offering focused trainings around the key needs identified:
 <ul>
-	<li>webscrabing: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
+	<li>webscraping: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
 	<li>liberating and cleaning PDFs quickly: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.</li>
 	<li>build FOI request skills: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.</li>
 </ul>
