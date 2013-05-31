@@ -38,7 +38,7 @@ The following should be avoided at all costs when publishing government financia
 
 Two of the most common words which frame this debate *open* and *standard*, are used differently in policy and technical spheres -two key proponents of the transparency movement. This often leads to conversations happening at cross-purposes and hinders communication across the community.
 
-<table>	
+<table border="1">	
 	<tr>
 		<td><strong>Term</strong></td>
 		<td><strong>Open Data / Technical Community Usage</strong></td>
