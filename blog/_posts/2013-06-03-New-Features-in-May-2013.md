@@ -29,6 +29,14 @@ This may not be a big thing for you and it might even be slightly irritating but
 
 Users are now presented with a small banner that tells them about the cookies and offers them link to a page where they can read more about [our cookie policy](http://okfn.org/cookie-policy/).
 
+### OpenSpending Contacts Map
+
+There are many projects out in the world that work in some way with spending data. We want to be able to connect those initiatives together. They can attract new contributors, learn from other projects and spark new interesting projects (even in other countries).
+
+To help you establish these connections or to find projects you are interested in we've put up an OpenSpending app on [apps.openspending.org/oscontactsmap](http://apps.openspending.org/oscontactsmap/). There you can see the world and find all of the projects that relate to OpenSpending in some way.
+
+If your project isn't there, don't panic! Thera are lot of projects so we might have missed some of you. Please let us know about your project and we'll add it to the list right away. When we're sure we have most of the projects on the list we'll make this map more prominent on OpenSpending's main site.
+
 ### Satellite Template
 
 Before May users had to fork [Where Does My Money Go?](http://wheredoesmymoneygo.org/) or some other site in order to create their own satellite site (a site that provides context to the data and analysis in OpenSpending).
