@@ -15,9 +15,9 @@ We continue to hunt for more and better tools to do the job and hope that some o
 
 For each tool - we’ve outlined the its use and what the barrier to entry is, here's a guide to the rough categorisation we used: 
 
-<p><strong>*Basic* = An off-the-shelf tool that can be learned and first independent usage made of within 1 day. No installation on servers etc required.</strong></p>
-<p><strong>*Intermediate* = Between 1 day - 1 week to master basic functionality. May require tweaking of code but not new creation thereof. </strong> </p>
-<p><strong>*Advanced* = Requires code. </strong> </p> 
+<p><strong>Basic = An off-the-shelf tool that can be learned and first independent usage made of within 1 day. No installation on servers etc required.</strong></p>
+<p><strong>Intermediate = Between 1 day - 1 week to master basic functionality. May require tweaking of code but not new creation thereof. </strong> </p>
+<p><strong>Advanced = Requires code. </strong> </p>
 
 ## Stage 1: Extracting and getting data 
 
