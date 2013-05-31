@@ -10,26 +10,26 @@ The voices and stories from organisations in this report underline the diversity
 
 It is impossible to deny that there is demand for open financial data
 
-This report has clearly outlined that there is demand for openly available, open (as per Open Definition)[http://opendefinition.org/] (see next point). This is in particular data about:
+This report has clearly outlined that there is demand for openly available, open [as per the Open Definition](http://opendefinition.org/) (see next point). This is in particular data about:
 
 <ul>
-	<li><strong>Budgets</strong> (for example, as outlined in the 8 key budget documents described by the International Budget Partnership.) </li>
-	<li>Spending - crucially, at <strong> transaction level</strong></li>
-	<li> Procurement, includes information on contractual agreements between suppliers and government entities:</li>
+	<li><strong>Budgets</strong></li>
+	<li><strong>Spending</strong> - crucially, at <strong> transaction level</strong></li>
+	<li> <strong>Procurement</strong> - includes information on contractual agreements between suppliers and government entities:</li>
 		<ul>
-			<li> <strong> Contracts </strong> - Contracts are here understood as the documents containing the contractual agreements between public agencies and private companies. These can be important sources for CSOs and journalists when examining the terms of service, fee structures and names of the signatories. Many governments however argue that contracts are commercial confidential as reasoning for only disclosing redacted contracts or not disclosing contract at all. A few examples of FOI requests at EU agencies recently revealed that some agencies grant access while others won't, due to privacy of third parties. Read more <a href="http://www.open-contracting.org/">Open Contracting</a></li>
-			<li><strong>Company Information</strong> - in order to be able to answer questions related to policy and outsourcing decisions, integrity and effectiveness of the contracting process and the track records of companies contracting with governments to name but a few. Further reading - the [<a href="http://opencorporates.com/downloads/ogp_company_data_report.pdf">OpenCorporates report</a> on open corporate data in Open Government Partnership Countries.
+			<li> <strong> Contracts </strong> - understood as the documents containing the contractual agreements between public agencies and private companies. These can be important sources for CSOs and journalists when examining the terms of service, fee structures and names of the signatories. Many governments however argue that contracts are commercially confidential as reasoning for only disclosing redacted contracts or not disclosing contract at all. Read more at <a href="http://www.open-contracting.org/">Open Contracting</a></li>.
+			<li><strong>Company Information</strong> - in order to be able to answer questions related to policy and outsourcing decisions, integrity and effectiveness of the contracting process and the track records of companies contracting with governments to name but a few. Further reading - the <a href="http://opencorporates.com/downloads/ogp_company_data_report.pdf">OpenCorporates report</a> on open corporate data in Open Government Partnership Countries.
 			<li><strong>Information on Individuals</li> - <em>not</em> information about individual citizens, but those in a position of power within government, or within a company doing business with government. This is to help understand key questions, “who is responsible for a given political decision?”, “what relationships (family, friend etc) are there between winners of tenders and people within government? (are there any conflicts of interest?)”. (* See note) </li>
 			</ul>
 </ul>
 
-Both National - and Local level data is demanded.
+International (e.g. Farm Subsidies), National - and Local level data is demanded.
 
 <small>* So far, there have been a few well-coordinated attempts to standardise and collect this information biographical information, [Popit from MySociety](http://popit.mysociety.org/) and [Popolo from OpenNorth and the Participatory Politics Foundation](http://blog.opennorth.ca/2013/02/21/update-on-opengovernment/), however - a coordinated international effort is required in order to maintain this enormous, and rapidly evolving dataset. </small>
 
-Key problems with data preventing its re-use
+## Key obstacles preventing re-use of data
 
-No bulk download
+### No bulk download
 
 Many governments have a clear perception that publishing financial data online (in html or PDF) equals making the data “open”. For this reason many CSOs struggle with the cumbersome tasks of scraping content off websites. Despite the fact that tools such as ScraperWiki are increasingly making it easier to access such material, it doesn’t change the fact that governments are in reality obstructing access by not providing bulk download access to data. In the worst cases  - download rate may be artificially impeded by using CAPTCHA codes.
 
