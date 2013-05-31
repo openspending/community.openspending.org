@@ -3,9 +3,11 @@ title: "Case Study: Bani pierduti? (Lost Money) "
 layout: osi
 ---
 
+# Lost Money
+
 </strong>This is a profile of a very interesting new project coming out of Romania, aiming to make government finances understandable for the average citizen. It is written based on contributions from [Elena Calistru](https://twitter.com/MadamadePica), who kicked off the project.</strong>
 
-# Vital Statistics
+## Vital Statistics
 
 * </strong>Name of Project:</strong> Bani pierduti? (Or, in English, "Lost money?")
 * </strong>Link to project:</strong> <http://www.banipierduti.ro>
