@@ -32,7 +32,7 @@ The following should be avoided at all costs when publishing government financia
 * Absence of bulk download option
 * CAPTCHA codes preventing automated download
 * Publishing data in HTML or PDFs
-* Aritrary release thresholds - without transparency about how they were decided
+* Arbitrary release thresholds, such as are found in the UK and USA - without transparency about how they were decided
 
 ### Common vocabulary and language barriers
 
@@ -63,6 +63,17 @@ We regularly heard phrases such as “I want procurement data like Slovakia” o
 
 For example, in Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-transparency/supervizor-73) seems to have been driven by a combination of a strong independent anti-corruption commission and access to pro-bono development resources to prototype and develop the models.
 
-## Looking Forward 
+### The training needs
 
-## Recommendations 
+Based on the interviews we’ve found that several skills are repeatedly emerging. While the pool of skills is hugely diversity across the community, key parts of the data pipeline from data retrieval to data cleaning are major hurdles, which steal time from activism and other parts of an organisation's work.
+
+A key aim during our work was to work out an [ecosystem of tools](tool-ecosystem.html) which could be used as a basis for working out where effort should be focussed for future training efforts. All of the skills there could be useful for training, but there are a couple that are particularly prominent, due to the frequency of the problem. </li>)
+
+We could therefore see a strong potential in offering focused trainings around the key needs identified:
+<ul>
+	<li>webscrabing: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
+	<li>liberating and cleaning PDFs quickly: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.</li>
+	<li>build FOI request skills: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.</li>
+</ul>
+
+
