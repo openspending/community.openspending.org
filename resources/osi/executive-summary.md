@@ -49,7 +49,7 @@ Two of the most common words which frame this debate *open* and *standard*, are 
 		<td>Publicy available and accessible.</td>
 	</tr>
 	<tr><td>Standard</td>
-		<td>A technical specification for code or data. For example, <a href="http://openspending.org/resources/standard/index.html">the draft spending standard</a> by the Spending Data Community.
+		<td>A technical specification for code or data. For example, <a href="http://openspending.org/resources/standard/index.html">the draft spending standard</a> by the Spending Data Community.</td>
 		<td>Best practice guidelines for a particular behaviour, or benchmarks.</td>
 	</tr>
 </table>
