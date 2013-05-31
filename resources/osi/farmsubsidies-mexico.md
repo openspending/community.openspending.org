@@ -17,12 +17,11 @@ Working Group, which operates the US farm subsidy database.
 
 Currently Fundar is planning to relaunch the database with a new interface and new
 features. One part time consultant and 2 developers work on the database
-with significant support from the director.
+which is strongly prioritised by the organisation.
 
-Experiences: The farm subsidy database has seen use from journalists
-for its search functionality. During the most recent federal
+Experiences: The farm subsidy database has seen substantial use from journalists
+using the various search functionalities. During the last federal
 election the database became an important source for both local and
 national media outlets for monitoring politicians. 
 
-Collaboration between communities working on farm subsidies in Mexico, USA and Europe could be explored in order to share experiences on how to create useful tools for displaying and analysing farm subsidy data
-
+Collaboration between communities working on farm subsidies in Mexico, USA and Europe could be explored in order to share experiences on how to create useful tools for displaying and analysing farm subsidy data.
