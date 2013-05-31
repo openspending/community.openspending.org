@@ -1,4 +1,3 @@
-
 ---
 title: "Case Study: Open University"
 layout: osi
