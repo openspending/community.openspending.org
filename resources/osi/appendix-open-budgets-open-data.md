@@ -50,23 +50,25 @@ The number one low-hanging fruit which could be solved in order to vastly improv
 <div class="well"><h4>What does Machine-readable mean?: Implementation guidelines from the UK government.</h4>
 
 The UK government have now issued very good clear, <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">plain-language guides</a> for service managers on which data formats are appropriate for publishing data. The US government has also decreed that all data shall be published in machine-readable formats. An extract from the UK service manual from gov.uk is copied below for the convenience of the reader: 
-
-> * “For data, use CSV or a similar ‘structured data’ format (see also JSON and XML). **Do not publish structured data in unstructured formats such as PDF**.
-> * If you are regularly publishing data (financial reports, statistical data, etc.) then your users may well wish to process this data programmatically, and it becomes especially important that your data is ‘machine-readable’. PDFs, Word documents and the like are not suitable formats for data publication. In addition, you should consider making your data available through an API if this will simplify your users’ interactions with your publications. For more information on APIs, and for more detailed technical guides on publishing data, please see our guidance on APIs and formats.
-> * If you are publishing a written report that contains statistical tables, provide the tables alongside or in addition to your report in suitable data formats.”
+<ul>
+<li><quote><strong>“For data, use CSV or a similar ‘structured data’ format (see also JSON and XML). Do not publish structured data in unstructured formats such as PDF</strong></quote>.</li>
+<li><quote><strong>If you are regularly publishing data (financial reports, statistical data, etc.) then your users may well wish to process this data programmatically, and it becomes especially important that your data is ‘machine-readable’. PDFs, Word documents and the like are not suitable formats for data publication. In addition, you should consider making your data available through an API if this will simplify your users’ interactions with your publications. [...]</quote></strong> </li>
+<li><quote><strong>If you are publishing a written report that contains statistical tables, provide the tables alongside or in addition to your report in suitable data formats.</quote></strong>
+</ul>
 
 [...] 
 
-> **Don’t assume your users can read proprietary formats**
+> <h2>Don’t assume your users can read proprietary formats</h2>
 > Wherever possible, publish in accessible, patent-free, <a href="https://en.wikipedia.org/wiki/Open_format">open formats</a>, for which software is widely available on a variety of platforms. If publishing in proprietary formats, you should always make a non-proprietary alternative available.
 [...] 
 > For tabular data, provide CSV or TSV rather than Excel spreadsheets (.xls/.xlsx).
 
 Read the full version of the guidelines <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">here</a>.
 
-</well>
+</div>
 
 ## Why is this so important? 
+
 Civil Society Organisations currently waste a huge amount of time and resources in converting data from non-machine-readable formats into ones that they can use for analysis, visualisations or other projects. Any data project has a data pipeline: 
 
 ![Spending Data Pipeline](http://farm9.staticflickr.com/8399/8883957266_d31e9bb404_z.jpg)
