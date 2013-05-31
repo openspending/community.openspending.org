@@ -1,4 +1,3 @@
-
 ---
 title: "Common arguments against not publishing data in machine-readable format"
 layout: osi
@@ -11,7 +10,7 @@ layout: osi
 FALSE: The fact they are on your computer means they are electronic copies, but not that they are machine-readable. PDFs are essentially a set of instructions for a printer on how to print a page, they look nice and appealing to the human eye, but to a computer, they are no more than a picture. 
 
 PDFs go from bad to worse from the perspective of someone trying to do data work: 
-- [Better PDFs are machine-generated](https://www.gov.uk/service-manual/design-and-content/resources/creating-accessible-PDFs.html), typically something like an Excel or Word Documents converted into a PDF (see example). Often, you can copy and paste information from them, but there may be some formatting or issues. 
+- [Better PDFs are machine-generated](https://www.gov.uk/service-manual/design-and-content/resources/creating-accessible-PDFs.html), typically something like an Excel or Word Documents converted into a PDF [(see example)](https://docs.google.com/a/okfn.org/file/d/1En9UbXiVwinRiMPf6gwL7LY-1rClPdEoM_aj75FWNgm5qLbIa42fg6y81YFv/edit). Often, you can copy and paste information from them, but there may be some formatting or issues. 
 - Worse PDFs are typically scanned documents. Often, to add to the misery, they will be copies of faxes, smudged, speckled, tea- water- or mould-stained or crooked (sometimes all of the above). 
 - Image files are not machine-readable for the same reasons. 
 
