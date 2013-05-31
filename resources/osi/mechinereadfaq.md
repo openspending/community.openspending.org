@@ -5,6 +5,7 @@ layout: osi
 
 #Common arguments against not publishing data in machine-readable format
 
+Across the community almost everyone can explain stories about how struggling with government officials for transacitonal spending data in machine readible format. In this FAQ we provide a list of the most typical excuses for government officials for rejecting to release data. By this point we believe that we must have heard all almost all excuses...
 ##“PDFs are on my computer - therefore they are machine-readable” 
 
 FALSE: The fact they are on your computer means they are electronic copies, but not that they are machine-readable. PDFs are essentially a set of instructions for a printer on how to print a page, they look nice and appealing to the human eye, but to a computer, they are no more than a picture. 
