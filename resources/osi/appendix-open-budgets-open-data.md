@@ -45,7 +45,7 @@ Ideally - the data would have a constant URL, but in the worst case scenario - t
 
 #### What data formats to provide - ie. machine-readable format?
 
-The number one low-hanging fruit which could be solved in order to vastly improve the usability of available budget and spending (plus procurement and other types listed above) information is to make **data machine-readable**. 
+The number one low-hanging fruit which could be solved in order to vastly improve the usability of available budget and spending (plus procurement and other types listed above) information is to make data **machine-readable**.
 
 <div class="well"><h4>What does Machine-readable mean?: Implementation guidelines from the UK government.</h4>
 
