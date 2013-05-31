@@ -9,4 +9,5 @@ layout: osi
 * [EU Spending Data](eu-spending-data.html)
 * [Farmsubsidy.org](farmsubsidy.html)
 * [Farmsubsidies in Mexico](farmsubsidies-mexico.html)
+* [Supervizor](supervizor.html)
 
