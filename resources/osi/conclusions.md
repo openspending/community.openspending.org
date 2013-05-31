@@ -49,17 +49,17 @@ are often cited as one of the reasons for not releasing this level of detail in 
 
 (Further reading: [How to publish spending data without disclosing personal information](privacyguide.md))
 
-Arbitrary release thresholds
+### Arbitrary release thresholds
 
-At least two of the countries which release transaction-level data have imposed seemingly arbitrary thresholds on the size of transactions that are included. For example, the US and the UK exclude transactions under $25,000 and 25,000 GBP, respectively.
+At least two of the countries which release transaction-level data have imposed seemingly arbitrary thresholds on the size of transactions that are included in releases. For example, the US and the UK exclude transactions under $25,000 and 25,000 GBP, respectively.
+
 Are these thresholds appropriate? That can't be known for sure without more information about how these numbers were arrived at. Principally, having thresholds or exceptions to the reporting of this data depends on the underlying systems that drive disclosure of this data. There must either be a publicly stated and rational reason for these disclosure thresholds - or they should be lowered (or ideally, removed entirely).
-Read a more detailed explanation of release thresholds in the [Spending Data Handbook](http://openspending.org/resources/handbook/ch006_types-of-data.html)
 
-When open is differently perceived - finding a common vocabulary
+(Further reading: [Spending Data Handbook](http://openspending.org/resources/handbook/ch006_types-of-data.html))
 
-While CSOs across topical interests all pursue increased government transparency, we’ve taken note that the community working broadly on financial transparency still miss a common vocabulary for framing an agenda around access to government financial data. This is particularly problematic with regard to the term “open”, which is used to denote in some spheres availability and timeliness, and in the open data community, additional conditions regarding making data usable both technically and legally, for example, the open data community however has articulated the need for accessibility of granular data in usable formats.
+## The positives
 
-There are clear leaders amongst governments regarding publishing practices
+### There are clear leaders amongst governments regarding publishing practices
 
 During our research, we regularly heard phrases such as “I want procurement data like Slovakia” or “How did you convince the UK government to release transaction-level spending?”. While we acknowledge that there is still work to be done on both accounts, such examples should be seen as the forefront of open data policies, and used as examples to help civil society initiatives demand more from their own countries.
 

@@ -18,7 +18,7 @@ It is clear and undeniable that there is an unquenched demand for financial data
 </ul>
 
 This should be:
-* *[machine readable](machinereadfaq.html)*.
+* [machine readable](machinereadfaq.html).
 * Available at international (e.g. EU farm subsisides), national and local levels.
 
 ### Key Obstacles in Preventing Re-use of the Data
@@ -32,7 +32,7 @@ The following should be avoided at all costs when publishing government financia
 
 ### Common vocabulary and language barriers
 
-Two of the most common words which frame this debate *open* and *standard*, are used differently in policy and technical spheres -two key proponents of the transparency movement. This often leads to conversations happening at cross-purposes.
+Two of the most common words which frame this debate *open* and *standard*, are used differently in policy and technical spheres -two key proponents of the transparency movement. This often leads to conversations happening at cross-purposes and hinders communication across the community.
 
 <table border="1">
 	<tr>
@@ -49,10 +49,6 @@ Two of the most common words which frame this debate *open* and *standard*, are 
 		<td>Best practice guidelines for a particular behaviour, or benchmarks.</td>
 	</tr.
 </table>
-
-
-
-###
 
 
 ## Looking Forward 
