@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Making sense of French press aid
-published: false
+published: true
 type: post
-status: draft
+status: published
 ---
 
 This is a guest post by [Samuel Goëta](https://twitter.com/samgoeta), OKF France.
