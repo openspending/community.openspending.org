@@ -8,7 +8,7 @@ status: published
 
 This is a guest post by [Samuel Goëta](https://twitter.com/samgoeta), OKF France.
 
-On May 22nd members of the [Open Knowledge Foundation French local group](http://fr.okfn.org/) met at la Cantine, the digital hub of Paris, for visualising press aid data. This workshop held prior to a conference organised by the Social Media Club France on the efficiency on press aid for innovation in the media industry. The results of the 3-hour intensive workshop were presented right after to the audience and the speakers of the conference.
+On May 22nd members of the [OKFN local group France](http://fr.okfn.org/) met at la Cantine, the digital hub of Paris, for visualising press aid data. This workshop held prior to a conference organised by the Social Media Club France on the efficiency on press aid for innovation in the media industry. The results of the 3-hour intensive workshop were presented right after to the audience and the speakers of the conference.
 
 The press has received support in France since Second World War as it is considered critical for ensuring all opinions can circulate in society. These aids are direct subsidies as well as indirect in the form of tax breaks, reduced post fares and subsidised distribution. More recently, in April 2012, the press industry was granted the Strategic Found for the Development of the Press (fonds stratégique pour le développement de la presse) accounting for 60 millions euros of aid. This found was associated with a commitment to transparency, data on the 9 million euros spending, was published in April 2013 on the French [open data portal](data.gouv.fr).
 
