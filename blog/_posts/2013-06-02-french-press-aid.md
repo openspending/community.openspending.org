@@ -12,9 +12,13 @@ On May 22nd, 5 members of the [Open Knowledge Foundation French local group](htt
 
 The press has been helped in France since Second World War as it is considered critical for ensuring all opinions can circulate in society. These aids are direct subsidies as well as indirect in the form of tax breaks, reduced post fares and subsidised distribution. More recently, in April 2012, the press industry was granted the Strategic Found for the Development of the Press (fonds stratégique pour le développement de la presse) accounting for 60 millions euros of aid. This found was associated with a commitment to transparency, data on the 9 million euros spending, was published in April 2013 on the French [open data portal](data.gouv.fr).
 
+<a href="http://www.flickr.com/photos/94746900@N06/8916665396/" title="photo (3) by anderspedersenOKF, on Flickr"><img src="http://farm6.staticflickr.com/5444/8916665396_25f7da44ca_o.jpg" width="640" height="478" alt="photo (3)"></a>
+
 Following the publication of data on press aid, 5 members of OKF France got hands on the data available. Every participants had no previous experience with data visualization and did not even prepare this workshop. The challenge was to prove that, using open resources and with perseverance, one can visualise a complex system of subsidies in a couple of hours. 
 
 The workshop was divided in two groups, one using Open Spending to visualise data on an interactive treemap and another using D3 Javascript library to map data on an interactive bubble chart. Data cleansing was obviously the hardest part of the work as participants have little experience of handling data. 
+
+<iframe width='700' height='400' src='http://openspending.org/aidespresse2/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22Division%22%2C%22Nom%22%5D%2C%22year%22%3Anull%2C%22cuts%22%3A%7B%7D%7D&width=700&height=400' frameborder='0'></iframe>
 
 The presentation of the visualizations between the two roundtables of the conference raised great interests, as most speakers were speaking about data they could not visualize nor source. The results were directly published as an online poster on checkthis: http://checkthis.com/y2ci. The poster spread quite quickly as it reached 400 views in less than 24 hours. 
 
