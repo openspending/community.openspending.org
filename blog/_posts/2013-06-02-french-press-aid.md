@@ -18,7 +18,7 @@ Following the publication of data on press aid, 5 members of OKF France got hand
 
 The workshop was divided in two groups, one using Open Spending to visualise data on an interactive treemap. 
 
-<iframe width='700' height='400' src='http://openspending.org/aidespresse2/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22Division%22%2C%22Nom%22%5D%2C%22year%22%3Anull%2C%22cuts%22%3A%7B%7D%7D&width=700&height=400' frameborder='0'></iframe>
+<iframe width='700' height='400' src='http://openspending.org/aidespresse3/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22Division%22%2C%22Nom_unique%22%5D%2C%22year%22%3A2012%2C%22cuts%22%3A%7B%7D%7D&width=700&height=400' frameborder='0'></iframe>
 
 Another group used D3 Javascript library to map data on [an interactive bubble chart](http://okf.s3-website-eu-west-1.amazonaws.com/aidesalapresse/). 
 
