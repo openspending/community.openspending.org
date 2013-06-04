@@ -51,9 +51,15 @@ Just fork [our satellite template repository](https://github.com/openspending/sa
 
 There are loads of other smaller changes we did this month. We went through all of the issues in our issue tracker that were labelled as *bug* and fixed them. We tried to make some instructions clearer. We made small headway in getting better IE7 compatibility and we now show the type of a dimension that has been created with the model editor.
 
+### Want to contribute? We need code reviewers!
+
 We're really proud of what we've achieved this month. There are a lot of upcoming changes in the pipelines (in the form of pull requests). Quality assurance is really important to OpenSpending so we don't add anything new to the platform unless it's been looked at by at least one other developer (this is called code review).
 
-If you're interested in contributing to OpenSpending, code reviews are a good place to start. You get familiar with the code base and you can (and should) raise all kinds of questions (so if in doubt about anything, just ask the developers). There's even a law in open source software (Linus' Law): *"Given enough eyeballs, all bugs are shallow"*. That means the more people do code review, the better OpenSpending will get. That's why we'd appreciate your help in getting some more quality code into OpenSpending. Look at the pull requests in our repositories on GitHub and comment, both if you see something fishy and if you don't!
+If you're interested in contributing to OpenSpending, code reviews are a good place to start. You get familiar with the code base and you can (and should) raise all kinds of questions (so if in doubt about anything, just ask the developers).
+
+There's even a law in open source software (Linus' Law): *"Given enough eyeballs, all bugs are shallow"*. That means the more people do code review, the better OpenSpending will get. That's why we'd appreciate your help in getting some more quality code into OpenSpending. Look at the pull requests in our repositories on GitHub and comment, both if you see something fishy and if you don't!
+
+**Interested in being a code reviewer? [Get in touch!](http://openspending.org/about/contact.html)**
 
 ### Thanks
 
