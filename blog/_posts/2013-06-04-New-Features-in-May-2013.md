@@ -2,9 +2,9 @@
 layout: post
 author: tryggvib
 title: New Features in May 2013
-published: true
+published: false
 type: post
-status: published
+status: draft
 ---
 
 ![Image by Mosman Library (cc-by 2.0)](https://farm9.staticflickr.com/8205/8206356927_3d5c720658_c.jpg "Badges!")
