@@ -9,7 +9,7 @@ status: published
 
 ![Image by Mosman Library (cc-by 2.0)](https://farm9.staticflickr.com/8205/8206356927_3d5c720658_c.jpg "Badges!")
 
-This is perhaps not a very attention grabbing title for this post, but some cool new features landed in OpenSpending last month. We're really proud of them so we thought we'd share them with you.
+This is perhaps not a very attention grabbing title for this post, but some cool new features have landed in OpenSpending this month. We're really proud of them so we thought we'd share them with you.
 
 ### Badges
 
