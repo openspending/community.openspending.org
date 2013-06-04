@@ -1,5 +1,5 @@
 ---
-title: "Case Study: Supervizor"
+title: "Supervizor, Slovenia"
 layout: osi
 ---
 

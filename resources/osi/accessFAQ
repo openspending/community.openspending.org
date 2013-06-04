@@ -20,14 +20,16 @@ Again, FALSE. If someone wants to use data badly enough, they will use it even i
 
 Our advice would be the following: 
 - Publish both machine-readable and non-machine readable formats. We insist on the former for analysis, but the latter can also be useful e.g. to cross reference numbers and be an easily readable form of the data. 
-- Encourage users of the data to show their working. A reputable data project will: 
+- Encourage users of the data to show their working. 
+
+A reputable data project will: 
 - Link back to the original source data 
 - Link to any modified data with an explanation of how it was changed, with the calculations to any underlying working clearly visible. When you provide such a clear audit trail others will be able to replicate your work and examine transparently that everything was done without errors. In journalism this is sometimes known as the “nerd box”.   
 - Offer data publishers to comment on calculations from the data in order to clear out misunderstandings. 
 - This allows anyone to check the accuracy of the working and verify the results.  
 
 ##“We cannot release spending data as it contains personal information”
-FALSE, public authorities holding spending data, which includes personal information should not refrain themselves from responsibility of publishing the data. Instead authorities should conduct the proper examination and redact personal data accordingly. We see real risks of local and national governments holding back spending data with this excuse and have therefore co-written a guide for public authorities on how to deal with personal information in spending data (see the Annex).
+FALSE, public authorities holding spending data, which includes personal information should not refrain themselves from responsibility of publishing the data. Instead authorities should conduct the proper examination and redact personal data accordingly. We see real risks of local and national governments holding back spending data with this excuse and have therefore co-written a guide for public authorities on how to deal with personal information in spending data [(see the Annex)](http://openspending.org/resources/osi/privacyguide.html).
 
 The current access to data from the EU farm subsidy programme is a clear example of a case where privacy (in this case for farmers) was used as argument to decide a case, which significantly reduced access to data. 
 
