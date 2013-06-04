@@ -7,6 +7,8 @@ type: post
 status: published
 ---
 
+![Image by Mosman Library (cc-by 2.0)](https://farm9.staticflickr.com/8205/8206356927_3d5c720658_c.jpg "Badges!")
+
 This is perhaps not a very attention grabbing title for this post, but some cool new features have landed in OpenSpending this month. We're really proud of them so we thought we'd share them with you.
 
 ### Badges
@@ -56,3 +58,5 @@ If you're interested in contributing to OpenSpending, code reviews are a good pl
 ### Thanks
 
 Thanks to **Nigel Babu**, **Lucy Chambers**, **Martin Keegan**, **Anders Pedersen**, **Rufus Pollock**, **Stephen Russett**, and **Stefan Wehrmeyer** for their contributions this month (there are probably a lot more who've contributed somehow to this month's features so don't be sad if we forgot you, let us know and we'll add you).
+
+<small>Image of badges used for this blog posts is by [Mosman Library](https://www.flickr.com/photos/mosmanlibrary/) on [Flickr](http://flickr.com), released under [Creative Commons Attribution, version 2.0](http://creativecommons.org/licenses/by/2.0/).</small>
