@@ -62,30 +62,29 @@ There's even a law in open source software (Linus' Law): *"Given enough eyeballs
 **Interested in being a code reviewer? [Get in touch!](http://openspending.org/about/contact.html)**
 
 ###Data Clinics and Community Hangouts - going forward
-A lot of great spending projects are in the making, but in need of community support for tips on how to clean and upload the data.
+A lot of great spending projects in the making are in the need of community support for tips on how to clean and upload the data.
 
 For this reason we'll therefore begin to run bi-weekly Data Clinics - a community drop in for all kinds of technical troubleshooting you need in order to get working on OpenSpending. 
-All you need to bring is your messy data, and you'll be able to ask the community on tips on how to tackle your spending data.  
+All you need to bring is your messy data, and you'll be able to ask the community on tips on how to tackle your spending data.
 
 The first Data Clinic will take place **today Wednesday 5 June at 19:00 CET / 18:00 BST / 13:00 EDT** as chat via skype (ping: anpehej) or IRC #openspending. [Sign up here!](https://docs.google.com/a/okfn.org/document/d/1vx9oSJieuqfQ2xdBTyFSTmDRsPRenTrJLKJDo_ZP8z4/edit#)
 
-The introduction of the Data Clinic also means that we're now offering community activities every Wednesday - either as Data Clinic or Community GoogleHangout. We hope that you join!
+With the introduction of the Data Clinic we'll now offering community activities every Wednesday - either as Data Clinic or Community GoogleHangout. We hope that you'll join some of the activities!
 
 ###Current community projects
+Here are some of the projects currently in the works. Many of them could need a helping hand: 
 - Felix is working on Andalusian procurement data. Data quality seems good, and would be interesting to compare with the data available in OpenTED.
 - Cecilia and the investigative journalism team at IRPI has claimed the Italian structural fund data and will be working to add it to OpenSpending. They need help cleaning a few of the data fields so please get in touch if you can help! 
 - Tarek would be interested looking at spending data from Egypt
 - Pierre has helped scrape, clean and upload procurement data from Senegal to OpenSpending. He'll post on the OpenSpending blog soon. 
 - Benjamin is working on the EU procurement data opendted.pudo.org
-- spending data from the city of [Washington DC](http://openspending.org/dc-vendors-contractors) was added during theweekend as part of #Hackforchange. 
-
-Most of the projects could need advice or a helping hand, so get in touch if you want to help or share!
+- Transactional spending data from the city of [Washington DC](http://openspending.org/dc-vendors-contractors) was added during theweekend as part of #Hackforchange. 
 
 ###Global Weekend on city spending data July 20-21 
 The past months has seen strong growth in local spending projects with [86 cities mapped](http://apps.openspending.org/maps/). As we want to support and grow these initiatives we're asking if you'll join us to organise a global spending weekend to open city spending on July 20-21. The spending weekend will offer online trainings and support to your local group to help you get your project off the ground. 
 Hiroichi (OKF Japan), Mor (Hasadna) and Adam (Open Budget Oakland) have already expressed interest in the idea, and we'd love to hear if you want to be involved. 
 
-Check and add your self to the [planning document](https://docs.google.com/a/okfn.org/document/d/1Zh-TPxgMiFDrzk-rNJqL9CmCbbtlZmp2xjWlZ6T20TA/edit#heading=h.6416s7qbnyrt). 
+Have a look and add your self to the [planning document](https://docs.google.com/a/okfn.org/document/d/1Zh-TPxgMiFDrzk-rNJqL9CmCbbtlZmp2xjWlZ6T20TA/edit#heading=h.6416s7qbnyrt). 
 
 ### Thanks
 
