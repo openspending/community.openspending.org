@@ -9,11 +9,11 @@ status: publish
 
 We'll be running another Community call via Google Hangout Wednesday this week.
 
-When: 12 June, 19:00 CET / 18:00 GMT / 13:00 EDT - [your time zone](http://www.timeanddate.com/worldclock/fixedtime.html?msg=OpenSpending+Community+Hangout&iso=20130612T13&p1=263&ah=1)
+**When:** 12 June, 19:00 CET / 18:00 GMT / 13:00 EDT - [your time zone](http://www.timeanddate.com/worldclock/fixedtime.html?msg=OpenSpending+Community+Hangout&iso=20130612T13&p1=263&ah=1)
 <br>
-Where: On Google Hangout. Sign up in the form below. 
-
-##Agenda 
+**Where:** On Google Hangout. Sign up in the form below. 
+<br>
+**Agenda:** 
 - “How to crunch numbers from the European Investment Bank (EIB)?”. Introduction by Anne Rogenbuck from [Bankwatch](http://bankwatch.org/) about how they analyse loan data from the EIB. 
 - News from around the community: Who's got something to share - who needs help moving forward?
 - Procurement data on OpenSpending: French and Senegalese procurement are among the most recent contributions to OpenSpending. Should this lead to any changes in the way [the upload module is set up](http://openspending.org/datasets/new)? 
