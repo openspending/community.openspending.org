@@ -4,7 +4,7 @@ author: anders
 title: Community Hangout 12 June
 published: true
 type: post
-status: published
+status: publish
 ---
 
 #Next Community Hangout 12 June
