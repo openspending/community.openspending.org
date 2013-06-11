@@ -19,7 +19,7 @@ We'll be running another Community call via Google Hangout Wednesday this week.
 <il>- News from around the community: Who's got something to share - who needs help moving forward?<br>
 <il>- Procurement data on OpenSpending: French and Senegalese procurement are among the most recent contributions to OpenSpending. Should this lead to any changes in the way [the upload module is set up](http://openspending.org/datasets/new)?<br>
 <il>- Planning the [Global Spending Weekend July 20-21](https://docs.google.com/a/okfn.org/document/d/1Zh-TPxgMiFDrzk-rNJqL9CmCbbtlZmp2xjWlZ6T20TA/edit#)<br>
-<li>- Updating budget and spending data from the [Open Data Census](http://okfnlabs.org/opendatacensus/country/). Is your country up to date?<br>
+<li>- Updating bugdet and spending data in the [Open Data Census](http://okfnlabs.org/opendatacensus/country/). Is your country up to date?
 <br>
 <iframe src="https://docs.google.com/a/okfn.org/forms/d/1vi2LNysNsu346-X8H5oIp00OUjDFsiR_pYcQSWrQAiY/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
