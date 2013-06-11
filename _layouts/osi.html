@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-
+{% assign reportpath = '/resources/osi/' %}
 <ul class="breadcrumb">
     <li>
         <i class="icon-book"></i>
-        <a href="index.html">OSI Report</a>
+        <a href="{{reportpath}}">OSI Report</a>
         <span class="divider">/</span>
     </li>
     <li class="active">{{ page.title }}</li>
@@ -15,51 +15,51 @@ layout: default
     <div class="span4">
         <h3>Contents</h3>
         <ul class="nav nav-list">
-            <li><a href="index.html">Introduction</a>
+            <li><a href="{{reportpath}}">Introduction</a>
                 <ul class="nav nav-list">
-                <li><a href="videos.html">Athens to Berlin: Video Series</a>
-        		<li><a href="map.html">Map of Contacts</a>
-        		<li><a href="timeline.html">Timeline of Activities</a>
+                <li><a href="{{reportpath}}videos.html">Athens to Berlin: Video Series</a>
+        		<li><a href="{{reportpath}}map.html">Map of Contacts</a>
+        		<li><a href="{{reportpath}}timeline.html">Timeline of Activities</a>
         		</ul>
-        	<strong><li><a href="executive-summary.html">Executive Summary</a></strong>
-            <li><a href="case-studies-budgets.html">Case Studies - Budgets</a>
+        	<strong><li><a href="{{reportpath}}executive-summary.html">Executive Summary</a></strong>
+            <li><a href="{{reportpath}}case-studies-budgets.html">Case Studies - Budgets</a>
                 <ul class="nav nav-list">
-                <li><a href="lost-money.html">Lost Money, Romania </a></li>
-                <li><a href="openbudgetoakland.html">OpenOakLand, United States </a></li>
-                <li><a href="cbga.html">Centre for Budget and Governance Accountability, India </a></li>
-                <li><a href="bosnia.html">Budzeti.ba, Bosnia </a></li>
-                <li><a href="expert-grup.html">Expert Grup, Moldova</a></li>
+                <li><a href="{{reportpath}}lost-money.html">Lost Money, Romania </a></li>
+                <li><a href="{{reportpath}}openbudgetoakland.html">OpenOakLand, United States </a></li>
+                <li><a href="{{reportpath}}cbga.html">Centre for Budget and Governance Accountability, India </a></li>
+                <li><a href="{{reportpath}}bosnia.html">Budzeti.ba, Bosnia </a></li>
+                <li><a href="{{reportpath}}expert-grup.html">Expert Grup, Moldova</a></li>
                 </ul>
             </li>
-            <li><a href="case-studies-spending.html">Case Studies - Spending</a>
+            <li><a href="{{reportpath}}case-studies-spending.html">Case Studies - Spending</a>
 	      <ul class="nav nav-list">
-		<li><a href="okfn-greece.html">OKFN Greece</a>
-		<li><a href="eu-spending-data.html">EU Spending Data</a>
-		<li><a href="farmsubsidy.html">Farmsubsidy.org</a>
-		<li><a href="farmsubsidies-mexico.html">Farmsubsidies in Mexico</a>
-		<li><a href="india-spend.html">India Spend, India </a></li>
+		<li><a href="{{reportpath}}okfn-greece.html">OKFN Greece</a>
+		<li><a href="{{reportpath}}eu-spending-data.html">EU Spending Data</a>
+		<li><a href="{{reportpath}}farmsubsidy.html">Farmsubsidy.org</a>
+		<li><a href="{{reportpath}}farmsubsidies-mexico.html">Farmsubsidies in Mexico</a>
+		<li><a href="{{reportpath}}india-spend.html">India Spend, India </a></li>
 	      </ul>
 	    </li>
-            <li><a href="case-studies-procurements.html">Case Studies - Procurement</a>
+            <li><a href="{{reportpath}}case-studies-procurements.html">Case Studies - Procurement</a>
 	      <ul class="nav nav-list">
-		<li><a href="hutspace.html">Hutspace, Ghana</a>
-		<li><a href="texty.html">Texty, Ukraine</a>
-		<li><a href="opented.html">OpenTED, EU contracts</a>
+		<li><a href="{{reportpath}}hutspace.html">Hutspace, Ghana</a>
+		<li><a href="{{reportpath}}texty.html">Texty, Ukraine</a>
+		<li><a href="{{reportpath}}opented.html">OpenTED, EU contracts</a>
 	      </ul>
-	      <li><a href="case-studies-other.html">Case Studies - From International to Micro</a>
+	      <li><a href="{{reportpath}}case-studies-other.html">Case Studies - From International to Micro</a>
 	      <ul class="nav nav-list">
-  		<li><a href="openspending.html">OpenSpending: Scaling from International to Local</a>
-  		<li><a href="seville.html">Budget transparency for an open university</a>
+  		<li><a href="{{reportpath}}openspending.html">OpenSpending: Scaling from International to Local</a>
+  		<li><a href="{{reportpath}}seville.html">Budget transparency for an open university</a>
   		</ul>
-		<strong><li><a href="conclusions.html">Conclusions</a></strong>
-  		<li><a href="appendix.html">Appendix</a>
+		<strong><li><a href="{{reportpath}}conclusions.html">Conclusions</a></strong>
+  		<li><a href="{{reportpath}}appendix.html">Appendix</a>
     	    <ul class="nav nav-list">
-      	<li><a href="appendix-open-budgets-open-data.html">Putting the Open Data into Open Budgets</a>
-      	<li><a href="tool-ecosystem.html">Tool Ecosystem: What tools do people use to work with financial data?</a></li>
-	<li><a href="Community.html">Community</a></li>
-	    <li><a href="machinereadfaq.html">Common arguments against publishing data in machine-readable format</a></li>
-	     <li><a href="privacyguide.html">Privacy Guide</a></li>
-	    <li><a href="other-handy-datasets.html">Other handy datasets</a></li>
+      	<li><a href="{{reportpath}}appendix-open-budgets-open-data.html">Putting the Open Data into Open Budgets</a>
+      	<li><a href="{{reportpath}}tool-ecosystem.html">Tool Ecosystem: What tools do people use to work with financial data?</a></li>
+	<li><a href="{{reportpath}}Community.html">Community</a></li>
+	    <li><a href="{{reportpath}}machinereadfaq.html">Common arguments against publishing data in machine-readable format</a></li>
+	     <li><a href="{{reportpath}}privacyguide.html">Privacy Guide</a></li>
+	    <li><a href="{{reportpath}}other-handy-datasets.html">Other handy datasets</a></li>
   	      </ul>
 	    </li>
         </ul>
