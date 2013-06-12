@@ -194,16 +194,16 @@ Finally a few notes on the differences between SPSS and R: Though SPSS is fairly
 
 ### Notes 
 
-<p>See also the resources section in the [Spending Data Handbook](http://openspending.org/resources/handbook/ch014_resources.html)</p>
+<p>See also the resources section in the <a href="http://openspending.org/resources/handbook/ch014_resources.html">Spending Data Handbook</a></p>
 <p>Note: Many of these tools will have difficulty working on Internet Explorer (especially older versions), but we have yet to find more powerful tools which also work there.</p>
 
-## A note on Network Analysis 
+## A note on Network Analysis 
 
 As you will see from the case studies in the videos, Network Analysis is an area that more and more people are looking into with regard to public procurement and contracts. 
 
-Network visualisations are commonly used as a solution to this problem, however, we offer a note of caution not to overuse them; due to the amount of data on which they are often used, they can sometimes be overwhelming and the average non-expert can find them hard to interpret. Often the types of information that it is possible to extract from a network visualisation e.g. “who is best connected?”, “are there links between person X and person Y?” -  could be more easily be found with a searchable database of connections. 
+Network visualisations are commonly used as a solution to this problem, however, we offer a note of caution to use them sparingly; due to the amount of data on which they are often used, they can sometimes be overwhelming and the average non-expert can find them hard to interpret. 
 
-By way of illustration, see how easy to search http://littlesis.org/ is. If someone knows who they are looking for, the most powerful tool you can provide them with could be a search box! Both Little Sis and the future Ahalo project from K-Monitor offer crucial additional background context in the form of a searchable database of articles. (Tool gap alert: it would be amazing if every country had one of these!). 
+Often the types of information that it is possible to extract from a network visualisation e.g. “who is best connected?”, “are there links between person X and person Y?” -  could be more easily be found with a searchable database of connections. 
 
 It may also be wise to separate tools suitable for investigating the data, and tools used to present the data. In the latter case, clarity and not-overloading the visualisation will most likely yield a clearer result - so this is one area in which custom infographics may win out in terms of delivering value.  
 
@@ -221,16 +221,14 @@ For producing network visualisations there are currently open source solutions:
 
 ## Some favourite examples of (non) Network ways of presenting hierarchies, relationships and complex systems: 
 
-* Connected China (Reuters) http://connectedchina.reuters.com/ - enables the user to easily see family connections, political coalitions, leaders and connections. Additionally - it gives a detailed organisational diagram of the Communist Party of China, as well as timelines of people’s rise to power. 
-* (As mentioned above): Little Sis http://littlesis.org/. This is an American database of political connections, including party donations, career histories and family members. Read their About Page for more details of the questions they seek to answer. 
+* [Connected China (Reuters)](http://connectedchina.reuters.com/) - enables the user to easily see family connections, political coalitions, leaders and connections. Additionally - it gives a detailed organisational diagram of the Communist Party of China, as well as timelines of people’s rise to power. 
+* [Little Sis](http://littlesis.org/). This is an American database of political connections, including party donations, career histories and family members. Read their About Page for more details of the questions they seek to answer. 
 Linked to littlesis.org and Wikipedia - theyrule.net allows users to build and save their own networks of relationships e.g. how large banks are related to one another through board members and representatives. 
-* The Rise Project http://www.riseproject.ro/persoana/sahin-yuksek/ - this simple visualisation deals with first and second degrees of separation for a few key actors and provides a link to articles to support the narrative. 
 
 ### Further reading: 
 
-http://www.ucl.ac.uk/secret/events/event-tabbed-box/seminars-accordian/social-network
-http://www.cgi.com/sites/cgi.com/files/white-papers/Implementing-social-network-analysis-for-fraud-prevention.pdf
-
+<ul><li><a href="http://www.ucl.ac.uk/secret/events/event-tabbed-box/seminars-accordian/social-network">UCL Materials</a></li>
+<li> <a href="http://www.cgi.com/sites/cgi.com/files/white-papers/Implementing-social-network-analysis-for-fraud-prevention.pdf">CGI Materials</a>
 
 # Obvious tools gaps 
 
