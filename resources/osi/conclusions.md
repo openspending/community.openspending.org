@@ -118,7 +118,29 @@ The demand for training materials and knowledge sharing outside the anglophone l
 
 Multi-language knowledge sharing should also include boosting translations of key resource materials such as the Spending Data Handbook into multiple languages. As practical factsheets are being drafted on topics such as spending standards, FOI-models, privacy and data analysis these should be translated as well. Distribution across CSO networks should also be increased in order to reach the organisations who might work on spending transparency.
 
-# On the methodology
+# On the methodology and terminology
+
+## Common vocabulary and language barriers
+
+Two of the most common words which frame the transparency debate, *open* and *standard*, are used differently in policy and technical spheres -two key proponents of the transparency movement. This often leads to conversations happening at cross-purposes and hinders communication across the community.
+
+<table border="1">	
+	<tr>
+		<td><strong>Term</strong></td>
+		<td><strong>Open Data / Technical Community Usage</strong></td>
+		<td><strong>Policy Sphere Usage</strong></td>
+	</tr>
+	<tr><td>Open</td>
+		<td>Free to use, reuse and redistribute - subject only, at most, to the requirement to attribute and/or share-alike. (See <a href="http://opendefinition.org/">The Open Definition</a>).</td>
+		<td>Publicy available and accessible.</td>
+	</tr>
+	<tr><td>Standard</td>
+		<td>A technical specification for code or data. For example, <a href="http://openspending.org/resources/standard/index.html">the draft spending standard</a> by the Spending Data Community.</td>
+		<td>Best practice guidelines for a particular behaviour, or benchmarks.</td>
+	</tr>
+</table>
+
+As a result, special care and attention should be used when using these terms, particularly in formulating requests of governments.
 
 ## Language diversity and inclusiveness
 
