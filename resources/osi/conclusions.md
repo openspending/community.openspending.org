@@ -28,45 +28,15 @@ International (e.g. Farm Subsidies), National - and Local level data is demanded
 <small>* So far, there have been a few well-coordinated attempts to standardise and collect this information biographical information, [Popit from MySociety](http://popit.mysociety.org/) and [Popolo from OpenNorth and the Participatory Politics Foundation](http://blog.opennorth.ca/2013/02/21/update-on-opengovernment/), however - a coordinated international effort is required in order to maintain this enormous, and rapidly evolving dataset. </small>
 
 
-####  Nevertheless: proactive spending release doesn’t nessesarily make strong civil societies
+###  Proactive spending release doesn’t necessarily make strong civil societies
 
 In some countries there is high quality spending data and no journalists or CSOs making much use of the data.
 
 For example Slovenia has since 2011 arguably had one of the leading models for publishing government transactions. Yet there seems to have been little uptake among journalists or CSOs. While one reason might clearly be that making sense of large spending datasets requires substantial skills, what the case of Slovenia maybe demonstrates more than anything is that governmental access to data might actually offer little guidance as to how vibrant the civil society on spending transparency actually is. This is perhaps simply a matter of training, or perhaps a language barrier for countries where training materials are available.
 
-Likewise, we struggled to find many civil society organisations in Greece, who were not technical users, making use of the data in the Cl@rity programme.
+Likewise, we struggled to find many civil society organisations in Greece, who were not technical users, making use of the data released as part of the Cl@rity programme.
 
-## Key obstacles preventing re-use of data
-
-### No bulk download
-
-Many governments believe that publishing financial data online (in html or PDF) equals making the data “open”. For this reason many CSOs struggle with the task of scraping content off websites (if they even know it is possible to do so). In the worst cases  - automatic access or scrapers may be impeded by using CAPTCHA codes.
-
-Bulk download is crucial to allow organisations to keep a copy in case information disappears from the internet.
-
-(Further reading: [Appendix: Putting the Open Data into Open Budgets](appendix-open-budgets-open-data.html).
-
-### Governmental PDF release policies
-
-Many organisations have identified PDF releases as a substantial barrier to re-use. Though organisations often manage to complete projects, the governmental policies to release PDFs impedes workflow and increase demand for members with technical skills.
-
-(Further reading to understand which formats are appropriate for publishing financial data: [Appendix: Common arguments against publishing](appendix-open-budgets-open-data.html).
-
-### Privacy Concerns...
-
-are often cited as one of the reasons for not releasing this level of detail in detail, but often needlessly so. Technology and good data-management practices make it possible to develop a workflow, which allows sensitive information to be removed within a government body, prior to publication. A little training may be required within government, but the process is relatively straightforward once a suppression list is built. With Ian Makgill, OpenSpending has developed a thorough guide, which addresses main risks when releasing spending data from local councils. This guide can be found in the appendix.
-
-(Further reading: [How to publish spending data without disclosing personal information](privacyguide.md))
-
-### Arbitrary release thresholds
-
-At least two of the countries which release transaction-level data have imposed seemingly arbitrary thresholds on the size of transactions that are included in releases. For example, the US and the UK exclude transactions under $25,000 and 25,000 GBP, respectively.
-
-Are these thresholds appropriate? That can't be known for sure without more information about how these numbers were arrived at. Principally, having thresholds or exceptions to the reporting of this data depends on the underlying systems that drive disclosure of this data. There must either be a publicly stated and rational reason for these disclosure thresholds - or they should be lowered (or ideally, removed entirely).
-
-(Further reading: [Spending Data Handbook](http://openspending.org/resources/handbook/ch006_types-of-data.html))
-
-## The positives
+## Data Supply
 
 ### There are clear leaders amongst governments regarding publishing practices
 
@@ -82,13 +52,44 @@ Recent improvements to spending transparency in Greece and Slovenia appear to be
 
 In Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-transparency/supervizor-73) seems to have been driven by a combination of a strong independent anti-corruption commission and access to pro-bono development resources to prototype and develop the models.
 
+## Supply-side obstacles preventing re-use of data
+
+### No bulk download
+
+Many governments believe that publishing financial data online (in html or PDF) equals making the data “open”. For this reason many CSOs struggle with the task of scraping content off websites (if they even know it is possible to do so). In the worst cases  - automatic access or scrapers may be impeded by using CAPTCHA codes.
+
+Bulk download is crucial to allow organisations to keep a copy in case information disappears from the internet.
+
+(Further reading: [Appendix: Putting the Open Data into Open Budgets](appendix-open-budgets-open-data.html).)
+
+### Governmental PDF release policies
+
+Many organisations have identified PDF releases as a substantial barrier to re-use. Though organisations often manage to complete projects, the governmental policies to release PDFs impedes workflow and increase demand for members with technical skills.
+
+(Further reading to understand which formats are appropriate for publishing financial data: [Appendix: Common arguments against publishing](appendix-open-budgets-open-data.html).
+
+### Privacy Concerns
+
+Often cited as one of the reasons for not releasing this level of detail in detail, but often needlessly so. Technology and good data-management practices make it possible to develop a workflow, which allows sensitive information to be removed within a government body, prior to publication. A little training may be required within government, but the process is relatively straightforward once a suppression list is built. With Ian Makgill, OpenSpending has developed a thorough guide, which addresses main risks when releasing spending data from local councils. This guide can be found in the appendix.
+
+(Further reading: [How to publish spending data without disclosing personal information](privacyguide.md))
+
+### Arbitrary release thresholds
+
+At least two of the countries which release transaction-level data have imposed seemingly arbitrary thresholds on the size of transactions that are included in releases. For example, the US and the UK exclude transactions under $25,000 and 25,000 GBP, respectively.
+
+Are these thresholds appropriate? That can't be known for sure without more information about how these numbers were arrived at. Principally, having thresholds or exceptions to the reporting of this data depends on the underlying systems that drive disclosure of this data. There must either be a publicly stated and rational reason for these disclosure thresholds - or they should be lowered (or ideally, removed entirely).
+
+(Further reading: [Spending Data Handbook](http://openspending.org/resources/handbook/ch006_types-of-data.html))
+
+
 # Looking ahead
 
 ## Don’t reinvent the wheel
 
 Many of the budget and spending projects which we feature in this report have developed tailored applications fitting their particular conditions. From the comprehensive budget site of Hasadna to the database of [K-Monitor in Hungary](http://www.k-monitor.hu/search) platforms have been developed to adapt to the data available and the focus of the individual project.
 
-It is a wise approach to develop a tool for one country initially (it helps prevent 'meta solutions' that half-solve everyone's issues). However, once a solution has been proven to work, using it as a template to roll out in other countries may be very wise. We hope the case studies featured here and in the videos are of use, and we would be hapy to facilitate connections to those behind the projects. (Simply email info [at] openspending.org).
+It is a wise approach to develop a tool for one country initially (it helps prevent 'meta solutions' that half-solve everyone's issues rather than genuinely solving a genuine problem). However, once a solution has been proven to work, using it as a template to roll out with customisation in other countries may be very wise. We hope the case studies featured here and in the videos are of use, and we would be happy to facilitate connections to those behind the projects. (Simply email info [at] openspending.org).
 
 ## More community mapping projects!
 
@@ -100,14 +101,14 @@ Based on the interviews we’ve found that several skills are repeatedly emergin
 
 We could therefore see a strong potential in offering focused trainings around the key needs identified:
 <ul>
-	<li>webscrabing: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
-	<li>liberating and cleaning PDFs quickly: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.</li>
-	<li>build FOI request skills: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.</li>
-	<li>see the [tools ecosystem](tool-ecosystem.html) for more details on particular problems regularly faced by organisations, and how to tackle them.</li>
+	<li><strong>webscraping</strong>: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
+	<li><strong>liberating and cleaning PDFs quickly</strong>: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.</li>
+	<li><strong>build FOI request skills</strong>: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.</li>
+	<li><strong>see the <a href="tool-ecosystem.html">tools ecosystem</a></strong> for more details on particular problems regularly faced by organisations, and how to tackle them.</li>
 </ul>
 
 ## Develop strategies for obtaining quick wins on transactional spending transparency
-The past three years UK, Brazil, US, Slovenia and Greece has released transactional spending data. Despite those successes it is relevant to ask why release policies on transactional spending data have not spread faster eg. to neighbouring countries.
+The past three years UK, Brazil, US, Slovenia and Greece has released transactional spending data. Despite those successes it is relevant to ask why release policies on transactional spending data have not spread faster e.g. to neighbouring countries.
 
 The spending community should be equipped to push for spending data by mapping access, regulation and publication flows across countries.
 
@@ -116,7 +117,6 @@ The spending community should be equipped to push for spending data by mapping a
 The demand for training materials and knowledge sharing outside the anglophone language community should be addressed. In practise this can be done by providing trainings in first languages across countries where spending transparency is advanced.
 
 Multi-language knowledge sharing should also include boosting translations of key resource materials such as the Spending Data Handbook into multiple languages. As practical factsheets are being drafted on topics such as spending standards, FOI-models, privacy and data analysis these should be translated as well. Distribution across CSO networks should also be increased in order to reach the organisations who might work on spending transparency.
-
 
 # On the methodology
 
