@@ -25,9 +25,9 @@ At the same time, the data provided by the EIB is relatively sparse, and the fil
 
 Another problem is how the EIB categorises projects. Even though the bank uses an official Eurostat classification system (NACE), inconsistencies and unclear attributions create a much rosier picture about the bank’s lending. (See more details for the energy sector lending below.) Note that for a more critical assessment or investigation one needs to consult additional materials like project summaries, EIB project assessment reports (only available on request), or a project promoter’s website.
 
-Why is it important to analyse the EIB’s classifications? Take the EIB energy lending as an example
+###Why is it important to analyse the EIB’s classifications? 
 
-The EIB boldly states that it is a leading institution in the fight against climate change. While the bank does lend significant amounts for renewable energy projects, it also finances a large number of climate-damaging projects. 
+Take the EIB energy lending as an example. The EIB boldly states that it is a leading institution in the fight against climate change. While the bank does lend significant amounts for renewable energy projects, it also finances a large number of climate-damaging projects. 
 
 What the EIB categorises as clean energy is often not clear. This is especially the case when portions of a particular loan are attributed to different, often conflicting EU priorities like financing for renewable energy and energy efficiency on the one hand and security of energy supply (to EU countries) and trans-European energy networks like gas or oil pipelines on the other hand.
 
@@ -43,8 +43,7 @@ Confronted with our criticism of its classifications, the EIB argued that Bankwa
 
 In some cases, financing that clearly did not go to renewable energy sources was nonetheless added to the renewables figure, even though renewables was just part of that loan. In case of [a project with the Italian power company ENEL](http://www.eib.org/projects/pipeline/2006/20060248.htm) the EIB assigned the loan to “Renewable energy” even though more than 50% of the total loan of 450 million Euro was aiming at fossil fuels. (See the excerpt from the EIB’s database below. Irrelevant columns were deleted to reduce space.)
 
-<a href="http://www.flickr.com/photos/94746900@N06/9024498649/" title="eib table by anderspedersenOKF, on Flickr"><img src="http://farm9.staticflickr.com/8129/9024498649_ce560d1a7e.jpg" width="500" height="154" alt="eib table"></a>
-
+<a href="http://www.flickr.com/photos/94746900@N06/9024498649/" title="eib table by anderspedersenOKF, on Flickr"><img src="http://farm9.staticflickr.com/8129/9024498649_ce560d1a7e_z.jpg" width="640" height="197" alt="eib table"></a>
 <br>
 ###3. Compartmentalisation
 
