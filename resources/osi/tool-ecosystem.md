@@ -223,12 +223,12 @@ For producing network visualisations there are currently open source solutions:
 
 * [Connected China (Reuters)](http://connectedchina.reuters.com/) - enables the user to easily see family connections, political coalitions, leaders and connections. Additionally - it gives a detailed organisational diagram of the Communist Party of China, as well as timelines of people’s rise to power. 
 * [Little Sis](http://littlesis.org/). This is an American database of political connections, including party donations, career histories and family members. Read their About Page for more details of the questions they seek to answer. 
-Linked to littlesis.org and Wikipedia - theyrule.net allows users to build and save their own networks of relationships e.g. how large banks are related to one another through board members and representatives. 
 
 ### Further reading: 
 
 <ul><li><a href="http://www.ucl.ac.uk/secret/events/event-tabbed-box/seminars-accordian/social-network">UCL Materials</a></li>
-<li> <a href="http://www.cgi.com/sites/cgi.com/files/white-papers/Implementing-social-network-analysis-for-fraud-prevention.pdf">CGI Materials</a>
+<li> <a href="http://www.cgi.com/sites/cgi.com/files/white-papers/Implementing-social-network-analysis-for-fraud-prevention.pdf">CGI Materials</a></li>
+</ul>
 
 # Obvious tools gaps 
 
