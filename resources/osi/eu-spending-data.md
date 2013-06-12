@@ -58,7 +58,7 @@ project:
     fund payments. Though non-profit media institutions do offer a [few
     important exceptions](http://projects.propublica.org/docdollars/),
     we also know that maintaining databases is costly and is vastly
-    considered providing too little for ongoing beat journalism inside
+    considered providing too little value for ongoing beat journalism inside
     newsrooms.
 2.  CSOs have not addressed systemic needs for data: Despite receiving
     wide recognition from CSOs regarding the importance of the FT-TBIJ
@@ -107,12 +107,8 @@ the right direction ([page
 
 Spending reported under the FTS consist of both [EU Commission spending
 and grant funding](http://openspending.org/resources/eu/) provided to
-programmes such as research, education and foreign aid.
-
-is likely the best documented part of the EU budget, though it is not
-transactional spending data, as it only provide project funding data,
-and thus not actual transactions from either EU agencies not project
-recipients.
+programmes such as research, education and foreign aid, is likely the best documented part of the EU budget, though it is not transactional spending data, as it only provide project funding data,
+and thus not actual transactions from either EU agencies not project recipients.
 
 An increase in the minimum threshold is however under consideration,
 which could cause a decrease in access to a substantial amount of
