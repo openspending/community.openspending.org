@@ -5,14 +5,16 @@ layout: osi
 
 # Scaling efforts: OpenSpending - from International to Local level spending 
 
-Whether or not it could be classed as causation, it is possible that having elegant and intuitive visualisations can drive government data release at a local level from the supply side. OffenerHaushalt in Germany was launched with a small note at the bottom saying “If you are a local government and you are interested in producing your own visualisation site such as this, then please write to us.” To date, the OffenerHaushalt team have received 70-90 requests for similar sites in Germany at different levels of government, often from government officials themselves. 
+Whether or not it could be classed as directly causation, it is possible that having the possibility of elegant and intuitive visualisations can drive government data release at a local level from the supply side. 
 
-Being able to cater to these different levels of government - which are so numerous, was one of the prime reasons for building OpenSpending: A solution was needed that could produce something like <a href="htt[://wheredoesmymoneygo.org">Where Does My Money Go?</a> in less than half a day (given good data.), otherwise, it simply would not be possible to scale down to the local level. 
+By way of example of this fact, OffenerHaushalt in Germany was launched with a small note on the page, saying “If you are a local government and you are interested in producing your own visualisation site such as this, then please write to us.” To date, the OffenerHaushalt team have received 70-90 requests for similar sites in Germany at different levels of government, often from government officials themselves. 
+
+Being able to cater to these different levels of government and different bodies within government was one of the prime reasons for building OpenSpending: A solution was needed that could produce something like <a href="http://wheredoesmymoneygo.org">Where Does My Money Go?</a> in less than half a day (given good data.), otherwise, it simply would not have been possible to scale down to the local level. 
 
 
 ## Some key local uses of OpenSpending 
 
-Since its launch, OpenSpending has had a continuous flow of requests from stakeholders at local levels. By May 2013 more than 80 cities have been added to OpenSpending from citizens, local political parties and local administration officials. A substantial amount of connections have also been made to local budgeting initiatives using technology to enhance participation. 
+Since its launch, OpenSpending has had a continuous flow of requests from stakeholders at local levels. By May 2013 more than 80 cities had been added to OpenSpending from citizens, local political parties and local administration officials. A substantial amount of connections have also been made to local budgeting initiatives using technology to enhance participation. 
 
 It is our impression that local spending has a strong potential for a few reasons:
 * Local spending has a clear and direct impact peoples daily life, which seems to invite a wide group of citizens and communities to engage with the process.
