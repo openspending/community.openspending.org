@@ -54,7 +54,7 @@ In Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-transparency/
 
 ## Supply-side obstacles preventing re-use of data
 
-### No bulk download
+### No bulk download
 
 Many governments believe that publishing financial data online (in html or PDF) equals making the data “open”. For this reason many CSOs struggle with the task of scraping content off websites (if they even know it is possible to do so). In the worst cases  - automatic access or scrapers may be impeded by using CAPTCHA codes.
 
@@ -66,7 +66,7 @@ Bulk download is crucial to allow organisations to keep a copy in case informati
 
 Many organisations have identified PDF releases as a substantial barrier to re-use. Though organisations often manage to complete projects, the governmental policies to release PDFs impedes workflow and increase demand for members with technical skills.
 
-(Further reading to understand which formats are appropriate for publishing financial data: [Appendix: Common arguments against publishing](appendix-open-budgets-open-data.html).
+(Further reading to understand which formats are appropriate for publishing financial data: [Appendix: Common arguments against publishing data in machine-readable formats (and how to counter them)](appendix-open-budgets-open-data.html).
 
 ### Privacy Concerns
 
@@ -74,7 +74,7 @@ Often cited as one of the reasons for not releasing this level of detail in deta
 
 (Further reading: [How to publish spending data without disclosing personal information](privacyguide.md))
 
-### Arbitrary release thresholds
+### Arbitrary release thresholds
 
 At least two of the countries which release transaction-level data have imposed seemingly arbitrary thresholds on the size of transactions that are included in releases. For example, the US and the UK exclude transactions under $25,000 and 25,000 GBP, respectively.
 
@@ -128,4 +128,4 @@ Likewise, language presents problems for the people working on the data. In coun
 
 In a similar vein, while terms like "data journalism" are currently dominating English Language discourse, it is unclear to what extent they have spread into other languages. Translation efforts, and careful construction of networks will be key to ensuring that this debate does not become too anglo-centric.
 
-We would hate to miss a great project in whatever language. So please, put us in touch (info [at] openspending.org) if you are a poliglot, who can help bring an otherwise undiscovered project to the fore.
+We would hate to miss a great project in whatever language. So please if you are a polyglot, who can help bring an otherwise undiscovered project to the fore, put us in touch (info [at] openspending.org).
