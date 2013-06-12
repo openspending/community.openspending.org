@@ -17,6 +17,7 @@ Being able to cater to these different levels of government and different bodies
 Since its launch, OpenSpending has had a continuous flow of requests from stakeholders at local levels. By May 2013 more than 80 cities had been added to OpenSpending from citizens, local political parties and local administration officials. A substantial amount of connections have also been made to local budgeting initiatives using technology to enhance participation. 
 
 It is our impression that local spending has a strong potential for a few reasons:
+
 * Local spending has a clear and direct impact peoples daily life, which seems to invite a wide group of citizens and communities to engage with the process.
 * Active citizens tend to know where to access data in their local community more easily than national data. You might even know who to speak to in the local council if the data is not available.
 * Local focus helps drive community focus to local institutions that matter financially. 
