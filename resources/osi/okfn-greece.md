@@ -8,7 +8,7 @@ layout: osi
 <div class="well">Project: Tracing financial reporting from the Cl@rity program</div>
 
 <strong>This project review is based on the detailed review of Thodoris
-Papadopoulos, Open Knowledge Foundation Local Group.</strong>
+Papadopoulos, Open Knowledge Foundation Greece, Local Group.</strong>
 
 ## Summary
 
@@ -87,7 +87,7 @@ review and proposals:
     Repository](http://joinup.ec.europa.eu/community/osor/description) under
     a [EUPL](http://joinup.ec.europa.eu/software/page/eupl) licence.
 
-### Links:
+### Links about reuse of this data
 
 1.  A short video about researchers at the National Technical University
     of Athens and Students of WebScience and active members of OKFN

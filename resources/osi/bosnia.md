@@ -64,7 +64,7 @@ The training in Bosnia was a trigger to build on the material in the handbook by
     items) and there are only so many categories a person can take in at
     any one time. For the purposes of the visualisations, the CPI team
     classified the data in a schema similar to the internationally
-    recognised Classifications of Functions of Government, as was used
+    recognised [Classifications of Functions of Government](http://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=4), as was used
     in the UK project Where Does My Money Go?
 
 More information about the classification methodology they used can be
