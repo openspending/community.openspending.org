@@ -62,10 +62,10 @@ The UK government have now issued very good clear, <a href="https://www.gov.uk/s
 
 <h2>Don’t assume your users can read proprietary formats</h2>
 > Wherever possible, publish in accessible, patent-free, <a href="https://en.wikipedia.org/wiki/Open_format">open formats</a>, for which software is widely available on a variety of platforms. If publishing in proprietary formats, you should always make a non-proprietary alternative available.
-[...] For tabular data, provide <strong> <a href="http://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> or TSV </strong> rather than Excel spreadsheets (.xls/.xlsx).
-
+[...] For tabular data, provide <strong> <a href="http://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> or <a href="http://en.wikipedia.org/wiki/Tab-separated_values">TSV</a> </strong> rather than Excel spreadsheets (.xls/.xlsx).
+<p>
 Read the full version of the guidelines <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">here</a>.
-
+</p>
 </div>
 
 ## Why is this so important? 
