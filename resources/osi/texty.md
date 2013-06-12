@@ -5,8 +5,8 @@ layout: osi
 
 # Texty
 
-Project: [z.Texty.ua](http://z.texty.org.ua/) - procurement database
-based on data from the Ukrainian government.
+<div class="well">Project: <a href="http://z.texty.org.ua/">z.Texty.ua</a> - procurement database
+based on data from the Ukrainian government.</div>
 
 Texty.ua was established in 2010 as an NGO by Anatoliy Bondarenko and
 Roman Kulchynsky (Editor in chief). They both have a background inside
