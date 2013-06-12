@@ -5,7 +5,7 @@ layout: osi
 
 # Hutspace, Ghana
 
-<div class="well">Project: Scraping, analysing and publishing procurement data.</well>
+<div class="well">Project: Scraping, analysing and publishing procurement data.</div>
 
 ## Status
 
