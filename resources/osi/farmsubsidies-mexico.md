@@ -4,9 +4,7 @@ layout: osi
 ---
 
 # Farm subsidies in Mexico
-
-Project:[Farm subsidy database for Mexico](http://subsidiosalcampo.org.mx/) from
-[Fundar](http://www.fundar.org.mx/)
+<div class="well">Project: <a href="http://subsidiosalcampo.org.mx/">Farm subsidy database for Mexico</a> by <a href="http://www.fundar.org.mx/">Fundar</a></div>
 
 About the project:
 
