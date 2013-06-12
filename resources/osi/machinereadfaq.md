@@ -5,18 +5,17 @@ layout: osi
 
 #Common arguments against not publishing data in machine-readable format (and how to counter them)
 
-Across the community almost everyone can explain stories about how struggling with government officials for transacitonal spending data in machine readible format. In this FAQ we provide a list of the most typical excuses for government officials for rejecting to release data. By this point we believe that we must have heard all almost all excuses...
+Across the community almost everyone can explain stories about how struggling with government officials for transactional spending data in machine-readable format. Often publishers simply do not know that civil society wants data in a particular format, but there are also deliberate obstructions. In this FAQ we provide a list of the most typical excuses for rejecting to release data in computer-friendly formats. 
+
 ##“PDFs are on my computer - therefore they are machine-readable” 
 
-FALSE: The fact they are on your computer means they are electronic copies, but not that they are machine-readable. PDFs are essentially a set of instructions for a printer on how to print a page, they look nice and appealing to the human eye, but to a computer, they are no more than a picture. 
+FALSE: The fact they are on your computer means they are electronic copies, but not that they are machine-readable. PDFs are essentially a set of instructions for a printer on how to print a page, they look nice and appealing to the human eye, but to a computer, they are little more than a picture. 
 
 PDFs go from bad to worse from the perspective of someone trying to do data work: 
 
-<ul>
-	<li>[Better PDFs are machine-generated](https://www.gov.uk/service-manual/design-and-content/resources/creating-accessible-PDFs.html), typically something like an Excel or Word Documents converted into a PDF [(see example)](https://docs.google.com/a/okfn.org/file/d/1En9UbXiVwinRiMPf6gwL7LY-1rClPdEoM_aj75FWNgm5qLbIa42fg6y81YFv/edit). Often, you can copy and paste information from them, but there may be some formatting or issues. </li>
-	<li>Worse PDFs are typically scanned documents. Often, to add to the misery, they will be copies of faxes, smudged, speckled, tea- water- or mould-stained or crooked (sometimes all of the above). </li>
-	<li>Image files are not machine-readable for the same reasons. </li>
-</ul>
+* [Better PDFs are machine-generated](https://www.gov.uk/service-manual/design-and-content/resources/creating-accessible-PDFs.html), typically something like an Excel or Word Documents converted into a PDF [(see example)](https://docs.google.com/a/okfn.org/file/d/1En9UbXiVwinRiMPf6gwL7LY-1rClPdEoM_aj75FWNgm5qLbIa42fg6y81YFv/edit). Often, you can copy and paste information from them, but there may be some formatting or issues. 
+* Worse PDFs are typically scanned documents. Often, to add to the misery, they will be copies of faxes, smudged, speckled, tea- water- or mould-stained or crooked (sometimes all of the above). 
+* Image files are not machine-readable for the same reasons. 
 
 ##“If we publish in machine-readable, open formats - someone will alter the data and use it to discredit us.” 
 
