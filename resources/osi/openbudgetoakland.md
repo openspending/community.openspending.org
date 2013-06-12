@@ -5,7 +5,7 @@ layout: osi
 
 # OpenOakland, United States
 
-<div class="well">Project: [OpenBudgetOakland](http://openbudgetoakland.org/), launched
+<div class="well">Project: <a href="http://openbudgetoakland.org/">OpenBudgetOakland</a>, launched
 April 2013</div>
 
 ## About
