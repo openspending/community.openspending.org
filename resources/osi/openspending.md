@@ -18,9 +18,8 @@ Since its launch, OpenSpending has had a continuous flow of requests from stakeh
 
 It is our impression that local spending has a strong potential for a few reasons:
 
-* Local spending has a clear and direct impact peoples daily life, which seems to invite a wide group of citizens and communities to engage with the process.
-* Active citizens tend to know where to access data in their local community more easily than national data. You might even know who to speak to in the local council if the data is not available.
-* Local focus helps drive community focus to local institutions that matter financially. 
+* Local spending has a clear and direct impact on the average citizen's daily life, as it is at the local level that many services are delivered. This fact seems to invite a wide group of citizens and communities to engage with the process.
+* Active citizens may know where to access data in their local community more easily than national data. They might even know who to speak to in the local council if the data is not available.
 
 ### Japan
 
@@ -40,7 +39,7 @@ In addition, we have seen a number of CSOs and citizens make use of OpenSpending
 	
 * Social liberal party (D66) of Rotterdam, The Netherlands: Using budget data from the city of Rotterdam to help inform elected officials and decide on local priorities within the party. The purpose was in the first place to help the party to decide on budget priorities, and secondly to advocate the city it self to adopt the practise of visualising the budget to its citizens in a meaningful way. A similar example was seen with the budget of Uruguay for 2012 from the Uruguayan Office of Planning and Budget. 
 
-* As previously mentioned, the search interface of OpenSpending was used by Privacy International <a href="http://openspending.org/blog/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball.html">to do research into which companies are selling surveillance equipment had contracts with governments around the world</a>. 
+* The search interface of OpenSpending was used by Privacy International <a href="http://openspending.org/blog/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball.html">to do research into which companies are selling surveillance equipment had contracts with governments around the world</a>. 
 
 * OpenSpending was used to visualise the <a href="http://openspending.org/blog/2013/04/06/Visualising-Urban-development-data-at-UN-Habitat.html">UN-Habitat data on Urban Development</a>.  
 
