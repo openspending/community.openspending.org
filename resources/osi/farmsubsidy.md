@@ -1,9 +1,11 @@
 ---
-title: "Case Study: Farmsubsidy.org"
+title: "Case Study: FarmSubsidy.org"
 layout: osi
 ---
 
-# Farmsubsidy.org
+# FarmSubsidy.org
+
+<div class="well">Project: <a href="http://farmsubsidy.org/">FarmSubsidy.org</div>
 
 Every year EU pays almost €60 billion to farmers and the farming industry under the Common Agricultural Policy, making it the biggest single spending programme under the EU. In 2005 journalists UK, Sweden, Netherlands and Denmark teamed up to get a hold of the data country by country. Finland, Poland, Portugal, regions of Spain, Slovenia and other countries opened followed. In some countries like Germany in 2007 the group had to go to court to get the data, which resulted in coverage from Stern and Stern online while raising the discussion of transparency.
 The meaningful demand from Farm Subsidy for each farm subsidy payment to be made public became a powerful vehicle for measuring transparency in practise. 
