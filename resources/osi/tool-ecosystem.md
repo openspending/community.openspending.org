@@ -211,12 +211,12 @@ It may also be wise to separate tools suitable for investigating the data, and t
 
 For producing network visualisations there are currently open source solutions: 
 
-* Gephi: https://gephi.org/ (Again note that Gephi has non-visualisation functions to explore the data, which at times may be more useful in exploring the interconnections than the visualisations themselves).
-* Map 76: http://mapa76.com/ - This is also interesting due to the function which is being developed to extract individual entities. 
-* RelFinder: Based off DBPedia, this tool structures and maps out relations between entities based on which articles they feature in on Wikipedia. 
+* [Gephi](https://gephi.org/) (Again note that Gephi has non-visualisation functions to explore the data, which at times may be more useful in exploring the interconnections than the visualisations themselves).
+* [Mapa 76](http://mapa76.com/) - This is also interesting due to the function which is being developed to extract individual entities. 
+* [RelFinder](http://www.visualdataweb.org/relfinder.php) Based off DBPedia, this tool structures and maps out relations between entities based on which articles they feature in on Wikipedia. 
 * Google Fusion Tables has a network function 
 * NodeXL is a powerful network toolkit for Excel. 
-* Cytoscape: http://www.cytoscape.org/ 
+* [Cytoscape](http://www.cytoscape.org/)
 
 
 ## Some favourite examples of (non) Network ways of presenting hierarchies, relationships and complex systems: 
