@@ -7,7 +7,7 @@ layout: osi
 
 <div class="well">After meeting the team from the Public Interest Advocacy Centre (CPI) at
 the POINT conference in Sarajevo in 2012, a proposal was launched to
-start the Budzeti.ba ([beta version online](http://budzeti.ba/))
+start the Budzeti.ba (<a href="http://budzeti.ba/">beta version online</a>)
 project. In November 2012, the project had a kick-off workshop to get
 the ball rolling and cover some of the key data-wrangling issues faced
 by CSOs wanting to create a budget monitoring site. </div>
@@ -39,7 +39,7 @@ budget information in a format which is accessible for citizens.
 
 ## Comprehensibility of Budget Data
 
-The training in Bosnia was a trigger to build on the material in the handbook by developing some guidelines on how to make data published by governments more accessible for citizens. One of the key methodologies which was used to produce [Where Does My Money Go?](http://wheredoesmymoneygo.org), was to think carefullly about how we aggregated the data and opting for a functional classification. Producing just enough categories to be useful, and not to many to overwhelm.
+The training in Bosnia was a trigger to build on the material in the handbook by developing some guidelines on how to make data published by governments more accessible for citizens. In practice, often this is a process of simplification and aggregating large datasets so as not to overwhelm the viewer. One of the key methodologies which was used to produce [Where Does My Money Go?](http://wheredoesmymoneygo.org), was to think carefully about how we aggregated the data and opting for functional classifications.
 
 ### Demanding data in functional classifications: why and what's difficult?
 
