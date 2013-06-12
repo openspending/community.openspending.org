@@ -3,7 +3,7 @@ title: "Common arguments against publishing data"
 layout: osi
 ---
 
-#Common arguments against publishing data...
+# Common arguments against publishing data...
 
 Across the community almost everyone can explain stories about how struggling with government officials for transactional spending data in machine-readable format. Often publishers simply do not know that civil society wants data in a particular format, but there are also deliberate obstructions. In this FAQ we provide a list of the most typical excuses for rejecting to release data in computer-friendly formats. 
 
@@ -39,18 +39,23 @@ Our advice would be the following:
 
 ### “We cannot release spending data as it contains personal information”
 
-FALSE, public authorities holding spending data, which includes personal information should not refrain from responsibility of publishing the data. Instead authorities should conduct the proper examination and redact personal data accordingly (workflows can be developed so that this effort is minimal. We see real risks of local and national governments holding back spending data with this excuse and have therefore co-written a guide for public authorities on how to deal with personal information in spending data (see the <a href="privacyguide.html">Annex</a>).
+FALSE, public authorities holding spending data, which includes personal information should not refrain from responsibility of publishing the data. Instead authorities should conduct the proper examination and redact personal data accordingly (workflows can be developed so that this effort is minimal). We see real risks of local and national governments holding back spending data with this excuse and have therefore co-written a guide for public authorities on how to deal with personal information in spending data (see the <a href="privacyguide.html">Annex</a>).
 
 The current access to data from the EU farm subsidy programme is a clear example of a case where privacy (in this case for farmers) was used as argument to decide a case at the European Court of Justice, which significantly [reduced access to data on farm subsidy payments](http://farmsubsidy.org/news/features/2012-data-harvest/). 
 
 ### “We cannot release spending data due to third parties due to confidentiality concerns”
 
-FALSE, public authorities should publish information about transactions to contractors and commercial vendors. It is not uncommon however that either public officials or commercial contractors will attempt to block releases due to the reason of commercial confidentiality of the supplier (the third party). The argument is most commonly argued when requests are made for actual contracts, but even contracts are often [released in full](http://www.asktheeu.org/en/request/292/response/805/attach/2/Signed%20Framework%20Agreement%20with%20Eurocontrol.PDF.pdf) without redactions. 
+FALSE, public authorities should publish information about transactions between them, contractors and commercial vendors. It is not uncommon however that either public officials or commercial contractors will attempt to block releases due to commercial confidentiality of the supplier (the third party). 
+
+The argument is most commonly argued when requests are made for actual contracts, but even contracts are often [released in full](http://www.asktheeu.org/en/request/292/response/805/attach/2/Signed%20Framework%20Agreement%20with%20Eurocontrol.PDF.pdf) without redactions. 
 
 ### “We cannot release granular data. You can get aggregated expenditures”
+
 NOT USEFUL, access to line-by-line transactional spending data is essential in order to ensure accountability. In order to be able to investigate suppliers and procurement practices, detailed transaction-level spending data is required.
 
-There are currently a few countries who release such data, the UK, US, Brazil and Slovenia being some of the leaders in this field. While they are leaders, there is still work to do there. In particular we have noticed a that several countries have introduced fairly high disclosure thresholds in relation to their decision to disclose transactional data. Such practises should be challenged and remain a serious concern, as large shares of public spending can be covered below such disclosure thresholds.
+There are currently a few countries who release such data, the UK, US, Brazil and Slovenia being some of the leaders in this field. While they are leaders, there is still work to do there. 
+
+We have also noticed a that several countries have introduced fairly high disclosure thresholds in relation to their decision to disclose transactional data. Such practises should be challenged and remain a serious concern, as large shares of public spending can be covered below such disclosure thresholds.
 
 Between countries disclosure thresholds vary widely:
 
