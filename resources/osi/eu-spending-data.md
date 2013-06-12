@@ -5,9 +5,9 @@ layout: osi
 
 # Growing the community working on EU spending data
 
-<div class="well">This segment is based on a [community call organised on 18 February
-2013](http://openspending.org/blog/2013/01/09/privacy.html) with
-additional input from [Ronny Patz](https://twitter.com/ronpatz),
+<div class="well">This segment is based on a [<a href="http://openspending.org/blog/2013/01/09/privacy.html">community call organised on 18 February
+2013</a> with
+additional input from <a href="https://twitter.com/ronpatz">Ronny Patz</a>,
 Transparency International, Brussels Office.</div>
 
 Among journalists and CSOs European spending programmes are in these
