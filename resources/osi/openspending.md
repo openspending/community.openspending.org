@@ -22,7 +22,6 @@ It is our impression that local spending has a strong potential for a few reason
 * Active citizens tend to know where to access data in their local community more easily than national data. You might even know who to speak to in the local council if the data is not available.
 * Local focus helps drive community focus to local institutions that matter financially. 
 
-
 ### Japan
 
 The OpenSpending community in Japan has been working largely with a city-based focus. Yokohama initiated in 2012 a <a href="http://spending.jp/">local spending site</a> using the Daily Bread and budget visualisations. Since 11 additional cities have had their budgets visualised. At Open Data Day February 2013, the group expanded the initiative with another site for the <a href="http://chiba.spending.jp/">city of Chiba</a>, which received a visit as well as positive feedback from the mayor of Chiba.
