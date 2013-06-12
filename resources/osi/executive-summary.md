@@ -19,9 +19,10 @@ It is clear and undeniable that there is an unquenched demand for financial data
 </ul>
 
 This should be:
+
 * proactively released 
 * [machine readable](machinereadfaq.html).
-* Available at international (e.g. EU farm subsisides), national and local levels.
+* Available at international (e.g. EU farm subsisidies), national and local levels.
 
 It should also be stated that no amount of proactive release can replace the need for Freedom of Information requests, which remain of prime importance. 
 
@@ -32,11 +33,11 @@ The following should be avoided at all costs when publishing government financia
 * Absence of bulk download option
 * CAPTCHA codes preventing automated download
 * Publishing data in HTML or PDFs
-* Arbitrary release thresholds, such as are found in the UK and USA - without transparency about how they were decided
+* Arbitrary release thresholds, such as are found in the UK and USA (e.g. only transactions above 25,000 GBP released in UK) - without transparency about how they were decided
 
 ### Common vocabulary and language barriers
 
-Two of the most common words which frame this debate *open* and *standard*, are used differently in policy and technical spheres -two key proponents of the transparency movement. This often leads to conversations happening at cross-purposes and hinders communication across the community.
+Two of the most common words which frame the transparency debate, *open* and *standard*, are used differently in policy and technical spheres -two key proponents of the transparency movement. This often leads to conversations happening at cross-purposes and hinders communication across the community.
 
 <table border="1">	
 	<tr>
@@ -54,6 +55,7 @@ Two of the most common words which frame this debate *open* and *standard*, are 
 	</tr>
 </table>
 
+As a result, special care and attention should be used when using these terms, particularly in formulating requests of governments.
 
 ### When it comes to publishing standards- there are clear role-models to follow
 
@@ -71,9 +73,9 @@ A key aim during our work was to work out an [ecosystem of tools](tool-ecosystem
 
 We could therefore see a strong potential in offering focused trainings around the key needs identified:
 <ul>
-	<li>webscraping: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
-	<li>liberating and cleaning PDFs quickly: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.</li>
-	<li>build FOI request skills: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.</li>
+	<li><strong>webscraping</strong>: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
+	<li><strong>liberating and cleaning PDFs quickly</strong>: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.</li>
+	<li><strong>build FOI request skills</strong>: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.</li>
 </ul>
 
 
