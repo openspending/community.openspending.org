@@ -53,7 +53,7 @@ For example, a loan over 500 million euros in 2007 for the construction of a new
  
 This is especially problematic in the case of greenfield power plants in developing or transition countries that often have a significant potential to increase energy efficiency. EIB money that could be used for measures to decrease energy loss and consumption, has instead financed new and more efficient (or ‘less inefficient’) fossil fuel fired power plants to address growing energy demand.
 
-What further questions can we ask?
+###What further questions can we ask?
 
 While the EIB's 2011 energy figures have improved over previous years, the share of fossil fuels is variable when considered over a longer period of time. It will be interesting to see whether the positive trend from 2011 continues. 
 
