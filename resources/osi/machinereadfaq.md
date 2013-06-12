@@ -53,10 +53,11 @@ NOT USEFUL, access to line-by-line transactional spending data is essential in o
 There are currently a few countries who release such data, the UK, US, Brazil and Slovenia being some of the leaders in this field. While they are leaders, there is still work to do there. In particular we have noticed a that several countries have introduced fairly high disclosure thresholds in relation to their decision to disclose transactional data. Such practises should be challenged and remain a serious concern, as large shares of public spending can be covered below such disclosure thresholds.
 
 Between countries disclosure thresholds vary widely:
-- United States (federal level): USDollar 25,000
-- United Kingdom, Government: GBP 25,000
-- United Kingdom, Councils: GBP 500 (for spending data), GBP 50,000 (for contracts)
-- Slovenia: No minimum disclosure threshold
-- Greece: No minimum disclosure threshold
+
+* United States (federal level): USDollar 25,000
+* United Kingdom, National: GBP 25,000
+* United Kingdom, Councils: GBP 500 (for spending data), GBP 50,000 (for contracts)
+* Slovenia: No minimum disclosure threshold
+* Greece: No minimum disclosure threshold
 
 Without knowing more about why these levels have been set across countries, it is hard to fathom why they were so positioned or whether they are reasonable. 
