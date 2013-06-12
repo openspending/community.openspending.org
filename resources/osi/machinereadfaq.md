@@ -3,7 +3,7 @@ title: "Common arguments against publishing data"
 layout: osi
 ---
 
-#Common arguments against not publishing data...
+#Common arguments against publishing data...
 
 Across the community almost everyone can explain stories about how struggling with government officials for transactional spending data in machine-readable format. Often publishers simply do not know that civil society wants data in a particular format, but there are also deliberate obstructions. In this FAQ we provide a list of the most typical excuses for rejecting to release data in computer-friendly formats. 
 
@@ -39,7 +39,7 @@ Our advice would be the following:
 
 ### “We cannot release spending data as it contains personal information”
 
-FALSE, public authorities holding spending data, which includes personal information should not refrain from responsibility of publishing the data. Instead authorities should conduct the proper examination and redact personal data accordingly (workflows can be developed so that this effort is minimal. We see real risks of local and national governments holding back spending data with this excuse and have therefore co-written a guide for public authorities on how to deal with personal information in spending data (see the Annex).
+FALSE, public authorities holding spending data, which includes personal information should not refrain from responsibility of publishing the data. Instead authorities should conduct the proper examination and redact personal data accordingly (workflows can be developed so that this effort is minimal. We see real risks of local and national governments holding back spending data with this excuse and have therefore co-written a guide for public authorities on how to deal with personal information in spending data (see the <a href="privacyguide.html">Annex</a>).
 
 The current access to data from the EU farm subsidy programme is a clear example of a case where privacy (in this case for farmers) was used as argument to decide a case at the European Court of Justice, which significantly [reduced access to data on farm subsidy payments](http://farmsubsidy.org/news/features/2012-data-harvest/). 
 
@@ -59,4 +59,4 @@ Between countries disclosure thresholds vary widely:
 - Slovenia: No minimum disclosure threshold
 - Greece: No minimum disclosure threshold
 
-Without knowing more about why these levels have been set across countries, it is hard to fathom why they were so positioned or whether they are reasonable (find more on this topic in the Spending Data Handbook). 
+Without knowing more about why these levels have been set across countries, it is hard to fathom why they were so positioned or whether they are reasonable. 
