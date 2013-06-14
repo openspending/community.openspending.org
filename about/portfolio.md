@@ -193,7 +193,7 @@ The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists d
 <img alt="" src="http://farm9.staticflickr.com/8031/8002530046_fe4354f76a_m.jpg" title="TTAPF" class="pull-left" style="margin-right: 2em;" />
 
 The report, <a href="http://openspending.org/resources/gift/index.html">“Technology for Transparent and Accountable Public Finance”</a>, was commissioned by the Global Initiative for Fiscal Transparency (GIFT) in February 2012 in order to assist GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities.
-
+<br></br>
 <p>
 Read the <a href="http://openspending.org/resources/gift/chapter1-3.html">recommendations</a>. </p><br></br>
 <p> <a href="http://content.openspending.org/resources/gift/pdf/ttapf_report_20120530.pdf">Download as PDF</a></p> 
@@ -270,6 +270,8 @@ The Guardian used OpenSpending's bubbletree visualisations to answer the questio
 
 <a href="http://www.guardian.co.uk/sport/datablog/interactive/2012/jul/26/london-2012-price-olympic-games-visualised">See the interactive visualisation on the Guardian Datablog.</a>. 
 
+<br></br> 
+
 <h4> The Daily Bread </h4>
 
 <a href="http://www.guardian.co.uk/uk/datablog/interactive/2013/mar/20/budget-2013-how-taxes-spent-interactive">The Daily Bread</a> from Where Does My Money Go? Has made regular appearances on the Guardian Datablog around budget time in the UK. 
@@ -278,7 +280,7 @@ The Guardian used OpenSpending's bubbletree visualisations to answer the questio
 
 <div class="well" 'markdown="1"'>
 
-<h3> Le Monde (FR)</h3>
+<h3> Le Monde (France)</h3>
 
 We experienced an extremely high traffic spike when a visualisation based on French data was featured in Le Monde in October 2012.
 The article <a href="http://www.lemonde.fr/politique/article/2012/10/16/plf-des-avions-au-bouclier-fiscal-la-java-des-amendements_1776093_823448.html?xtmc=depenses&xtcr=52">PLF : des avions au bouclier fiscal, la java des amendements</a>, (PLF=Projet de loi de finances, the draft finance law) deals with suggested amendments to the draft finance law and which parties were demanding what amendments.
@@ -304,11 +306,12 @@ Municipalities are central for the functioning of the welfare state Denmark. The
 
 <a href="http://sumynews.com/data-journalism2/budget-economy/item/4726-byudzhet-m-sumy-na-2013-rik-openspending.html 
 " title="politiken"><img src="http://farm6.staticflickr.com/5459/9045133060_9dbb04b97c_m.jpg" class="pull-left" style="margin-right: 1em;"></a>
-
-On December 26, 2012 Sumy City Council approved the city budget for 2013, but there were big concerns about how it would be executed. 
-
-The expected revenues for the coming year did not appear to match the planned output, as Sumy would have to have generated 15.7% more than the expected revenues in 2012....
-
+<p>
+On December 26, 2012 Sumy City Council approved the city budget for 2013, but there were big concerns about how it would be executed. </p>
+<br></br>
+<p>
+The expected revenues for the coming year did not appear to match the planned output, as Sumy would have to have generated 15.7% more than the expected revenues in 2012.... </p>
+<br></br>
 <a href="http://sumynews.com/data-journalism2/budget-economy/item/4726-byudzhet-m-sumy-na-2013-rik-openspending.html">Read the article</a>. 
 
 </div>
