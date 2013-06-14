@@ -191,8 +191,8 @@ The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists d
 <h3> Technology for Transparent & Accountable Public Finance </h3>
 
 <img alt="" src="http://farm9.staticflickr.com/8031/8002530046_fe4354f76a_m.jpg" title="TTAPF" class="pull-left" style="margin-right: 2em;" />
-
-The report, <a href="http://openspending.org/resources/gift/index.html">“Technology for Transparent and Accountable Public Finance”</a>, was commissioned by the Global Initiative for Fiscal Transparency (GIFT) in February 2012 in order to assist GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities.
+<p>
+The report, <a href="http://openspending.org/resources/gift/index.html">“Technology for Transparent and Accountable Public Finance”</a>, was commissioned by the Global Initiative for Fiscal Transparency (GIFT) in February 2012 in order to assist GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities.</p>
 <br></br>
 <p>
 Read the <a href="http://openspending.org/resources/gift/chapter1-3.html">recommendations</a>. </p><br></br>
