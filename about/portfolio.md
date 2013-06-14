@@ -11,6 +11,7 @@ Here are some of the projects, past and present that we have been involved with 
 * <a href="#past-development">Past software projects and satellite sites</a>
 * <a href="#gov-tools">Tools for governments</a>
 * <a href="#publications">Publications and Reports</a>
+* <a href="#stories">Stories and Data Journalism</a>
 * <a href="#you-project">Collaborate! Your project here...</a>
 
 <a name="current-development"></a> 
@@ -110,7 +111,7 @@ The project incorporates the open-source 'bubble visualisations' first seen in W
 
 <a href="http://bund.offenerhaushalt.de/">OffenerHaushalt</a> allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new tree maps, the user can easily see and explore the different departments and programmes and see how much is spent, proportion and statistics on changes between years. 
 
-The success of Offener Haushalt and the demand to roll it out on a local level was one of the prime motivations for the creation of OpenSpending. 
+The success of OffenerHaushalt and the demand to roll it out on a local level was one of the prime motivations for the creation of OpenSpending. 
 <ul>
 <li><a href="http://bund.offenerhaushalt.de/">Visit the OffenerHaushalt Project</li>
 <li><a href="https://twitter.com/#!/offenerhaushalt">Follow OffenerHaushalt on Twitter</li>
@@ -252,22 +253,63 @@ The book covers:
 </div>
 
 
-## Stories and Data Journalism 
+<h2> Stories and Data Journalism </h2>
+
+
+<h3> The Guardian (UK) </h3> 
 
 <div class="well" 'markdown="1"'>
 
-<h3>Data Journalism</h3>
+<h4> The Real Price of the London Olympics </h4> 
 
-<img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
+<a href="http://www.flickr.com/photos/94746900@N06/8915659698/" title="olympic-guardian by anderspedersenOKF, on Flickr"><img src="http://farm3.staticflickr.com/2806/8915659698_60f3b70eed_o.png" width="827" height="567" alt="olympic-guardian"></a>
 
-We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.<ul> 
+The Guardian used OpenSpending's bubbletree visualisations to answer the questions: Where is the Olympics money coming from - and where's it being spent? How much is coming from sponsorship - and how much does the Olympic stadium cost? 
 
-<br><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></br>
-<br><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a><br>
-<br>
-We are also delighted to work closely with journalists from around the world on Spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...
-<br>  
-<br>
+<a href="http://www.guardian.co.uk/sport/datablog/interactive/2012/jul/26/london-2012-price-olympic-games-visualised">See the interactive visualisation on the Guardian Datablog.</a>. 
+
+<h4> The Daily Bread </h4>
+
+<a href="http://www.guardian.co.uk/uk/datablog/interactive/2013/mar/20/budget-2013-how-taxes-spent-interactive">The Daily Bread</a> from Where Does My Money Go? Has made regular appearances on the Guardian Datablog around budget time in the UK. 
+
+</div>
+
+<div class="well" 'markdown="1"'>
+
+<h3> Le Monde (FR)</h3>
+
+We experienced an extremely high traffic spike when a visualisation based on French data was featured in Le Monde in October 2012.
+The article <a href="http://www.lemonde.fr/politique/article/2012/10/16/plf-des-avions-au-bouclier-fiscal-la-java-des-amendements_1776093_823448.html?xtmc=depenses&xtcr=52">PLF : des avions au bouclier fiscal, la java des amendements</a>, (PLF=Projet de loi de finances, the draft finance law) deals with suggested amendments to the draft finance law and which parties were demanding what amendments.
+
+The OpenSpending visualisation used in the article is intended to give a high-level representation of some of the main areas of government expenditure in France. 
+
+</div>
+
+<div class="well" 'markdown="1"'>
+
+<h3>Politiken (Denmark)</h3> 
+
+<a href="http://farm6.staticflickr.com/5339/9044797934_366b1d8914_m.jpg" title="politiken"><img src="http://farm6.staticflickr.com/5339/9044797934_366b1d8914_m.jpg" width="827" height="567" alt="politiken"></a>
+
+Municipalities are central for the functioning of the welfare state Denmark. They take care of a range of important tasks like social- and health care, primary education, social benefits, traffic and much more. However even in a year with local elections they do not attract much public attention. The open data web-agency Buhl-Rasmussen developed a site of all 98 Danish municipalities for one of the biggest Danish news sites, Politiken.
+
+</div>
+
+
+<div class="well" 'markdown="1"'>
+
+<h3>Sumy News, Ukraine</h3> 
+
+<a href="http://sumynews.com/data-journalism2/budget-economy/item/4726-byudzhet-m-sumy-na-2013-rik-openspending.html 
+" title="politiken"><img src="http://farm6.staticflickr.com/5459/9045133060_9dbb04b97c_m.jpg" class="pull-left" style="margin-right: 1em;"></a>
+
+On December 26, 2012 Sumy City Council approved the city budget for 2013, but there were big concerns about how it would be executed. 
+
+The expected revenues for the coming year did not appear to match the planned output, as Sumy would have to have generated 15.7% more than the expected revenues in 2012....
+
+<a href="http://sumynews.com/data-journalism2/budget-economy/item/4726-byudzhet-m-sumy-na-2013-rik-openspending.html">Read the article</a>. 
+
+</div>
 
 <div class="well" 'markdown="1"'>
 
@@ -288,20 +330,6 @@ As more datasets are loaded into OpenSpending, this universal search will get in
 
 <div class="well" 'markdown="1"'>
 
-<h3>France - PLF 2012</h3>
-
-We experienced an extremely high traffic spike when a visualisation based on French data was featured in Le Monde.
-
-The article "PLF : des avions au bouclier fiscal, la java des amendements", (PLF=Projet de loi de finances, the draft finance law) deals with suggested amendments to the draft finance law and which parties were demanding what amendments.
-
-The OpenSpending visualisation used in the article is intended to give a high-level representation of some of the main areas of government expenditure in France. 
-
-<a href="http://openspending.org/blog/2012/10/20/openspending-lemonde.html">The same week, a different view on the data was published by Libération
-
-</div> 
-
-<div class="well" 'markdown="1"'>
-
 <h3>Italian Regional Accounts Data</h3>
 
 <img alt="" src="http://farm6.staticflickr.com/5224/5639223572_5451048271.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
@@ -317,6 +345,25 @@ Coverage of the Italian Regional Accounts Data:
 * <a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired<br>
 
 </div> 
+
+
+<h2>Training</h2>
+
+
+<div class="well" 'markdown="1"'>
+
+
+<img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
+
+We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.<ul> 
+
+<br><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></br>
+<br><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a><br>
+<br>
+We are also delighted to work closely with journalists from around the world on spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...
+<br>  
+<br>
+
 </div> 
 
 <h2> Community </h2>
