@@ -144,14 +144,17 @@ The Uganda aid visualisation project was a joint between the OKFN and Publish Wh
 <div class="well" 'markdown="1"'>
 
 <h3>IATI</h3>
-
-The International Aid Transparency Initiative is a common format for publishing aid information. 29 signatories representing 75% of global Official Development Finance have committed to reporting timely information about their aid activities in this standard format. Already, 13 signatories representing 45% of ODF have published.
+<p>
+The International Aid Transparency Initiative is a common format for publishing aid information. 29 signatories representing 75% of global Official Development Finance have committed to reporting timely information about their aid activities in this standard format. Already, 13 signatories representing 45% of ODF have published.</p> 
+<br></br>
 
 <img alt="" src="http://farm9.staticflickr.com/8007/7315331330_4dafe5ea48.jpg" title="IATI" class="pull-right" style="margin-left: 1em;" width="250"  />
+<p>
+IATI publishers release the data as open data feeds in a common XML format through their own websites. They then register their data with the IATI Registry - which runs on the Open Knowledge Foundation's CKAN software - making it easy for users to find this data.</p>
+<br></br>
 
-IATI publishers release the data as open data feeds in a common XML format through their own websites. They then register their data with the IATI Registry - which runs on the Open Knowledge Foundation's CKAN software - making it easy for users to find this data.
-
-However, the nature of IATI as a distributed collection of raw data feeds also presents a challenge to non-technical users. The Open Knowledge Foundation worked with Publish What You Fund to transform the data into a format suitable for import into OpenSpending, where the data can be much more easily visualised and analysed.
+<p>
+However, the nature of IATI as a distributed collection of raw data feeds also presents a challenge to non-technical users. The Open Knowledge Foundation worked with Publish What You Fund to transform the data into a format suitable for import into OpenSpending, where the data can be much more easily visualised and analysed.</p>
 
 <a href="http://openspending.org/iati?_time=2011">View the IATI data on OpenSpending</a>
 
@@ -167,9 +170,14 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 <img alt="http://farm6.staticflickr.com/5523/9045231550_505140b175_n.jpg" src="http://farm6.staticflickr.com/5523/9045231550_505140b175_n.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
 
-The OpenSpending team worked with Data.Gov.Uk to build the <a href="http://data.gov.uk/openspending">transaction explorer</a> which forms part of the Data.Gov.Uk website. 
+<br></br>
+<p>
 
-The transaction explorer allows any user to directly search the OpenSpending database for companies, departments or projects of interest and investigate how much money was spent on them. 
+The OpenSpending team worked with Data.Gov.Uk to build the <a href="http://data.gov.uk/openspending">transaction explorer</a> which forms part of the Data.Gov.Uk website. </p>
+<br></br>
+<p>
+
+The transaction explorer allows any user to directly search the OpenSpending database for companies, departments or projects of interest and investigate how much money was spent on them. </p>
 
 </div>
 
@@ -229,7 +237,7 @@ In this report we:
 </ul>
 
 <p>
-Read the <a href="http://openspending.org/resources/osi/conclusions.html">recommendations</a>. </p>
+Read the <a href="http://openspending.org/resources/osi/conclusions.html">conclusions</a>. </p>
 <p> <a href="http://openspending.org/resources/osi/videos.html">Athens to Berlin research trip: Watch the video interviews</a></p>
 
 
@@ -244,7 +252,8 @@ Read the <a href="http://openspending.org/resources/osi/conclusions.html">recomm
 
 The <a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook</a> is addressed to people and organisations who want to use and understand government budgets and spending data in their work. 
 
-The book covers: 
+<p>The book covers: </p> 
+<br> </br>
 
 <ul>
 	<li>Collaborating with other organizations to pool resources and strengthen your advocacy effort</li>
@@ -285,11 +294,11 @@ Such designs tend to be of little use to the intended consumers, as they raise t
 
 <h4> The Real Price of the London Olympics </h4> 
 
-<a href="http://www.flickr.com/photos/94746900@N06/8915659698/" title="olympic-guardian by anderspedersenOKF, on Flickr"><img src="http://farm3.staticflickr.com/2806/8915659698_60f3b70eed_o.png" width="827" height="567" alt="olympic-guardian"></a>
+<a href="http://www.flickr.com/photos/94746900@N06/8915659698/" title="olympic-guardian by anderspedersenOKF, on Flickr"><img src="http://farm3.staticflickr.com/2806/8915659698_60f3b70eed_o.png" alt="olympic-guardian"></a>
 <p>
 The Guardian used OpenSpending's bubbletree visualisations to answer the questions: Where is the Olympics money coming from - and where's it being spent? How much is coming from sponsorship - and how much does the Olympic stadium cost? 
 
-<a href="http://www.guardian.co.uk/sport/datablog/interactive/2012/jul/26/london-2012-price-olympic-games-visualised">See the interactive visualisation on the Guardian Datablog.</a>. 
+<a href="http://www.guardian.co.uk/sport/datablog/interactive/2012/jul/26/london-2012-price-olympic-games-visualised">See the interactive visualisation on the Guardian Datablog</a>.
 </p>
 <br></br> 
 
@@ -314,7 +323,7 @@ The OpenSpending visualisation used in the article is intended to give a high-le
 
 <h3>Politiken (Denmark)</h3> 
 
-<a href="http://farm6.staticflickr.com/5339/9044797934_366b1d8914_m.jpg" title="politiken"><img src="http://farm6.staticflickr.com/5339/9044797934_366b1d8914_m.jpg" width="827" height="567" alt="politiken"></a>
+<a href="http://farm6.staticflickr.com/5339/9044797934_366b1d8914_m.jpg" title="politiken"><img src="http://farm6.staticflickr.com/5339/9044797934_366b1d8914_m.jpg" class="pull-right" style="margin-left: 2em;" alt="politiken"></a>
 
 Municipalities are central for the functioning of the welfare state Denmark. They take care of a range of important tasks like social- and health care, primary education, social benefits, traffic and much more. However even in a year with local elections they do not attract much public attention. The open data web-agency Buhl-Rasmussen developed a site of all 98 Danish municipalities for one of the biggest Danish news sites, Politiken.
 
@@ -341,17 +350,19 @@ The expected revenues for the coming year did not appear to match the planned ou
 <div class="well" 'markdown="1"'>
 
 <h3>Privacy International</h3>
-
-In early 2012, Privacy International approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference and wanted to check which attendees also became customers of these companies. 
+<p>
+In early 2012, Privacy International approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference and wanted to check which attendees also became customers of these companies. </p><br></br>
 
 <img alt="" src="http://farm8.staticflickr.com/7213/7315271184_921d9ed606.jpg" title="Caelainn Barr" class="pull-right" style="margin-left: 1em;" width="250"  />
+<p>
+Some attendees posed no surprises, the FBI, the US Drug Enforcement Administration, the UK Serious Organized Crime Agency and Interpol to name a few, but there are a few that are downright baffling, like the US Department of Commerce, the US Fish & Wildlife Service and the Clark County School District Police Department.</p><br></br>
+<p>
+As more datasets are loaded into OpenSpending, this universal search will get increasingly more powerful, and we look forward to hearing what other people use the search for. </p> 
 
-Some attendees posed no surprises, the FBI, the US Drug Enforcement Administration, the UK Serious Organized Crime Agency and Interpol to name a few, but there are a few that are downright baffling, like the US Department of Commerce, the US Fish & Wildlife Service and the Clark County School District Police Department.
-
-As more datasets are loaded into OpenSpending, this universal search will get increasingly more powerful, and we look forward to hearing what other people use the search for. 
-
-<br><a href="http://opendatalabs.org/spendbrowser">Try out the search for yourself in the spendbrowser
-<br><a href="http://blog.openspending.org/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/">Read more about the story
+<ul>
+<li><a href="http://opendatalabs.org/spendbrowser">Try out the search for yourself in the spendbrowser</li>
+<li><a href="http://blog.openspending.org/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/">Read more about the story</li>
+</ul>
 
 </div> 
 
@@ -400,9 +411,11 @@ You can find more of our training materials on the <a href="http://schoolofdata.
 
 <img alt="" src="http://farm7.staticflickr.com/6166/6270108254_5875c8a7ed.jpg" title="Kaitlin Lee presents Sunlight's Analysis OGDCamp" class="pull-right" style="margin-left: 1em;" width="250" />
 
-The OpenSpending community includes engaged citizens, dedicated journalists and members of civil society organisations working on developing best practice around opening up and using government financial data with experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. The community is continously focussing on working on a standard for <a href="http://openspending.org/resources/standard/index.html">transaction-level spending data</a>. We're also aiming to showcase and display some of the most promising projects from all over the world on the OpenSpending blog. 
+The OpenSpending community includes engaged citizens, dedicated journalists and members of civil society organisations working on developing best practice around opening up and using government financial data with experts from fields ranging across the aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives. 
+<p>
+We also showcase and display some of the most interesting projects from all over the world on the OpenSpending blog. </p>
 
-The working group is open to all with an interest in improving Government Financial Transparency around the world. If you're interested in joining, please join the <a href="http://lists.okfn.org/mailman/listinfo/openspending">OpenSpending Mailing List</a> and drop us a line on info [at] openspending.org
+The working group is open to all with an interest in improving Government Financial Transparency around the world. If you're interested in joining, please join the <a href="http://lists.okfn.org/mailman/listinfo/openspending">OpenSpending Mailing List</a>. 
 
 </div> 
 
