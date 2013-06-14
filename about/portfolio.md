@@ -186,7 +186,7 @@ The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists d
 
 <h2> Publications and Reports </h2>
 
-<div class="well" 'markdown="1"' style="padding-bottom: 100px">
+<div class="well" 'markdown="1"' style="padding-bottom: 50px">
 
 <h3> Technology for Transparent & Accountable Public Finance </h3>
 
