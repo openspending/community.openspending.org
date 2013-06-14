@@ -391,7 +391,7 @@ During the International Journalism Festival in Perugia in 2011 - the OpenSpendi
 <div class="well" 'markdown="1"'>
 
 
-<img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 3em;" width="250"  />
+<img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-right" style="margin-left: 3em;" width="250"  />
 <p>
 We regularly conduct training sessions for journalists and NGOs on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.</p>
 <br></br>
