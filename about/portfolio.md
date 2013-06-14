@@ -201,7 +201,7 @@ Read the <a href="http://openspending.org/resources/gift/chapter1-3.html">recomm
 
 <h3> Mapping the Open Spending Data Community </h3>
 
-<img alt="" src="http://farm8.staticflickr.com/7414/8881834696_4176e6d2ea_m.jpg" title="Spend Report" class="pull-left" style="margin-right: 2em;" />
+<img alt="" src="http://farm8.staticflickr.com/7414/8881834696_4176e6d2ea_m.jpg" title="Spend Report" class="pull-right" style="margin-left: 2em;" />
 
 In early 2012, we set out on a mission. Our aim was to establish how CSO's currently work with spending data, how they would like to use it, and what they would like to achieve - including:
 
