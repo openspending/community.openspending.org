@@ -1,5 +1,5 @@
 ---
-title: What we get up to
+title: Our Work
 layout: meta
 ---
 
@@ -10,8 +10,9 @@ Here are some of the projects, past and present that we have been involved with 
 * <a href="#current-development">Current software projects and satellite sites</a>.
 * <a href="#past-development">Past software projects and satellite sites</a>
 * <a href="#gov-tools">Tools for governments</a>
-* <a href="#publications">Publications and Reports</a>
-* <a href="#stories">Stories and Data Journalism</a>
+* <a href="#publications">Publications and reports</a>
+* <a href="#standards">Technical Standards</a>
+* <a href="#stories">Stories and data journalism</a>
 * <a href="#you-project">Collaborate! Your project here...</a>
 
 <a name="current-development"></a> 
@@ -72,15 +73,18 @@ Transparency Slovakia hopes to promote the site as an example of how budgets cou
 <h3>Where Does My Money Go?</h3> 
 
 <img alt="" src="http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg" title="WDMMG original" class="pull-left" style="margin-right: 3em;" width="250" />
+<p>
+<a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app. </p>
+<br></br>
+<p>
+You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit:</p>
+<br></br>
 
-<a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app.<ul> 
-<ul>
-You can now build a site such as WDMMG for your own country using the OpenSpending API and the WDMMG Toolkit:
-<ul>
 <ul>
 <li><a href="http://wheredoesmymoneygo.org/">Visit the Where Does My Money Go?</a> project</li>
 <li><a href="https://twitter.com/#!/wdmmg">Follow Where Does My Money Go? on Twitter</a></li>
 <li><a href="http://blog.openspending.org/2012/02/16/thekit/">Read more about how to create your own Where Does My Money Go?</a> site</li>
+</ul>
 
 </div> 
 
@@ -90,9 +94,9 @@ You can now build a site such as WDMMG for your own country using the OpenSpendi
 
 <img alt="" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" title="Cameroon Budget Inquirer" class="pull-left" style="margin-right: 2em;" />
 
-We're collaborating with the World Bank to produce a citizen-friendly representation of <a href="http://cameroon.openspending.org/">Cameroon's budget</a>.
+We collaborated with the World Bank to produce a citizen-friendly representation of <a href="http://cameroon.openspending.org/">Cameroon's budget</a>.
 
-The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project will include:
+The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project include's:
 
 <ul>
 <li>Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget. </li>
@@ -111,7 +115,7 @@ The project incorporates the open-source 'bubble visualisations' first seen in W
 
 <a href="http://bund.offenerhaushalt.de/">OffenerHaushalt</a> allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new tree maps, the user can easily see and explore the different departments and programmes and see how much is spent, proportion and statistics on changes between years. 
 
-The success of OffenerHaushalt and the demand to roll it out on a local level was one of the prime motivations for the creation of OpenSpending. 
+The success of OffenerHaushalt and the demand to roll it out on a local level was one of the prime motivations for the creation of OpenSpending. To date, the OffenerHaushalt team have received around 90 requests for a similar site in their area. 
 <ul>
 <li><a href="http://bund.offenerhaushalt.de/">Visit the OffenerHaushalt Project</li>
 <li><a href="https://twitter.com/#!/offenerhaushalt">Follow OffenerHaushalt on Twitter</li>
@@ -214,7 +218,7 @@ In early 2012, we set out on a mission. Our aim was to establish how CSO's curre
 	<li>what would be required to meet these needs and how feasible is it to tackle them</li>
 </ul>
 
-This report is the output of that research. Here, we bring together key case studies from organisations who have done pioneering work in using technology to put government data to best use.
+This <a href="http://openspending.org/resources/osi/index.html">report</a> is the output of that research. Here, we bring together key case studies from organisations who have done pioneering work in using technology to put government data to best use.
 
 In this report we:
 
@@ -230,6 +234,7 @@ Read the <a href="http://openspending.org/resources/osi/conclusions.html">recomm
 
 
 </div>
+
 
 <div class="well" 'markdown="1"'>
 
@@ -249,6 +254,22 @@ The book covers:
 	<li>Presenting your findings to engage the public, media and government</li>
 	<li>Lists and appendices of technical and non-technical resources</li>
 </ul>
+
+</div>
+
+<a name="standards"></a> 
+
+<h2> Standards </h2> 
+
+<div class="well" 'markdown="1"'>
+
+<h3> [Draft] Standard for Transaction-level Spending Data  </h3>
+
+The release of transaction-level data (i.e. information about individual disbursements or contract spending) is a relatively new idea, compared to the release of higher-level accounting information or budget overviews. The availability of such data allows for fine-grained analysis and oversight of activities and will, in the future, enable anyone inside or outside of government to reconstruct key reports from raw data. In order to perform these types of analysis, it is often necessary to combine spending information from several sources - either for completeness or comparison.
+
+Too often, standardization in this context appears to be supply-driven: every publisher wants to express the full range of data they hold and are willing to release. Necessarily, such an approach leads to a standard that is the superset of all the systems that feed into it.
+
+Such designs tend to be of little use to the intended consumers, as they raise the barriers to understanding the information considerably. Our approach therefore is to generate demand-side use cases first, ensuring that everything that is done will generate value for data users.
 
 </div>
 
@@ -300,7 +321,7 @@ Municipalities are central for the functioning of the welfare state Denmark. The
 </div>
 
 
-<div class="well" 'markdown="1"' style="padding-bottom: 50px">
+<div class="well" markdown="1" style="padding-bottom: 50px">
 
 <h3>Sumy News, Ukraine</h3> 
 
@@ -343,11 +364,12 @@ As more datasets are loaded into OpenSpending, this universal search will get in
 During the International Journalism Festival in Perugia in 2011 - the OpenSpending team loaded and visualised the Italian regional accounts for 2008. The project received wide coverage in the Italian and International Press and was one of the earliest success stories for OpenSpending after Where Does My Money Go? went international. 
 
 * <a href="http://openspending.org/it-regional-accounts">Visit the Italian Regional Accounts</a> on OpenSpending.org
-Coverage of the Italian Regional Accounts Data:
-
-* <a href="http://www3.lastampa.it/economia/sezioni/articolo/lstp/398705/">La Stampa</a>
-* <a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian</a>
-* <a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired</a>
+<p>Coverage of the Italian Regional Accounts Data:</p><br></br>
+<ul>
+<li><a href="http://www3.lastampa.it/economia/sezioni/articolo/lstp/398705/">La Stampa</a></li>
+<li><a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian</a></li>
+<li><a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired</a></li>
+</ul>
 
 </div> 
 
