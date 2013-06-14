@@ -5,11 +5,16 @@ layout: meta
 
 Here are some of the projects, past and present that we have been involved with so far...
 
+## Jump to
 
-* <a href="#current-development">Current Development</a>.
-* <a href="#past-development">Past Development</a>
+* <a href="#current-development">Current software projects and satellite sites</a>.
+* <a href="#past-development">Past software projects and satellite sites</a>
+* <a href="#gov-tools">Tools for governments</a>
+* <a href="#publications">Publications and Reports</a>
+* <a href="#you-project">Collaborate! Your project here...</a>
 
 <a name="current-development"></a> 
+
 ## What are we up to at present? 
 
 <div class="well" 'markdown="1"'>
@@ -98,30 +103,6 @@ The project incorporates the open-source 'bubble visualisations' first seen in W
 
 </div>
 
-<div class="well" 'markdown="1"'>
-
-<h3> Data.Gov.Uk Spend Browser </h3>
-
-<img alt="" src="http://farm9.staticflickr.com/8443/7980196066_d4aa29eb0d_z.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
-
-The OpenSpending team worked with Data.Gov.Uk to build the <a href="http://data.gov.uk/openspending">transaction explorer</a> which forms part of the Data.Gov.Uk website. 
-
-The transaction explorer allows any user to directly search the OpenSpending database for companies, departments or projects of interest and investigate how much money was spent on them. 
-
-</div>
-
-
-<div class="well" 'markdown="1"'>
-
-<h3> UK Government Spend Reporting Dashboard </h3>
-
-<img alt="" src="http://farm9.staticflickr.com/8443/7980196066_d4aa29eb0d_z.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
-
-The OpenSpending team worked with Data.Gov.Uk to produce an automatic reporting tool to demonstrate which government departments were complying with their transparency obligations.
-
-The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists departments registered as data publishers on data.gov.uk and details how precisely they have followed the <a href="https://www.gov.uk/government/publications/guidance-for-publishing-spend-over-25000">HM Treasury reporting guidelines</a>. It will also make the whole of the reported data available for search and analysis both on <a href="http://data.gov.uk/openspending">data.gov.uk</a> and on the OpenSpending site.
-
-</div>
 
 <h3> OffenerHaushalt</h3> 
 
@@ -170,6 +151,106 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 <a href="http://openspending.org/iati?_time=2011">View the IATI data on OpenSpending</a>
 
 </div> 
+
+<a name="gov-tools"></a> 
+
+## Tools for governments 
+
+<div class="well" 'markdown="1"'>
+
+<h3> Data.Gov.Uk Spend Browser </h3>
+
+<img alt="" src="http://farm9.staticflickr.com/8443/7980196066_d4aa29eb0d_z.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
+
+The OpenSpending team worked with Data.Gov.Uk to build the <a href="http://data.gov.uk/openspending">transaction explorer</a> which forms part of the Data.Gov.Uk website. 
+
+The transaction explorer allows any user to directly search the OpenSpending database for companies, departments or projects of interest and investigate how much money was spent on them. 
+
+</div>
+
+
+<div class="well" 'markdown="1"'>
+
+<h3> UK Government Spend Reporting Dashboard </h3>
+
+<img alt="" src="http://farm9.staticflickr.com/8443/7980196066_d4aa29eb0d_z.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
+
+The OpenSpending team worked with Data.Gov.Uk to produce an automatic reporting tool to demonstrate which government departments were complying with their transparency obligations.
+
+The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists departments registered as data publishers on data.gov.uk and details how precisely they have followed the <a href="https://www.gov.uk/government/publications/guidance-for-publishing-spend-over-25000">HM Treasury reporting guidelines</a>. It will also make the whole of the reported data available for search and analysis both on <a href="http://data.gov.uk/openspending">data.gov.uk</a> and on the OpenSpending site.
+
+</div>
+
+<a name="publications"></a> 
+
+## Publications and Reports 
+
+<div class="well" 'markdown="1"'>
+
+<h3> Technology for Transparent & Accountable Public Finance </h3>
+
+<img alt="" src="http://farm9.staticflickr.com/8031/8002530046_fe4354f76a_m.jpg" title="TTAPF" class="pull-left" style="margin-right: 2em;" />
+
+The report, <a href="http://openspending.org/resources/gift/index.html">“Technology for Transparent and Accountable Public Finance”</a>, was commissioned by the Global Initiative for Fiscal Transparency (GIFT) in February 2012 in order to assist GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities.
+
+<p>
+Read the <a href="http://openspending.org/resources/gift/chapter1-3.html">recommendations</a>. </p>
+<p> <a href="http://content.openspending.org/resources/gift/pdf/ttapf_report_20120530.pdf">Download as PDF</a></p> 
+
+</div>
+
+<div class="well" 'markdown="1"'>
+
+<h3> Mapping the Open Spending Data Community </h3>
+
+<img alt="" src="http://farm8.staticflickr.com/7414/8881834696_4176e6d2ea_m.jpg" title="Spend Report" class="pull-left" style="margin-right: 2em;" />
+
+In early 2012, we set out on a mission. Our aim was to establish how CSO's currently work with spending data, how they would like to use it, and what they would like to achieve - including:
+
+<ul>
+	<li>what existing tools are being used</li>
+	<li>what current technical needs are unmet</li>
+	<li>what would be required to meet these needs and how feasible is it to tackle them</li>
+</ul>
+
+This report is the output of that research. Here, we bring together key case studies from organisations who have done pioneering work in using technology to put government data to best use.
+
+In this report we:
+
+<ul>
+	<li>outline how the data could be improved in order to make it more usable</li>
+	<li>examine some key case studies of how organisations are using technology to do groundbreaking research, citizen engagement, visualisation and tracking of accountability.</li>
+	<li>talk about the training needs for CSO's to help them better use the data available, and to demand better data.</li>
+</ul>
+
+<p>
+Read the <a href="http://openspending.org/resources/osi/conclusions.html">recommendations</a>. </p>
+<p> <a href="http://openspending.org/resources/osi/videos.html">Athens to Berlin research trip: Watch the video interviews</a></p>
+
+
+</div>
+
+<div class="well" 'markdown="1"'>
+
+<h3> The Spending Data Handbook  </h3>
+
+<img alt="" src="http://farm8.staticflickr.com/7449/8754377372_77aed9107e_m.jpg" title="Spending Handbook" class="pull-left" style="margin-right: 2em;" />
+
+The <a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook</a> is addressed to people and organisations who want to use and understand government budgets and spending data in their work. 
+
+The book covers: 
+
+<ul>
+	<li>Collaborating with other organizations to pool resources and strengthen your advocacy effort</li>
+	<li>If you're just starting out, what data to look for and what to ask for (nay, demand!) from your government</li>
+	<li>The 'Data Pipeline': Tricks and tips for finding, wrangling and systematically processing your data </li>
+	<li>Getting ambitious, running a technology project</li>
+	<li>Presenting your findings to engage the public, media and government</li>
+	<li>Lists and appendices of technical and non-technical resources</li>
+</ul>
+
+</div>
+
 
 ## Stories and Data Journalism 
 
@@ -250,8 +331,10 @@ The working group is open to all with an interest in improving Government Financ
 
 </div> 
 
+<a name="your-project"></a> 
+
 <div class="well" 'markdown="1"'>
 
 <h3>Your project here</h3> 
 
-Have some data? Have a Spending Story? Get in touch - we'd love to hear from you and are open to suggestions!
+Have some data? Have a Spending Story? Get in touch - we'd love to hear from you and are open to suggestions!</div>
