@@ -300,7 +300,7 @@ Municipalities are central for the functioning of the welfare state Denmark. The
 </div>
 
 
-<div class="well" 'markdown="1"'>
+<div class="well" 'markdown="1"' style="padding-bottom: 50px">
 
 <h3>Sumy News, Ukraine</h3> 
 
@@ -312,6 +312,7 @@ On December 26, 2012 Sumy City Council approved the city budget for 2013, but th
 <p>
 The expected revenues for the coming year did not appear to match the planned output, as Sumy would have to have generated 15.7% more than the expected revenues in 2012.... </p>
 <br></br>
+
 <a href="http://sumynews.com/data-journalism2/budget-economy/item/4726-byudzhet-m-sumy-na-2013-rik-openspending.html">Read the article</a>. 
 
 </div>
@@ -333,7 +334,7 @@ As more datasets are loaded into OpenSpending, this universal search will get in
 
 </div> 
 
-<div class="well" 'markdown="1"'>
+<div class="well" markdown="1">
 
 <h3>Italian Regional Accounts Data</h3>
 
@@ -341,13 +342,12 @@ As more datasets are loaded into OpenSpending, this universal search will get in
 
 During the International Journalism Festival in Perugia in 2011 - the OpenSpending team loaded and visualised the Italian regional accounts for 2008. The project received wide coverage in the Italian and International Press and was one of the earliest success stories for OpenSpending after Where Does My Money Go? went international. 
 
-* <a href="http://openspending.org/it-regional-accounts">Visit the Italian Regional Accounts</a> on OpenSpending.org<br>
-<br>
+* <a href="http://openspending.org/it-regional-accounts">Visit the Italian Regional Accounts</a> on OpenSpending.org
 Coverage of the Italian Regional Accounts Data:
-<br>
-* <a href="http://www3.lastampa.it/economia/sezioni/articolo/lstp/398705/">La Stampa<br>
-* <a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian<br>
-* <a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired<br>
+
+* <a href="http://www3.lastampa.it/economia/sezioni/articolo/lstp/398705/">La Stampa</a>
+* <a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian</a>
+* <a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired</a>
 
 </div> 
 
