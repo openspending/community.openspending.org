@@ -15,7 +15,7 @@ Here are some of the projects, past and present that we have been involved with 
 
 <a name="current-development"></a> 
 
-## What are we up to at present? 
+## Current projects 
 
 <div class="well" 'markdown="1"'>
 
@@ -101,6 +101,8 @@ The project incorporates the open-source 'bubble visualisations' first seen in W
 
 </div>
 
+<div class="well" 'markdown="1"'>
+
 
 <h3> OffenerHaushalt</h3> 
 
@@ -152,7 +154,7 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 <a name="gov-tools"></a> 
 
-## Tools for governments 
+<h2> Tools for governments </h2>
 
 <div class="well" 'markdown="1"'>
 
@@ -181,7 +183,7 @@ The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists d
 
 <a name="publications"></a> 
 
-## Publications and Reports 
+<h2> Publications and Reports </h2>
 
 <div class="well" 'markdown="1"'>
 
@@ -317,7 +319,7 @@ Coverage of the Italian Regional Accounts Data:
 </div> 
 </div> 
 
-## Community 
+<h2> Community </h2>
 
 <div class="well" 'markdown="1"'>
 
