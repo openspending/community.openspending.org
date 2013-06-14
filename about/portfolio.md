@@ -9,37 +9,6 @@ Here are some of the projects, past and present that we have been involved with 
 
 <div class="well" 'markdown="1"'>
 
-<h3> OpenSpending Slovakia </h3> 
-
-In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspending</a> prepared in collaboration with transparency and anti-corruption watchdog, <a href="www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:<ul>
-<li>Year on year comparison for spending categories.</li>
-<li>Improved listing and more contextual presentation of the data.</li>
-<li>Embedable graphic drilldowns with accompanying tables.</li> 
-</ul>
-Transparency Slovakia hopes to promote the site as an example of how budgets could be made more accessible and comprehensible to the public once the site is localized and tested further. While not in its current plans, additional spending data and a feature to allow users to compare cities would improve opportunities for doing crowdsourced benchmarking.
-
-</div>
-
-<div class="well" 'markdown="1"'>
-
-<h3> Cameroon Budget Inquirer </h3>
-
-<img alt="" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" title="Cameroon Budget Inquirer" class="pull-left" style="margin-right: 2em;" />
-
-We're collaborating with the World Bank to produce a citizen-friendly representation of <a href="http://cameroon.openspending.org/">Cameroon's budget</a>. 
-
-The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project will include: 
-
-<ul>
-<li>Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget. </li>
-<li>A sub-national budget transparency index - similar to the work of the International Budget Partnership, but at sub-national levels. This highlights the availability of key budget documents and ranks regions on their availability. </li>
-<li> Explore the data: Filter the data by categories such as amount, location, and activity. </li> 
-</ul> 
-
-</div>
-
-<div class="well" 'markdown="1"'>
-
 <h3> Bosnian Budget Bubbles </h3>
 
 <img alt="" src="http://farm9.staticflickr.com/8063/8219557569_cc12ebbdea_m.jpg" title="Balkan Budgets" class="pull-right" style="margin-left: 1em;" />
@@ -70,6 +39,19 @@ We're into our second year of the project now. <a href="http://www.pbs.org/ideal
  
 </div> 
 
+<div class="well" 'markdown="1"'>
+
+<h3> OpenSpending Slovakia </h3>
+
+In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspending</a> prepared in collaboration with transparency and anti-corruption watchdog, <a href="www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:<ul>
+<li>Year on year comparison for spending categories.</li>
+<li>Improved listing and more contextual presentation of the data.</li>
+<li>Embedable graphic drilldowns with accompanying tables.</li>
+</ul>
+Transparency Slovakia hopes to promote the site as an example of how budgets could be made more accessible and comprehensible to the public once the site is localized and tested further. While not in its current plans, additional spending data and a feature to allow users to compare cities would improve opportunities for doing crowdsourced benchmarking.
+
+</div>
+
 ## Already unleashed into the wild 
 
 <div class="well" 'markdown="1"'>
@@ -90,6 +72,37 @@ You can now build a site such as WDMMG for your own country using the OpenSpendi
 </div> 
 
 <div class="well" 'markdown="1"'>
+
+<div class="well" 'markdown="1"'>
+
+<h3> Cameroon Budget Inquirer </h3>
+
+<img alt="" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" title="Cameroon Budget Inquirer" class="pull-left" style="margin-right: 2em;" />
+
+We're collaborating with the World Bank to produce a citizen-friendly representation of <a href="http://cameroon.openspending.org/">Cameroon's budget</a>.
+
+The project incorporates the open-source 'bubble visualisations' first seen in Where Does My Money Go, as well as many new elements, such as a map based navigation and heatmaps. The project will include:
+
+<ul>
+<li>Visualisation of the National Investment Budget, the North-West region's budget of Cameroon (including absolute and per-capita estimates, budgeted as well as actual figures) as well as a similar visualisation of the Tignere local council budget. </li>
+<li>A sub-national budget transparency index - similar to the work of the International Budget Partnership, but at sub-national levels. This highlights the availability of key budget documents and ranks regions on their availability. </li>
+<li> Explore the data: Filter the data by categories such as amount, location, and activity. </li>
+</ul>
+
+</div>
+
+<div class="well" 'markdown="1"'>
+
+<h3> UK Government Spend Reporting Tool </h3>
+
+<img alt="" src="http://farm9.staticflickr.com/8443/7980196066_d4aa29eb0d_z.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
+
+The OpenSpending team worked with Data.Gov.Uk to produce an automatic reporting tool to demonstrate which government departments were complying with their transparency obligations.
+
+The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists departments registered as data publishers on data.gov.uk and details how precisely they have followed the <a href="https://www.gov.uk/government/publications/guidance-for-publishing-spend-over-25000">HM Treasury reporting guidelines</a>. It will also make the whole of the reported data available for search and analysis both on data.gov.uk and on the OpenSpending site.
+
+</div>
+
 
 <h3> OffenerHaushalt</h3> 
 
