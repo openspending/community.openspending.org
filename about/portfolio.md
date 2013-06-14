@@ -85,8 +85,6 @@ You can now build a site such as WDMMG for your own country using the OpenSpendi
 
 <div class="well" 'markdown="1"'>
 
-<div class="well" 'markdown="1"'>
-
 <h3> Cameroon Budget Inquirer </h3>
 
 <img alt="" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" title="Cameroon Budget Inquirer" class="pull-left" style="margin-right: 2em;" />
