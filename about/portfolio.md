@@ -71,7 +71,7 @@ Transparency Slovakia hopes to promote the site as an example of how budgets cou
 
 <h3>Where Does My Money Go?</h3> 
 
-<img alt="" src="http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg" title="WDMMG original" class="pull-left" style="margin-right: 1em;" width="250" />
+<img alt="" src="http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg" title="WDMMG original" class="pull-left" style="margin-right: 3em;" width="250" />
 
 <a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app.<ul> 
 <ul>
@@ -265,11 +265,11 @@ The book covers:
 <h4> The Real Price of the London Olympics </h4> 
 
 <a href="http://www.flickr.com/photos/94746900@N06/8915659698/" title="olympic-guardian by anderspedersenOKF, on Flickr"><img src="http://farm3.staticflickr.com/2806/8915659698_60f3b70eed_o.png" width="827" height="567" alt="olympic-guardian"></a>
-
+<p>
 The Guardian used OpenSpending's bubbletree visualisations to answer the questions: Where is the Olympics money coming from - and where's it being spent? How much is coming from sponsorship - and how much does the Olympic stadium cost? 
 
 <a href="http://www.guardian.co.uk/sport/datablog/interactive/2012/jul/26/london-2012-price-olympic-games-visualised">See the interactive visualisation on the Guardian Datablog.</a>. 
-
+</p>
 <br></br> 
 
 <h4> The Daily Bread </h4>
@@ -358,9 +358,10 @@ Coverage of the Italian Regional Accounts Data:
 <div class="well" 'markdown="1"'>
 
 
-<img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
-
-We regularly conduct training sessions for journalists and NGOs on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.
+<img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 3em;" width="250"  />
+<p>
+We regularly conduct training sessions for journalists and NGOs on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.</p>
+<br></br>
 <ul> 
 
 <li><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></li>
