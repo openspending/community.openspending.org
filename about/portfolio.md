@@ -5,6 +5,11 @@ layout: meta
 
 Here are some of the projects, past and present that we have been involved with so far...
 
+
+* <a href="#current-development">Current Development</a>.
+* <a href="#past-development">Past Development</a>
+
+<a name="current-development"></a> 
 ## What are we up to at present? 
 
 <div class="well" 'markdown="1"'>
@@ -52,7 +57,9 @@ Transparency Slovakia hopes to promote the site as an example of how budgets cou
 
 </div>
 
-## Already unleashed into the wild 
+<a name="past-development"></a> 
+
+## Already unleashed
 
 <div class="well" 'markdown="1"'>
 
@@ -93,16 +100,28 @@ The project incorporates the open-source 'bubble visualisations' first seen in W
 
 <div class="well" 'markdown="1"'>
 
-<h3> UK Government Spend Reporting Tool </h3>
+<h3> Data.Gov.Uk Spend Browser </h3>
+
+<img alt="" src="http://farm9.staticflickr.com/8443/7980196066_d4aa29eb0d_z.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
+
+The OpenSpending team worked with Data.Gov.Uk to build the <a href="http://data.gov.uk/openspending">transaction explorer</a> which forms part of the Data.Gov.Uk website. 
+
+The transaction explorer allows any user to directly search the OpenSpending database for companies, departments or projects of interest and investigate how much money was spent on them. 
+
+</div>
+
+
+<div class="well" 'markdown="1"'>
+
+<h3> UK Government Spend Reporting Dashboard </h3>
 
 <img alt="" src="http://farm9.staticflickr.com/8443/7980196066_d4aa29eb0d_z.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
 
 The OpenSpending team worked with Data.Gov.Uk to produce an automatic reporting tool to demonstrate which government departments were complying with their transparency obligations.
 
-The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists departments registered as data publishers on data.gov.uk and details how precisely they have followed the <a href="https://www.gov.uk/government/publications/guidance-for-publishing-spend-over-25000">HM Treasury reporting guidelines</a>. It will also make the whole of the reported data available for search and analysis both on data.gov.uk and on the OpenSpending site.
+The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists departments registered as data publishers on data.gov.uk and details how precisely they have followed the <a href="https://www.gov.uk/government/publications/guidance-for-publishing-spend-over-25000">HM Treasury reporting guidelines</a>. It will also make the whole of the reported data available for search and analysis both on <a href="http://data.gov.uk/openspending">data.gov.uk</a> and on the OpenSpending site.
 
 </div>
-
 
 <h3> OffenerHaushalt</h3> 
 
