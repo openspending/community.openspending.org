@@ -252,6 +252,8 @@ The book covers:
 
 </div>
 
+<a name="stories"></a> 
+
 
 <h2> Stories and Data Journalism </h2>
 
