@@ -161,7 +161,7 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 <h3> Data.Gov.Uk Spend Browser </h3>
 
-<img alt="" src="http://farm9.staticflickr.com/8443/7980196066_d4aa29eb0d_z.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
+<img alt="http://farm6.staticflickr.com/5523/9045231550_505140b175_n.jpg" src="http://farm6.staticflickr.com/5523/9045231550_505140b175_n.jpg" title="Reporting Tool" class="pull-left" style="margin-right: 2em;" />
 
 The OpenSpending team worked with Data.Gov.Uk to build the <a href="http://data.gov.uk/openspending">transaction explorer</a> which forms part of the Data.Gov.Uk website. 
 
@@ -186,7 +186,7 @@ The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists d
 
 <h2> Publications and Reports </h2>
 
-<div class="well" 'markdown="1"'>
+<div class="well" 'markdown="1"' padding="30px">
 
 <h3> Technology for Transparent & Accountable Public Finance </h3>
 
@@ -195,7 +195,7 @@ The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists d
 The report, <a href="http://openspending.org/resources/gift/index.html">“Technology for Transparent and Accountable Public Finance”</a>, was commissioned by the Global Initiative for Fiscal Transparency (GIFT) in February 2012 in order to assist GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities.
 
 <p>
-Read the <a href="http://openspending.org/resources/gift/chapter1-3.html">recommendations</a>. </p>
+Read the <a href="http://openspending.org/resources/gift/chapter1-3.html">recommendations</a>. </p><br></br>
 <p> <a href="http://content.openspending.org/resources/gift/pdf/ttapf_report_20120530.pdf">Download as PDF</a></p> 
 
 </div>
@@ -357,15 +357,15 @@ Coverage of the Italian Regional Accounts Data:
 
 <img alt="" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" title="Caelainn Barr" class="pull-left" style="margin-right: 1em;" width="250"  />
 
-We regularly conduct training sessions for journalists on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.<ul> 
+We regularly conduct training sessions for journalists and NGOs on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please get in touch via info [at] openspending.org.
+<ul> 
 
-<br><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></br>
-<br><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a><br>
-<br>
-We are also delighted to work closely with journalists from around the world on spending related stories. We hope to do a lot more of this in future. Here's a couple of our favourites so far...
-<br>  
-<br>
+<li><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></li>
+<li><a href="http://blog.okfn.org/2011/09/27/eurohack-one-day-data-journalism-competition-and-workshop-on-eu-spending/">EuroHack: One-day data journalism competition and workshop on EU spending</a></li>
+<li><a href="http://openspending.org/blog/2012/11/26/Sarajevo-Workshop-Writeup.html">Budget and Spending Visualisation Workshop, Sarajevo</a></li>
+</ul> 
 
+You can find more of our training materials on the <a href="http://schoolofdata.org/handbook/courses/">School of Data website</a>. 
 </div> 
 
 <h2> Community </h2>
