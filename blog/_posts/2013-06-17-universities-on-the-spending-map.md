@@ -40,13 +40,12 @@ system. Thus in reality most of the technical challenges around developing budge
 
 ###Reactions following the publication of the app
 Honestly, budget transparency at universities is not a hot-topic today. Fortunately, a growing community in Spain where David Rey Jordan, a colleague at OpenKratio citizen group, member 
-of Open University group at OKFN Spain, and a public employee at Universidad Pablo de 
-Olavide (Seville, Spain) encouraged me to replicate the same exercise for Olavide. Universidad Pablo de Olavide University opened its own Open Data Portal on 2012 releasing data about budgets and qualifications. Some visualizations using OpenSpending were done the Open Data Day. 
+of Open University group at OKFN Spain, and a public employee at Universidad Pablo de Olavide (Seville, Spain) encouraged me to replicate the same exercise for Olavide. Universidad Pablo de Olavide University opened its own Open Data Portal on 2012 releasing data about budgets and qualifications. Some visualizations using OpenSpending were done at the Open Data Day. 
 
 Find Openkratio on [github](http://openkratio.github.io/ugr-presupuestos/)
 
 Nota: There are some weak points on the data. While income budget is broken down in
 four levels, only three levels for the spending budget are available. The official University
-spending budget document (with 5 levels) has been published on an scanned images PDF
-making virtually imposible to be scrapped.
+spending budget document (with 5 levels) has been published as scanned PDF images
+making them virtually imposible to be scrapped.
 
