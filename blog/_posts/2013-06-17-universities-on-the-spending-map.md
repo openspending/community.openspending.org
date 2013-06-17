@@ -7,7 +7,7 @@ type: post
 status: published
 ---
 
-<iframe width='700' height='400' src='http://openspending.org/upo-income-budget/embed?widget=treemap&state=%7B%22drilldown%22%3A%22articulo%22%2C%22year%22%3A%222012%22%2C%22cuts%22%3A%7B%7D%2C%22drilldowns%22%3A%5B%22articulo%22%5D%7D&width=700&height=400' frameborder='0'></iframe>
+<iframe width='600' height='400' src='http://openspending.org/upo-income-budget/embed?widget=treemap&state=%7B%22drilldown%22%3A%22articulo%22%2C%22year%22%3A%222012%22%2C%22cuts%22%3A%7B%7D%2C%22drilldowns%22%3A%5B%22articulo%22%5D%7D&width=700&height=400' frameborder='0'></iframe>
 
 This is a guest post by [José Félix Ontañón](https://twitter.com/fontanon) of [Openkratio](http://openkratio.org/).
 
