@@ -14,7 +14,6 @@ We'll be running the next Community Call via Google Hangout Wednesday 3 July.
 **Where:** On Google Hangout. Sign up in the form below. 
 <br>
 **Agenda:**
-<br>
 <il>- Taxation and open data: Follow up on discussion from mailing list and the [G8 meeting](http://blog.okfn.org/2013/06/25/what-data-needs-to-be-opened-up-to-tackle-tax-havens/)<br>
 <il>- News from around the community: Who's got something to share - who needs help moving forward?<br>
 <il>- Status on the [Global Spending Weekend July 20-21](https://docs.google.com/a/okfn.org/document/d/1Zh-TPxgMiFDrzk-rNJqL9CmCbbtlZmp2xjWlZ6T20TA/edit#)<br>
