@@ -2,7 +2,7 @@
 layout: post
 author: anders
 title: Get ready for the Global Spending Party to map city money!
-published: true
+published: false
 type: post
 status: draft
 ---
