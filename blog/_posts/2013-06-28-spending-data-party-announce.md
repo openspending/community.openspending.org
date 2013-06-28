@@ -2,9 +2,9 @@
 layout: post
 author: anders
 title: Get ready for a City Spending Party. Join to map the money near you!
-published: true
+published: false
 type: post
-status: published
+status: draft
 ---
 
 <a href="http://www.flickr.com/photos/94746900@N06/9155317160/" title="lagos_lite by anderspedersenOKF, on Flickr"><img src="http://farm6.staticflickr.com/5516/9155317160_2fde6deae9_z.jpg" width="540" height="404" alt="commons.wikimedia.org"></a>
