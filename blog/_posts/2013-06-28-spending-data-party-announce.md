@@ -39,7 +39,7 @@ Some cities such as [London](http://openspending.org/gb-local-gla) and [Washingt
 Yes! We'll will run online activities where you can work with community members in other cities. So don't hold your self back. Share your ideas on the mailing list as well. 
 
 <il>-I don't know where to get budget or spending data from my city?<il><br>
-Fear not! We'll make sure to share guides on how to access budget and spending data from your city and will also organise a **Data Clinic on July 10th**, where we'll help you search for the data or ask your city for it.
+Fear not! We'll make sure to share guides on how to access budget and spending data from your city and will also organise a **Data Clinic on July 10th**, where we'll help you search for data or ask your city for it, if it's not available.
 <br>
 Would you like to join us mapping the money near you on **July 19th to 21st**? Register for the **City Spending Data Party** below!
 
