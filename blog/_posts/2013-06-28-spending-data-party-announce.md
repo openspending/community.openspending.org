@@ -9,11 +9,10 @@ status: draft
 
 <a href="http://www.flickr.com/photos/94746900@N06/9155317160/" title="lagos_lite by anderspedersenOKF, on Flickr"><img src="http://farm6.staticflickr.com/5516/9155317160_2fde6deae9_z.jpg" width="540" height="404" alt="commons.wikimedia.org"></a>
 
-More than half of us [live in a city](http://www.unfpa.org/pds/urbanization.htm). From schools to fire brigades cities are responsible for some of the most important services we can think of when it comes to government. So whether the nearby school is paid by your city, council or [Município](http://en.wikipedia.org/wiki/Municipalities_of_Brazil) chances are that the service is operated locally and that you know who would have the information. So whereever you live there is a local that can be opened budget. With the City Spending Data Party we want to open budget and spending data from cities to help us all get a sense of where the money is being spent.
+More than half of us [live in a city](http://www.unfpa.org/pds/urbanization.htm). From schools to fire brigades cities are responsible for some of the most important services we can think of when it comes to government. So whether the nearby school is paid by your city, council or [Município](http://en.wikipedia.org/wiki/Municipalities_of_Brazil) chances are that the service is operated near you and that everyone should have access to information about the money is being spent. 
+We're therefore thrilled to announce that the OpenSpending community is organising a global **City Spending Party** across the world from **July 19th to 21st**.<br> 
 
-We're thrilled to announce that the OpenSpending community is coming together to organise a **City Spending Party** in locations across the world from **July 19th to 21st**.<br> 
-
-The Spending Party is a result of planning and engagement from wide area of groups including [Hasadna](http://www.hasadna.org.il/en/) (israel), [OpenBudgetOakland](http://openbudgetoakland.org/), [OpenKratio](openkratio.org/), [BudgIT](http://yourbudgit.com/) (Nigeria) [OKF Japan](http://spending.jp/) and [OKF Nepal](https://twitter.com/okfn_np). We're hoping that many more groups will join to open up the budget and spending of your city! 
+The Spending Party is a result of planning and engagement from wide area of groups including [Hasadna](http://www.hasadna.org.il/en/) (israel), [OpenBudgetOakland](http://openbudgetoakland.org/), [OpenKratio](openkratio.org/), [BudgIT](http://yourbudgit.com/) (Nigeria) [OKF Japan](http://spending.jp/) and [OKF Nepal](https://twitter.com/okfn_np). With the City Spending Data Party we want to open budget and spending data from cities to help us all get a sense of where the money is being spent. We're hoping that many more groups will join to open up the budget and spending of your city! 
 
 Register for the [**Spending Data Party** ](https://docs.google.com/a/okfn.org/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform)!
 
