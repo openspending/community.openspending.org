@@ -17,16 +17,16 @@ The Spending Party is a result of planning and engagement from wide area of grou
 
 Register for the [**Spending Data Party** ](https://docs.google.com/a/okfn.org/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform)!
 
-####Explore your city - what to look for<br>
+###Explore your city - what to look for<br>
 <il>- Do you know how much your city actually spends on education compared to police enforcement?</il>
 
-<il>- How can you get people involved in the budget of your city?
+<il>- How can you get people involved in the budget of your city?<br> 
 [OpenBudgetOakland](http://openbudgetoakland.org/mayor_13-15_proposed.html) created a site where citizens could comment on the budget proposal throughout the entire decision process. 
 
-<il>- Which companies works for your city and do they actually do a good job?</il>
+<il>- Which companies works for your city and do they actually do a good job?</il><br> 
 Some cities such as [London](http://openspending.org/gb-local-gla) and [Washington DC](http://openspending.org/dc-vendors-contractors) transactional spending allow you to see what companies clean up the garbage and repair the roads. Let's make many more cities open up their spending data! 
 
-#### What can I do at tbe spending party?
+### What can I do at tbe spending party?
 <il>- **[Load and visualise](http://openspending.org/datasets/new)** the budget of your city or province and add it to the list of [90 cities already mapped](http://apps.openspending.org/maps/) across the world.</il>
 
 <il>- **Open up budgets** from other local institutions such as [universities](http://openspending.org/blog/2013/06/17/universities-on-the-spending-map.html), public utilities or housing corporations.</il>
@@ -35,7 +35,7 @@ Some cities such as [London](http://openspending.org/gb-local-gla) and [Washingt
 
 <il>- **Make OpenSpending better** on OpenSpending code. We've got plans for some great enhancements and want to hear what you'd like to make.</il>
 
-####FAQ:
+###FAQ:
 <il>- I'm alone in my city, can I still join? </il><br> 
 Yes! We'll make sure to help you out getting hold of data and will run online activities where you can work with other spending nerds in other cities. So don't hold your self back. Share your ideas on the mailing list as well. 
 
