@@ -2,9 +2,9 @@
 layout: post
 author: anders
 title: Get ready for a City Spending Party. Join to map the money near you!
-published: false
+published: true
 type: post
-status: draft
+status: published
 ---
 
 <a href="http://www.flickr.com/photos/94746900@N06/9155317160/" title="lagos_lite by anderspedersenOKF, on Flickr"><img src="http://farm6.staticflickr.com/5516/9155317160_2fde6deae9_z.jpg" width="540" height="404" alt="commons.wikimedia.org"></a>
@@ -40,6 +40,7 @@ Yes! We'll will run online activities where you can work with community members 
 
 <il>-I don't know where to get budget or spending data from my city?<il><br>
 Fear not! We'll make sure to share guides on how to access budget and spending data from your city and will also organise a **Data Clinic on July 10th**, where we'll help you search for data or ask your city for it, if it's not available.
+<br>
 <br>
 Would you like to join us mapping the money near you on **July 19th to 21st**? Register for the **City Spending Data Party** below!
 
