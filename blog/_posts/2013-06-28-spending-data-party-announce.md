@@ -15,7 +15,7 @@ We're thrilled to announce that the OpenSpending community is coming together to
 
 The Spending Party is a result of planning and engagement from wide area of groups including [Hasadna](http://www.hasadna.org.il/en/) (israel), [OpenBudgetOakland](http://openbudgetoakland.org/), [OpenKratio](openkratio.org/), [BudgIT](http://yourbudgit.com/) (Nigeria) [OKF Japan](http://spending.jp/) and [OKF Nepal](https://twitter.com/okfn_np). We're hoping that many more groups will join to open up the budget and spending of your city! 
 
-Register for the [**Spending Data Party** here](https://docs.google.com/a/okfn.org/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform)!
+Register for the [**Spending Data Party** ](https://docs.google.com/a/okfn.org/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform)!
 
 ####Explore your city - what to look for<br>
 <il>- Do you know how much your city actually spends on education compared to police enforcement?</il>
@@ -25,9 +25,6 @@ Register for the [**Spending Data Party** here](https://docs.google.com/a/okfn.o
 
 <il>- Which companies works for your city and do they actually do a good job?</il>
 Some cities such as [London](http://openspending.org/gb-local-gla) and [Washington DC](http://openspending.org/dc-vendors-contractors) transactional spending allow you to see what companies clean up the garbage and repair the roads. Let's make many more cities open up their spending data! 
-
-#### Join us!
-Would you like to map the money near you, head stright over to our the [sign up form](https://docs.google.com/a/okfn.org/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform). Make sure to share your ideas and questions on our [mailing list](lists.okfn.org/mailman/listinfo/openspending). 
 
 #### What can I do at tbe spending party?
 <il>- **[Load and visualise](http://openspending.org/datasets/new)** the budget of your city or province and add it to the list of [90 cities already mapped](http://apps.openspending.org/maps/) across the world.</il>
@@ -45,6 +42,6 @@ Yes! We'll make sure to help you out getting hold of data and will run online ac
 <il>-I don't know where to get budget or spending data from my city?<il>-
 Fear not. We'll make sure to share our guides on how you can access data from your city and will organise a **Data Clinic on July 10th** where we'll help you search for the data or ask your city for it.
 
-Register for the **City Spending Data Party** below!
+Would you like to join us mapping the money near you on **July 19th to 21st**? Register for the **City Spending Data Party** below!
 
 <iframe src="https://docs.google.com/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
