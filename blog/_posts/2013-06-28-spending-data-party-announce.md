@@ -29,19 +29,19 @@ Some cities such as [London](http://openspending.org/gb-local-gla) and [Washingt
 #### What can I do at tbe spending party?
 <il>- **[Load and visualise](http://openspending.org/datasets/new)** the budget of your city or province and add it to the list of [90 cities already mapped](http://apps.openspending.org/maps/) across the world.</il>
 
-<il>- Open up budgets from other local institutions such as [universities](http://openspending.org/blog/2013/06/17/universities-on-the-spending-map.html), public utilities or housing corporations.</il>
+<il>- **Open up budgets** from other local institutions such as [universities](http://openspending.org/blog/2013/06/17/universities-on-the-spending-map.html), public utilities or housing corporations.</il>
 
-<il>- **Learn at online trainings** how to visualise budgets, how to analyse spending data or how you can set up [a local OpenSpending satellite site](https://github.com/openspending/satellite-template). We will run various trainings and are eager to hear if you can contribute. Sign up [to do a training here](https://docs.google.com/a/okfn.org/forms/d/17diF5_alj37kvcY_2Oqx90xKz1aHJtjgVsXmL3yrHlY/viewform).</il> 
+<il>- **Learn from online trainings** how to visualise budgets, how to analyse spending data or how you can set up [a local OpenSpending satellite site](https://github.com/openspending/satellite-template). We will run various trainings and are eager to hear if you can contribute. Sign up [to do a training here](https://docs.google.com/a/okfn.org/forms/d/17diF5_alj37kvcY_2Oqx90xKz1aHJtjgVsXmL3yrHlY/viewform).</il> 
 
-<il>- **Help us make OpenSpending better** on OpenSpending code. We've got plans for some great enhancements and want to hear what you'd like to make.</il>
+<il>- **Make OpenSpending better** on OpenSpending code. We've got plans for some great enhancements and want to hear what you'd like to make.</il>
 
 ####FAQ:
-<il>- I'm alone in my city, can I still join? </il> 
+<il>- I'm alone in my city, can I still join? </il><br> 
 Yes! We'll make sure to help you out getting hold of data and will run online activities where you can work with other spending nerds in other cities. So don't hold your self back. Share your ideas on the mailing list as well. 
 
-<il>-I don't know where to get budget or spending data from my city?<il>-
+<il>-I don't know where to get budget or spending data from my city?<il><br>
 Fear not. We'll make sure to share our guides on how you can access data from your city and will organise a **Data Clinic on July 10th** where we'll help you search for the data or ask your city for it.
-
+<br>
 Would you like to join us mapping the money near you on **July 19th to 21st**? Register for the **City Spending Data Party** below!
 
 <iframe src="https://docs.google.com/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
