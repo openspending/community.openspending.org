@@ -23,7 +23,7 @@ Register for the [**Spending Data Party** ](https://docs.google.com/a/okfn.org/f
 [OpenBudgetOakland](http://openbudgetoakland.org/mayor_13-15_proposed.html) created a site where citizens could comment on the budget proposal throughout the entire decision process. 
 
 <il>- Which companies works for your city and do they actually do a good job?</il><br> 
-Some cities such as [London](http://openspending.org/gb-local-gla) and [Washington DC](http://openspending.org/dc-vendors-contractors) transactional spending allow you to see what companies clean up the garbage and repair the roads. Let's make many more cities open up their spending data! 
+Cities such as [London](http://openspending.org/gb-local-gla) and [Washington DC](http://openspending.org/dc-vendors-contractors) release transactional spending data that allows you to see what companies clean up the garbage and repair the roads. Let's make many more cities open up their spending data! 
 
 ### What can I do at tbe spending party?
 <il>- **[Load and visualise](http://openspending.org/datasets/new)** the budget of your city or province and add it to the list of [90 cities already mapped](http://apps.openspending.org/maps/) across the world.</il>
@@ -32,7 +32,7 @@ Some cities such as [London](http://openspending.org/gb-local-gla) and [Washingt
 
 <il>- **Learn from online trainings** how to visualise budgets, how to analyse spending data or how you can set up [a local OpenSpending satellite site](https://github.com/openspending/satellite-template). We will run various trainings and are eager to hear if you can contribute. Sign up [to do a training here](https://docs.google.com/a/okfn.org/forms/d/17diF5_alj37kvcY_2Oqx90xKz1aHJtjgVsXmL3yrHlY/viewform).</il> 
 
-<il>- **Make OpenSpending better** on OpenSpending code. We've got plans for some great enhancements and want to hear what you'd like to make.</il>
+<il>- **Make OpenSpending better** by contributing to the code. We've got plans for some great enhancements and want to hear what you'd like to make.</il>
 
 ###FAQ:
 <il>- I'm alone in my city, can I still join? </il><br> 
