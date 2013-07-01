@@ -26,7 +26,7 @@ Register for the [**City Spending Data Party** ](https://docs.google.com/a/okfn.
 <il>- Which companies works for your city and do they actually do a good job?</il><br> 
 Cities such as [London](http://openspending.org/gb-local-gla) and [Washington DC](http://openspending.org/dc-vendors-contractors) release transactional spending data that allows you to see what companies clean up the garbage and repair the roads. Let's make many more cities open up their spending data! 
 
-### What can I do at the spending party?
+### What to do at the spending party?
 <il>- **[Load and visualise](http://openspending.org/datasets/new)** the budget of your city or province and add it to the list of [90 cities already mapped](http://apps.openspending.org/maps/) across the world.</il>
 
 <il>- **Open up budgets** from other local institutions such as [universities](http://openspending.org/blog/2013/06/17/universities-on-the-spending-map.html), public utilities or housing corporations.</il>
@@ -35,10 +35,9 @@ Cities such as [London](http://openspending.org/gb-local-gla) and [Washington DC
 
 <il>- **Make OpenSpending better** by contributing to the code. We've got plans for some great enhancements and want to hear what you'd like to make.</il>
 
-###FAQ:
-<il>- I'm alone in my city, can I still join? </il><br> 
-Yes! We'll will run online activities where you can work with community members in other cities. So don't hold your self back. Share your ideas on the mailing list as well. 
+Need inspiration? Head over to the [Idea pad](https://docs.google.com/a/okfn.org/document/d/1Zh-TPxgMiFDrzk-rNJqL9CmCbbtlZmp2xjWlZ6T20TA/edit#), and see what cities have already signed up.
 
+###FAQ:
 <il>-I don't know where to get budget or spending data from my city?<il><br>
 Fear not! We'll make sure to share guides on how to access budget and spending data from your city and will also organise a **Data Clinic on July 10th**, where we'll help you search for data or ask your city for it, if it's not available.
 <br>
