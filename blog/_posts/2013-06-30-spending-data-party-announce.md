@@ -47,7 +47,6 @@ Need inspiration? Head over to the [Idea pad](https://docs.google.com/a/okfn.org
 <il>-I don't know where to get budget or spending data from my city?<il><br>
 Fear not! We'll make sure to share guides on how to access budget and spending data from your city and will also organise a **Data Clinic on July 10th**, where we'll help you search for data or ask your city for it, if it's not available.
 <br>
-<br>
 Would you like to join us mapping the money near you on **July 19th to 21st**? Register for the **City Spending Data Party** below!
 
 <iframe src="https://docs.google.com/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
