@@ -11,7 +11,7 @@ status: published
 
 More than half of us [live in a city](http://www.unfpa.org/pds/urbanization.htm). From schools to fire brigades cities are responsible for some of the most important services we can think of when it comes to government. So whether the nearby school is paid by your city, council or [Município](http://en.wikipedia.org/wiki/Municipalities_of_Brazil) chances are that the service is operated near you and that everyone should have access to information about the money is being spent. 
 <br>
-We're therefore thrilled to announce that the OpenSpending community is organising a global **City Spending Data Party - July 19th to 21st**.<br>
+We're therefore thrilled to announce the global **City Spending Data Party - July 19th to 21st**.<br>
 
 The Spending Party is a result of the planning from a wide area of groups including [Hasadna](http://www.hasadna.org.il/en/) (israel), [OpenBudgetOakland](http://openbudgetoakland.org/), [OpenKratio](openkratio.org/), [BudgIT](http://yourbudgit.com/) (Nigeria) [OKF Japan](http://spending.jp/) and [OKF Nepal](https://twitter.com/okfn_np). With the City Spending Data Party we want to open budget and spending data from cities to help us all get a sense of where the money is being spent. We're hoping that many more groups will join to open up the budget and spending of your city! 
 
