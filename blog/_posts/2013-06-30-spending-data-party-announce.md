@@ -9,7 +9,7 @@ status: published
 
 <a href="http://www.flickr.com/photos/94746900@N06/9155317160/" title="lagos_lite by anderspedersenOKF, on Flickr"><img src="http://farm6.staticflickr.com/5516/9155317160_2fde6deae9_z.jpg" width="540" height="404" alt="commons.wikimedia.org"></a>
 
-More than half of us [live in a city](http://www.unfpa.org/pds/urbanization.htm). From schools to fire brigades cities are responsible for some of the most important services we can think of when it comes to government. So whether the nearby school is paid by your city, council or [Município](http://en.wikipedia.org/wiki/Municipalities_of_Brazil) chances are that the service is operated near you and that everyone should have access to information about the money is being spent.<br>
+More than half of the citizens of the world [live in a city](http://www.unfpa.org/pds/urbanization.htm). From schools to fire brigades cities are responsible for some of the most important services we can think of when it comes to government. So whether the nearby school is paid by your city, council or [Município](http://en.wikipedia.org/wiki/Municipalities_of_Brazil) chances are that the service is operated near you and that everyone should have access to information about the money is being spent.<br>
 
 We are therefore thrilled to announce the global **City Spending Data Party - July 19th to 21st**.
 
