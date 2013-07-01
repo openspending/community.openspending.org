@@ -13,7 +13,7 @@ More than half of us [live in a city](http://www.unfpa.org/pds/urbanization.htm)
 
 We are therefore thrilled to announce the global **City Spending Data Party - July 19th to 21st**.
 
-The Spending Data Party is a result of the planning of groups including [Hasadna](http://www.hasadna.org.il/en/) (israel), [OpenBudgetOakland](http://openbudgetoakland.org/), [OpenKratio](openkratio.org/), [BudgIT](http://yourbudgit.com/) (Nigeria), [OKF Japan](http://spending.jp/) and [OKF Nepal](https://twitter.com/okfn_np). With the City Spending Data Party we want to open budget and spending data from cities to help us all get a sense of where the money is being spent. We hope that you will join to open up the budget and spending of your city! 
+The Spending Data Party is a result of the planning of groups including [Hasadna](http://www.hasadna.org.il/en/) (Israel), [OpenBudgetOakland](http://openbudgetoakland.org/), [OpenKratio](openkratio.org/), [BudgIT](http://yourbudgit.com/) (Nigeria), [OKF Japan](http://spending.jp/) and [OKF Nepal](https://twitter.com/okfn_np). With the City Spending Data Party we want to open budget and spending data from cities to help us all get a sense of where the money is being spent. We hope that you will join to open up the budget and spending of your city! 
 
 Register for the [**City Spending Data Party** ](https://docs.google.com/a/okfn.org/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform)!
 
