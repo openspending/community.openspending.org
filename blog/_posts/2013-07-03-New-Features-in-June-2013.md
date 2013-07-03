@@ -2,9 +2,9 @@
 layout: post
 author: tryggvib
 title: New Features in June 2013
-published: false
+published: true
 type: post
-status: draft
+status: published
 ---
 
 ![Image by GemiTux (cc-by 2.0)](http://farm1.staticflickr.com/76/196956563_150aee58c0_z.jpg "Outside of OpenSpending!")
