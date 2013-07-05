@@ -32,14 +32,16 @@ If there is a requirement to update or change the budget documents e.g. as new d
 
 ### Timely data (that stays around)
 
-* within a period of time that would allow change to take place
-* early in budget formulation process so that you could argue about where the funds should actually go
-* after budget formulation so that you could monitor whether things had actually happened
-* planned versus execution data while such comparisons still matter - for example, so that one might complain that a project didn’t actually happen, and the guy who would have been responsible for that is still in that job, and the people who would have benefited from it are still going to be angry
+Data is required: 
+
+* Within a period of time that would allow change to take place
+* Early in budget formulation process so that it is possible to participate in discussion about where the funds should actually go
+* After budget formulation so that you could monitor whether things had actually happened
+* Planned versus execution data while such comparisons still matter - for example, so that one might complain that a project didn’t actually happen, and the guy who would have been responsible for that is still in that job, and the people who would have benefited from it are still going to be angry
 
 <div class="well">
 
-#### How long should data be available online? 
+<h3>How long should data be available online? </h3>
 
 <ul>
 	<li>The costs of storing information online nowadays are so minimal, that this question is essentially redundant (i.e. the answer is "forever"). </li>
@@ -74,20 +76,25 @@ In the [Technology for Transparent and Accountable Public Finance Report](http:/
 The number one low-hanging fruit which could be solved in order to vastly improve the usability of available budget and spending (plus procurement and other types listed above) information is to make data **machine-readable**.
 
 <div class="well"><h2>What does Machine-readable mean?: Implementation guidelines from the UK government.</h2>
-
+<quote>
 The UK government have now issued very good clear, <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">plain-language guides</a> for service managers on which data formats are appropriate for publishing data. The US government has also decreed that all data shall be published in machine-readable formats. An extract from the UK service manual from gov.uk is copied below for the convenience of the reader: 
 <ul>
 <li><quote><strong>“For data, use CSV or a similar ‘structured data’ format (see also JSON and XML). Do not publish structured data in unstructured formats such as PDF</strong></quote>.</li>
 <li><quote><strong>If you are regularly publishing data (financial reports, statistical data, etc.) then your users may well wish to process this data programmatically, and it becomes especially important that your data is ‘machine-readable’. PDFs, Word documents and the like are not suitable formats for data publication. In addition, you should consider making your data available through an API if this will simplify your users’ interactions with your publications. [...]</quote></strong> </li>
 <li><quote><strong>If you are publishing a written report that contains statistical tables, provide the tables alongside or in addition to your report in suitable data formats.</quote></strong>
 </ul>
+</quote>
 
 [...] 
+
+<quote>
 
 <h2>Don’t assume your users can read proprietary formats</h2>
 > Wherever possible, publish in accessible, patent-free, <a href="https://en.wikipedia.org/wiki/Open_format">open formats</a>, for which software is widely available on a variety of platforms. If publishing in proprietary formats, you should always make a non-proprietary alternative available.
 [...] For tabular data, provide <strong> <a href="http://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> or <a href="http://en.wikipedia.org/wiki/Tab-separated_values">TSV</a> </strong> rather than Excel spreadsheets (.xls/.xlsx).
 <p>
+	
+</quote>	
 Read the full version of the guidelines <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">here</a>.
 </p>
 </div>
