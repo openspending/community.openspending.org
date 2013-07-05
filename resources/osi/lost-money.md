@@ -9,9 +9,14 @@ layout: osi
 
 ## Vital Statistics
 
-* </strong>Name of Project:</strong> Bani pierduti? (Or, in English, "Lost money?")
-* </strong>Link to project:</strong> <http://www.banipierduti.ro>
-* </strong>Approximate number of users engaged through the project:</strong> >30.000
+<div class="well">
+
+<ul><li><strong>Name of Project:</strong> Bani pierduti? (Or, in English, "Lost money?")</li>
+<li><strong>Link to project:</strong> <http://www.banipierduti.ro></li>
+<li><strong>Approximate number of users engaged through the project:</strong> >30.000</li>
+</ul>
+
+</div>
 
 <img alt="" src="http://farm9.staticflickr.com/8289/7607848026_21cbeef8ed_b.jpg" title="Lost Money" class="alignnone" width="640" height="480" />
 
