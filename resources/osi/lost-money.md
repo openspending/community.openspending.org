@@ -12,7 +12,7 @@ layout: osi
 <div class="well">
 
 <ul><li><strong>Name of Project:</strong> Bani pierduti? (Or, in English, "Lost money?")</li>
-<li><strong>Link to project:</strong> <http://www.banipierduti.ro></li>
+<li><strong>Link to project: <a href="http://www.banipierduti.ro">banipierduti.ro</a></li>
 <li><strong>Approximate number of users engaged through the project:</strong> >30.000</li>
 </ul>
 
