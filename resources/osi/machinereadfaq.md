@@ -45,7 +45,7 @@ The current access to data from the EU farm subsidy programme is a clear example
 
 ### “We cannot release spending data due to third parties due to confidentiality concerns”
 
-FALSE, public authorities should publish information about transactions between them, contractors and commercial vendors. It is not uncommon however that either public officials or commercial contractors will attempt to block releases due to commercial confidentiality of the supplier (the third party). 
+Public authorities should publish information about transactions between them, contractors and commercial vendors. It is not uncommon however that either public officials or commercial contractors will attempt to block releases due to commercial confidentiality of the supplier (the third party). 
 
 The argument is most commonly argued when requests are made for actual contracts, but even contracts are often [released in full](http://www.asktheeu.org/en/request/292/response/805/attach/2/Signed%20Framework%20Agreement%20with%20Eurocontrol.PDF.pdf) without redactions. 
 

@@ -13,8 +13,9 @@ The purpose of the call was to investigate whether it would be possible to speci
 
 ### Structured data
 
-* so it’s not so labour-intensive to do analysis
-* For definitions of structured data, please see section below: *Structured data: What data formats to provide - i.e. machine-readable format?* 
+So it’s not so labour-intensive to do analysis!
+
+For definitions of structured data, please see section below: *Structured data: What data formats to provide* 
 
 ### Bulk access 
 
@@ -36,11 +37,15 @@ If there is a requirement to update or change the budget documents e.g. as new d
 * after budget formulation so that you could monitor whether things had actually happened
 * planned versus execution data while such comparisons still matter - for example, so that one might complain that a project didn’t actually happen, and the guy who would have been responsible for that is still in that job, and the people who would have benefited from it are still going to be angry
 
+<div class="well">
+
 #### How long should data be available online? 
 
-* The costs of storing information online nowadays are so minimal, that this question is essentially redundant (i.e. the answer is "forever"). 
-
-* If a government feels it is absolutely necessary to remove data after a certain period of time *(this should be a minimum of several years after original publication, longer if the period to which the budget relates is greater than a year)*, they should **specify at time of publication, clearly the time and date on which the information will be removed**. This will allow civil society organisations sufficient time to make a backup copy for themselves.
+<ul>
+	<li>The costs of storing information online nowadays are so minimal, that this question is essentially redundant (i.e. the answer is "forever"). </li>
+	<li>If a government feels it is absolutely necessary to remove data after a certain period of time *(this should be a minimum of several years after original publication, longer if the period to which the budget relates is greater than a year)*, they should **specify at time of publication, clearly the time and date on which the information will be removed**. This will allow civil society organisations sufficient time to make a backup copy for themselves.</li>
+</ul>
+</div>
 
 ### Classifications
 
@@ -57,18 +62,18 @@ Different users are interested in different aspects of budgets. Not all classifi
 * Again, the availability of detailed information, as well as the requirements of individuals and organisations, will vary from country to country.
 * Therefore, budgets should be as detailed and disaggregated as possible.
 
-## Spending standard
+### Spending standard
 
 In the [Technology for Transparent and Accountable Public Finance Report](http://openspending.org/resources/gift/index.html), we identified the need for a global standard for opening up transaction-level spending data. A couple of further comments on this topic. 
 
 * This is probably going to be more useful at the international level – e.g. to pull all the data together and look at super-aggregate information.
 * It could also be useful at country level though, for inter-country comparisons. 
 
-# Structured data: What data formats to provide - i.e. machine-readable format?
+# Structured data: What data formats to provide
 
 The number one low-hanging fruit which could be solved in order to vastly improve the usability of available budget and spending (plus procurement and other types listed above) information is to make data **machine-readable**.
 
-<div class="well"><h4>What does Machine-readable mean?: Implementation guidelines from the UK government.</h4>
+<div class="well"><h2>What does Machine-readable mean?: Implementation guidelines from the UK government.</h2>
 
 The UK government have now issued very good clear, <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">plain-language guides</a> for service managers on which data formats are appropriate for publishing data. The US government has also decreed that all data shall be published in machine-readable formats. An extract from the UK service manual from gov.uk is copied below for the convenience of the reader: 
 <ul>
