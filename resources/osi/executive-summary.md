@@ -26,6 +26,8 @@ This should be:
 
 It should also be stated that no amount of proactive release can replace the need for Freedom of Information requests, which remain of prime importance. 
 
+[Read the full guidelines](http://openspending.org/resources/osi/appendix-open-budgets-open-data.html)/
+
 ### Key Obstacles in Preventing Re-use of the Data
 
 The following should be avoided at all costs when publishing government financial data.
