@@ -5,7 +5,7 @@ layout: osi
 
 # Putting the Open Data Into Open Budgets
 
-We have looked in detail in this report at criteria which make it difficult for organisations to use data that has been released by governments.  In January 2013, we hosted a community call with to look at what the demands of the Open Data Community are with regard to Open Budgets. Despite both featuring the word “Open” - there is still a disconnect between the use of “open” to signify availability and “open” to signify absence of legal, technical and social restrictions. 
+We have looked in detail in this report at criteria which make it difficult for organisations to use data that has been released by governments.  In January 2013, we hosted a community call with to look at what the demands of the Open Data Community are with regard to Open Budgets. Despite both featuring the word “Open” - there is still a disconnect between the use of the word “open” in many circles to signify availability and “open” in technical spheres to signify absence of legal, technical and social restrictions. 
 
 The purpose of the call was to investigate whether it would be possible to specify the demands of the Open Data Community with relation to budget and spending data. 
 
@@ -14,14 +14,12 @@ The purpose of the call was to investigate whether it would be possible to speci
 ### Structured data
 
 * so it’s not so labour-intensive to do analysis
-
-*For definitions of structured data, please see section below: *Structured data: What data formats to provide - i.e. machine-readable format?* 
+* For definitions of structured data, please see section below: *Structured data: What data formats to provide - i.e. machine-readable format?* 
 
 ### Bulk access 
 
 * *It should also be possible to download all of the budget information in bulk*. 
 * Preventing bulk downloads by using systems such as CAPTCHA is not acceptable. 
-
 * Some interviewees requested data to be released via an API. This is indeed a useful move particularly when data is updated regularly, but should not be the only method to acquire the data - many non-technical users require simply bulk download of the data.
 
 ### Updates and amendments
@@ -34,11 +32,8 @@ If there is a requirement to update or change the budget documents e.g. as new d
 ### Timely data (that stays around)
 
 * within a period of time that would allow change to take place
-
 * early in budget formulation process so that you could argue about where the funds should actually go
-
 * after budget formulation so that you could monitor whether things had actually happened
-
 * planned versus execution data while such comparisons still matter - for example, so that one might complain that a project didn’t actually happen, and the guy who would have been responsible for that is still in that job, and the people who would have benefited from it are still going to be angry
 
 #### How long should data be available online? 
@@ -54,6 +49,7 @@ Different users are interested in different aspects of budgets. Not all classifi
 
 * All available classifications should be published.
 * Functional classifications are often the most comprehensible to citizens. They explain the particular themes or sectors on which money is spent. There are also international standards for comparing functional spending (e.g. COFOG).
+*  Programmatic classifications are used particularly in developing countries for relating to multi-year development plans
 * Administrative classifications show which department or agency received the money – and are therefore important for the accountability of funds down the chain.
 
 ##### Breakdown
