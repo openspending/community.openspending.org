@@ -14,7 +14,7 @@ on individual entries. More abstract concepts, such as "All
 health spending in a country over a given year" would mostly be the
 result of adding up many individual entries. If your use case
 requires that you access such concepts, you may want to look at
-the [aggregator](api-aggreagtor.html) instead.
+the [aggregator](api-aggregator.html) instead.
 
 ### Basic call and parameters
 
