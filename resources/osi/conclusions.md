@@ -4,11 +4,11 @@ layout: osi
 ---
 
 # Conclusion
-The voices and stories from organisations in this report underline the diversity of the  community working at the intersection of technology and government finances. Here we’ll list some of the key takes from the research, which has allowed us to acquire a deeper understanding of the work that’s being done to advance financial transparency.
+The voices and stories from organisations in this report underline the diversity of the  community working at the intersection of technology and government finances. Here we’ll list some of the key points from the research, which has allowed us to acquire a deeper understanding of the work that’s being done to advance financial transparency.
 
 ## Demand for data
 
-It is impossible to deny that there is demand for open financial data
+It is impossible to deny that there is demand for open financial data.
 
 This report has clearly outlined that there is demand for openly available, open [as per the Open Definition](http://opendefinition.org/) (see next point). This is in particular data about:
 
@@ -25,7 +25,7 @@ This report has clearly outlined that there is demand for openly available, open
 
 International (e.g. Farm Subsidies), National - and Local level data is demanded.
 
-<small>* So far, there have been a few well-coordinated attempts to standardise and collect this information biographical information, [Popit from MySociety](http://popit.mysociety.org/) and [Popolo from OpenNorth and the Participatory Politics Foundation](http://blog.opennorth.ca/2013/02/21/update-on-opengovernment/), however - a coordinated international effort is required in order to maintain this enormous, and rapidly evolving dataset. </small>
+<small>* So far, there have been a few well-coordinated attempts to standardise and collect this biographical information, [Popit from MySociety](http://popit.mysociety.org/) and [Popolo from OpenNorth and the Participatory Politics Foundation](http://blog.opennorth.ca/2013/02/21/update-on-opengovernment/), however - a coordinated international effort is required in order to maintain this enormous, and rapidly evolving dataset. </small>
 
 
 ###  Proactive spending release doesn’t necessarily make strong civil societies
@@ -46,7 +46,7 @@ Civil Society organisations could be equipped with these examples, for example, 
 
 This would hopefully lead to more concrete, and actionable country action plans for the Open Government Partnership, based on real, practical examples.
 
-### A few improvements on spending transparency occur for reasons other than public pressure
+### Public pressure is only one of many reasons to the release of better spending data
 
 Recent improvements to spending transparency in Greece and Slovenia appear to be driven by factors not related to public pressure for transparency. In Greece the financial crisis has created a significant boost to centralised fiscal management endorsed. It is somewhat striking that Greece has gone from one of the least financially transparent in Europe enforcing transparency, by mandating that decisions must be published on the internet, in order to be legally enforcable.
 
@@ -54,19 +54,13 @@ In Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-transparency/
 
 ## Supply-side obstacles preventing re-use of data
 
-### No bulk download
+### Lack of bulk downloadable, machine-readable data is an obstacle to transparency and accountability
 
-Many governments believe that publishing financial data online (in html or PDF) equals making the data “open”. For this reason many CSOs struggle with the task of scraping content off websites (if they even know it is possible to do so). In the worst cases  - automatic access or scrapers may be impeded by using CAPTCHA codes.
-
-Bulk download is crucial to allow organisations to keep a copy in case information disappears from the internet.
-
-(Further reading: [Appendix: Putting the Open Data into Open Budgets](appendix-open-budgets-open-data.html).)
-
-### Governmental PDF release policies
+Many governments believe that publishing financial data online in HTML or PDF equals making the data “open”. For this reason, many CSOs struggle with the task of scraping content off website—if they even know it is possible to do so. In the the worst cases, automatic access or scrapers may be impeded by CAPTCHA codes. Bulk download of machine-readable data is crucial to allow organisations to keep a copy in case information disappears from the internet.
 
 Many organisations have identified PDF releases as a substantial barrier to re-use. Though organisations often manage to complete projects, the governmental policies to release PDFs impedes workflow and increase demand for members with technical skills.
 
-(Further reading to understand which formats are appropriate for publishing financial data: [Appendix: Common arguments against publishing data in machine-readable formats (and how to counter them)](appendix-open-budgets-open-data.html).
+(Further reading: [Appendix: Putting the Open Data into Open Budgets](appendix-open-budgets-open-data.html); [Appendix: Common arguments against publishing data in machine-readable formats (and how to counter them)](appendix-open-budgets-open-data.html).
 
 ### Privacy Concerns
 
@@ -97,7 +91,7 @@ Mapping research such as this is incredibly important to help find gaps and make
 
 ## Teach people
 
-Based on the interviews we’ve found that several skills are repeatedly emerging. While the pool of skills is hugely diversity across the community, key parts of the data pipeline from data retrieval to data cleaning are major hurdles, which steal time from activism and other parts of an organisation's work.
+Based on the interviews, we’ve found that several skills repeatedly turn out to be lacking. While the pool of skills is hugely diverse across the community, key parts of the data pipeline from data retrieval to data cleaning are major hurdles, which steal time from activism and other parts of an organisation's work.
 
 We could therefore see a strong potential in offering focused trainings around the key needs identified:
 <ul>
@@ -148,6 +142,4 @@ We recognise in this report that we have largely covered examples from projects 
 
 Likewise, language presents problems for the people working on the data. In countries like India - with multiple national languages, there need to be coalitions of like-minded people who are both linguists and data wranglers if real analysis covering entire countries is to be achieved.
 
-In a similar vein, while terms like "data journalism" are currently dominating English Language discourse, it is unclear to what extent they have spread into other languages. Translation efforts, and careful construction of networks will be key to ensuring that this debate does not become too anglo-centric.
-
-We would hate to miss a great project in whatever language. So please if you are a polyglot, who can help bring an otherwise undiscovered project to the fore, put us in touch (info [at] openspending.org).
+In a similar vein, while terms like "data journalism" are currently dominating English Language discourse, it is unclear to what extent they have spread into other languages. Translation efforts and careful construction of networks will be key to ensuring that this debate does not become too anglocentric.
