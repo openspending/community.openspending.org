@@ -49,7 +49,7 @@ concerned with an issue to scrutinize it in depth, rather than leaving
 it to the traditional media, whose choice of issues often is restricted
 and oriented towards “safe” topics
 
-## Identified challenges
+## Challenges
 
 Although, Cl@rity was not designed with financial monitoring in mind, it
 includes various decision types that includes various financial metadata
