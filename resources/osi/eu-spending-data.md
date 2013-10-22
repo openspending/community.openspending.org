@@ -3,7 +3,7 @@ title: "Case Study: EU Spending Data"
 layout: osi
 ---
 
-# Growing the community working on EU spending data
+# EU spending data
 
 <div class="well">This segment is based on a <a href="http://openspending.org/blog/2013/01/09/privacy.html">community call organised on 18 February
 2013</a> with
@@ -26,9 +26,10 @@ well as CSOs. In 2010 the Financial Times and the Bureau of
 Investigative Journalism published a project including an extensive
 database [mapping the structural
 funds](http://datajournalismhandbook.org/1.0/en/case_studies_1.html) across
-for the 2007-2013 EU budget. The project was rightly heralded as
+for the 2007-2013 EU budget ([more info](http://blog.okfn.org/2011/03/08/a-kafkaesque-data-trail-the-hunt-for-europes-hidden-billions/)).
+The project was rightly heralded as
 groundbreaking for its level of detail, dedication and cross border
-setup. Three years later it is however also clear that such centralised
+setup. Three years later it is however also clear that such centrally
 initiated projects have clear limitations, and therefore challenges
 remain when thinking about how European wide spending transparency.
 
