@@ -5,15 +5,15 @@ layout: osi
 
 # Lost Money
 
-</strong>This is a profile of a very interesting new project coming out of Romania, aiming to make government finances understandable for the average citizen. It is written based on contributions from [Elena Calistru](https://twitter.com/MadamadePica), who kicked off the project.</strong>
+</strong>This is a profile of a very interesting new project coming out of Romania, aiming to make government finances understandable for the average citizen. It is written based on contributions from <a href="https://twitter.com/MadamadePica" target="_blank">Elena Calistru</a>, who kicked off the project.</strong>
 
 ## Vital Statistics
 
 <div class="well">
 
 <ul><li><strong>Name of Project:</strong> Bani pierduti? (Or, in English, "Lost money?")</li>
-<li><strong>Link to project: <a href="http://www.banipierduti.ro">banipierduti.ro</a></li>
-<li><strong>Approximate number of users engaged through the project:</strong> >30.000</li>
+<li><strong>Link to project: <a href="http://www.banipierduti.ro" target="_blank">banipierduti.ro</a></li>
+<li><strong>Approximate number of users engaged through the project:</strong> over 30,000</li>
 </ul>
 
 </div>
@@ -22,7 +22,7 @@ layout: osi
 
 ## What is the background of the project?
 
-The project is one of the five winners of the [Restart Romania 2011](http://restartromania.netsquared.org) competition, initiated by [Techsoup Romania](http://www.techsoup.ro/) with the support of the US Embassy to Bucharest.
+The project is one of the five winners of the <a href="http://restartromania.netsquared.org" target="_blank">Restart Romania 2011</a> competition, initiated by <a href="http://www.techsoup.ro/" target="_blank">Techsoup Romania</a> with the support of the US Embassy to Bucharest.
 
 Starting at the beginning of August 2011, 104 projects were registered for the Social Justice Challenge Restart Romania, and went under the scrutiny of the community. In the end, a jury formed by representatives of the diplomatic community, business sector and IT industry decided the selection of 10 finalist projects. Between 28 - 30 October, the Restart Romania Hackathon transformed the ten ideas with the help of programmers and communication specialists into more concrete platforms which were presented within the Restart Romania Gala. Bani Pierduti was voted within the Gala as one of the five winners of 5000 USD funding.
 
@@ -32,10 +32,11 @@ The project formerly known as *"Where’s my LEI, man?"* entered the competition
 
 After winning the Restart Romania Gala, the project went through a consistent re-thinking aiming to identify both the best technologies for a more complex platform than initially planned, and the necessary data sets which allowed the best representation on how public funds are spent in Romania. Thus, if at the very beginning the project only aimed to use the state budget data, it now operates with data comprising the budgets dedicated to social assistance and public health, the budgets at local level for the Romanian counties, projects financed through EU funds, comparisons with the percentage allocated to various sectors in other EU counties etc.
 
-The project is a now a permanent programme of a newly-established NGO – [Funky Citizens](http://www.funkycitizens.org/) (website under construction at time of publication). Which aims to engage civil society (taxpayers) in the decision making process related to public funds through the use of technology. Its major objectives are:
+The project is a now a permanent programme of a newly-established NGO – <a href="http://www.funkycitizens.org/" target="_blank">Funky Citizens</a> (website under construction at time of publication). Which aims to engage civil society (taxpayers) in the decision making process related to public funds through the use of technology. Its major objectives are:
 
-* Quantitative and qualitative growth of the awareness on the issue
+* Improving the number of people who are aware of this issue and improving the quality of public understanding
 * Offering information and tools for influencing the decision-making process
+
 To achieve its objectives, the project relies on three pillars:
 * Data & process presentation
 * Public participation
