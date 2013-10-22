@@ -18,11 +18,11 @@ layout: osi
 
 In early 2012, we set out on a mission. Our aim was threefold: 
 
-* *To identify Civil Society organisations (CSO's) around the world who are interested in working with government financial data* - building on the existing network of contacts from the OpenSpending.org project.
+* *To identify Civil Society organisations (CSOs) around the world who are interested in working with government financial data* - building on the existing network of contacts from the OpenSpending.org project.
 
-* *To connect these CSO's with each other*, with open data communities and with other key stakeholders to exchange knowledge, experiences and best practices in relation to spending data
+* *To connect these CSOs with each other*, with open data communities and with other key stakeholders to exchange knowledge, experiences and best practices in relation to spending data
 
-* *To establish how CSO's currently work with spending data, how they would like to use it, and what they would like to achieve* - including:
+* *To establish how CSOs currently work with spending data, how they would like to use it, and what they would like to achieve* - including:
 
   * what existing tools are being used
   * what current technical needs are unmet
@@ -36,7 +36,7 @@ This report is deliberately short. We know that people seldom read page upon pag
 
   * outline how the data could be improved in order to make it more usable 
   * examine some key case studies of how organisations are using technology to do groundbreaking research,  citizen engagement, visualisation and tracking of accountability.
-  * talk about the training needs for CSO's to help them better use the data available, and to demand better data. 
+  * talk about the training needs for CSOs to help them better use the data available, and to demand better data. 
 
 The team behind the report can be reached at any time on info [at] openspending.org. 
 
