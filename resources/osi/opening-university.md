@@ -4,7 +4,6 @@ layout: osi
 ---
 
 # Budget transparency for an open university
-<div class="well">Summary based on blog post by J. Félix Ontañón at OpenKratio</div>
 
 About the project:
 The project began by scraping budget documents in PDF format published by the University of Grenade to a machine-readable format with the purpose of making it easier for citizens, journalists and even employees at the university to work with the data, using tools from spreadsheets to visualization suites. The resulting app allow users to download the income and expenditure budgets in CSV format and provides a set of comprehensive visualizations.
@@ -34,3 +33,5 @@ By releasing University budgeting data, the project:
 Spanish public universities are equipped with system called SIIU (Integrated University 
 Information System) and they are required to report budget data using this
 system. Thus in reality most of the technical challenges around developing budgets in electronic and harmonized formats has already been completed. The question is therefore why the Ministry of Education will not make this information available to the public.
+
+*Summary based on blog post by J. Félix Ontañón at OpenKratio.*

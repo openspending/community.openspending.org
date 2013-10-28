@@ -1,9 +1,9 @@
 ---
-title: "Case Study: OKFN Greece"
+title: "Case Study: Open Knowledge Foundation Greece"
 layout: osi
 ---
 
-# OKFN Greece
+# Open Knowledge Foundation Greece
 
 <div class="well">Project: Tracing financial reporting from the Cl@rity program</div>
 
@@ -12,7 +12,7 @@ Papadopoulos, Open Knowledge Foundation Greece, Local Group.</strong>
 
 ## Summary
 
-OKFN Greece is monitoring the financial reporting systems in
+Open Knowledge Foundation Greece is monitoring the financial reporting systems in
 Greece during the financial crisis, resulting in detailed reviews of
 the rapid legal and technical changes in the Greek financial
 reporting system. This has ultimately lead to several proposals for technical changes to the reporting standards.
@@ -49,7 +49,7 @@ concerned with an issue to scrutinize it in depth, rather than leaving
 it to the traditional media, whose choice of issues often is restricted
 and oriented towards “safe” topics
 
-## Identified challenges
+## Challenges
 
 Although, Cl@rity was not designed with financial monitoring in mind, it
 includes various decision types that includes various financial metadata
@@ -67,7 +67,7 @@ public financial data.
 
 ## Project results
 
-OKFN Greece highlights two major achievements from their data quality
+Open Knowledge Foundation Greece highlights two major achievements from their data quality
 review and proposals:
 
 1.  For the Cl@rity programme substantial improvements have been

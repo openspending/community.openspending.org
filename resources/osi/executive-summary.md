@@ -9,20 +9,22 @@ layout: osi
 
 ### Demand for data 
 
-It is clear and undeniable that there is an unquenched demand for financial data about governments from Civil Society. In particular, for data on:
+From our interviews and discussions with civil society organisations for this study, we found that there is strong demand for more higher quality, machine readable data about public revenues and expenditures. In particular, for data on:
 
 <ul>
-	<li><strong>Budgets</strong></li>
-	<li>Spending - crucially, at <strong> transaction level</strong></li>  
-	<li> Procurement</li>
+	<li>Budgets</li>
+	<li>Spending - crucially, at transaction level</li>  
+	<li>Procurement</li>
+	<li>Revenues</li>
 	<li><a href="http://openspending.org/resources/osi/other-handy-datasets.html">Other Useful Datasets</a></li>
 </ul>
 
 This should be:
 
 * proactively released 
-* [machine readable](machinereadfaq.html).
-* Available at international (e.g. EU farm subsisidies), national and local levels.
+* [machine readable](machinereadfaq.html)
+* available at international (e.g. EU farm subsisidies), national and local levels
+* published as open data to enable reuse
 
 It should also be stated that no amount of proactive release can replace the need for Freedom of Information requests, which remain of prime importance. 
 
@@ -35,7 +37,6 @@ The following should be avoided at all costs when publishing government financia
 * Absence of bulk download option
 * CAPTCHA codes preventing automated download
 * Publishing data in HTML or PDFs
-* Arbitrary release thresholds, such as are found in the UK and USA (e.g. only transactions above 25,000 GBP released in UK) - without transparency about how they were decided
 
 ### Common vocabulary and language barriers
 
