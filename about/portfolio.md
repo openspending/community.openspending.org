@@ -55,7 +55,7 @@ We're into our second year of the project now. <a href="http://www.pbs.org/ideal
 
 <h3> OpenSpending Slovakia </h3>
 
-In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspending</a> prepared in collaboration with transparency and anti-corruption watchdog, <a href="www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:<ul>
+In early 2013, we launched <a href="http://slovakia.openspending.org">Slovakia Openspending</a> prepared in collaboration with transparency and anti-corruption watchdog, <a href="http://www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:<ul>
 <li>Year on year comparison for spending categories.</li>
 <li>Improved listing and more contextual presentation of the data.</li>
 <li>Embedable graphic drilldowns with accompanying tables.</li>
