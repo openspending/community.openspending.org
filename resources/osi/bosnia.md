@@ -1,9 +1,7 @@
 ---
-title: "Case Study: Centre for Public Interest Advocacy - Training for Budget Data Wrangling. "
+title: "Centre for Public Interest Advocacy"
 layout: osi
 ---
-
-# Bosnia-Herzegovina 
 
 <div class="well">After meeting the team from the Public Interest Advocacy Centre (CPI) at
 the POINT conference in Sarajevo in 2012, a proposal was launched to
@@ -70,4 +68,4 @@ The training in Bosnia was a trigger to build on the material in the handbook by
 More information about the classification methodology they used can be
 found in the post: [Bosnian Budgets - grouping data by categories people
 care
-about](http://openspending.org/blog/2012/11/30/Bosnia-Budget-Classification.html)
+about](http://community.openspending.org/2012/11/bosnian-budgets-grouping-data-by-categories-people-care-about/).

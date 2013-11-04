@@ -3,14 +3,10 @@ title: "Case Study: Open Knowledge Foundation Greece"
 layout: osi
 ---
 
-# Open Knowledge Foundation Greece
-
 <div class="well">Project: Tracing financial reporting from the Cl@rity program</div>
 
 <strong>This project review is based on the detailed review of Thodoris
 Papadopoulos, Open Knowledge Foundation Greece, Local Group.</strong>
-
-## Summary
 
 Open Knowledge Foundation Greece is monitoring the financial reporting systems in
 Greece during the financial crisis, resulting in detailed reviews of

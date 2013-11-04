@@ -79,6 +79,6 @@ achieving more usage of the data.
 > work we can do, which I think journalists will not be able to do on
 > their own.”
 
-<em>Based on interview with Emmanuel Okyere, Hutspace (Ghana)</em>
+<em>Based on interview with Emmanuel Okyere, Hutspace (Ghana).</em>
 
 

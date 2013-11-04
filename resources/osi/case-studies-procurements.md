@@ -15,7 +15,7 @@ The case studies in this section show that accessing and analysing procurement d
 
 As procurement data is increasingly becoming available in more countries such as Senegal, Ukraine and Australia it has become increasingly more relevant to consider if procurement data should have a clear place on OpenSpending. This question is therefore explored by the community at the moment.
 
-* [Hutspace, Ghana](hutspace.html)
-* [Texty, Ukraine](texty.html)
-* [OpenTED, procurements from EU](opented.html)
+* [Hutspace, Ghana](./hutspace/)
+* [Texty, Ukraine](./texty/)
+* [OpenTED, procurements from EU](./opented/)
 

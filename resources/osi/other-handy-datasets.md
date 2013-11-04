@@ -16,7 +16,7 @@ Two cases exemplify to what extent including geographic information can be helpf
 
 > “What we would like to be able to do is pull out ward-level data [...] or very very micro-level data, neighbourhood level, most of the data which is released [in the UK] is Local Authority Level, and that’s just too big for us.” - <strong> Jez Hall of the Participatory Budgeting Unit (UK) </strong>
 
-Additionally, in the [case study](cbga.html) from the <strong>Centre for Budget and Governance Accountability (India)</strong>, a lot of questions the group strove to answer could be answered simply by ensuring that the data contained information on, which state received the funds (this is pretty high level information, but still was unavailable.
+Additionally, in the [case study](../../case-studies-budgets/cbga/) from the <strong>Centre for Budget and Governance Accountability (India)</strong>, a lot of questions the group strove to answer could be answered simply by ensuring that the data contained information on, which state received the funds (this is pretty high level information, but still was unavailable.
 
 <ul>
 	<li><strong>Information on demographics:</strong> Most policy researchers want to be able to answer questions more specific than per-capita estimates. This makes data such as "Household Surveys" particularly important. They might ask questions such as:
@@ -44,4 +44,4 @@ Some countries have formulated their own detailed requests for information and r
 * [India](http://www.accountabilityindia.in/accountabilityblog/2241-dating-data-what-are-characteristics-dream-government-data)
 * [Hungary](http://kmonitor.hu/files/page/OGP_ajanlasok_KM_TASZ.pdf) (In Hungarian)
 
-See also, the [user testimonials](http://openspending.org/resources/gift/chapter3-1.html) from the earlier report: “Technology for Transparent and Accountable Public Finance.”
+See also, the [user testimonials](http://community.openspending.org/research/gift/testimonials/) from the earlier report: “Technology for Transparent and Accountable Public Finance.”

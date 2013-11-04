@@ -1,5 +1,5 @@
 ---
-title: "Case Study: Expert Grup"
+title: "Expert Grup"
 layout: osi
 ---
 
@@ -36,7 +36,7 @@ the needed data was available to the public on
 tool](http://www.mf.gov.md/ro/BOOST/), and government agencies were open
 to provide direct requests for data requested in a timely manner. The
 data was analysed with Excel. During the research Expert Grup used the
-<a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook</a>, the <a href="http://opendatahandbook.org/">Open Data Handbook</a> and the <a href="http://datajournalismhandbook.org/">Data Journalism
+<a href="http://community.openspending.org/resources/handbook/">Spending Data Handbook</a>, the <a href="http://opendatahandbook.org/">Open Data Handbook</a> and the <a href="http://datajournalismhandbook.org/">Data Journalism
 Handbook</a> as resources:
 
 ## Technical challenges
@@ -84,5 +84,5 @@ government spending and establish connections to more stakeholders. The
 results of the outreach are still being assessed.
 
 Source: [Guest blog post on
-OpenSpending](http://openspending.org/blog/2013/02/28/Budget-Stories.html) 
+OpenSpending](http://community.openspending.org/2013/02/budgetstories-md-using-open-budget-data-to-create-meaningful-stories/).
 

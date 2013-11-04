@@ -16,19 +16,19 @@ From our interviews and discussions with civil society organisations for this st
 	<li>Spending - crucially, at transaction level</li>  
 	<li>Procurement</li>
 	<li>Revenues</li>
-	<li><a href="http://openspending.org/resources/osi/other-handy-datasets.html">Other Useful Datasets</a></li>
+	<li><a href="../appendix/other-handy-datasets/">Other Useful Datasets</a></li>
 </ul>
 
 This should be:
 
 * proactively released 
-* [machine readable](machinereadfaq.html)
+* [machine readable](../appendix/machinereadfaq/)
 * available at international (e.g. EU farm subsisidies), national and local levels
 * published as open data to enable reuse
 
 It should also be stated that no amount of proactive release can replace the need for Freedom of Information requests, which remain of prime importance. 
 
-[Read the full guidelines](http://openspending.org/resources/osi/appendix-open-budgets-open-data.html)/
+[Read the full guidelines](../appendix/open-budgets-open-data/)/
 
 ### Key Obstacles in Preventing Re-use of the Data
 
@@ -53,7 +53,7 @@ Two of the most common words which frame the transparency debate, *open* and *st
 		<td>Publicy available and accessible.</td>
 	</tr>
 	<tr><td>Standard</td>
-		<td>A technical specification for code or data. For example, <a href="http://openspending.org/resources/standard/index.html">the draft spending standard</a> by the Spending Data Community.</td>
+		<td>A technical specification for code or data. For example, <a href="http://community.openspending.org/resources/standard/">the draft spending standard</a> by the Spending Data Community.</td>
 		<td>Best practice guidelines for a particular behaviour, or benchmarks.</td>
 	</tr>
 </table>
@@ -72,7 +72,7 @@ For example, in Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-
 
 Based on the interviews we’ve found that several skills are repeatedly emerging. While the pool of skills is hugely diversity across the community, key parts of the data pipeline from data retrieval to data cleaning are major hurdles, which steal time from activism and other parts of an organisation's work.
 
-A key aim during our work was to work out an [ecosystem of tools](tool-ecosystem.html) which could be used as a basis for working out where effort should be focussed for future training efforts. All of the skills there could be useful for training, but there are a couple that are particularly prominent, due to the frequency of the problem. </li>)
+A key aim during our work was to work out an [ecosystem of tools](../appendix/tool-ecosystem/) which could be used as a basis for working out where effort should be focussed for future training efforts. All of the skills there could be useful for training, but there are a couple that are particularly prominent, due to the frequency of the problem. </li>)
 
 We could therefore see a strong potential in offering focused trainings around the key needs identified:
 <ul>

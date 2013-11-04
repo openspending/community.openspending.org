@@ -1,5 +1,5 @@
 ---
-title: "Appendix: Putting the Open Data Into Open Budgets"
+title: "Putting the Open Data Into Open Budgets"
 layout: osi
 ---
 
@@ -66,7 +66,7 @@ Different users are interested in different aspects of budgets. Not all classifi
 
 ### Spending standard
 
-In the [Technology for Transparent and Accountable Public Finance Report](http://openspending.org/resources/gift/index.html), we identified the need for a global standard for opening up transaction-level spending data. A couple of further comments on this topic. 
+In the [Technology for Transparent and Accountable Public Finance Report](http://community.openspending.org/research/gift/), we identified the need for a global standard for opening up transaction-level spending data. A couple of further comments on this topic. 
 
 * This is probably going to be more useful at the international level – e.g. to pull all the data together and look at super-aggregate information.
 * It could also be useful at country level though, for inter-country comparisons. 

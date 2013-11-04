@@ -32,7 +32,7 @@ The team behind the report can be reached at any time on info [at] openspending.
 
 ### Videos 
 
-As part of the research for this project, we travelled from [Athens to Berlin](http://openspending.org/blog/2012/07/05/OSI.html) to conduct a series of interviews with Civil Society Organisations across Europe. We were interested to know whether everyone suffered from similar problems in using the data - or whether some countries had a far easier time using the data. We found both statements to be true... These films can be found in the dedicated [videos section](../videos/). 
+As part of the research for this project, we travelled from [Athens to Berlin](http://community.openspending.org/2012/07/athens-to-berlin-a-european-financial-profile/) to conduct a series of interviews with Civil Society Organisations across Europe. We were interested to know whether everyone suffered from similar problems in using the data - or whether some countries had a far easier time using the data. We found both statements to be true... These films can be found in the dedicated [videos section](./videos/). 
 
 ### Map of projects 
 

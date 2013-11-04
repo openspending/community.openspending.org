@@ -25,7 +25,7 @@ To date, to our knowledge, there is no simple method of automatically machine-tr
 
 ### Any solutions? 
 
-See the [Tools Ecosystem Section](tool-ecosystem.html) for a few tools to help extract information from image-based documents. 
+See the [Tools Ecosystem Section](../../appendix/tool-ecosystem/) for a few tools to help extract information from image-based documents. 
 
 ## Problem number 3 
 

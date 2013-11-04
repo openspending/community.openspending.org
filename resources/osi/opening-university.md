@@ -28,7 +28,7 @@ By releasing University budgeting data, the project:
 * Helped identify potential best practices in savings that could be used by other universities
 * Helped citizens to make smart proposals on why-and-where the public should invest in higher education
 
-<iframe width='700' height='400' src='http://openspending.org/upo-income-budget/embed?widget=treemap&state=%7B%22drilldown%22%3A%22articulo%22%2C%22year%22%3A%222012%22%2C%22cuts%22%3A%7B%7D%2C%22drilldowns%22%3A%5B%22articulo%22%5D%7D&width=700&height=400' frameborder='0'></iframe>
+<iframe width='100%' height='400' src='http://openspending.org/upo-income-budget/embed?widget=treemap&state=%7B%22drilldown%22%3A%22articulo%22%2C%22year%22%3A%222012%22%2C%22cuts%22%3A%7B%7D%2C%22drilldowns%22%3A%5B%22articulo%22%5D%7D&width=700&height=400' frameborder='0'></iframe>
 
 Spanish public universities are equipped with system called SIIU (Integrated University 
 Information System) and they are required to report budget data using this

@@ -39,9 +39,9 @@ In addition, we have seen a number of CSOs and citizens make use of OpenSpending
 	
 * Social liberal party (D66) of Rotterdam, The Netherlands: Using budget data from the city of Rotterdam to help inform elected officials and decide on local priorities within the party. The purpose was in the first place to help the party to decide on budget priorities, and secondly to advocate the city it self to adopt the practise of visualising the budget to its citizens in a meaningful way. A similar example was seen with the budget of Uruguay for 2012 from the Uruguayan Office of Planning and Budget. 
 
-* The search interface of OpenSpending was used by Privacy International <a href="http://openspending.org/blog/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball.html">to do research into which companies are selling surveillance equipment had contracts with governments around the world</a>. 
+* The search interface of OpenSpending was used by Privacy International <a href="http://community.openspending.org/2012/02/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/">to do research into which companies are selling surveillance equipment had contracts with governments around the world</a>. 
 
-* OpenSpending was used to visualise the <a href="http://openspending.org/blog/2013/04/06/Visualising-Urban-development-data-at-UN-Habitat.html">UN-Habitat data on Urban Development</a>.  
+* OpenSpending was used to visualise the <a href="http://community.openspending.org/2013/04/visualising-urban-development-data-at-un-habitat/">UN-Habitat data on Urban Development</a>.  
 
 * In collaboration with Publish What You Fund, OpenSpending was used to provide the <a href="http://publishwhatyoufund.org/uganda/#/~/aid-and-domestic-spending-in-uganda-br----usd-">first consolidated view of the budget of Uganda</a> including income from aid flows, which form a substantial part of the revenue flows for Uganda. Even the government of Uganda had previously not had access to this information. 
 

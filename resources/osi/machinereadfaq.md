@@ -39,7 +39,7 @@ Our advice would be the following:
 
 ### “We cannot release spending data as it contains personal information”
 
-FALSE, public authorities holding spending data, which includes personal information should not refrain from responsibility of publishing the data. Instead authorities should conduct the proper examination and redact personal data accordingly (workflows can be developed so that this effort is minimal). We see real risks of local and national governments holding back spending data with this excuse and have therefore co-written a guide for public authorities on how to deal with personal information in spending data (see the <a href="privacyguide.html">Annex</a>).
+FALSE, public authorities holding spending data, which includes personal information should not refrain from responsibility of publishing the data. Instead authorities should conduct the proper examination and redact personal data accordingly (workflows can be developed so that this effort is minimal). We see real risks of local and national governments holding back spending data with this excuse and have therefore co-written a guide for public authorities on how to deal with personal information in spending data (see the <a href="../privacyguide/">privacy guide</a>).
 
 The current access to data from the EU farm subsidy programme is a clear example of a case where privacy (in this case for farmers) was used as argument to decide a case at the European Court of Justice, which significantly [reduced access to data on farm subsidy payments](http://farmsubsidy.org/news/features/2012-data-harvest/). 
 

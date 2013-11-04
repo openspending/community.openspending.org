@@ -1,5 +1,5 @@
 ---
-title: "Case Study: OpenBudgetOakland"
+title: "OpenBudgetOakland"
 layout: osi
 ---
 

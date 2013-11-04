@@ -3,7 +3,8 @@ title: "Case Study: OpenTED, Opening Tender Electronic Daily"
 layout: osi
 ---
 
-#OpenTED, Opening Tender Electronic Daily
+# OpenTED, Opening Tender Electronic Daily
+
 <div class="well">This post reviews how OpenTED and OpenSpending has worked to make procurement data from the EU site, Tender Electronic Daily (TED) available as CSV download. More than 100,000 public sector contracts are published annually in the  European procurement register originating from tiny municipalities to large government agencies.</div> 
 
 ##Why open up EU procurement data?

@@ -1,12 +1,12 @@
 ---
-title: "Case Study: EU Spending Data"
+title: "EU Spending Data"
 layout: osi
 ---
 
 # EU spending data
 
-<div class="well">This segment is based on a <a href="http://openspending.org/blog/2013/01/09/privacy.html">community call organised on 18 February
-2013</a> with
+<div class="well">This segment is based on a community call organised on 18 February
+2013 with
 additional input from <a href="https://twitter.com/ronpatz">Ronny Patz</a>,
 Transparency International, Brussels Office.</div>
 
@@ -107,7 +107,7 @@ the right direction ([page
 ## The Financial Transparency System (FTS)
 
 Spending reported under the FTS consist of both [EU Commission spending
-and grant funding](http://openspending.org/resources/eu/) provided to
+and grant funding](http://community.openspending.org/research/eu/) provided to
 programmes such as research, education and foreign aid, is likely the best documented part of the EU budget, though it is not transactional spending data, as it only provide project funding data,
 and thus not actual transactions from either EU agencies not project recipients.
 

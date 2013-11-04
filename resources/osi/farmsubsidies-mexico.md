@@ -1,9 +1,10 @@
 ---
-title: "Case Study: Farmsubsidies in Mexico"
+title: "Farm subsidies in Mexico"
 layout: osi
 ---
 
 # Farm subsidies in Mexico
+
 <div class="well">Project: <a href="http://subsidiosalcampo.org.mx/">Farm subsidy database for Mexico</a> by <a href="http://www.fundar.org.mx/">Fundar</a></div>
 
 ## About the project:

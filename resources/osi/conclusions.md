@@ -3,7 +3,6 @@ title: "Conclusions"
 layout: osi
 ---
 
-# Conclusion
 The voices and stories from organisations in this report underline the diversity of the  community working at the intersection of technology and government finances. Here we’ll list some of the key points from the research, which has allowed us to acquire a deeper understanding of the work that’s being done to advance financial transparency.
 
 ## Demand for data
@@ -60,13 +59,13 @@ Many governments believe that publishing financial data online in HTML or PDF eq
 
 Many organisations have identified PDF releases as a substantial barrier to re-use. Though organisations often manage to complete projects, the governmental policies to release PDFs impedes workflow and increase demand for members with technical skills.
 
-(Further reading: [Appendix: Putting the Open Data into Open Budgets](appendix-open-budgets-open-data.html); [Appendix: Common arguments against publishing data in machine-readable formats (and how to counter them)](appendix-open-budgets-open-data.html).
+(Further reading: [Appendix: Putting the Open Data into Open Budgets](../appendix/open-budgets-open-data/); [Appendix: Common arguments against publishing data in machine-readable formats (and how to counter them)](../appendix/machinereadfaq/).
 
 ### Privacy Concerns
 
 Often cited as one of the reasons for not releasing this level of detail in detail, but often needlessly so. Technology and good data-management practices make it possible to develop a workflow, which allows sensitive information to be removed within a government body, prior to publication. A little training may be required within government, but the process is relatively straightforward once a suppression list is built. With Ian Makgill, OpenSpending has developed a thorough guide, which addresses main risks when releasing spending data from local councils. This guide can be found in the appendix.
 
-(Further reading: [How to publish spending data without disclosing personal information](privacyguide.md))
+(Further reading: [How to publish spending data without disclosing personal information](../appendix/privacyguide/))
 
 ### Arbitrary release thresholds
 
@@ -74,7 +73,7 @@ At least two of the countries which release transaction-level data have imposed 
 
 Are these thresholds appropriate? That can't be known for sure without more information about how these numbers were arrived at. Principally, having thresholds or exceptions to the reporting of this data depends on the underlying systems that drive disclosure of this data. There must either be a publicly stated and rational reason for these disclosure thresholds - or they should be lowered (or ideally, removed entirely).
 
-(Further reading: [Spending Data Handbook](http://openspending.org/resources/handbook/ch006_types-of-data.html))
+(Further reading: [Spending Data Handbook](http://community.openspending.org/research/handbook/types-of-data/))
 
 
 # Looking ahead
@@ -87,7 +86,7 @@ It is a wise approach to develop a tool for one country initially (it helps prev
 
 ## More community mapping projects!
 
-Mapping research such as this is incredibly important to help find gaps and make connections. We have highlighted in this report a couple of other areas which could perhaps benefit from a similar research project, for example: [Open Modelling]
+Mapping research such as this is incredibly important to help find gaps and make connections. We have highlighted in this report a couple of other areas which could perhaps benefit from a similar research project.
 
 ## Teach people
 
@@ -98,7 +97,7 @@ We could therefore see a strong potential in offering focused trainings around t
 	<li><strong>webscraping</strong>: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
 	<li><strong>liberating and cleaning PDFs quickly</strong>: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.</li>
 	<li><strong>build FOI request skills</strong>: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.</li>
-	<li><strong>see the <a href="tool-ecosystem.html">tools ecosystem</a></strong> for more details on particular problems regularly faced by organisations, and how to tackle them.</li>
+	<li><strong>see the <a href="../appendix/tool-ecosystem/">tools ecosystem</a></strong> for more details on particular problems regularly faced by organisations, and how to tackle them.</li>
 </ul>
 
 ## Develop strategies for obtaining quick wins on transactional spending transparency
@@ -129,7 +128,7 @@ Two of the most common words which frame the transparency debate, *open* and *st
 		<td>Publicy available and accessible.</td>
 	</tr>
 	<tr><td>Standard</td>
-		<td>A technical specification for code or data. For example, <a href="http://openspending.org/resources/standard/index.html">the draft spending standard</a> by the Spending Data Community.</td>
+		<td>A technical specification for code or data. For example, <a href="http://community.openspending.org/research/standard/">the draft spending standard</a> by the Spending Data Community.</td>
 		<td>Best practice guidelines for a particular behaviour, or benchmarks.</td>
 	</tr>
 </table>
