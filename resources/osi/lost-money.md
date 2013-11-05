@@ -38,6 +38,7 @@ The project is a now a permanent programme of a newly-established NGO – <a hre
 * Offering information and tools for influencing the decision-making process
 
 To achieve its objectives, the project relies on three pillars:
+
 * Data & process presentation
 * Public participation
 * Understanding the bigger picture
@@ -46,19 +47,22 @@ To achieve its objectives, the project relies on three pillars:
 
 The three pillars of the platform respond to the following problems:
 
-</strong>Problem #1: Fiscal policies represent a "mystery" for the majority of citizens</strong>
+### Problem #1: Fiscal policies represent a "mystery" for the majority of citizens
+
 <p> <strong>Consequences:</strong> Lack of information and understanding of the process; scarce public oversight of public funds administration; public spending is associated with corruption and distrust</p>
 <p> <strong>How we respond:</strong> Educate citizens on the topic</p>
 
-</strong>Problem #2: Little or no participation of the community to the fiscal policy</strong>
+### Problem #2: Little or no participation of the community to the fiscal policy
+
 <p> <strong>Consequences:</strong> Limited use of existing tools for participation to the decision-making process; needs of the community not reflected in the resource allocation; no feedback to the policy makers on their decision</p>
 <p> <strong>How we respond:</strong> Facilitate direct participation</p>
 
-</strong>Problem #3: Lack of vision from governments on investment/ development priorities</strong>
+### Problem #3: Lack of vision from governments on investment/ development priorities
+
 <p> <strong>Consequences:</strong> Short-term planning leading to limited predictability and accountability; bad administration, mismanagement, or corruption in public spending; incoherence between the fiscal policy and other public policies</p>
 <p> <strong>How we respond:</strong> Analyse and understand data</p>
 
-<img alt="" src="http://farm9.staticflickr.com/8432/7787652558_79191020ee_o.png" title="Lost Money 2" class="alignnone" width="640" height="480" />
+<img alt="" src="http://farm9.staticflickr.com/8432/7787652558_79191020ee_o.png" title="Lost Money 2" class="alignnone" />
 
 ## What is the role of technology in the approach to solving that problem?
 

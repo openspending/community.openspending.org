@@ -5,7 +5,7 @@ layout: osi
 
 # Caring for My Neighbourhood - Geolocating Spending in Brazil
 
-This post was written by Gisele Craveiro, of the University of São Paulo, member of [OKFN Brazil](http://br.okfn.org/) and one of the coordinators of GPoPAI (Research Group of Public Politics in Access to Information).**
+*This post was written by Gisele Craveiro, of the University of São Paulo, member of [OKFN Brazil](http://br.okfn.org/) and one of the coordinators of GPoPAI (Research Group of Public Politics in Access to Information).*
 
 The public budget should express the population's needs and priorities and its implementation should be as transparent as possible. In Brazil, the municipal budget implementation details must be published on the web daily, but even in the case where this law is acted upon, the reality is that very few people understand them. 
 

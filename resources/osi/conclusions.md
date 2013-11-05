@@ -82,7 +82,7 @@ Are these thresholds appropriate? That can't be known for sure without more info
 
 Many of the budget and spending projects which we feature in this report have developed tailored applications fitting their particular conditions. From the comprehensive budget site of Hasadna to the database of [K-Monitor in Hungary](http://www.k-monitor.hu/search) platforms have been developed to adapt to the data available and the focus of the individual project.
 
-It is a wise approach to develop a tool for one country initially (it helps prevent 'meta solutions' that half-solve everyone's issues rather than genuinely solving a genuine problem). However, once a solution has been proven to work, using it as a template to roll out with customisation in other countries may be very wise. We hope the case studies featured here and in the videos are of use, and we would be happy to facilitate connections to those behind the projects. (Simply email info [at] openspending.org).
+It is a wise approach to develop a tool for one country initially (it helps prevent 'meta solutions' that half-solve everyone's issues rather than genuinely solving a genuine problem). However, once a solution has been proven to work, using it as a template to roll out with customisation in other countries may be very wise. We hope the case studies featured here and in the videos are of use, and we would be happy to facilitate connections to those behind the projects. (Simply email info [at] openspending.org.)
 
 ## More community mapping projects!
 
@@ -115,7 +115,7 @@ Multi-language knowledge sharing should also include boosting translations of ke
 
 ## Common vocabulary and language barriers
 
-Two of the most common words which frame the transparency debate, *open* and *standard*, are used differently in policy and technical spheres -two key proponents of the transparency movement. This often leads to conversations happening at cross-purposes and hinders communication across the community.
+Two of the most common words which frame the transparency debate, *open* and *standard*, are used differently in policy and technical spheres – two key proponents of the transparency movement. This often leads to conversations happening at cross-purposes and hinders communication across the community.
 
 <table border="1">	
 	<tr>

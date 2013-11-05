@@ -85,12 +85,10 @@ review and proposals:
 
 ### Links about reuse of this data
 
-1.  A short video about researchers at the National Technical University
+1.  A [short video]((https://vimeo.com/46543472)) about researchers at the National Technical University
     of Athens and Students of WebScience and active members of OKFN
     Greece from the University of Thessaloniki
-    [https://vimeo.com/46543472](https://vimeo.com/46543472)
 2.  PublicSpending.gr (currently unavailable due to maintenance), also
     documented in [this academic
     article](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2193600)
 3.  [http://greekspending.com/](http://greekspending.com/)
-4.  Detailed review to be published.

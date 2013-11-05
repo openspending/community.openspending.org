@@ -3,7 +3,7 @@ title: Case Studies - Procurements
 layout: osi
 ---
 
-From our research we have found that procurement data in several countries is serving an important purpose for promoting financial transparency, in particular by filling in the blanks when transactional spending data is not available. For example most EU countries have yet to publish transactional spending data (exceptions:United Kingdom and Slovenia).
+From our research we have found that procurement data in several countries is serving an important purpose for promoting financial transparency, in particular by filling in the blanks when transactional spending data is not available. For example most EU countries have yet to publish transactional spending data (exceptions: United Kingdom and Slovenia).
 
 When looking at public agencies outside government such as regions or municipalities, where a sizeable share of government spending is being executed, access to transactional spending data is equally uncommon.
 

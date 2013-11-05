@@ -44,4 +44,4 @@ Some countries have formulated their own detailed requests for information and r
 * [India](http://www.accountabilityindia.in/accountabilityblog/2241-dating-data-what-are-characteristics-dream-government-data)
 * [Hungary](http://kmonitor.hu/files/page/OGP_ajanlasok_KM_TASZ.pdf) (In Hungarian)
 
-See also, the [user testimonials](http://community.openspending.org/research/gift/testimonials/) from the earlier report: “Technology for Transparent and Accountable Public Finance.”
+See also the [user testimonials](http://community.openspending.org/research/gift/testimonials/) from the earlier report: “Technology for Transparent and Accountable Public Finance.”

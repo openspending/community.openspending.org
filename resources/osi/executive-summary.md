@@ -28,7 +28,7 @@ This should be:
 
 It should also be stated that no amount of proactive release can replace the need for Freedom of Information requests, which remain of prime importance. 
 
-[Read the full guidelines](../appendix/open-budgets-open-data/)/
+[Read the full guidelines](../appendix/open-budgets-open-data/)
 
 ### Key Obstacles in Preventing Re-use of the Data
 
@@ -49,7 +49,7 @@ Two of the most common words which frame the transparency debate, *open* and *st
 		<td><strong>Policy Sphere Usage</strong></td>
 	</tr>
 	<tr><td>Open</td>
-		<td>Free to use, reuse and redistribute - subject only, at most, to the requirement to attribute and/or share-alike. (See <a href="http://opendefinition.org/">The Open Definition</a>).</td>
+		<td>Free to use, reuse and redistribute - subject only, at most, to the requirement to attribute and/or share-alike. (See <a href="http://opendefinition.org/">The Open Definition</a>.)</td>
 		<td>Publicy available and accessible.</td>
 	</tr>
 	<tr><td>Standard</td>

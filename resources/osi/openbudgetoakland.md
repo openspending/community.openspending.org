@@ -28,7 +28,7 @@ launch the project gained recognition from the City of Oakland as it was
 offered to [present the project at city
 hall](https://twitter.com/openbudgetOAK/status/329667951265472512/photo/1).
 
-<iframe width='700' height='400' src='http://openspending.org/oakland-adopted-budget-fy-2011-13-expenditures/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22department%22%2C%22unit%22%2C%22child-fund%22%5D%2C%22year%22%3A2012%2C%22cuts%22%3A%7B%7D%7D&width=700&height=400' frameborder='0'></iframe>
+<iframe width='100%' height='400' src='http://openspending.org/oakland-adopted-budget-fy-2011-13-expenditures/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22department%22%2C%22unit%22%2C%22child-fund%22%5D%2C%22year%22%3A2012%2C%22cuts%22%3A%7B%7D%7D&width=700&height=400' frameborder='0'></iframe>
 
 ## Technological setup and challenges
 
@@ -69,6 +69,6 @@ team of 21 members working across the entire open government agenda. The
 group organises weekly meetups for volunteers and is supported by Code
 for America.
 
-Coverage:[TechPresident](http://techpresident.com/news/23749/oakland-gets-new-data-visualization-site-its-budget) and
+Coverage: [TechPresident](http://techpresident.com/news/23749/oakland-gets-new-data-visualization-site-its-budget) and
 [Oakland Local](http://oaklandlocal.com/article/open-oakland-opening-oakland%E2%80%99s-budget-community-voices) (community
 blog).

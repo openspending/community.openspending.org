@@ -20,4 +20,5 @@ Over the years the platform has helped identify shifts in in contractor purchase
 The database has however despite its comprehensive content and site visualisations not received any significant response from journalists nor CSOs. While it is not reasonable to speculate based on the available interview, we find it worth considering how one of the most transparent spending platforms should suffer from limited use. 
 
 Links: 
-- [Feature in Techcrunch](http://techcrunch.com/2011/08/23/slovenia-launches-supervizor-an-official-public-web-app-for-monitoring-public-spending/) from 2011
+
+* [Feature in Techcrunch](http://techcrunch.com/2011/08/23/slovenia-launches-supervizor-an-official-public-web-app-for-monitoring-public-spending/) from 2011
