@@ -9,10 +9,10 @@ The past few years organisations and journalists have, through FOI requests and 
 
 The cases also deals with the challenges of enhancing uptake among community members and journalists when the complexity and scale of the becomes clear. 
 
-* [Caring for your neighbourhood](./caring-for-my-neigh/)
+* [Caring for your neighbourhood](./caring-for-my-neighbourhood/)
 * [OKFN Greece](./okfn-greece/)
 * [EU Spending Data](./eu-spending-data/)
 * [Farmsubsidy.org](./farmsubsidy/)
-* [Farm subsidies in Mexico](./farmsubsidies-mexico/)
+* [Farm subsidies in Mexico](./farm-subsidies-mexico/)
 * [Supervizor](./supervizor/)
 
