@@ -1,84 +1,65 @@
 ---
-title: "Highlights"
+title: "Summary of recommendations"
 layout: osi
 ---
 
-# Highlights
+In the rest of this report, we present the status quo in CSO usage of government spending data in the form of a series of case studies on successful projects using such data.
 
-## Status Quo 
+In this chapter, we highlight the common difficulties faced by these CSOs and the opportunities they see for improvements to the useability of fiscal data, as well as our recommendations for how those difficulties can be overcome and those improvements achieved.
 
-### Demand for data 
+## More and better data needed
 
-From our interviews and discussions with civil society organisations for this study, we found that there is strong demand for more higher quality, machine readable data about public revenues and expenditures. In particular, for data on:
+There is strong demand not only for more data about public revenues and expenditures but also for data this is of higher quality and is more useable. While many CSOs consulted for this study engaged in sophisticated analysis and uncovered subtle connections, in terms of sheer person-hours, the bulk of their work consisted of collecting data and refining it for computational use.
 
-<ul>
-	<li>Budgets</li>
-	<li>Spending - crucially, at transaction level</li>  
-	<li>Procurement</li>
-	<li>Revenues</li>
-	<li><a href="../appendix/other-handy-datasets/">Other Useful Datasets</a></li>
-</ul>
+Our first and most important recommendation is therefore that CSOs push their governments to proactively release data on the full range of public finances in a machine-readable and accessible form. A later chapter of the report provides our [full guidelines for financial data](../appendix/open-budgets-open-data/).
 
-This should be:
+### Types of data to demand
 
-* proactively released 
-* [machine readable](../appendix/machinereadfaq/)
-* available at international (e.g. EU farm subsisidies), national and local levels
-* published as open data to enable reuse
+Many countries still do not make data available on important areas of public spending. There is a demand for data in each of the following categories:
 
-It should also be stated that no amount of proactive release can replace the need for Freedom of Information requests, which remain of prime importance. 
+* Budgets
+* Spending (crucially at transaction level)
+* Procurement and contracts
+* Revenues
+* [contextual information](../appendix/other-handy-datasets/) (e.g. demographics, geodata, targets &amp; outputs)
 
-[Read the full guidelines](../appendix/open-budgets-open-data/)
+### Relevance
 
-### Key Obstacles in Preventing Re-use of the Data
+As one interviewee remarked, it does not take much to render data unusable. It is important that data publishers take steps to ensure that published spending data actually contributes to citizen engagement with public finances.
 
-The following should be avoided at all costs when publishing government financial data.
+* release data proactively
+* release data regularly and in a timely fashion 
+* make data available at international (e.g. EU farm subsisidies), national, and local levels
+* ensure consistency of data (e.g. consistent identifiers for companies)
+* publish reference data, code sheets, and metadata
+* publish data with an open license to promote reuse
 
-* Absence of bulk download option
-* CAPTCHA codes preventing automated download
-* Publishing data in HTML or PDFs
+### Machine-readability
 
-### Common vocabulary and language barriers
+Publishing data in unstructured and non-machine-readable formats wastes time and prevents many projects from getting off the ground. Data should be published in a form that is transparent to computational processing.
 
-Two of the most common words which frame the transparency debate, *open* and *standard*, are used differently in policy and technical spheres -two key proponents of the transparency movement. This often leads to conversations happening at cross-purposes and hinders communication across the community.
+* [machine-readable format](../appendix/machinreadfaq) (no PDFs, Word documents, or HTML tables)
+* bulk download option: no CAPTCHA codes, download limits, etc.
 
-<table border="1">	
-	<tr>
-		<td><strong>Term</strong></td>
-		<td><strong>Open Data / Technical Community Usage</strong></td>
-		<td><strong>Policy Sphere Usage</strong></td>
-	</tr>
-	<tr><td>Open</td>
-		<td>Free to use, reuse and redistribute - subject only, at most, to the requirement to attribute and/or share-alike. (See <a href="http://opendefinition.org/">The Open Definition</a>.)</td>
-		<td>Publicy available and accessible.</td>
-	</tr>
-	<tr><td>Standard</td>
-		<td>A technical specification for code or data. For example, <a href="http://community.openspending.org/resources/standard/">the draft spending standard</a> by the Spending Data Community.</td>
-		<td>Best practice guidelines for a particular behaviour, or benchmarks.</td>
-	</tr>
-</table>
 
-As a result, special care and attention should be used when using these terms, particularly in formulating requests of governments.
+## Opportunities for knowledge-sharing and engagement
 
-### When it comes to publishing standards- there are clear role-models to follow
+More needs to be done to promote publishing standards and best practises between countries. CSOs consulted for this study readily identified countries with exemplary publishing practices (e.g. Slovakia's procurement data and the UK's transaction-level spending data). While we acknowledge that there is still work to be done on both accounts, examples like these should be identified as the forefront of open data policies and used as examples to help civil society initiatives demand more from their own countries.
 
-We regularly heard phrases such as “I want procurement data like Slovakia” or “How did you convince the UK government to release transaction-level spending?”. While we acknowledge that there is still work to be done on both accounts, such examples should be seen as the forefront of open data policies, and used as examples to help civil society initiatives demand more from their own countries.
+Examples of successful cooperation between CSOs and government have shown that CSO engagement with government can lead to greater financial transparency and better data. The [Supervizor](https://www.kpk-rs.si/en/project-transparency/supervizor-73) project in Slovenia, for example, was driven by a combination of a strong independent anti-corruption commission and access to pro-bono development resources to prototype and develop the models. CSOs will play a crucial role in the future of fiscal transparency.
 
-### Offering civil-society-led, free technical help to governments may promote transparency
+Finally, there is a major opportunity for transparency advocates and open data groups to work together. These two communities bring different focuses and areas of expertise, the combination of which may be very powerful. Transparency organisations bring knowledge of government policy and contextual experience that technical experts often lack; conversely, open data hackers understand data wrangling and the programmer community better than most policy experts. This opportunity has been partly obscured by superficial disagreements over terminology.
 
-For example, in Slovenia the [Supervizor site](https://www.kpk-rs.si/en/project-transparency/supervizor-73) seems to have been driven by a combination of a strong independent anti-corruption commission and access to pro-bono development resources to prototype and develop the models.
 
-### The training needs
+## Training needs
 
-Based on the interviews we’ve found that several skills are repeatedly emerging. While the pool of skills is hugely diversity across the community, key parts of the data pipeline from data retrieval to data cleaning are major hurdles, which steal time from activism and other parts of an organisation's work.
+Civil society groups around the world could benefit from training and support in key areas. While the pool of skills is hugely diverse across the CSO community, key parts of the data pipeline are consistent hurdles, stealing time from activism and other parts of an organisation's work.
 
-A key aim during our work was to work out an [ecosystem of tools](../appendix/tool-ecosystem/) which could be used as a basis for working out where effort should be focussed for future training efforts. All of the skills there could be useful for training, but there are a couple that are particularly prominent, due to the frequency of the problem. </li>)
+We see strong potential in offering focused trainings around these key needs:
 
-We could therefore see a strong potential in offering focused trainings around the key needs identified:
-<ul>
-	<li><strong>webscraping</strong>: when budget and procurement data needs to be peeled of the web scraping in the only option. We see no reason for to wait for governments to publish the data in bulk, so trainings in tools like ScraperWiki could help expand skills and increase data retrieval</li>
-	<li><strong>liberating and cleaning PDFs quickly</strong>: with new tools available there’s a real potential for upgrading the skills of communities. Both when it comes to web scraping and PDF liberation scaling models should be explored. As the needs for these tools are common and accessible a set up of training of trainers should be explored, in order to build the local pools of skills.</li>
-	<li><strong>build FOI request skills</strong>: Help groups acquire the FOI skills needed for advancing access to spending data, as many countries still apply archaic principles of FOI.</li>
-</ul>
+* Web scraping
+* Liberating and cleaning PDFs
+* FOI request skills
 
+This last point, FOI requests, should be emphasized: "technical" training is not the only training necessary! Despite recent increases in proactive data publication, FOI requests remain of prime importance for getting hold of information on public money, and CSOs interested in public spending require training in their use.
 

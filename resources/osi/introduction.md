@@ -25,20 +25,4 @@ We have kept this report short and readable in order to make it accessible to th
   * Examine some key case studies of how organisations are using technology to do groundbreaking research,  citizen engagement, visualisation and tracking of accountability.
   * Talk about the training needs for CSOs to help them better use the data available, and to demand better data. 
 
-The team behind the report can be reached at any time on *info [at] openspending.org*. 
-
-## Extra Material 
-
-### Videos 
-
-As part of the research for this project, we travelled from [Athens to Berlin](http://community.openspending.org/2012/07/athens-to-berlin-a-european-financial-profile/) to conduct a series of interviews with Civil Society Organisations across Europe. We were interested to know whether everyone suffered from similar problems in using the data - or whether some countries had a far easier time using the data. We found both statements to be true...
-
-These films can be found in the dedicated [videos section](./videos/). 
-
-### Map of projects 
-
-As an additional appendix to this report, we have published links to all of the organisations who we encountered of spoke to during our research and made a [map of their projects](http://apps.openspending.org/oscontactsmap/). The majority of these projects have some kind of online presence and use technology either to get, clean, analyse or present their data.
-
-## Thanks 
-
-We would like to thank the Open Society Foundations for their generous support to put together the research for this report. 
+The team behind the report can be reached at any time on *info [at] openspending.org*. We would like to thank the Open Society Foundations for their generous support to put together the research for this report. 
