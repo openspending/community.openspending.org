@@ -3,11 +3,13 @@ title: Case Studies - Spending
 layout: osi
 ---
 
-# Case Studies - Spending
-<br>
-The past few years organisations and journalists have, through FOI requests and open data agendas, addressed the need for granular transactional spending data. Meanwhile we have seen countries which have released spending data without much public attention. In the following case studies we examine how spending data can be used to strengthen local community participation as well as increase accountability of some of the biggest spending programmes in the EU.
+![Spending data](http://i.imgur.com/eXUlwMe.png)
 
-The cases also deals with the challenges of enhancing uptake among community members and journalists when the complexity and scale of the becomes clear. 
+In contrast to budget data, spending data reports on specific expenditures of funds, covering individual transactions that have actually taken place rather than categories of planned spending.
+
+Our research has uncovered an interestingly contradictory state of affairs. In most countries, fine-grained transactional spending data is not easily available, and over the past few years, organisations and journalists in these countries have used FOI requests and otherwise created pressure for the release of such data. In a few countries, however, such spending data has been published without attracting much public attention.
+
+In the following case studies, we examine how spending data can be used to strengthen community participation in public spending as well as to increase accountability on some of the biggest spending programmes in the EU. The cases also deal with the challenges of enhancing uptake of spending data among community members and journalists in the face of the data's often intimidating complexity and scale.
 
 * [Caring for your neighbourhood](./caring-for-my-neighbourhood/)
 * [OKFN Greece](./okfn-greece/)

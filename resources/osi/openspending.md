@@ -1,5 +1,5 @@
 ---
-title: "Case Study: OpenSpending"
+title: "OpenSpending"
 layout: osi
 ---
 

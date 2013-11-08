@@ -1,12 +1,11 @@
 ---
-title: "Case Study: Open University"
+title: "Budget transparency for an open university"
 layout: osi
 ---
 
 # Budget transparency for an open university
 
-About the project:
-The project began by scraping budget documents in PDF format published by the University of Grenade to a machine-readable format with the purpose of making it easier for citizens, journalists and even employees at the university to work with the data, using tools from spreadsheets to visualization suites. The resulting app allow users to download the income and expenditure budgets in CSV format and provides a set of comprehensive visualizations.
+The project began by scraping budget documents in PDF format published by the University of Grenada to a machine-readable format with the purpose of making it easier for citizens, journalists and even employees at the university to work with the data, using tools from spreadsheets to visualization suites. The resulting app allow users to download the income and expenditure budgets in CSV format and provides a set of comprehensive visualizations.
 
 The idea emerged under the International Open Data Day, a gathering of citizens in cities around the world to write applications, using open public data to show support for and encourage the adoption open data policies by the world's local, regional and national governments. The Open Knowledge Foundation's local Spanish chapter did a call for participants and the Free Software Office at the University of Grenade accepted the challenge.
 
