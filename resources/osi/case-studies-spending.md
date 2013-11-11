@@ -16,5 +16,6 @@ In the following case studies, we examine how spending data can be used to stren
 * [EU Spending Data](./eu-spending-data/)
 * [Farmsubsidy.org](./farmsubsidy/)
 * [Farm subsidies in Mexico](./farm-subsidies-mexico/)
+* [India Spend](./india-spend/)
 * [Supervizor](./supervizor/)
 

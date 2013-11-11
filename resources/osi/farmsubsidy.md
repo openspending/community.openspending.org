@@ -1,5 +1,5 @@
 ---
-title: "Case Study: FarmSubsidy.org"
+title: "FarmSubsidy.org"
 layout: osi
 ---
 
