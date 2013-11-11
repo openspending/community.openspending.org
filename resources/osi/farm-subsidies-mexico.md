@@ -9,13 +9,13 @@ layout: osi
 
 ![Farm subsidies database](http://i.imgur.com/4MkQnsg.png)
 
-Fundar joined with two other organisations including University of
+[Fundar](http://fundar.org.mx) joined with two other organisations including the University of
 California of Santa Cruz to build the first farm subsidy database in
 Mexico. Fundar received some technical assistance from the Environmental
 Working Group, which operates the US farm subsidy database. 
 
-Currently Fundar is planning to relaunch the database with a new interface and new
-features. One part-time consultant and two developers work on the database,
+Fundar is currently planning to relaunch the database with a new interface and new
+features. One part-time consultant and two developers are working on the database,
 which is strongly prioritised by the organisation.
 
 ## Experiences 

@@ -10,67 +10,65 @@ layout: osi
 additional input from <a href="https://twitter.com/ronpatz">Ronny Patz</a>,
 Transparency International, Brussels Office.</div>
 
-Among journalists and CSOs European spending programmes are in these
-years undergoing increased scrutiny. In this section we will examine the
-access to data from the EU Structural Funds as well as the EU Commission
+European spending programmes have been undergoing increased scrutiny
+among journalists and CSOs in recent years. In this section, we will examine the
+access to data from the EU structural funds as well as the EU Commission
 spending through the Financial Transparency System (FTS) and discuss
-what actors are are involved in data driven analysis and campaigning
-around this.
+what actors are involved in data-driven analysis and campaigning
+around this data.
 
-## Structural Funds
+## Structural funds
 
 Following the Common Agricultural Policy, which has been covered by
-Farmsubsidy.org (see other section), data from the structural funds have
-been considered as the most important spending data by journalists as
-well as CSOs. In 2010 the Financial Times and the Bureau of
+[Farmsubsidy.org](../farmsubsidy/), data from the structural funds have
+been considered the most important spending data by both journalists and CSOs. In 2010, the Financial Times and the Bureau of
 Investigative Journalism published a project including an extensive
 database [mapping the structural
 funds](http://datajournalismhandbook.org/1.0/en/case_studies_1.html) across
-for the 2007-2013 EU budget ([more info](http://blog.okfn.org/2011/03/08/a-kafkaesque-data-trail-the-hunt-for-europes-hidden-billions/)).
+the 2007-2013 EU budget ([more info](http://blog.okfn.org/2011/03/08/a-kafkaesque-data-trail-the-hunt-for-europes-hidden-billions/)).
 The project was rightly heralded as
-groundbreaking for its level of detail, dedication and cross border
-setup. Three years later it is however also clear that such centrally
-initiated projects have clear limitations, and therefore challenges
-remain when thinking about how European wide spending transparency.
+groundbreaking for its level of detail and dedication and its cross-border
+setup. Three years later, however, it is also clear that such centrally
+initiated projects have limitations, and therefore challenges
+remain when thinking about Europe-wide spending transparency.
 
 ### Data issues
 
-The FT-TBIJ structural funds-investigation exposed a series of barriers,
-which limits the use of structural funds for CSOs and journalists:
+The FT-TBIJ structural funds investigation exposed a series of barriers
+which limit the use of structural funds for CSOs and journalists:
 
-1.  Poor data quality
+*  Poor data quality
 
-1.  Lack of access to data in machine readable formats. In practise data
-    is often published as PDF as no format for the spending data has
+*  Lack of access to data in machine-readable formats; in practise, data
+    is often published as PDF, since no format for spending data has
     been specified in EU regulation
 
-2.  A dispersed model of distribution across regions in Europe from
-    dusins of local sites without a European centralised clearing house
+*  A dispersed model of distribution across regions in Europe from
+    dozens of local sites without a centralised European clearinghouse
 
 ### Community challenges
 
 We’ve identified a few important points, which should be noted from the
 project:
 
-1.  Media outlets are unlikely to build and sustain long term data
-    projects: Though the project provided a unique insight into
-    structural funds, it was not the intention from the publishers to
-    develop a long term model for tracing and publishing  structural
-    fund payments. Though non-profit media institutions do offer a [few
-    important exceptions](http://projects.propublica.org/docdollars/),
-    we also know that maintaining databases is costly and is vastly
-    considered providing too little value for ongoing beat journalism inside
+*  **Media outlets are unlikely to build and sustain long-term data
+    projects**. Though the project provided a unique insight into
+    structural funds, it was not the intention of the publishers to
+    develop a long-term model for tracing and publishing  structural
+    fund payments. Though non-profit media institutions do offer a few
+    [important exceptions](http://projects.propublica.org/docdollars/),
+    we also know that maintaining databases is costly and is widely
+    considered to provide too little value for ongoing beat journalism inside
     newsrooms.
-2.  CSOs have not addressed systemic needs for data: Despite receiving
+*  **CSOs have not addressed systemic needs for data**. Despite receiving
     wide recognition from CSOs regarding the importance of the FT-TBIJ
-    structural funds-investigation, the European CSO-community has
+    structural funds investigation, the European CSO community has
     remained unable to address the need for continuous data flows and
-    analytical capacity. Several CSOs do however provide extensive
-    coverage of European data across topics like FOI (AccessInfo),
-    lobbyism (Corporate Europe, Alter-EU) and the green economy
-    (Bankwatch, Friends of the Earth).
-3.  Improvements in access to data seems still to be largely supply
-    driven: There are national governmental initiatives addressing the
+    analytical capacity. Several CSOs do, however, provide extensive
+    coverage of European data across topics like FOI ([AccessInfo](http://www.access-info.org)),
+    lobbyism ([Corporate Europe](http://corporateeurope.org), [Alter-EU](http://www.alter-eu.org)) and the green economy
+    ([Bankwatch](http://bankwatch.org), [Friends of the Earth](http://foei.org)).
+*  **Improvements in access to data seem still to be largely supply-driven**. There are national governmental initiatives addressing the
     lack of access to spending data such as [Open
     Coesione](http://www.opencoesione.gov.it/) from the Italian
     government (launched summer 2012), which publishes data on Italian
@@ -80,37 +78,36 @@ project:
     through open data events and social media.
 
 [Luigi Reggi](http://luigireggi.eu) has also mapped the accessibility of
-EU structural funds data across the EU:
+EU structural funds data across the EU.
 
-![EU Structural Funds](http://farm6.staticflickr.com/5444/8895739707_955cb8bcac_z.jpg)
+![EU structural funds](http://farm6.staticflickr.com/5444/8895739707_955cb8bcac_z.jpg)
 
-<small>Description: Rating of the accessibility of data
-from the Structural Funds, Red: PDF only, to Dark greeen: Machine
-readible. Source: luigireggi.eu</small>
+<small>Rating of the accessibility of data
+from the structural funds. Red: PDF only. Dark green: machine
+readable. Source: [luigireggi.eu](http://luigireggi.eu)</small>
 
 ## Future perspectives
 
-The data from the EU Structural Funds is an example where CSOs and media
-outlets are still falling short from the potential of covering already
-available spending data in individual countries as well as across
+The data from the EU structural funds is an example where CSOs and media
+outlets are still falling short of the potential of covering already-available spending data in individual countries as well as across
 borders.
 
-At this moment there seems to be no clear political momentum within the
-EU for requiring data from the Structural Funds to be published at a
+At this moment, there seems to be no clear political momentum within the
+EU for requiring data from the structural funds to be published at a
 central site (eg. on the European Data Portal).
 
-New rules will however mandate publishing of structural fund data
-according to certain dimensions or fields, which provide a small step in
+New rules will, however, mandate publishing of structural fund data
+according to certain dimensions or fields, which provides a small step in
 the right direction ([page
 157](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0496:FIN:EN:PDF))
 
-## The Financial Transparency System (FTS)
+## Financial Transparency System (FTS)
 
-Spending reported under the FTS consist of both [EU Commission spending
+Spending reported under the FTS consists of both [EU Commission spending
 and grant funding](http://community.openspending.org/research/eu/) provided to
-programmes such as research, education and foreign aid, is likely the best documented part of the EU budget, though it is not transactional spending data, as it only provide project funding data,
-and thus not actual transactions from either EU agencies not project recipients.
+programmes such as research, education, and foreign aid. This is likely the best documented part of the EU budget, though it is not transactional spending data, as it only provides project funding data
+and not actual transactions from either EU agencies nor project recipients.
 
-An increase in the minimum threshold is however under consideration,
-which could cause a decrease in access to a substantial amount of
+An increase in the minimum threshold is under consideration,
+however, which would cause a decrease in access to a substantial amount of
 payments.
