@@ -1,5 +1,5 @@
 ---
-title: Case Studies - Spending
+title: "Case Studies: Spending"
 layout: osi
 ---
 

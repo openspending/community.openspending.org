@@ -1,5 +1,5 @@
 ---
-title: "Case Studies: from local to global"
+title: "Case Studies: From Local to Global"
 layout: osi
 ---
 
