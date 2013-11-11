@@ -7,9 +7,9 @@ layout: osi
 
 As part of the research for this project, we travelled from [Athens to Berlin](http://community.openspending.org/2012/07/athens-to-berlin-a-european-financial-profile/) to conduct a series of interviews with Civil Society Organisations across Europe. Our goal was to find organisations working with government financial information and to discover what they were doing with it and how it could be made easier.
 
-We found organisations working with varieties of data including budgets, procurements, and even news articles on corruption. Diverse as they were, these organisations encountered many of the same problems in working with their data, such as bad organisational identifiers, data in non-machine-readable formats, and obstruction from data providers. We discussed the impact of their work on public participation in government spending and asked them for their wish-lists for the world of public spending data.
+We found organisations working with varieties of data including budgets, procurements, and even news articles on corruption. Diverse as they were, these organisations encountered many of the same problems in working with their data, such as bad organisational identifiers, data in non-machine-readable formats, and obstruction from data providers. We discussed the impact of their work on public participation in government spending and asked them what changes they'd like to see in the world of open spending data.
 
-The videos below present highlights from this series of interviews. They introduce the CSOs we talked to, explore the challenges they face working with data, shine a spotlight on their work's impact, and conclude with areas for future work.
+The videos below present highlights from this series of interviews. They introduce the CSOs we talked to, explore the challenges they face working with data, shine a spotlight on their work's impact, and conclude by highlighting opportunities for future work.
 
 ## Introduction to the organisations
 

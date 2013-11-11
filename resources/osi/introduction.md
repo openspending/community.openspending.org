@@ -15,17 +15,17 @@ When this work started in early 2012, our aim was threefold:
 
 * *To discover how CSOs currently work with spending data, how they would like to use it, and what they would like to achieve*, including:
 
-  * what existing tools are being used
-  * what current technical needs are unmet
-  * what would be required to meet these needs and how feasible is it to tackle them
+  * What existing tools are being used
+  * What current technical needs are unmet
+  * What would be required to meet these needs and how feasible is it to tackle them
 
 This report is the output of that research. It brings together key case studies from organisations who have done pioneering work in using technology to work with public finance data.
 
 We have kept this report short and readable in order to make it accessible to the broadest possible audience. We believe that there are some very quick ways to make the work that CSOs do a lot easier, more thorough, and more sustainable. In this report we therefore:
 
-  * examine some key case studies of how organisations are using technology to do groundbreaking research,  citizen engagement, and tracking of accountability
-  * outline how data could be improved in order to make it more usable 
-  * discuss the training needs for CSOs to help them better use the data available and to demand better data 
+  * Examine some key case studies of how organisations are using technology to do groundbreaking research,  citizen engagement, and tracking of accountability
+  * Outline how data could be improved in order to make it more usable 
+  * Discuss the training needs for CSOs to help them better use the data available and to demand better data 
 
 At the end of the report, you will find an [appendix](../appendix) which outlines key tools of use to those investigating or working with government financial information. We hope that this is a useful resource for those building training curriculae around financial data—and would welcome any feedback if there is anything we have missed. 
 
