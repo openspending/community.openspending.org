@@ -1,6 +1,6 @@
-*[Online Hangouts and Meetups](./hangouts/)
-*[Developer Meetings](./developer-meetings/)
-*OpenSpending Data Parties (page coming soon)
+* [Online Hangouts and Meetups](./hangouts/)
+* [Developer Meetings](./developer-meetings/)
+* OpenSpending Data Parties (page coming soon)
 
 ##Calendar
 
