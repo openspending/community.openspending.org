@@ -45,11 +45,17 @@
     <li>
       <a href="{{ site.baseurl }}/events/">Events</a>
       <ul>
-        <li {% if url_last == 'events' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/events/">Calendar</a>
-        </li>
         <li {% if url_last == 'hangouts' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/events/hangouts/">Hangouts</a>
+        </li>
+        <li {% if url_last == 'developer-meetings' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/events/developer-meetings/">Developer Meetings</a>
+        </li>
+        <li {% if url_last == 'data-parties' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/events/data-parties/">Data Parties</a>
+        </li>
+        <li {% if url_last == 'open-data-day' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/events/open-data-day/">Open Data Day</a>
         </li>
       </ul>
     </li>
