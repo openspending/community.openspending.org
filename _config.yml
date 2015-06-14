@@ -1,37 +1,67 @@
-markdown: rdiscount
-pygments: true
-permalink: /:categories/:year/:month/:day/:title.html
-authors:
-  anders:
-    name: Anders Pedersen
-  fabiano:
-    name: Fabiano Angélico
-  federico:
-    name: Federico Ramirez
-  pudo:
-    name: Friedrich Lindenberg
-  gisele:
-    name: Gisele Craveiro
-  lisa:
-    name: Lisa Evans
-  lucy:
-    name: Lucy Chambers
-  mark:
-    name: Mark Brough
-  mk270:
-    name: Martin Keegan
-  matthias:
-    name: Matthias Stürmer
-  michal:
-    name: Michal Škop
-  nick:
-    name: Nick Stenning
-  raimo:
-    name: Raimo Muurinen, Henri Ahti
-  samuel:
-    name: Samuel Lee
-  tryggvi:
-    name: Tryggvi Björgvinsson
-  victoria:
-    name: Victoria Vlad
+# Site settings
+title: OpenSpending Community
+short_title: OpenSpending
+description: |
+    Creating a free and open database of public financial transactions worldwide.
+baseurl: "/community.openspending"
+url: "http://community.openspending.org/" # the base hostname & protocol for your site
+github_username:  okfn
+github_repo:  community.openspending
+paypal: admin@okfn.org
+contact: https://discuss.okfn.org/t/openspending-community-website-migration-2015/330
+img_path: http://community.openspending.org/files
 
+devs:
+  -
+      name: Sam Smith
+      github: mintcanary
+
+contributors:
+  -
+      name: Rufus Pollock
+      link: http://rufuspollock.org/
+
+supporters:
+  -
+    name: 4iP
+    footer_logo: 4ip-footer.png
+  -
+    name: Open Society Foundations
+    footer_logo: osf-footer.png
+  -
+    name: Knight Foundation
+    footer_logo: kf-footer.png
+  -
+    name: Omidyar Network
+    footer_logo: on-footer.png
+
+
+
+#googleanalytics: UA-XXXXX-X
+
+markdown: kramdown
+
+permalink: pretty
+
+related_projects:
+  -
+      name: OpenGovernmentData.org
+      link: http://opengovernmentdata.org/
+  -
+      name: The DataHub
+      link: http://datahub.io/
+  -
+      name: DataCatalogs.org
+      link: http://datacatalogs.org/
+  -
+      name: OpenSpending.org
+      link: http://openspending.org/
+  -
+      name: SchoolOfData.org
+      link: http://schoolofdata.org/
+  -
+      name: OpenDefinition.org
+      link: http://opendefinition.org/
+  -
+      name: Introducing Open Data
+      link: http://okfn.org/opendata/

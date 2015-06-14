@@ -1,0 +1,81 @@
+{% assign url_parts = page.url | split: '/' %}
+{% assign url_last = url_parts |last  %}
+
+<header class="site-header">
+  <a href="#menu" class="show-menu"><span class="text">Open the menu</span></a>
+  <a class="site-title" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
+</header>
+
+<nav id="menu">
+  <ul>
+    <li>
+      <a href="{{ site.baseurl }}/">Home</a>
+    </li>
+
+    <li>
+      <a href="{{ site.baseurl }}/about/">About</a>
+      <ul>
+        <li {% if url_last == 'about' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/">About OpenSpending</a>
+        </li>
+        <li {% if url_last == 'community-site' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/community-site/">About this site</a>
+        </li>
+        <li {% if url_last == 'exemplars' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/exemplars/">Exemplars</a>
+        </li>
+        <li {% if url_last == 'governance' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/governance/">Governance</a>
+        </li>
+        <li {% if url_last == 'contributors' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/contributors/">Contributors</a>
+        </li>
+        <li {% if url_last == 'timeline' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/timeline/">Timeline</a>
+        </li>
+        <li {% if url_last == 'funders' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/funders/">Funders</a>
+        </li>
+        <li {% if url_last == 'contact' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/contact/">Contact</a>
+        </li>
+      </ul>
+    </li>
+
+    <li>
+      <a href="{{ site.baseurl }}/events/">Events</a>
+      <ul>
+        <li {% if url_last == 'events' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/events/">Calendar</a>
+        </li>
+        <li {% if url_last == 'hangouts' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/events/hangouts/">Hangouts</a>
+        </li>
+      </ul>
+    </li>
+
+    <li>
+      <a href="{{ site.baseurl }}/get-involved/">Get Involved</a>
+      <ul>
+        <li {% if url_last == 'get-involved' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/get-involved/">Start Here</a>
+        </li>
+      </ul>
+    </li>
+
+    <!--
+    <li {% if url_parts contains 'blog' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/blog/">Blog</a>
+    </li>
+    -->
+
+    <li>
+      <a href="{{ site.baseurl }}/help/">Help &amp; Guides</a>
+      <ul>
+        <li {% if url_last == 'help' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/help/">OpenSpending Guide</a>
+        </li>
+      </ul>
+    </li>
+
+</nav>
