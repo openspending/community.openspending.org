@@ -1,42 +1,34 @@
 ---
-layout: meta
-title: Get in touch
+layout: page
+section: about
+lead: true
+title: Contact
+authors:
+- Anders Pedersen
 ---
+General contact points:
 
-## Get in touch
+* Online chat (via IRC): #OpenSpending on Freenode ([join the chatroom straight from your browser](http://webchat.freenode.net/?channels=openspending))
+* Twitter: [@openspending](https://twitter.com/openspending) - <a href="https://twitter.com/#!/openspending/spending-orgs">Spending Orgs Twitter List</a>
+* Email: `info@openspending.org`
 
-OpenSpending is a project operated by the [Open Knowledge Foundation](http://okfn.org), an international non-profit organisation. The OKFN is a community-driven organisation that aims to promote open knowledgeand data. We build tools and communities that enable the collaborative use and production of digital information.
+## Community discussion
 
-If you'd like to get in touch with the OKFN generally, visit our [contact page](http://okfn.org/contact/). 
+For general discussions about open spending data, discussions about the steering group, exchange of ideas about new and upcoming projects in this area, and so on:
 
-OpenSpending is both a platform and a community, both have their own method of contact:
+* [OpenSpending Discussion list](http://lists.okfn.org/mailman/listinfo/openspending)
+* Online chat (via IRC): see above
 
-### How to reach us
+## Data wrangling support
 
-Where possible we encourage conversations to take place via our  mailing lists. This helps to keep conversation open to contribution and the community informed of what we are getting up to.
+If you need help scraping, cleaning, or uploading data to OpenSpending:
 
-### Community discussion
+* [OpenSpending Data Wrangling list](http://lists.okfn.org/mailman/listinfo/os-datawrangling)
+* Online chat (via IRC): see above
 
-For **general discussions about open spending data**, discussions about the [working group](http://openspending.org/resources/wg/index.html), exchange of ideas about new and upcoming projects in this area etc please contact: 
+## Developers
 
-* **Mailing list**: [openspending@lists.okfn.org - registration page](http://lists.okfn.org/mailman/listinfo/openspending)
+For inquiries related specifically to the OpenSpending.org code and platform:
 
-### Discussion about OpenSpending.org
-
-For inquiries related specifically to the OpenSpending.org platform, please contact us via the development mailing list:
-
-* **Development Mailing List**: [openspending-dev@lists.okfn.org - registration page](http://lists.okfn.org/mailman/listinfo/openspending-dev)
-
-You can also contact us:
-
-* **In the IRC chat room**: [#openspending](http://webchat.freenode.net/?channels=openspending>) on FreeNode
-* **Via Twitter**: [@openspending](http://.twitter.com/openspending)
-* Follow the working group members and other spending data orgs via the [Spending Orgs Twitter List](https://twitter.com/#!/openspending/spending-orgs)
-
-
-If you're interested in contributing to the platform, visit the [get involved](contribute.html) page.
-
-Should the nature of your question not allow for a public discussion, please write to **info@openspending.org**.
-
-
-
+* [OpenSpending Development Mailing List](http://lists.okfn.org/mailman/listinfo/openspending-dev)
+* Online chat (via IRC): see above
