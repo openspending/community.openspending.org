@@ -1,131 +1,93 @@
 ---
-title: Using OpenSpending
-layout: help_frame
+layout: page
+section: about
+lead: true
+title: Help
+authors:
+- Anders Pedersen
 ---
 
-<h2>OpenSpending.org - an open platform for government expenditure tracking</h2>
-<div class="row">
-    <div class="span6">
-        <p>
-            OpenSpending offers an easy system to upload, explore and 
-            share public finance data - such as budgets or expenditure 
-            databases.
-            While we offer search and visualization features to slice 
-            and dice financial data, our API is even more powerful: it 
-            enables anyone to easily create their own visualizations and budget
-            apps, without building their own backend.
-        </p>
-    </div>
-    <div class="span6">
-        <p>
-            The site is offered as a free service. All code, content and 
-            data are shared and openly licensed. No user of the platform will
-            become involuntarily dependent on the site. Our sustainability model
-            relies both on grant funding and technical services provided to 
-            CSOs, governments, media and international organizations. If 
-            you are interested in working with us, 
-            <a href="/about/contact.html">please get in touch</a>.
-        </p>
-    </div>
-</div>
-<br/>
-<div class="row">
-    <div class="span4">
-        <img src="images/browse_teaser.png" />
-        <h3>Explore existing spending datasets</h3>
-        <ul>
-            <li>Dive in: Explore the <a href="http://openspending.org/eu-commission-fts/views/new"> European Commission's direct expenditure</a> and create a chart.</li>
-            <li><a href="http://opendatalabs.org/spendbrowser">Search across all data</a> to 
-            investigate supplier activity across the globe.</li>
-            <li><a href="http://webtv.journalismfestival.com/doc/1311/raccontare-la-spesa-pubblica.htm">Watch a recorded workshop</a> about the project from 
-            the International Journalism Festival.</li>
-        </ul>
-    </div>
-    <div class="span4">
-        <img src="images/upload_teaser.png" />
-        <h3>Upload and share a financial dataset</h3>
-        <ul>
-            <li>Get an <a href="data-loading.html">overview of the steps</a> 
-                required to upload a dataset.</li>
-            <li>Learn <a href="data-cleansing.html">how to format and prepare
-                your data</a> and find help with some common problems.</li>
-            <li><a href="/datasets/new">Create a custom dataset</a> once you 
-                have some structured data.</li>
-        </ul>
-    </div>
-    <div class="span4">
-        <img src="images/kit_teaser.png" />
-        <h3>Make your own budget monitoring site</h3>
-        <ul>
-            <li>Read the <a href="/blog/2012/02/16/thekit.html">intro to the Where Does My Money Go? Assembly Kit</a> and <a href="https://github.com/openspending/satellite-template#readme">follow the intro</a>.</li>
-            <li><a href="api.html">Experiment with our API</a> to power custom visualizations.</li>
-            <li>Browse <a href="http://github.com/openspending/openspendingjs">existing JavaScript apps</a> on GitHub.</li>
-        </ul>
-    </div>
-</div>
-<br/>
-<div class="row">
-    <div class="span4">
-        <h3>... and don't forget to:</h3>
-    </div>
-    <div class="span8">
-        <ul>
-            <li><a href="/about/faq.html">Read the Frequently Asked Questions</a> to catch up on the 
-                background.</li>
-            <li><a href="http://lists.okfn.org/mailman/listinfo/openspending">Join our mailing list</a>
-                to discuss with budget enthusiasts from around the globe.</li>
-            <li><a href="https://github.com/openspending/openspending/issues">Report any technical issues</a> you may experience while using the 
-                site.</li>
-            <li><a href="http://okfn.org/projects/">Visit some of the other projects</a>
-                of the Open Knowledge Foundation.</li>
-        </ul>
-    </div>
-</div>
+Are you looking to get started using OpenSpending? Have a look at some of our guides and get rolling! If you have questions, [get in touch](../about/contact).
 
-<br />
-<div class="top-image">
-    <!--
-    http://www.flickr.com/photos/kenyee/18784775/sizes/o/in/photostream/
-    -->
-    <img src="images/engine.png" />
-    <h2>Under the hood</h2>
-</div>
-<br />
+#### OpenSpending Guide
 
-<div class="row">
-    <div class="span4">
-        <p>
-            OpenSpending is free software. We believe that running a 
-            central store of spending information has strong
-            benefits, e.g. to enable cross-dataset search and comparisons. 
-            Therefore, we encourage everyone to use the main site.
-        </p>
-        <p>
-            If your use case has special demands relating to privacy or if 
-            you have concerns over using a service hosted in the United
-            Kingdom, here is the documentation to help you set up 
-            a custom install.
-        </p>
-    </div>
-    <div class="span4">
-        <h3>Documentation</h3>
-        <ul>
-            <li><a href="http://docs.openspending.org/en/latest/install.html">Installation Instructions</a></li>
-            <li><a href="http://docs.openspending.org/en/latest/model/design.html">Technical Overview</a></li>
-            <li><a href="http://docs.openspending.org/en/latest/model/objects.html">Domain Model</a></li>
-            <li><a href="https://github.com/openspending/openspending/blob/master/LICENSE.txt">Software License</a> (AGPL v3)</li>
-            <li><a href="http://lists.okfn.org/mailman/listinfo/openspending-dev">Developers Mailing List</a></li>
-        </ul>
-    </div>
-    <div class="span4">
-        <h3>Source code</h3>
-        <ul>
-            <li><a href="https://github.com/openspending/openspending">openspending</a> - core backend software.</li>
-            <li><a href="https://github.com/openspending/openspendingjs">openspendingjs</a> - JavaScript frontend code.</li>
-            <li><a href="https://github.com/openspending/osvalidate">osvalidate</a> - model and data validation toolkit.</li>
-            <li><a href="https://github.com/openspending/taxman">taxman</a> - personal tax calculation API.</li>
-            <li><a href="https://github.com/openspending/dotorg">dotorg</a> - content for the site and the blog.</li>
+The OpenSpending Guide is the manual for OpenSpending, covering the entire process of finding, adding, and using data with OpenSpending in detail.
 
-        </ul>
-    </div>
-</div>
+The English-language Guide contains the following sections:
+
+* Introduction
+    * [What is OpenSpending?](./guide/en/what-is-openspending)
+    * [What types of financial data can go into OpenSpending?](./guide/en/financial-data-types)
+    * [How does OpenSpending represent data?](./guide/en/data-model)
+* Adding Data to OpenSpending
+    * [Overview](./guide/en/adding-data-overview)
+    * [Gathering data](./guide/en/gathering-data)
+    * [Formatting data](./guide/en/formatting-data)
+    * [Publishing data on the web](./guide/en/publishing-data)
+    * [Creating a dataset on OpenSpending](./guide/en/creating-dataset)
+    * [Modelling your data in OpenSpending](./guide/en/modelling-data)
+* Visualizations
+    * [Create a visualization](./guide/en/create-viz)
+    * [Embed a visualization on your website](./guide/en/embed-viz)
+
+The OpenSpending Guide is available in multiple languages:
+
+* [English](./guide/en)
+* [French](./guide/fr)
+* [Italian](./guide/it)
+* [Nepali](./guide/npl)
+* [Romanian](./guide/rom)
+* [Spanish](./guide/esp)
+
+Many other translations are under development. Check back for new translations or <a href="https://trello.com/c/abfAVgBC/14-permanent-openspending-guide-translation">help add your language</a>.
+
+#### Video guides
+
+* [OpenSpending Upload, Step 1](http://vimeo.com/43259079#): adding a dataset
+* [OpenSpending Upload, Step 2](http://vimeo.com/43760979): data modelling
+* [How to Fix Errors in OpenSpending](http://vimeo.com/43762097)
+* [Introduction to Spending Stories](http://webtv.journalismfestival.com/doc/1311/raccontare-la-spesa-pubblica.htm)
+* [Talk from "The Big Clean", Prague 2012](http://www.youtube.com/watch?v=ofzU43g5ZpY)
+
+#### Tutorials
+
+* [D3.js Sankey diagrams with the OpenSpending API](http://blog.openspending.org/2013/08/28/d3-sankey/)
+
+#### OpenSpending API
+
+OpenSpending aims to be a simple-to-use platform for developers by offering a variety of APIs that can be used to create visualizations, reports, and other applications. These help pages describe the APIs and provide examples of their use.
+
+* [API conventions](./conventions)
+* [Aggregate API](./aggregate)
+* [REST resources](./rest)
+* [Full-text search API](./search)
+* [Personal tax API](./tax)
+* [Dataset loading API](./loading)
+
+#### Development
+
+How to contribute to OpenSpending's development.
+
+* [Hacking on OpenSpending](./volunteer)
+* [Development process](./process)
+* [Code reviews](./review)
+
+#### Resource links
+
+OpenSpending Community key shared resources.
+
+##### Documents
+
+* [Community Google Drive folder](https://drive.google.com/a/okfn.org/#folders/0B6R8dXc6Ji4JUWs5UDdzSzU2UG8)
+
+##### Data Stuff
+
+* [Tracker for data to load](https://github.com/openspending/datatoload)
+
+##### Code
+
+[OpenSpending on GitHub](https://github.com/openspending)
+
+* [Core application](https://github.com/openspending/openspending)
+* [JavaScript library](https://github.com/openspending/openspendingjs)
+* [Satellite site template](https://github.com/openspending/satellite-template)
