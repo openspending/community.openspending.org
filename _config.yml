@@ -3,7 +3,7 @@ title: OpenSpending Community
 short_title: OpenSpending
 description: |
     Creating a free and open database of public financial transactions worldwide.
-baseurl: "/community.openspending"
+baseurl: "/dotorg"
 url: "http://community.openspending.org/" # the base hostname & protocol for your site
 github_username:  okfn
 github_repo:  community.openspending
