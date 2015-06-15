@@ -11,7 +11,9 @@
     <li>
       <a href="{{ site.baseurl }}/">Home</a>
     </li>
-
+    <li>
+      <a href="http://community.openspending.org/blog/">Blog</a>
+    </li>
     <li>
       <a href="{{ site.baseurl }}/about/">About</a>
       <ul>
@@ -63,18 +65,17 @@
     <li>
       <a href="{{ site.baseurl }}/get-involved/">Get Involved</a>
       <ul>
-        <li {% if url_last == 'get-involved' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/get-involved/">Start Here</a>
+        <li {% if url_last == 'data' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/get-involved/data/">Data Team</a>
+        </li>
+        <li {% if url_last == 'web' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/get-involved/web/">Web and News Team</a>
+        </li>
+        <li {% if url_last == 'translation-help' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/get-involved/translation-help/">Translation Help</a>
         </li>
       </ul>
     </li>
-
-    <!--
-    <li {% if url_parts contains 'blog' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/blog/">Blog</a>
-    </li>
-    -->
-
     <li>
       <a href="{{ site.baseurl }}/help/">Help &amp; Guides</a>
       <ul>
