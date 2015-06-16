@@ -68,9 +68,9 @@ OpenSpending aims to be a simple-to-use platform for developers by offering a va
 
 How to contribute to OpenSpending's development.
 
-* [Hacking on OpenSpending](./volunteer)
-* [Development process](./process)
-* [Code reviews](./review)
+* [Hacking on OpenSpending](./development/volunteer)
+* [Development process](./development/process)
+* [Code reviews](./development/review)
 
 #### Resource links
 
@@ -86,8 +86,7 @@ OpenSpending Community key shared resources.
 
 ##### Code
 
-[OpenSpending on GitHub](https://github.com/openspending)
-
+* [OpenSpending on GitHub](https://github.com/openspending)
 * [Core application](https://github.com/openspending/openspending)
 * [JavaScript library](https://github.com/openspending/openspendingjs)
 * [Satellite site template](https://github.com/openspending/satellite-template)
