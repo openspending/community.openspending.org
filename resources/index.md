@@ -1,6 +1,7 @@
 ---
-title: OpenSpending Commmunity
-layout: wg
+title: Resources on Financial Data
+layout: page
+lead: true
 ---
 
 <h2>Community Resources</h2>
@@ -12,7 +13,7 @@ layout: wg
       <div class="caption">
         <p>OpenSpending is not just a set of technologies, the core of our project is
         a community of transparency enthusiasts, public finance experts and data
-        wranglers. We're discussing and developing new ways to monitor and explain 
+        wranglers. We're discussing and developing new ways to monitor and explain
         budgets and government spending through the use of technology.</p>
       </div>
     </div>
