@@ -1,6 +1,5 @@
 ---
 layout: page
-section: events
 lead: true
 title: Events
 authors:

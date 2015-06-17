@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: Development process
 authors:

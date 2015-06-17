@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: Come vengono Rappresentati i dati su OpenSpending
 authors:

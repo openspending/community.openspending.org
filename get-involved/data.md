@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: get-involved
 lead: true
 title: Data Team
 authors:

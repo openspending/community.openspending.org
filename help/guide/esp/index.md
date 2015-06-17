@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: Guía de OpenSpending (Gasto Abierto)
 authors:

@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: Publier les données sur le web
 authors:

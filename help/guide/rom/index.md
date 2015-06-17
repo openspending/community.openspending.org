@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: Ghidul utilizatorului OpenSpending
 authors:

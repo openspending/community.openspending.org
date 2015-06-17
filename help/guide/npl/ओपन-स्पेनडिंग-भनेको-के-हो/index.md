@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: ओपन स्पेनडिंग भनेको के हो
 authors:

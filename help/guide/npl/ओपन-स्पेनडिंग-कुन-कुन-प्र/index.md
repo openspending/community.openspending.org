@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: ओपन स्पेनडिंग कुन कुन प्रकारका अर्थिक तथ्यांक परछन् ?
 authors:

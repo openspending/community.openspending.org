@@ -1,6 +1,5 @@
 ---
 layout: page
-section: about
 lead: true
 title: Get Involved
 authors:

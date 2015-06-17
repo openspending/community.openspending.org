@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: Modéliser vos données dans OpenSpending
 authors:

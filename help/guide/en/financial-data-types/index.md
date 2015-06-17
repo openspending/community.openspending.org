@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: What types of financial data can go into OpenSpending?
 authors:

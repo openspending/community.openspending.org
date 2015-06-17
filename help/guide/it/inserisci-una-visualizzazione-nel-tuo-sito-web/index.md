@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: Inserisci una visualizzazione nel tuo sito web
 authors:

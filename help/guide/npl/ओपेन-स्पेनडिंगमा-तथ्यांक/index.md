@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: 'ओपेन स्पेनडिंगमा तथ्यांक थप्ने : समिक्षा]'
 authors:

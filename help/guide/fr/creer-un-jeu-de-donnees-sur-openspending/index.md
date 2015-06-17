@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: Créer un jeu de données sur OpenSpending
 authors:

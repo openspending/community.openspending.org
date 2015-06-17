@@ -1,6 +1,6 @@
 ---
 layout: page
-section: about
+section: help
 lead: true
 title: Quali tipi di dati finanziari entrano in OpenSpending?
 authors:
