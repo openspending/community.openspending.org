@@ -79,10 +79,64 @@
     <li>
       <a href="{{ site.baseurl }}/help/">Help &amp; Guides</a>
       <ul>
-        <li {% if url_last == 'help' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/help/">OpenSpending Guide</a>
+        <li {% if url_last == 'en' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/help/guide/en/">OpenSpending Guide (English)</a>
+        </li>
+        <li {% if url_last == 'fr' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/help/guide/fr/">OpenSpending Guide (French)</a>
+        </li>
+        <li {% if url_last == 'it' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/help/guide/it/">OpenSpending Guide (Italian)</a>
+        </li>
+        <li {% if url_last == 'npl' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/help/guide/npl/">OpenSpending Guide (Nepali)</a>
+        </li>
+        <li {% if url_last == 'rom' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/help/guide/rom/">OpenSpending Guide (Romanian)</a>
+        </li>
+        <li {% if url_last == 'esp' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/help/guide/esp/">OpenSpending Guide (Spanish)</a>
+        </li>
+        <li {% if url_last == 'development' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/help/development/">Development</a>
+        </li>
+
+      </ul>
+    </li>
+    <li>
+      <a href="{{ site.baseurl }}/resources/">Resources</a>
+      <ul>
+        <li {% if url_last == 'eu' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/eu/">Where Does the EU's Money Go?</a>
+        </li>
+        <li {% if url_last == 'gb-spending' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/gb-spending/">UK Departmental Spending</a>
+        </li>
+        <li {% if url_last == 'gift' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/gift/">GIFT</a>
+        </li>
+        <li {% if url_last == 'iati' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/iati/">IATI</a>
+        </li>
+        <li {% if url_last == 'journo' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/journo/">For Journalists</a>
+        </li>
+        <li {% if url_last == 'map-of-spending-projects' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/map-of-spending-projects/">Map of Spending Projects</a>
+        </li>
+        <li {% if url_last == 'mappingcommunity' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/mappingcommunity/">Mapping Community</a>
+        </li>
+        <li {% if url_last == 'mobi' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/mobi/">OpenSpending.mobi</a>
+        </li>
+        <li {% if url_last == 'osi' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/osi/">OSI</a>
+        </li>
+        <li {% if url_last == 'wg' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/wg/">Working Group on Open Spending Data</a>
         </li>
       </ul>
     </li>
-
+  </ul>
 </nav>
