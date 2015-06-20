@@ -1,12 +1,12 @@
 # Site settings
 title: OpenSpending Community
-short_title: OpenSpending
+short_title: OpenSpending Community
 description: |
-    Creating a free and open database of public financial transactions worldwide.
+  The community-driven project creating a free and open database of public financial transactions worldwide.
 baseurl: ""
 url: "http://community.openspending.org/" # the base hostname & protocol for your site
-github_username:  okfn
-github_repo:  community.openspending
+github_username: openspending
+github_repo: dotorg
 paypal: admin@okfn.org
 contact: https://discuss.okfn.org/t/openspending-community-website-migration-2015/330
 img_path: http://community.openspending.org/files
@@ -37,7 +37,7 @@ supporters:
 
 
 
-#googleanalytics: UA-XXXXX-X
+googleanalytics: UA-8271754-63
 
 markdown: kramdown
 
