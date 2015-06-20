@@ -1,6 +1,4 @@
 ---
-layout: page
-section: help
 lead: true
 title: Help
 authors:

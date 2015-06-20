@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: Inserisci una visualizzazione nel tuo sito web

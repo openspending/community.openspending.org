@@ -1,5 +1,4 @@
 ---
-layout: page
 status: publish
 published: true
 title: Centre for Budget and Governance Accountability

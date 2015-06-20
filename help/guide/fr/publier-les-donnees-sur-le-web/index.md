@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: Publier les données sur le web

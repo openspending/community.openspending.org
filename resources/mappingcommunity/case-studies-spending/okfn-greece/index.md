@@ -1,5 +1,4 @@
 ---
-layout: page
 status: publish
 published: true
 title: Open Knowledge Foundation Greece

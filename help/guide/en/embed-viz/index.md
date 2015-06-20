@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: Embed a visualization into your website

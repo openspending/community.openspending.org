@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: Come vengono Rappresentati i dati su OpenSpending

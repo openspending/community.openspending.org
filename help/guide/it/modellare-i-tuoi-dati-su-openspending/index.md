@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: Modellare i tuoi dati su OpenSpending

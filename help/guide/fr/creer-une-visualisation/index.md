@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: Créer une visualisation

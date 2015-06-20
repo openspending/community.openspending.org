@@ -1,5 +1,4 @@
 ---
-layout: page
 section: get-involved
 lead: true
 title: Web and News Team

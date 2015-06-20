@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: Inclure une visualisation sur votre site web

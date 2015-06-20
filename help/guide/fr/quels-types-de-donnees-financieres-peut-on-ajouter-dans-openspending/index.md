@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: Quels types de données financières peut-on ajouter dans OpenSpending?

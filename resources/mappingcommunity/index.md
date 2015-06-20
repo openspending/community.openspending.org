@@ -1,5 +1,4 @@
 ---
-layout: page
 status: publish
 published: true
 title: Mapping the Open Spending Data Community

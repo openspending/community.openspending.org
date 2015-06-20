@@ -1,5 +1,4 @@
 ---
-layout: page
 status: publish
 published: true
 title: Budget transparency for an open university

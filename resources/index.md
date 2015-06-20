@@ -1,6 +1,5 @@
 ---
 title: Resources on Financial Data
-layout: page
 lead: true
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: page
 section: events
 lead: true
 title: Spending Data Parties

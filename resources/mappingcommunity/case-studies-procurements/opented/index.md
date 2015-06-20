@@ -1,5 +1,4 @@
 ---
-layout: page
 status: publish
 published: true
 title: OpenTED, Opening Tender Electronic Daily

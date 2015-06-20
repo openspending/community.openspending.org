@@ -1,5 +1,4 @@
 ---
-layout: page
 status: publish
 published: true
 title: How to publish spending data without disclosing personal information

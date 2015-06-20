@@ -35,8 +35,6 @@ supporters:
     name: Omidyar Network
     footer_logo: on-footer.png
 
-
-
 googleanalytics: UA-8271754-63
 
 markdown: kramdown
@@ -65,3 +63,10 @@ related_projects:
   -
       name: Introducing Open Data
       link: http://okfn.org/opendata/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page"

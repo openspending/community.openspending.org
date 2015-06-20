@@ -1,5 +1,4 @@
 ---
-layout: page
 section: about
 lead: true
 title: Frequently Asked Questions

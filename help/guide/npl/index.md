@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: "\uFEFFओपन स्पेनडिंग मार्गदर्शन"

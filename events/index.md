@@ -1,5 +1,4 @@
 ---
-layout: page
 lead: true
 title: Events
 authors:

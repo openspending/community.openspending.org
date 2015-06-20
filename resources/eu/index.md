@@ -1,5 +1,4 @@
 ---
-layout: page
 section: resources
 title: Where Does the EU's Money Go?
 lead: true

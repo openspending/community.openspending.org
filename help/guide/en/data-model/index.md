@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: How does OpenSpending represent data?

@@ -1,5 +1,4 @@
 ---
-layout: page
 section: resources
 title: EU Finances - Research Notes
 lead: true

@@ -1,5 +1,4 @@
 ---
-layout: page
 section: help
 lead: true
 title: ओपेन स्पेनडिंगले तथ्यांक कसरी प्रस्तुत गर्छ ?

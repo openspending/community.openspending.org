@@ -1,5 +1,4 @@
 ---
-layout: page
 section: events
 lead: true
 title: Open Data Day - 22 February 2014
