@@ -1,5 +1,4 @@
 ---
-layout: wg
 title: Working Group on Open Expenditure Data
 ---
 
@@ -15,9 +14,9 @@ title: Working Group on Open Expenditure Data
 
 ### Possible activities (to be reviewed)
 
-* Contributing to / providing feedback on  a Spending Data Manual - A wiki-like, community driven manual on acquiring, working with, publishing and archiving spending data, (building on and referencing other works e.g. World Bank's work on budget classifications) 
-* Keeping their eye-out for new and interesting initiatives springing up around spending and budget data and invite new members to join the discussion 
-* Help to build up a registry of spending datasets by adding to the [OpenSpending group on theDataHub](http://thedatahub.org/group/openspending)
+* Contributing to / providing feedback on  a Spending Data Manual - A wiki-like, community driven manual on acquiring, working with, publishing and archiving spending data, (building on and referencing other works e.g. World Bank's work on budget classifications)
+* Keeping their eye-out for new and interesting initiatives springing up around spending and budget data and invite new members to join the discussion
+* Help to build up a registry of spending datasets by adding to the [OpenSpending group on the DataHub](http://thedatahub.org/group/openspending)
 * Writing blog updates on new developments e.g. new datasets becoming available, updates to laws in your country affecting spending data, new tools to work with, share and collaborate on data
 * Considering possibilities for a Spending Data Camp, most likely at or around OGDCamp 2012 with hands-on sessions on licensing, working with and publishing data, aimed at CSOs from around the world.
 * ERDF collection.
