@@ -1,6 +1,5 @@
 ---
 title: Mobile-Enhanced Participatory Budgeting - the World Bank
-layout: gift
 ---
 
 ## Mobile-Enhanced Participatory Budgeting : the World Bank
@@ -118,5 +117,5 @@ There are 1500 cities around the world where participatory budgeting already tak
 2. With some bulk message providers, some messages did not deliver until many hours later, some recipients received messages in the middle of the night!
 3. More work needs to be done to help people monitor the execution of the projects. People are engaged in the process and feel empowered when they vote, but there is little follow-up and people could begin to become disillusioned with the project if they do not see results.
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter7-intro.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter7-intro">Next &raquo;</a></div>
 

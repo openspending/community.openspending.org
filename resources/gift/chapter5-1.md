@@ -1,6 +1,5 @@
 ---
 title: Government of Sierra Leone GoSL - Online Repository for Ministry of Mines and Mineral Resources 
-layout: gift
 ---
 
 ## Government of Sierra Leone GoSL: Online Repository for Ministry of Mines and Mineral Resources 
@@ -81,4 +80,4 @@ The GoSL Online Repository was launched by the Government of Sierra Leone in Jan
 
 <p style="text-align: right">Thanks to Aasmund Andersen, RDF</p>
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter5-2.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter5-2">Next &raquo;</a></div>

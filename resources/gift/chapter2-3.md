@@ -1,6 +1,5 @@
 ---
 title: Introductions
-layout: gift
 ---
 
 ## D-Brain in Korea: Digital budgeting and accounting system 
@@ -89,5 +88,5 @@ Some of the reasons for the success of the project are:
 
 Total cost: $63 million
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter2-4.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter2-4">Next &raquo;</a></div>
 

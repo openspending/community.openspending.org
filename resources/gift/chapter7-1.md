@@ -1,6 +1,5 @@
 ---
 title: Introductions
-layout: gift
 ---
 
 ## From Fractions to Millions: Challenging corruption using mobile phones 
@@ -97,4 +96,4 @@ Estimated project cost: 400,000 USD (including an elaborate survey to measure co
 
 <p style="text-align: right">Thanks to Vivek Srinivasan</p>
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter7-2.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter7-2">Next &raquo;</a></div>

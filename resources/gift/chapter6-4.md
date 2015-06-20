@@ -1,6 +1,5 @@
 ---
 title: Mini atlases for participatory budgeting - Solo Kota Kita (Solo, Our City)
-layout: gift
 ---
 
 ## Mini atlases for participatory budgeting: Solo Kota Kita (English: Solo, Our City)
@@ -121,4 +120,4 @@ Additionally, it is important to note that the project had the support of the So
 
 <p style="text-align: right">Thanks to Hector Salazar Salame and Michael Haggerty (SKK)</p>
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-5.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter6-5">Next &raquo;</a></div>

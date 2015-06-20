@@ -1,6 +1,5 @@
 ---
 title: Key to Case Study Icons
-layout: gift
 ---
 
 The icons below are used as a quick overview for the projects listed in this report. You will find them arranged in a row at the top of each case study.
@@ -104,4 +103,4 @@ The icons below are used as a quick overview for the projects listed in this rep
 </tr>
 </table>
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter2-intro.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter2-intro">Next &raquo;</a></div>

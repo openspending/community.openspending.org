@@ -1,7 +1,6 @@
 ---
 title: The Media and Fiscal Data - How do we get fiscal data into the public eye?
 
-layout: gift
 ---
 
 ## The Media and Fiscal Data: How do we get fiscal data into the public eye?
@@ -40,5 +39,5 @@ When we explored the specific information- and tool-requirements for journalists
 * <http://www.guardian.co.uk/news/datablog/2012/mar/16/us-open-spending-data>
 * [Sunlight Foundation: Reporting group](http://reporting.sunlightfoundation.com/SLRG/)
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-3.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter6-3">Next &raquo;</a></div>
 

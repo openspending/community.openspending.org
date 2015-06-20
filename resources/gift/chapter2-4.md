@@ -1,6 +1,5 @@
 ---
 title: Brazilian Transparency Portal - Access to Information and Citizen Oversight
-layout: gift
 ---
 
 ## Brazilian Transparency Portal: Access to Information and Citizen Oversight
@@ -99,4 +98,4 @@ Approximately 137 000 USD was invested for the initial stage of the Portal’s d
 
 <p style="text-align: right">Thanks for input from Izabela Moreira Correa, CGU</p> 
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter3-intro.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter3-intro">Next &raquo;</a></div>

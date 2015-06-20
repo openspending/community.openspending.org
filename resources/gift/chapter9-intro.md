@@ -1,6 +1,5 @@
 ---
 title: Final Observations and Review
-layout: gift
 ---
 
 
@@ -86,4 +85,4 @@ Hence, in this report, we have attempted to highlight case studies which are exp
 
 * Promote the use of promising projects from the Technology Review stage. Liaise with funding bodies to ensure open-source solutions are available for all. 
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter10-intro.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter10-intro">Next &raquo;</a></div>

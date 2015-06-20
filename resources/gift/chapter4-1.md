@@ -1,6 +1,5 @@
 ---
 title: IATI
-layout: gift
 ---
 
 ## International Aid Transparency Initiative (IATI)
@@ -118,4 +117,4 @@ Adapting organisational processes to cope with change management,  and system ad
 
 <p style="text-align: right">Thanks for input from Tim Davies, Michael Roberts and Mark Brough </p>
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter4-2.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter4-2">Next &raquo;</a></div>

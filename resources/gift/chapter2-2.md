@@ -1,6 +1,5 @@
 ---
 title: DataBC Open Data Portal of British Columbia
-layout: gift
 ---
 
 ## DataBC Open Data Portal of British Columbia
@@ -120,4 +119,4 @@ It was difficult to switch from a closed system in which data publication was pr
 
 <p style="text-align: right">Thanks for input from David Wrate, DataBC</p> 
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter2-3.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter2-3">Next &raquo;</a></div>

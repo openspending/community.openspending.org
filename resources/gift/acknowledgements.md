@@ -1,6 +1,5 @@
 ---
 title: Acknowledgements
-layout: gift
 ---
 
 ## Acknowledgements

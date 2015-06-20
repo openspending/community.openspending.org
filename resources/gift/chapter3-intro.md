@@ -1,6 +1,5 @@
 ---
 title: Using Fiscal Data - Civil Society Perspectives 
-layout: gift
 ---
 
 ## Chapter 3 - Using Fiscal Data: Civil Society Perspectives 
@@ -20,10 +19,10 @@ Respondents were asked 6 questions:
 5. Please explain any issues with the data. 
 6. What could be done to make your work easier? 
 
-The [section below](chapter3-1.html) contains quotes and in place paraphrased responses from some of the participants interviewed. 
+The [section below](../chapter3-1) contains quotes and in place paraphrased responses from some of the participants interviewed. 
 
 <div class='footnote'>
     <sup>[1]</sup> Pre-Budget Statement, Executive’s Budget Proposal, Enacted Budget, Citizen’s Budget, (Supplementary budgets), In-Year Reports (Monthly / quarterly), Mid Year Review, Year End Report, Audit Reports.
 </div>
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter3-1.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter3-1">Next &raquo;</a></div>

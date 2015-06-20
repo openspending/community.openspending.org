@@ -1,6 +1,5 @@
 ---
 title: Introductions
-layout: gift
 ---
 
 ## Testimonials: User Perspectives on using Government Fiscal Data
@@ -64,4 +63,4 @@ The statements below all come from re-users of fiscal data outside of government
 
 > “For sub-national data who have no defined government portal, we have been able to use our informal contacts to [get] data from two states out of thirty six states. We need to reach out to the states as most of them are not used to providing their budget data to the public. Our short term goal is to drive transparency within these states” 
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter4-intro.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter4-intro">Next &raquo;</a></div>

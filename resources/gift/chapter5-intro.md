@@ -1,6 +1,5 @@
 ---
 title: Case Studies - Where Does the Money Come From? 
-layout: gift
 ---
 
 ## Chapter 5 - Case Studies : Where Does the Money Come From? 
@@ -12,7 +11,7 @@ In order to assess how much money is available to spend, a government must know 
 
 Case studies include: 
 
-1. [Government of Sierra Leone GoSL](chapter5-1.html): Online Repository for Ministry of Mines and Mineral Resources 
-2. [Revenues from Oil and Mining](chapter5-2.html): Revenue Watch
+1. [Government of Sierra Leone GoSL](../chapter5-1): Online Repository for Ministry of Mines and Mineral Resources 
+2. [Revenues from Oil and Mining](../chapter5-2): Revenue Watch
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter5-1.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter5-1">Next &raquo;</a></div>

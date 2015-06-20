@@ -1,6 +1,5 @@
 ---
 title: Introductions
-layout: gift
 ---
 
 ## Chapter 1: Introductions and Methodology
@@ -19,9 +18,9 @@ This reports provides examples of projects around the world that are using techn
 
 We have sought to find projects which reflect all stages of the fiscal process: 
 
-* Looking at [where the money comes from](chapter5-intro.html): both getting more data released and building analysis and visualisation tools in the context of revenue processes e.g. taxation, extractive industries, etc., [c]
-* Monitoring [where the money goes](chapter6-intro.html): presenting data about the budgeting process and getting citizens involved in fiscal processes e.g. through participatory budgeting and comparisons of planned and retrospective budgets,
-* [The invisible money](chapter7-intro.html): improving public understanding of state-owned or semi-state owned enterprises, off-budget information and social audit projects which verify whether official money is being concealed or is not being spent according to official plans – information which often is not published as part of current budgeting practices.
+* Looking at [where the money comes from](../chapter5-intro): both getting more data released and building analysis and visualisation tools in the context of revenue processes e.g. taxation, extractive industries, etc., [c]
+* Monitoring [where the money goes](../chapter6-intro): presenting data about the budgeting process and getting citizens involved in fiscal processes e.g. through participatory budgeting and comparisons of planned and retrospective budgets,
+* [The invisible money](../chapter7-intro): improving public understanding of state-owned or semi-state owned enterprises, off-budget information and social audit projects which verify whether official money is being concealed or is not being spent according to official plans – information which often is not published as part of current budgeting practices.
 
 In each case, we considered questions such as:
 
@@ -45,4 +44,4 @@ The research was a combination of qualitative interviews and direct inputs from 
 
 ![Project Overview](http://farm8.staticflickr.com/7237/7273947644_4799a7e720_o.png)
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter1-2.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter1-2">Next &raquo;</a></div>

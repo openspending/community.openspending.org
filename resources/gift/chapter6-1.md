@@ -1,6 +1,5 @@
 ---
 title: ClearSpending from the Sunlight Foundation
-layout: gift
 ---
 
 ## ClearSpending from the Sunlight Foundation
@@ -84,4 +83,4 @@ The Sunlight Foundation re-released Clearspending with new data in Fall of 2011,
 
 <p style="text-align: right">Thanks to Kaitlin Lee</p>
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-2.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter6-2">Next &raquo;</a></div>

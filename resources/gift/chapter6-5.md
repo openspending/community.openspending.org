@@ -1,6 +1,5 @@
 ---
 title: Balance your City's Budget - Citizen Budget, Open North
-layout: gift
 ---
 
 ## Balance your City’s Budget : Citizen Budget, Open North
@@ -113,5 +112,5 @@ Such systems have the potential to better inform and educate citizens about deci
 
 <p style="text-align: right">Thanks to James McKinney (Open North)</p>
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-6.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter6-6">Next &raquo;</a></div>
 

@@ -1,6 +1,5 @@
 ---
 title: Deciding where the money goes - Participatory Budgeting
-layout: gift
 ---
 
 ## Deciding where the money goes: Participatory Budgeting
@@ -132,5 +131,5 @@ Many of the projects in this section are civil society led and are listed here t
 3. Note that while the European Parliament plans to release the At4am software, [it has not currently announced a plan to make the data from its own copy available](http://www.asktheeu.org/en/request/source_code_and_data_for_at4am_s_2), and doing so would represent a substantial increase in transparency around legislators’ activities.
 4. Structured information on who in a department is responsible for [particular changes](http://pudo.org/2011/07/22/kleine-charta-der-beteiligten.html). It is unproductive to attempt to talk to an entire department about a proposed project or change, who are the people who can actually make a difference?
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-4.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter6-4">Next &raquo;</a></div>
 

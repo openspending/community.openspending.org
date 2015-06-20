@@ -1,6 +1,5 @@
 ---
 title: Chapter 7 - Introduction
-layout: gift
 ---
 
 ## Chapter 7 - Case Studies: The Invisible Money 
@@ -11,7 +10,7 @@ Here we examine projects which track institutional corruption and malpractice. S
 
 ### Social Audit 
 
-1. [From Fractions to Millions](chapter7-1.html): Challenging corruption using mobile phones 
-2. [What Can Governments Do to Help Social Auditors?](chapter7-2.html)
+1. [From Fractions to Millions](../chapter7-1): Challenging corruption using mobile phones 
+2. [What Can Governments Do to Help Social Auditors?](../chapter7-2)
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter7-1.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter7-1">Next &raquo;</a></div>

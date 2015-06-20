@@ -1,6 +1,5 @@
 ---
 title: Standards for Fiscal Data - towards an international framework 
-layout: gift
 ---
 
 ## Chapter 4 - Standards for Fiscal Data: Towards an international framework 
@@ -11,11 +10,11 @@ Raw data is the fuel of many of the tools featured in this report. In later sect
 
 One of the recommendations of this report is to work towards a standard for transaction level spending data to enable greater reuse and comparison of, as well as confidence in, the data from a user perspective. 
 
-To demonstrate the impact that such an internationally recognised standard can have, the [International Aid Transparency Initiative standard is showcased here](chapter4-1.html). We look at: 
+To demonstrate the impact that such an internationally recognised standard can have, the [International Aid Transparency Initiative standard is showcased here](../chapter4-1). We look at: 
 
 1. how a successful standard can be built with multi-stakeholder cooperation and 
 2. the possibilities this approach has opened up for aid transparency 
 
-We also briefly examine existing accounting standards which may inform how such a standard might look, focusing particularly on the [eXtensible Business Reporting Language](chapter4-2.html).
+We also briefly examine existing accounting standards which may inform how such a standard might look, focusing particularly on the [eXtensible Business Reporting Language](../chapter4-2).
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter4-1.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter4-1">Next &raquo;</a></div>

@@ -1,6 +1,5 @@
 ---
 title: Highlights, Gaps & Recommendations
-layout: gift
 ---
 
 ## Highlights, Gaps and Recommendations
@@ -14,7 +13,7 @@ In this section, we summarise the key highlights from the various sections of th
 
 ### Data Portals
 
-In [this section](chapter2-intro.html) we examine four government data portals from across the globe. The aim is to highlight government perspectives of making fiscal data available to the public. We focus on motivations for creating the service in the first instance, what features and data are offered, successes and outcomes, challenges and areas for improvement and what resources are needed to assemble and maintain such a site.
+In [this section](../chapter2-intro) we examine four government data portals from across the globe. The aim is to highlight government perspectives of making fiscal data available to the public. We focus on motivations for creating the service in the first instance, what features and data are offered, successes and outcomes, challenges and areas for improvement and what resources are needed to assemble and maintain such a site.
 
 #### Highlights
 
@@ -61,7 +60,7 @@ In [this section](chapter2-intro.html) we examine four government data portals f
 
 ### Finding and Using Data
 
-In [this section](chapter3-intro.html) we asked the open spending data community - who come from a variety of backgrounds; research, technical, media etc., what fiscal data they require, what they want to do with it, and importantly, how easy it is to obtain and use. Through a series of structured surveys, we established the following:
+In [this section](../chapter3-intro) we asked the open spending data community - who come from a variety of backgrounds; research, technical, media etc., what fiscal data they require, what they want to do with it, and importantly, how easy it is to obtain and use. Through a series of structured surveys, we established the following:
 
 #### Highlights
 
@@ -113,7 +112,7 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 
 ### Standards for Fiscal Data
 
-[This section](chapter4-intro.html) examined whether having standards for fiscal data could provide a solution to some of the usability issues described by the users of the data in the previous section, by looking at two internationally recognised standards, IATI and XBRL.
+[This section](../chapter4-intro) examined whether having standards for fiscal data could provide a solution to some of the usability issues described by the users of the data in the previous section, by looking at two internationally recognised standards, IATI and XBRL.
 
 #### Highlights
 
@@ -217,4 +216,4 @@ In [this section](chapter3-intro.html) we asked the open spending data community
 * Extensive capacity-building for journalists to enable them to analyze and present data.
 * Social Audit Portals similar to Andhra Pradesh with near real-time access to financial data.
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter1-4.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter1-4">Next &raquo;</a></div>

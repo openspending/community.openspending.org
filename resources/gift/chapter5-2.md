@@ -1,6 +1,5 @@
 ---
 title: Revenues from Oil and Mining - Revenue Watch
-layout: gift
 ---
 
 ## Revenues from Oil and Mining: Revenue Watch 
@@ -108,5 +107,5 @@ The two main data sites mentioned above required several steps to build: data co
 
 <p style="text-align: right">Thanks to Jed Miller, RWI</p>
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter6-intro.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter6-intro">Next &raquo;</a></div>
 

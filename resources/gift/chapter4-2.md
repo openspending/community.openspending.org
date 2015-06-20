@@ -1,6 +1,5 @@
 ---
 title: XBRL
-layout: gift
 ---
 
 ## International Financial Reporting Standards: XBRL 
@@ -42,4 +41,4 @@ XBRL has enjoyed widespread adoption as a reporting language for business accoun
 
 Of course, this comprehensive commitment raises this question: If XBRL is accepted by governments worldwide for receiving data, shouldn’t it also be used to report their own finances? While there is some discussion on the use of XBRL for fiscal information, no taxonomies exist for budget information or transactional government spending. One concern regarding the use of XBRL as a reporting standard for government information may be its complexity: the XML schema requires the implementation of extensive standards to be interpreted. This would run contrary to the goal of transparency by raising the barriers of entry to the analysis of government financial releases. The use of common taxonomies, on the other hand, is a very desirable property, as could also be seen in the IATI example. 
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter5-intro.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter5-intro">Next &raquo;</a></div>

@@ -1,6 +1,5 @@
 ---
 title: Context
-layout: gift
 ---
 
 ## Context
@@ -15,4 +14,4 @@ These developments hold promising new possibilities for fiscal transparency and 
 
 With initiatives such as the [Open Data Strategy for Europe](http://bit.ly/EUopendata) soon due to come into force, and similar emphasis on opening up government data in other parts of the world, it is prudent for governments to start to look into new ways to open up their data, to save time, money and effort in opening up a backlog of data and to get necessary workflows in place.
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter1-3.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter1-3">Next &raquo;</a></div>

@@ -1,6 +1,5 @@
 ---
 title: Chapter 2 - intro
-layout: gift
 ---
 
 ## Chapter 2 - Publishing Fiscal Data: Government Perspectives
@@ -19,9 +18,9 @@ We look at:
 
 Featured Case Studies:
 
-1. [Data.Gov.Uk](chapter2-1.html), United Kingdom
-2. [DataBC](chapter2-2.html), Canada
-3. [DBrain](chapter2-3.html), Republic of Korea
-4. [Brazilian Transparency Portal](chapter2-4.html), Brazil
+1. [Data.Gov.Uk](../chapter2-1), United Kingdom
+2. [DataBC](../chapter2-2), Canada
+3. [DBrain](../chapter2-3), Republic of Korea
+4. [Brazilian Transparency Portal](../chapter2-4), Brazil
 
-<div class="pull-right"><a class="btn btn-default btn-mini" href="chapter2-1.html">Next &raquo;</a></div>
+<div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter2-1">Next &raquo;</a></div>

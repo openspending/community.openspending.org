@@ -1,6 +1,5 @@
 ---
 title: Bibliography
-layout: gift
 ---
 
 ## Further Resources
