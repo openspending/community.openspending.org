@@ -1,13 +1,12 @@
 ---
 title: Follow the money
-layout: journo
 ---
 
 Follow the money - A guide for journalists
 ------------------------------------------
 
-Welcome to the OpenSpending guide for journalists who want to investigate money flows. 
-        
+Welcome to the OpenSpending guide for journalists who want to investigate money flows.
+
 History is littered with awards and accolades for those tenacious journalists who have dutifully discovered money that was spent on something it shouldn't have been. Evidence of spending is often the ultimate proof of wrongdoing. These stories have ranged from [presidential campaigns spending money on surveillance](http://en.wikipedia.org/wiki/Watergate_scandal) to [Members of Parliament dipping into the public purse for their own benefit](http://en.wikipedia.org/wiki/United_Kingdom_parliamentary_expenses_scandal), with many variations in between.
 
 ### Spending data ###
@@ -16,8 +15,8 @@ From the point at which funds come into the government's possession to when they
 
 Here are the guides we'll publish in the coming weeks:
 
-- [A guide to tax avoidance and evasion](resources/tax-avoidance-evasion.html) with a full set of choices of stories from shadow markets in Africa to big companies setting up overseas shell companies;
-- [A guide to reading accounts both public and business](resources/reading-accounts.html)
+- [A guide to tax avoidance and evasion](resources/tax-avoidance-evasion/) with a full set of choices of stories from shadow markets in Africa to big companies setting up overseas shell companies;
+- [A guide to reading accounts both public and business](resources/reading-accounts/)
 - The decisions for how to allocate public funds to different projects are often completely open. We provide a list of the allocation formulas and suggest what it would be sensible to correlate the allocation of funds with;
 - A guide to the many ways of grouping spending in the U.K. and beyond to help you find what you're looking for;
 - A guide to tax models. The U.K. uses a model called the General Computation Model -- we look at it in detail through contact with researchers involved;
