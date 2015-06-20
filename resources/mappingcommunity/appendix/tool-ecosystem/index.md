@@ -1,29 +1,30 @@
 ---
-status: publish
-published: true
+section: about
+lead: true
 title: Tool Ecosystem
-author:
-  display_name: Neil Ashton
-  login: nmashton
-  email: neil.ashton@okfn.org
-  url: ''
-author_login: nmashton
-author_email: neil.ashton@okfn.org
-wordpress_id: 1112
-wordpress_url: http://blog.openspending.org/?page_id=1112
-date: '2013-09-03 16:50:57 +0700'
-date_gmt: '2013-09-03 16:50:57 +0700'
+authors:
+- Neil Ashton
 ---
-<p>## Spending Data: The Tool Ecosystem </p>
-<p>There are a set of staple tools that can be used to tackle many of the issues highlighted by the organisations in this report. For each one - we’ve outlined the tool - what it’s useful for and what the barrier to entry is. </p>
-<p>We continue to hunt for more and better tools to do the job and hope that some of the problems, such as governments publishing their data in PDFs or HTML, will soon be irrelevant, so that we can all focus on more important things. </p>
-<p>*If you would like to suggest a tool to be added to this ecosystem - please email info [at] openspending.org*</p>
-<p>### Key </p>
-<p>For each tool - we’ve outlined the its use and what the barrier to entry is, here's a guide to the rough categorisation we used: </p>
-<p><strong>Basic = An off-the-shelf tool that can be learned and first independent usage made of within 1 day. No installation on servers etc required.</strong></p>
-<p><strong>Intermediate = Between 1 day - 1 week to master basic functionality. May require tweaking of code but not new creation thereof. </strong> </p>
-<p><strong>Advanced = Requires code. </strong> </p>
-<p>## Stage 1: Extracting and getting data </p>
+## Spending Data: The Tool Ecosystem
+
+There are a set of staple tools that can be used to tackle many of the issues highlighted by the organisations in this report. For each one - we’ve outlined the tool - what it’s useful for and what the barrier to entry is.
+
+We continue to hunt for more and better tools to do the job and hope that some of the problems, such as governments publishing their data in PDFs or HTML, will soon be irrelevant, so that we can all focus on more important things.
+
+*If you would like to suggest a tool to be added to this ecosystem - please email info [at] openspending.org*
+
+### Key
+
+For each tool - we’ve outlined the its use and what the barrier to entry is, here's a guide to the rough categorisation we used:
+
+<strong>Basic = An off-the-shelf tool that can be learned and first independent usage made of within 1 day. No installation on servers etc required.</strong>
+
+<strong>Intermediate = Between 1 day - 1 week to master basic functionality. May require tweaking of code but not new creation thereof. </strong>
+
+<strong>Advanced = Requires code. </strong>
+
+## Stage 1: Extracting and getting data
+
 <table border="1">
 <tr>
 <td><strong>Issue</strong></td>
@@ -33,36 +34,41 @@ date_gmt: '2013-09-03 16:50:57 +0700'
 </tr>
 <tr>
 <td>Data not available</td>
-<td>Freedom of Information Portals (e.g. <a href="https://www.whatdotheyknow.com/">What Do They Know</a>, <a href="https://fragdenstaat.de/">Frag den Staat</a>). </p>
+<td>Freedom of Information Portals (e.g. <a href="https://www.whatdotheyknow.com/">What Do They Know</a>, <a href="https://fragdenstaat.de/">Frag den Staat</a>).
+
 <td>Basic - though some education may be required to inform people that they have the right to ask, how to phrase an FOI request, whether it is possible to submit these requests electronically etc.</td>
 <td>While Freedom of Information portals are a good way of getting data - results often end up scattered. It would be useful to have results structured into data directories so that it was possible to search successful responses together with proactively released data so that there was one common source for data.</td>
 </tr>
 <tr>
 <td>Data available online but not downloadable. (e.g. in HTML tables on webpages).</td>
 <td> <em>For simple sites</em> (information on an individual webpage) Google Spreadsheets and ImportHTML Function, or the <a href ="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en">Google scraper extension</a> (basic).
-<p><em>For more complex webpages</em> (information spread across numerous pages) - a scraper will be required. Scrapers are ways to extract structured information from websites using code. There is a useful tool to make doing this easier online - <a href="https://scraperwiki.com/">Scraperwiki</a>.(advanced).</p>
+<em>For more complex webpages</em> (information spread across numerous pages) - a scraper will be required. Scrapers are ways to extract structured information from websites using code. There is a useful tool to make doing this easier online - <a href="https://scraperwiki.com/">Scraperwiki</a>.(advanced).
+
 </td>
 <td>For the basic level, anyone who can use a spreadsheet and functions can use it. It is not, however, a well-known command and awareness must be spread about how it can be used. (People often daunted because they presume scraping involves code). Scraping using code is advanced, and requires knowledge of at least one programming language. </td>
 <td>
-<p>The need to be able to scrape was mentioned in <em>every</em> country we interviewed in the Athens to Berlin Series.</p>
-<p> For more information, or to learn to start scraping, see the <a href="http://schoolofdata.org/handbook/courses/scraping/">School of Data course on Scraping</a>.</td>
+The need to be able to scrape was mentioned in <em>every</em> country we interviewed in the Athens to Berlin Series.
+
+ For more information, or to learn to start scraping, see the <a href="http://schoolofdata.org/handbook/courses/scraping/">School of Data course on Scraping</a>.</td>
 </tr>
 <tr>
 <td>Data available only in PDFS (or worse, images)</td>
 <td>A variety of tools are available to extract this information. Most promising non-code variants are <a href="http://finereader.abbyy.com/">ABBYY Finereader</a> (not free) and <a href="http://tabula.nerdpower.org/">Tabula</a> (new software, still a bit buggy and requires people to be able to host it themselves to use.)</td>
 <td>Most require knowledge of coding - some progress being made on non-technical tools. For more info and to see some of the advanced methods - see the <a href "http://schoolofdata.org/handbook/courses/extracting-data-from-pdf/">School of Data course.</a></td>
 <td>
-<p>Note: these tools are still imperfect and it is still vastly preferable to advocate for data in the correct formats, rather than teach people how to extract.</p>
-<p>Recently published <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">guidelines</a> coming directly from government in the UK and US can now be cited as examples to get data in the required formats.</td>
+Note: these tools are still imperfect and it is still vastly preferable to advocate for data in the correct formats, rather than teach people how to extract.
+
+Recently published <a href="https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html">guidelines</a> coming directly from government in the UK and US can now be cited as examples to get data in the required formats.</td>
 </tr>
 <tr>
 <td>Leaked data</td>
 <td>Several projects made use of secure dropboxes and services for whistleblowers. </td>
 <td>Advanced - security of utmost concern.</td>
-<td>For example: <a href="http://atlatszo.hu/magyarleaks/">MagyarLeaks</a><br />
+<td>For example: <a href="http://atlatszo.hu/magyarleaks/">MagyarLeaks</a>
     </tr>
 </table>
-<p>## Stage 2: Cleaning, Working with and Analyzing Data </p>
+## Stage 2: Cleaning, Working with and Analyzing Data
+
 <table border="1">
 <tr>
 <td><strong>Issue</strong></td>
@@ -81,8 +87,10 @@ date_gmt: '2013-09-03 16:50:57 +0700'
 <td><a href="http://nomenklatura.okfnlabs.org/">Nomenklatura</a>, <a href="http://opencorporates.com/">OpenCorporates</a>, <a href="http://publicbodies.org/"</a></td>
 <td>Advanced (all)</td>
 <td>
-<p>Reconciling entities is complicated both due to the tools needed as well due to the often inaccurate state of the data.</p>
-<p>Working with data without common identifiers and data of poor quality makes entity reconciliation highly complicated and can cause big gaps in analysis.</p>
+Reconciling entities is complicated both due to the tools needed as well due to the often inaccurate state of the data.
+
+Working with data without common identifiers and data of poor quality makes entity reconciliation highly complicated and can cause big gaps in analysis.
+
 </td>
 </tr>
 <tr>
@@ -118,9 +126,12 @@ date_gmt: '2013-09-03 16:50:57 +0700'
 <tr>
 <td> Figures change in data after publication </td>
 <td>
-<p>For non-machine readable data - tricky.</p>
-<p>For simple, machine readable file formats, such as CSV - version control is a possibility. </p>
-<p> For web-based data - some scrapers can be configured to trigger (e.g. email someone) whenever a field changes.</p>
+For non-machine readable data - tricky.
+
+For simple, machine readable file formats, such as CSV - version control is a possibility.
+
+ For web-based data - some scrapers can be configured to trigger (e.g. email someone) whenever a field changes.
+
 <td> Intermediate to advanced </td>
 <td> Future projects that are likely to tackle this problem: <a href="http://dansinker.com/post/49856260511/opennews-code-sprints-do-some-spring-cleaning-on-data">DeDupe</a>.</td>
 </tr>
@@ -128,19 +139,25 @@ date_gmt: '2013-09-03 16:50:57 +0700'
 <td> Finding statistical patterns in spending data (such analysis is depends on high data quality) </td>
 <td> R (free), SPSS (proprietary) and other statistical software for clustering and anomaly detection (also see note). </td>
 <td> Advanced </td>
-<td> Examples: Data from Supervizor has been used to track changes in spending on contractors changes in government.<br />
+<td> Examples: Data from Supervizor has been used to track changes in spending on contractors changes in government.
 (<a href="https://www.kpk-rs.si/en/project-transparency/supervizor-73">Supervizor.)
-<p><em>A note on statistical analysis software can be found below</em></a></td>
+<em>A note on statistical analysis software can be found below</em></a></td>
 </tr>
 </table>
-<p><strong>Note on SPSS and R:</strong> It’s our impression that interviewees seemed largely to have been trained to use SPSS. R is however important to mention as it offers a free access to a broad section of the same models, though based on a programming interface. </p>
-<p>A few examples of analysis on spending data, which can be done with statistical software such as SPSS or R: </p>
-<p>
-<strong>a)</strong> <a href="http://en.wikipedia.org/wiki/Hidden_Markov_model">Hidden Markov</a>: Hidden Markov was originally developed for finding patterns in bioinformatics, but has turned out useful for predicting fraudulent and corrupt behaviour. Using Hidden Markov requires high quality data, and was for instance used to analyse spending data from 50 mio transactions in the Slovenian platform Supervizor. </p>
-<p>
-<strong>b)</strong> <a href="http://en.wikipedia.org/wiki/Benford%27s_law">Benford's law</a>: Benford's law examines the distribution of figures in your data, against how it should actually look. Diversions from the normal distribution can help detect fraudulent reporting (eg. if companies tend to report ernings less than $500 mio. in order to fit a particular regulation Benford’s law could be a tool to detect that). Check this example using Benford’s law to test the release of all <a href="http://friism.com/tax-records-for-danish-companies">Danish corporate tax filings</a> and check this <a href="http://friism.com/tax-records-for-danish-companies">R blog post on the topic</a>. </p>
-<p>Finally a few notes on the differences between SPSS and R: Though SPSS is fairly easy to get started using, it can be difficult to collaborate around as it applies its own SPSS data format. Some models might also be unavailable from the basic SPSS package. R is the free alternative, uses a programme interface, where all extensions are accessible, and where community support and code samples are widely available. One possible compromise bridging the convenience of SPSS and the wide usability of R, is the proprietary software <a href="http://www.revolutionanalytics.com/">R Revolution</a>.</p>
-<p>## Stage 3: Presenting Data </p>
+<strong>Note on SPSS and R:</strong> It’s our impression that interviewees seemed largely to have been trained to use SPSS. R is however important to mention as it offers a free access to a broad section of the same models, though based on a programming interface.
+
+A few examples of analysis on spending data, which can be done with statistical software such as SPSS or R:
+
+
+<strong>a)</strong> <a href="http://en.wikipedia.org/wiki/Hidden_Markov_model">Hidden Markov</a>: Hidden Markov was originally developed for finding patterns in bioinformatics, but has turned out useful for predicting fraudulent and corrupt behaviour. Using Hidden Markov requires high quality data, and was for instance used to analyse spending data from 50 mio transactions in the Slovenian platform Supervizor.
+
+
+<strong>b)</strong> <a href="http://en.wikipedia.org/wiki/Benford%27s_law">Benford's law</a>: Benford's law examines the distribution of figures in your data, against how it should actually look. Diversions from the normal distribution can help detect fraudulent reporting (eg. if companies tend to report ernings less than $500 mio. in order to fit a particular regulation Benford’s law could be a tool to detect that). Check this example using Benford’s law to test the release of all <a href="http://friism.com/tax-records-for-danish-companies">Danish corporate tax filings</a> and check this <a href="http://friism.com/tax-records-for-danish-companies">R blog post on the topic</a>.
+
+Finally a few notes on the differences between SPSS and R: Though SPSS is fairly easy to get started using, it can be difficult to collaborate around as it applies its own SPSS data format. Some models might also be unavailable from the basic SPSS package. R is the free alternative, uses a programme interface, where all extensions are accessible, and where community support and code samples are widely available. One possible compromise bridging the convenience of SPSS and the wide usability of R, is the proprietary software <a href="http://www.revolutionanalytics.com/">R Revolution</a>.
+
+## Stage 3: Presenting Data
+
 <table border="1">
 <tr>
 <td><strong>Issue</strong></td>
@@ -173,7 +190,8 @@ date_gmt: '2013-09-03 16:50:57 +0700'
 <td> Used in e.g. <a href="http://openbudgetoakland.org/2012-2013-sankey.html">OpenBudgetOakland</a> </td>
 </tr>
 </table>
-<p>## Publishing Data </p>
+## Publishing Data
+
 <table border="1">
 <tr>
 <td><strong>Issue</strong></td>
@@ -194,26 +212,40 @@ date_gmt: '2013-09-03 16:50:57 +0700'
 <td> </td>
 </tr>
 </table>
-<p>### Notes </p>
-<p>See also the resources section in the <a href="http://openspending.org/resources/handbook/ch014_resources.html">Spending Data Handbook</a></p>
-<p>Note: Many of these tools will have difficulty working on Internet Explorer (especially older versions), but we have yet to find more powerful tools which also work there.</p>
-<p>## A note on Network Analysis </p>
-<p>As you will see from the case studies in the videos, Network Analysis is an area that more and more people are looking into with regard to public procurement and contracts. </p>
-<p>Network visualisations are commonly used as a solution to this problem, however, we offer a note of caution to use them sparingly; due to the amount of data on which they are often used, they can sometimes be overwhelming and the average non-expert can find them hard to interpret. </p>
-<p>Often the types of information that it is possible to extract from a network visualisation e.g. “who is best connected?”, “are there links between person X and person Y?” -  could be more easily be found with a searchable database of connections. </p>
-<p>It may also be wise to separate tools suitable for investigating the data, and tools used to present the data. In the latter case, clarity and not-overloading the visualisation will most likely yield a clearer result - so this is one area in which custom infographics may win out in terms of delivering value.  </p>
-<p>### Existing solutions for network mapping: </p>
-<p>For producing network visualisations there are currently open source solutions: </p>
-<p>* [Gephi](https://gephi.org/) (Again note that Gephi has non-visualisation functions to explore the data, which at times may be more useful in exploring the interconnections than the visualisations themselves).<br />
-* [Mapa 76](http://mapa76.com/) - This is also interesting due to the function which is being developed to extract individual entities.<br />
-* [RelFinder](http://www.visualdataweb.org/relfinder.php) Based off DBPedia, this tool structures and maps out relations between entities based on which articles they feature in on Wikipedia.<br />
-* Google Fusion Tables has a network function<br />
-* NodeXL is a powerful network toolkit for Excel.<br />
-* [Cytoscape](http://www.cytoscape.org/)</p>
-<p>## Some favourite examples of (non) Network ways of presenting hierarchies, relationships and complex systems: </p>
-<p>* [Connected China (Reuters)](http://connectedchina.reuters.com/) - enables the user to easily see family connections, political coalitions, leaders and connections. Additionally - it gives a detailed organisational diagram of the Communist Party of China, as well as timelines of people’s rise to power.<br />
-* [Little Sis](http://littlesis.org/). This is an American database of political connections, including party donations, career histories and family members. Read their About Page for more details of the questions they seek to answer. </p>
-<p>### Further reading: </p>
+### Notes
+
+See also the resources section in the <a href="http://openspending.org/resources/handbook/ch014_resources.html">Spending Data Handbook</a>
+
+Note: Many of these tools will have difficulty working on Internet Explorer (especially older versions), but we have yet to find more powerful tools which also work there.
+
+## A note on Network Analysis
+
+As you will see from the case studies in the videos, Network Analysis is an area that more and more people are looking into with regard to public procurement and contracts.
+
+Network visualisations are commonly used as a solution to this problem, however, we offer a note of caution to use them sparingly; due to the amount of data on which they are often used, they can sometimes be overwhelming and the average non-expert can find them hard to interpret.
+
+Often the types of information that it is possible to extract from a network visualisation e.g. “who is best connected?”, “are there links between person X and person Y?” -  could be more easily be found with a searchable database of connections.
+
+It may also be wise to separate tools suitable for investigating the data, and tools used to present the data. In the latter case, clarity and not-overloading the visualisation will most likely yield a clearer result - so this is one area in which custom infographics may win out in terms of delivering value.
+
+### Existing solutions for network mapping:
+
+For producing network visualisations there are currently open source solutions:
+
+* [Gephi](https://gephi.org/) (Again note that Gephi has non-visualisation functions to explore the data, which at times may be more useful in exploring the interconnections than the visualisations themselves).
+* [Mapa 76](http://mapa76.com/) - This is also interesting due to the function which is being developed to extract individual entities.
+* [RelFinder](http://www.visualdataweb.org/relfinder.php) Based off DBPedia, this tool structures and maps out relations between entities based on which articles they feature in on Wikipedia.
+* Google Fusion Tables has a network function
+* NodeXL is a powerful network toolkit for Excel.
+* [Cytoscape](http://www.cytoscape.org/)
+
+## Some favourite examples of (non) Network ways of presenting hierarchies, relationships and complex systems:
+
+* [Connected China (Reuters)](http://connectedchina.reuters.com/) - enables the user to easily see family connections, political coalitions, leaders and connections. Additionally - it gives a detailed organisational diagram of the Communist Party of China, as well as timelines of people’s rise to power.
+* [Little Sis](http://littlesis.org/). This is an American database of political connections, including party donations, career histories and family members. Read their About Page for more details of the questions they seek to answer.
+
+### Further reading:
+
 <ul>
 <li><a href="http://www.ucl.ac.uk/secret/events/event-tabbed-box/seminars-accordian/social-network">UCL Materials</a></li>
 <li> <a href="http://www.cgi.com/sites/cgi.com/files/white-papers/Implementing-social-network-analysis-for-fraud-prevention.pdf">CGI Materials</a></li>
@@ -232,5 +264,6 @@ date_gmt: '2013-09-03 16:50:57 +0700'
 </ul>
 <li>Tools which help to remove duplication of effort. For example, if one organisation has already cleaned up or extracted data from a PDF, encouraging them to share that data so another organisation does not have to waste time doing the same. </li>
 </ul>
-<p>**Next**: [Common arguments against publishing data](http://community.openspending.org/?page_id=1110)</p>
-<p>**Up**: [Appendix](http://community.openspending.org/?page_id=1103)</p>
+**Next**: [Common arguments against publishing data](./machinereadfaq/)
+
+**Up**: [Appendix](../)
