@@ -10,7 +10,6 @@ This repo contains:
   * Meta-Info: Contact, credits, funders, etc.
 
 From the root directory of the site, run ``jekyll serve`` to see the
-site hosted locally at http://0.0.0.0:4000/dotorg/.
-
+site hosted locally at http://0.0.0.0:4000/.
 
 Pull requests welcome ;)
