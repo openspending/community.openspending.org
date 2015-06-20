@@ -1,6 +1,5 @@
 ---
 title: Connecting the Aid Flows
-layout: iati
 ---
 
 <h2>Connecting the Aid Flows &mdash; making sense of the IATI data</h2>
@@ -14,15 +13,15 @@ layout: iati
 <div class="row">
     <div class="span4">
         <p>
-            The <a href="http://aidtransparency.net">International Aid Transparency Initiative</a> 
+            The <a href="http://aidtransparency.net">International Aid Transparency Initiative</a>
             is a political agreement by the world's major donors - including international banks, private foundations and NGOs - on a common way to publish aid information. It also defines a technical standard for exactly how that information should be published, IATI-XML.
         </p>
         <p>
-            So far, 29 donors representing 74% of Official Development Finance (ODF) 
+            So far, 29 donors representing 74% of Official Development Finance (ODF)
             <a href="http://aidtransparency.net/implementation">have committed to publishing</a> to IATI. A further <a href="http://iatiregistry.org/group">13 donors</a> representing 45% of ODF have already published, and 12 NGOs and foundations have published their own data.
         </p>
         <p>
-            This page details how we converted each donor's data, using simple scripts and open source tools, from raw XML data in the <a href="http://iatiregistry.org/">IATI Registry</a> into a consolidated dataset and then, via loading into <a href="http://openspending.org/">OpenSpending</a> to visualisations like those shown above and an easy-to-use RESTful API. 
+            This page details how we converted each donor's data, using simple scripts and open source tools, from raw XML data in the <a href="http://iatiregistry.org/">IATI Registry</a> into a consolidated dataset and then, via loading into <a href="http://openspending.org/">OpenSpending</a> to visualisations like those shown above and an easy-to-use RESTful API.
         </p>
 
         <p class="pull-right">
@@ -38,7 +37,7 @@ layout: iati
 
 <div class="row">
     <div class="span6">
-        
+
         <img src="http://farm8.staticflickr.com/7098/7326283576_6b572c9253.jpg" class="shadow inline-image large">
     </div>
     <div class="span6">
@@ -65,7 +64,7 @@ layout: iati
             However, this decentralised structure also creates challenges for people who want to use the data: quite a lot of technical knowledge is required to convert IATI-XML data into a format that is suitable for analysis. The data has to be downloaded from a range of websites, and then parsed to extract the information from XML files, into a format more suited for analytical purposes - e.g. to aggregate and analyze project funding. This is why it makes sense to place it in (for example) a relational database, a spreadsheet or another format for presenting the data.
         </p>
         <p>
-            So far, 29 donors representing 74% of Official Development Finance (ODF) 
+            So far, 29 donors representing 74% of Official Development Finance (ODF)
             <a href="http://aidtransparency.net/implementation">have committed to publishing</a> to IATI. A further <a href="http://iatiregistry.org/group">13 donors</a> representing 45% of ODF have already published, and 12 NGOs and foundations have published their own data.
         </p>
 
@@ -95,7 +94,7 @@ layout: iati
     <div class="span6">
         <img src="http://farm9.staticflickr.com/8151/7242077310_61b07942dd.jpg" class="shadow left inline-image large">
     </div>
-    <div class="span6"> 
+    <div class="span6">
 
        <h3>Loading into OpenSpending</h3>
 
@@ -160,7 +159,7 @@ layout: iati
 
         <p>This allows you to visualise the data very easily using something like the Bubbletree, seen here.</p>
     </div>
-    <div class="span6"> 
+    <div class="span6">
         <br>
         <img src="http://farm9.staticflickr.com/8156/7242651298_133cb38dee.jpg">
     </div>
