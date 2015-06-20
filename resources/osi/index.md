@@ -1,8 +1,6 @@
 ---
-title: Mapping the Open Spending Data Community 
+title: Mapping the Open Spending Data Community
 ---
-
-# Mapping the Open Spending Data Community 
 
 <th class="inner"><em>How civil society organisations use data on public finances</em></th>
 
