@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Supervizor, Slovenia
 authors:

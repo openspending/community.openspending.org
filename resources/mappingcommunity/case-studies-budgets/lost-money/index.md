@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Bani pierduti? (Lost Money)
 authors:

@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: OpenSpending
 authors:

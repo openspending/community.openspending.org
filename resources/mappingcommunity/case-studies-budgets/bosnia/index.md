@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Centre for Public Interest Advocacy
 authors:

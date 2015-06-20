@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: How to publish spending data without disclosing personal information
 authors:

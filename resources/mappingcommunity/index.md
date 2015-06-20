@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Mapping the Open Spending Data Community
 authors:

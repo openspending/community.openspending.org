@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Centre for Budget and Governance Accountability
 authors:

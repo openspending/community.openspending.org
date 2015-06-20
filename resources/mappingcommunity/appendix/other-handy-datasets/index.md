@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Other handy datasets
 authors:

@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Open Knowledge Foundation Greece
 authors:

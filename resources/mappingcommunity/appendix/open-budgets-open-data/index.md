@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Putting the Open Data Into Open Budgets
 authors:

@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Budget transparency for an open university
 authors:

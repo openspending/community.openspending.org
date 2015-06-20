@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Farm subsidies in Mexico
 authors:

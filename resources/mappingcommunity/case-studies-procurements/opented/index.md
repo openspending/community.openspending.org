@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: OpenTED, Opening Tender Electronic Daily
 authors:

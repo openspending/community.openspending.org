@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: Map of Contacts
 authors:

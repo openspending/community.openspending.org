@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: 'Athens to Berlin: Video Series'
 authors:

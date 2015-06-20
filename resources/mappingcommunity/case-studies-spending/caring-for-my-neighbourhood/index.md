@@ -1,5 +1,4 @@
 ---
-section: about
 lead: true
 title: CaseCaring for My Neighbourhood
 authors:
