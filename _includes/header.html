@@ -117,6 +117,7 @@
         </li>
         <li {% if url_last == 'gift' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/gift/">GIFT</a>
+          {% include gift_nav.html %}
         </li>
         <li {% if url_last == 'iati' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/iati/">IATI</a>

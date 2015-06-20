@@ -21,4 +21,4 @@ This report was prepared for the Global Initiative for Fiscal Transparency ([GIF
 </tr>
 </table>
 
-{{ include gift_nav.html }}
+{% include gift_nav.html %}
