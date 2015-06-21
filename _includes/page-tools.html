@@ -3,10 +3,10 @@
     {% if site.github_repo and page.edit %}
     <li class="edit tooltip-item">
       Improve this page
-      
+
       <span class="tooltip">
         <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}/edit/gh-pages/{{page.path}}" class="github" rel="external">Edit on Github</a>
-        <a href="{{ "/contribute/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
+        <a href="{{ "/meta/contribute/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
       </span>
     </li>
     {% endif %}
@@ -14,7 +14,7 @@
     <li class="translate tooltip-item">
       Translate this page
       <span class="tooltip">
-        <a href="{{ "/contribute/translate-guide" | prepend: site.baseurl }}" target="_blank">Translation guide</a>
+        <a href="{{ "/meta/contribute/translate-guide" | prepend: site.baseurl }}" target="_blank">Translation guide</a>
       </span>
     </li>
     {% endif %}
@@ -23,7 +23,7 @@
 
     <li class="donate tooltip-item">
       Donate
-      
+
       <span class="tooltip">
         <p>If you have found this useful and would like to support our work please consider making a small donation.</p>
         <form method="post" action="https://www.paypal.com/cgi-bin/webscr" target="_blank">
@@ -58,7 +58,7 @@
     {% endif %}
     <li class="share tooltip-item">
       Share
-      
+
       <span class="tooltip">
         <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook" rel="external">Share on Facebook</a>
         <a href="https://twitter.com/home?status={{page.title }}: {{ site.url }}{{ page.url }}" class="twitter" rel="external">Share on Twitter</a>
@@ -67,21 +67,21 @@
     {% if page.section == 'resources' %}
     <li class="add tooltip-item">
       Add a resource
-      
+
       <span class="tooltip">
-        <a href="{{ "/contribute/add-resource/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
+        <a href="{{ "/meta/contribute/add-resource/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
       </span>
     </li>
     {% endif %}
     {% if page.section == 'solutions-landing' %}
     <li class="add tooltip-item">
       Add a solution
-      
+
       <span class="tooltip">
-        <a href="{{ "/contribute/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
+        <a href="{{ "/meta/contribute/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
       </span>
     </li>
     {% endif %}
   </ul>
-  
+
 </div>

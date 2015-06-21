@@ -43,6 +43,14 @@ $(document).ready(function() {
     //filters
     $("#menu .filter > a").click(function() { 
       $(this).parent('.filter').toggleClass("active");
-    });    
-    
+    });
+
+  //github activity
+  if ($('#github-activity').length) {
+    $('#github-activity').githubActivity({
+      events: 5,
+      repos: ["openspending/dotorg"]
+    });
+  }
+
  });

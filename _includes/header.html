@@ -139,5 +139,15 @@
         </li>
       </ul>
     </li>
+    <li>
+      <a href="{{ site.baseurl }}/meta/">Meta</a>
+      <ul>
+        <li {% if url_last == 'changes' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/meta/changes/">Recent Changes</a>
+        </li>
+        <li {% if url_last == 'contribute' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/meta/contribute/">Contribute</a>
+        </li>
+      </ul>
   </ul>
 </nav>
