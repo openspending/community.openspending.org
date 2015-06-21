@@ -50,7 +50,7 @@ As part of the project OpenSpending:
 </div>
 <div class="well">
 <h5>OpenSpending Slovakia</h5>
-In early 2013, we launched <a href="slovakia.openspending.org">Slovakia Openspending</a>, prepared in collaboration with transparency and anti-corruption watchdog <a href="www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:
+In early 2013, we launched <a href="http://slovakia.openspending.org">Slovakia Openspending</a>, prepared in collaboration with transparency and anti-corruption watchdog <a href="http://www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:
 
 <ul>
 <li>Year-on-year comparison for spending categories.</li>
@@ -175,9 +175,9 @@ The City of Berlin asked Open Knowledge Foundation Germany to visualise the budg
 <h5>Technology for Transparent &amp; Accountable Public Finance</h5>
 <img class="pull-left" style="margin-right: 2em;" title="TTAPF" src="http://farm9.staticflickr.com/8031/8002530046_fe4354f76a_m.jpg" alt="" />
 
-The report, <a href="../../research/gift/">“Technology for Transparent and Accountable Public Finance”</a>, was commissioned by the Global Initiative for Fiscal Transparency (GIFT) in February 2012 in order to assist GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities.
+The report, <a href="../../resources/gift/">“Technology for Transparent and Accountable Public Finance”</a>, was commissioned by the Global Initiative for Fiscal Transparency (GIFT) in February 2012 in order to assist GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities.
 
-Read the <a href="../../research/gift/highlights/">recommendations</a>.
+Read the <a href="../../resources/gift/chapter9-intro/#governments">recommendations</a>.
 
 <a href="http://content.openspending.org/resources/gift/pdf/ttapf_report_20120530.pdf">Download as PDF</a>
 
@@ -193,7 +193,7 @@ In early 2012, we set out on a mission. Our aim was to establish how CSO's curre
 <li>what current technical needs are unmet</li>
 <li>what would be required to meet these needs and how feasible is it to tackle them</li>
 </ul>
-This <a href="../../research/osi/">report</a> is the output of that research. Here, we bring together key case studies from organisations who have done pioneering work in using technology to put government data to best use.
+This <a href="../../resources/mappingcommunity/">report</a> is the output of that research. Here, we bring together key case studies from organisations who have done pioneering work in using technology to put government data to best use.
 
 In this report we:
 
@@ -202,16 +202,16 @@ In this report we:
 <li>examine some key case studies of how organisations are using technology to do groundbreaking research, citizen engagement, visualisation and tracking of accountability.</li>
 <li>talk about the training needs for CSO's to help them better use the data available, and to demand better data.</li>
 </ul>
-Read the <a href="../../research/osi/conclusions/">conclusions</a>.
+Read the <a href="../../resources/mappingcommunity/conclusions/">conclusions</a>.
 
-<a href="../../research/osi/videos/">Athens to Berlin research trip: Watch the video interviews</a>
+<a href="../../resources/mappingcommunity/videos/">Athens to Berlin research trip: Watch the video interviews</a>
 
 </div>
 <div class="well">
 <h5>The Spending Data Handbook</h5>
 <img class="pull-left" style="margin-right: 2em;" title="Spending Handbook" src="http://farm8.staticflickr.com/7449/8754377372_77aed9107e_m.jpg" alt="" />
 
-The <a href="../../research/handbook/">Spending Data Handbook</a> is addressed to people and organisations who want to use and understand government budgets and spending data in their work.
+The <a href="../../resources/handbook/">Spending Data Handbook</a> is addressed to people and organisations who want to use and understand government budgets and spending data in their work.
 
 The book covers:
 
@@ -235,7 +235,7 @@ Too often, standardization in this context appears to be supply-driven: every pu
 
 Such designs tend to be of little use to the intended consumers, as they raise the barriers to understanding the information considerably. Our approach therefore is to generate demand-side use cases first, ensuring that everything that is done will generate value for data users.
 
-Read our <a href="../../research/standard/">proposed standard</a>.
+Read our <a href="../../resources/standard/">proposed standard</a>.
 
 </div>
 <a name="stories"></a>
@@ -316,7 +316,7 @@ Coverage of the Italian Regional Accounts Data:
 <div class="well">
 <img class="pull-right" style="margin-left: 3em;" title="Caelainn Barr" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" alt="" width="250" />
 
-We regularly conduct training sessions for journalists and NGOs on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please [get in touch](../contact/)
+We regularly conduct training sessions for journalists and NGOs on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please [get in touch](/about/contact/)
 
 .
 

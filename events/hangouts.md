@@ -24,6 +24,6 @@ If we are running a Google Hangout, get the link to the Google Hangout and click
 We provide the Google Hangout link:
 
 * in the meeting call notes (see above)
-* on the OpenSpending Discuss list (see [Contact page](/contact/) for how to sign up to the mailing list)
+* on the OpenSpending Discuss list (see [Contact page](/about/contact/) for how to sign up to the mailing list)
 
 [notes]: https://docs.google.com/a/okfn.org/document/d/1_59aF9SPubHnkLAnGN2cF2Be5ANGqxCJOak4MeAsKJs/edit
