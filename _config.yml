@@ -10,6 +10,8 @@ github_repo: dotorg
 paypal: admin@okfn.org
 contact: https://discuss.okfn.org/t/openspending-community-website-migration-2015/330
 img_path: http://community.openspending.org/files
+gems:
+  - jekyll-redirect-from
 
 devs:
   -
