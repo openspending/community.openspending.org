@@ -12,10 +12,12 @@ skills and will do what we can to help you getting started!
 
 ## Connecting with the Community
 
-We have [mailing lists, an irc channel][contact] and regular
+There's lots of discussion happening on our
+[OpenSpending Forums](https://discuss.okfn.org/c/openspending).  We
+also have [mailing lists, an irc channel][contact] and regular
 [online community meetings][hangouts]. You're welcome to join!
 
-[contact]: {{site.baseurl}}/contact/
+[contact]: {{site.baseurl}}/about/contact/
 [hangouts]: {{site.baseurl}}/events/hangouts/
 
 ## Specific Areas
@@ -28,15 +30,19 @@ Help build and run the OpenSpending platform.
 
 ### Website and News
 
-Help run this blog and website: write up stories about money and finances and track coverage of public finances in the news.
+Help run this blog and website: write up stories about money and
+finances and track coverage of public finances in the news.
 
-[Find out more &raquo;](./web/) or [Jump straight into the Web and News Trello board](https://trello.com/b/7E5enK5J/openspending-news-and-website-team).
+[Find out more &raquo;](./web/) or
+[Jump straight into the Web and News Trello board](https://trello.com/b/7E5enK5J/openspending-news-and-website-team).
 
 ### Data and Data Wrangling
 
 Prepare and load data into OpenSpending or help others do so!
 
-<a href="./data/">Find out more &raquo;</a> or <a href="https://github.com/openspending/datatoload/issues">jump straight into the datasets-to-work-on tracker</a>!
+<a href="./data/">Find out more &raquo;</a> or <a
+href="https://github.com/openspending/datatoload/issues">jump straight
+into the datasets-to-work-on tracker</a>!
 
 ## Good Tasks to Get Started With
 
