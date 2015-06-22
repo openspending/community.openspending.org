@@ -4,6 +4,7 @@ short_title: OpenSpending Community
 description: |
   The community-driven project creating a free and open database of public financial transactions worldwide.
 baseurl: ""
+issues_url: https://github.com/openspending/next/issues
 url: "http://community.openspending.org/" # the base hostname & protocol for your site
 github_username: openspending
 github_repo: dotorg
