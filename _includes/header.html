@@ -18,6 +18,37 @@
       <a href="http://blog.openspending.org/">Blog</a>
     </li>
     <li>
+      <a href="{{ site.baseurl }}/next/">OpenSpending Next</a>
+      <ul>
+        <li {% if page.url contains 'roadmap' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/next/roadmap/">Roadmap</a>
+          <ul>
+            {% for page in site.pages %}
+            {% if page.section == 'next' %}
+            {% if page.type == 'spec' %}
+            <li>
+              <a href="{{ page.url }}">{{ page.title }}</a>
+            </li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </li>
+        <li>
+          <a target="_blank" href="https://trello.com/b/BNXzXDEc/openspending-next-development">Workboard</a>
+        </li>
+        <li>
+          <a target="_blank" href="http://labs.openspending.org/osep/">OSEPs</a>
+        </li>
+        <li>
+          <a target="_blank" href="https://discuss.okfn.org/t/tech-hangout-june-2015/357">Tech Hangouts</a>
+        </li>
+        <li {% if page.url contains 'next' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/next/presentation/">Presentation</a>
+        </li>
+      </ul>
+    </li>
+    <li>
       <a href="{{ site.baseurl }}/about/">About</a>
       <ul>
         <li {% if url_last == 'about' %}class="Selected"{% endif %}>
