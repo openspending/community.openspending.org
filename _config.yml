@@ -12,11 +12,18 @@ contact: https://discuss.okfn.org/t/openspending-community-website-migration-201
 img_path: http://community.openspending.org/files
 gems:
   - jekyll-redirect-from
+  - jekyll-mentions
 
 devs:
   -
       name: Sam Smith
       github: mintcanary
+  -
+      name: Dan Fowler
+      github: danfowler
+  -
+      name: Paul Walsh
+      github: pwalsh
 
 contributors:
   -

@@ -5,3 +5,4 @@ gem "jekyll"
 gem "nokogiri" # required by _plugins/html_filters.rb
 gem "rdiscount"
 gem 'jekyll-redirect-from'
+gem 'jekyll-mentions'
