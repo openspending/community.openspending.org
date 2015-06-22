@@ -1,0 +1,240 @@
+<h2 id="overview">Overview</h2>
+
+<p>A roadmap for developing a minimal viable product (MVP) of the next OpenSpending platform. This does not mean that the new platform will be ready to <em>replace</em> the current OpenSpending. Rather, it should be a usable product that provides some user value, and demonstrates the utility of both the microservices architecture, and the flat file Datastore.</p>
+
+<p><strong>The components for this MVP are described in this diagram:</strong></p>
+
+<p><img src="img/osnext-mvp.png" /></p>
+
+<p><strong>The MVP is the first step on the path to the full architecture as described in <a href="http://labs.openspending.org/osep/osep-01.html">OSEP-01</a>:</strong></p>
+
+<div style="text-align: center"><img width="60%" src="http://labs.openspending.org/osep/img/01-tech-overview-subcomponents.png" /></div>
+
+<h2 id="goals">Goals</h2>
+
+<ul>
+  <li>Provide a simple flow for a user to start with a file of spend data and have it visualized in a few of steps</li>
+  <li>Provide basic validation of the concepts in OSEP-01</li>
+  <li>Provide a good testing ground for iterating on OpenSpending Data Package</li>
+  <li>Provide a migration path for all existing data in openspending.org to the new Datastore</li>
+</ul>
+
+<h2 id="supported-user-flows">Supported user flows</h2>
+
+<p>The MVP must be able to address these user flows.</p>
+
+<h3 id="upload-spend-data">Upload spend data</h3>
+
+<ol>
+  <li>User has a file of spend data</li>
+  <li>User interacts with a web interface to get this data modeled into an OpenSpending Data Package</li>
+  <li>User uploads her data/package to the OpenSpending Datastore</li>
+  <li>User can download the data/package from the OpenSpending Datastore</li>
+</ol>
+
+<h3 id="view-a-spend-data-visualization">View a spend data visualization</h3>
+
+<ol>
+  <li>User can see a list of data packages that are on OpenSpending</li>
+  <li>User can navigate to a high-level visualisation of the data in a given data package</li>
+</ol>
+
+<h2 id="timeline">Timeline</h2>
+
+<p><strong>June 2015 - December 2015</strong></p>
+
+<p>We are setting out an MVP that we hope to be able to deliver over the next ~6 months. This is obviously highly dependant on time and resources, and so is just an intention, and not a requirement.</p>
+
+<p>Some work needs to be executed in sequence (more or less), and some can occur in parallel.</p>
+
+<h3 id="core-work-in-sequence">Core work, in sequence</h3>
+
+<ul>
+  <li><strong>Datastore:</strong> A correctly configured object storage backend for OpenSpending Data Packages.</li>
+  <li><strong>Data load:</strong> A service that allows a user to model and load data, and save that data to the datastore.</li>
+  <li><strong>Static aggregation:</strong> A service that provides high-level aggregation over the Data Packages in the datastore.</li>
+  <li><strong>Visualization:</strong> A set of simple, high-level visualizations using the computed static aggregations in the datastore.</li>
+  <li><strong>Index/Registry:</strong> A service that provides the main entry point to OpenSpending, allowing users to navigate a list of existing Data Packages, see information on a specific Data Package, and interact with simple visualizations for a Data Package.</li>
+</ul>
+
+<h3 id="parallel-work">Parallel work</h3>
+
+<ul>
+  <li><strong>Auth/z service:</strong> Users can authenticate, and be authorized to perform actions</li>
+  <li><strong>Service integration:</strong> Different services can communicate</li>
+  <li><strong>Open Spending Data Package:</strong> User data can be modeled and packaged with useful information about it</li>
+  <li><strong>Data migration:</strong> Existing data on Open Spending can move to a new home</li>
+  <li><strong>Documentation:</strong> high-level documentation for the new system</li>
+</ul>
+
+<p>In the <strong>Components and teams</strong> section below, work is broken down into components that would ideally be managed by a team.</p>
+
+<h2 id="components-and-teams">Components and teams</h2>
+
+<p>The new architecture proposes a collection of interacting services. This helps us break down work into components that would ideally be managed by a team.</p>
+
+<p>Each team should:</p>
+
+<ul>
+  <li>Work to a set of user stories and basic specs that have been agreed on with other teams</li>
+  <li>Regularly sync with other teams</li>
+  <li>Generally organize their own work</li>
+</ul>
+
+<p>Teams could consist of one person. The same team might move on through multiple components.</p>
+
+<p>Approximate estimates of time are given below. This is just to get a rough understanding of the scope of the work.</p>
+
+<h3 id="datastore-team">Datastore team</h3>
+
+<ul>
+  <li>Component: Datastore</li>
+  <li>Status: <em>required</em></li>
+  <li>Team: N/A (@pwalsh responsible)</li>
+  <li>Estimate: 1 day</li>
+</ul>
+
+<p>Requires minimal work (just correct configuration of S3). Does not require a team.</p>
+
+<h3 id="data-load-team">Data load team</h3>
+
+<ul>
+  <li>Component: Data modeler and loader</li>
+  <li>Status: <em>required</em></li>
+  <li>Team: @pwalsh</li>
+  <li>Estimate: 10 days</li>
+  <li>Requires: Accepted OSEP-04 in order to deliver</li>
+  <li><a href="02-dataload.html">Specifications</a></li>
+  <li><strong>Interested?: <a href="/1">Join the team</a></strong></li>
+</ul>
+
+<p>A service that provides both a commandline and Web UI for loading data into the OpenSpending Datastore.</p>
+
+<p>The Web UI is more important. We want to provide an excellent 1-2-3 type user experience for loading data into OpenSpending.</p>
+
+<p>This service expects well-formed data sources, and can either accept data packages that are already modeled (ie: already have a <code>datapackage.json</code> descriptor which is a valid Open Spending Data Package), or, perform the modeling of the data with user interaction.</p>
+
+<p>Some initial ideas for this on the command line have been explored in <a href="https://github.com/openspending/oscli-poc">OSCLI-POC</a>.</p>
+
+<h3 id="static-aggregation-team">Static aggregation team</h3>
+
+<ul>
+  <li>Component: aggregation over flat files</li>
+  <li>Status: <em>required</em></li>
+  <li>Team: @pwalsh @rgrp</li>
+  <li>Estimate: 5 - 10 days</li>
+  <li>Requires: Accepted OSEP-04 in order to deliver</li>
+  <li><a href="03-static-aggregation.html">Specifications</a></li>
+  <li><strong>Interested?: <a href="/2">Join the team</a></strong></li>
+</ul>
+
+<p>A job that runs when a data package is uploaded to generate aggregated spend reports from the data. We’d have to define what the scope of aggregations is, and also consider the feasibly of this method of aggregation with data we expect in Open Spending.</p>
+
+<p>Some initial work in this direction has been explored in <a href="https://github.com/openspending/cubepress">cubepress</a>.</p>
+
+<h3 id="visualisation-team">Visualisation team</h3>
+
+<ul>
+  <li>Component: data visualizations over aggregated spend data</li>
+  <li>Status: <em>required</em></li>
+  <li>Team: None</li>
+  <li>Estimate: 10 days</li>
+  <li><a href="04-visualisation.html">Specifications</a></li>
+  <li><strong>Interested?: <a href="/3">Join the team</a></strong></li>
+</ul>
+
+<p>Maybe it is time to retire <a href="https://github.com/openspending/openspendingjs">openspendingjs</a>, or refactor. In any event, we’d want to provide at least one high-level data visualization using the aggregated data files.</p>
+
+<h3 id="indexregistry-team">Index/Registry team</h3>
+
+<ul>
+  <li>Component: Index/Registry of Data Packages</li>
+  <li>Status: <em>required</em></li>
+  <li>Team: None</li>
+  <li>Estimate: 2 days</li>
+  <li><a href="05-index-registry.html">Specifications</a></li>
+  <li><strong>Interested?: <a href="/4">Join the team</a></strong></li>
+</ul>
+
+<p>A simple flask app that:</p>
+
+<ul>
+  <li>Provides the front page of the project</li>
+  <li>Provides a list of the currently available data packages on the datastore</li>
+  <li>For each Data Package in the list, provides:
+    <ul>
+      <li>a link to the <code>datapackage.json</code></li>
+      <li>a link to a high-level visualization of the spend data therein (eg: Treemap)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="authz-team">Auth/z team</h3>
+
+<ul>
+  <li>Component: Auth service</li>
+  <li>Status: <em>recommended</em></li>
+  <li>Team: None</li>
+  <li>Estimate: 7 days?</li>
+  <li><a href="06-auth.html">Specifications</a></li>
+  <li><strong>Interested?: <a href="/5">Join the team</a></strong></li>
+</ul>
+
+<p><strong>Note</strong>: Marked here as <em>recommended</em> as it is possible that we would mock this out, but it would mean that our MVP is not publicly usable.</p>
+
+<p>We need a service to authenticate users, and authorize user actions. It is likely that Open Knowledge would like to hosted an authentication service that could be used on many Open Knowledge web properties. So, work on this may end up being more directly for Open Knowledge, than for Open Spending. To be discussed.</p>
+
+<p>The minimum auth/z requirements we have for this MVP are:</p>
+
+<ul>
+  <li>Authenticate a user</li>
+  <li>Authorize and authenticated user to upload files to the Open Spending Datastore.</li>
+</ul>
+
+<h3 id="service-integration-team">Service integration team</h3>
+
+<ul>
+  <li>Component: pub/sub or similar service</li>
+  <li>Status: <em>nice to have</em></li>
+  <li>Team: @tryggvib</li>
+  <li>Estimate: ?</li>
+  <li><a href="07-integration.html">Specifications</a></li>
+  <li><strong>Interested?: <a href="/6">Join the team</a></strong></li>
+</ul>
+
+<p>In general, Open Spending will need some type of tasks service (pub/sub, etc.) to have interaction between different services. Even here in the scope of the MVP, we have events/actions that could leverage tasks (eg: on upload of a data package, register an aggregation task). We can get away without it now, but it may be better to design with this from the beginning.</p>
+
+<h3 id="openspending-data-package-team">OpenSpending Data Package team</h3>
+
+<ul>
+  <li>Component: Specification</li>
+  <li>Status: <em>required</em></li>
+  <li>Team: @rgrp @pwalsh @tryggvib</li>
+  <li>Estimate: ongoing, as part of other work</li>
+  <li><strong>Interested?: <a href="/7">Join the team</a></strong></li>
+</ul>
+
+<p>We’ll accept OSEP-04 at a state in which we can start working with it, but expect to iterate on details continuously.</p>
+
+<h3 id="data-migration-team">Data migration team</h3>
+
+<ul>
+  <li>Component: migration scripts</li>
+  <li>Status: <em>recommended</em></li>
+  <li>Team: @rgrp</li>
+  <li>Estimate: ? 2 - 3 days ?</li>
+  <li><a href="08-data-migration.html">Specifications</a></li>
+  <li><strong>Interested?: <a href="/8">Join the team</a></strong></li>
+</ul>
+
+<h3 id="documentation-team">Documentation team</h3>
+
+<ul>
+  <li>Component: Documentaion</li>
+  <li>Status: <em>recommended</em></li>
+  <li>Team: @tryggvib</li>
+  <li>Estimate: <em>ongoing</em></li>
+  <li><strong>Interested?: <a href="/11">Join the team</a></strong></li>
+</ul>
+
+<p>A team responsible for making sure services are documented and collecting them into a single page. Especially important for overview docs.</p>
