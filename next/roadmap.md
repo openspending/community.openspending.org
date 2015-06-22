@@ -95,7 +95,7 @@ Requires minimal work (just correct configuration of S3). Does not require a tea
 * Team: @pwalsh
 * Estimate: 10 days
 * Requires: Accepted OSEP-04 in order to deliver
-* [Specifications](02-dataload.html)
+* [Specifications](../02-dataload/)
 * **Interested?: [Join the team]({{ site.issues_url }}/1)**
 
 A service that provides both a commandline and Web UI for loading data into the OpenSpending Datastore.
@@ -113,7 +113,7 @@ Some initial ideas for this on the command line have been explored in [OSCLI-POC
 * Team: @pwalsh @rgrp
 * Estimate: 5 - 10 days
 * Requires: Accepted OSEP-04 in order to deliver
-* [Specifications](03-static-aggregation.html)
+* [Specifications](../03-static-aggregation/)
 * **Interested?: [Join the team]({{ site.issues_url }}/2)**
 
 A job that runs when a data package is uploaded to generate aggregated spend reports from the data. We'd have to define what the scope of aggregations is, and also consider the feasibly of this method of aggregation with data we expect in Open Spending.
@@ -126,7 +126,7 @@ Some initial work in this direction has been explored in [cubepress](https://git
 * Status: *required*
 * Team: None
 * Estimate: 10 days
-* [Specifications](04-visualisation.html)
+* [Specifications](../04-visualisation/)
 * **Interested?: [Join the team]({{ site.issues_url }}/3)**
 
 Maybe it is time to retire [openspendingjs](https://github.com/openspending/openspendingjs), or refactor. In any event, we'd want to provide at least one high-level data visualization using the aggregated data files.
@@ -137,7 +137,7 @@ Maybe it is time to retire [openspendingjs](https://github.com/openspending/open
 * Status: *required*
 * Team: None
 * Estimate: 2 days
-* [Specifications](05-index-registry.html)
+* [Specifications](../05-index-registry/)
 * **Interested?: [Join the team]({{ site.issues_url }}/4)**
 
 A simple flask app that:
@@ -154,7 +154,7 @@ A simple flask app that:
 * Status: *recommended*
 * Team: None
 * Estimate: 7 days?
-* [Specifications](06-auth.html)
+* [Specifications](../06-auth/)
 * **Interested?: [Join the team]({{ site.issues_url }}/5)**
 
 **Note**: Marked here as *recommended* as it is possible that we would mock this out, but it would mean that our MVP is not publicly usable.
@@ -172,7 +172,7 @@ The minimum auth/z requirements we have for this MVP are:
 * Status: *nice to have*
 * Team: @tryggvib
 * Estimate: ?
-* [Specifications](07-integration.html)
+* [Specifications](../07-integration/)
 * **Interested?: [Join the team]({{ site.issues_url }}/6)**
 
 In general, Open Spending will need some type of tasks service (pub/sub, etc.) to have interaction between different services. Even here in the scope of the MVP, we have events/actions that could leverage tasks (eg: on upload of a data package, register an aggregation task). We can get away without it now, but it may be better to design with this from the beginning.
@@ -193,7 +193,7 @@ We'll accept OSEP-04 at a state in which we can start working with it, but expec
 * Status: *recommended*
 * Team: @rgrp
 * Estimate: ? 2 - 3 days ?
-* [Specifications](08-data-migration.html)
+* [Specifications](../08-data-migration/)
 * **Interested?: [Join the team]({{ site.issues_url }}/8)**
 
 ### Documentation team
