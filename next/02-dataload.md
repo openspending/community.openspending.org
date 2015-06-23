@@ -21,19 +21,19 @@ An initial proof of concept for data loading via CLI has been done: [oscli-poc](
 
 ## Interface mocks
 
-<img src="/img/dataload_land.jpg" />
+<img src="/img/dataload_land.jpg">
 <div style="text-align: center;"><i>The landing page for the data load service</i></div>
 <br /><br />
 <img src="/img/dataload_start.jpg" />
 <div style="text-align: center;"><i>The user starts by adding files, which are immediately checked for suitability</i></div>
 <br /><br />
-<img src="/img/dataload_map.jpg" />
+<img src="/img/dataload_map.jpg">
 <div style="text-align: center;"><i>The user then must map the data to the OpenSpending model</i></div>
 <br /><br />
-<img src="/img/dataload_review.jpg" />
+<img src="/img/dataload_review.jpg">
 <div style="text-align: center;"><i>Before publishing the data, the user checks the mapping and metadata</i></div>
 <br /><br />
-<img src="/img/dataload_result.jpg" />
+<img src="/img/dataload_result.jpg">
 <div style="text-align: center;"><i>Once the data is loaded, it is processed for basic visualisations</i></div>
 <br /><br />
 
