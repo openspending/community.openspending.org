@@ -20,8 +20,8 @@ Chacune de ces étapes est détaillée dans les sections suivantes.
 
 &nbsp;
 
-**Suivant**:[<a href="./rassembler-les-donnees/">Rassembler les données</a>]
+**Suivant**:[<a href="../rassembler-les-donnees/">Rassembler les données</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./representation-des-donnees-dans-openspending/">Représentation des données dans OpenSpending</a>]
+**Précédent**: [<a href="../representation-des-donnees-dans-openspending/">Représentation des données dans OpenSpending</a>]

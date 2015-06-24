@@ -42,8 +42,8 @@ Des exemples de données budgétaires sur OpenSpending:
 
 &nbsp;
 
-**Suivant**:[<a href="./representation-des-donnees-dans-openspending/">Représentation des données dans OpenSpending</a>]
+**Suivant**:[<a href="../representation-des-donnees-dans-openspending/">Représentation des données dans OpenSpending</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./quest-ce-que-openspending/">Qu’est ce que OpenSpending?</a>]
+**Précédent**: [<a href="../quest-ce-que-openspending/">Qu’est ce que OpenSpending?</a>]

@@ -39,7 +39,7 @@ title: Brazilian Transparency Portal - Access to Information and Citizen Oversig
     </tr>
     <tr>
         <th class="inner">URL</th>
-        <td colspan="2"><a href="www.portaltransparencia.gov.br">http://www.portaltransparencia.gov.br/</a></td>
+        <td colspan="2"><a href="http://www.portaltransparencia.gov.br">http://www.portaltransparencia.gov.br/</a></td>
     </tr>
 </table>
 
@@ -58,9 +58,9 @@ In 2004, the Brazilian Office of the Comptroller General (CGU) created the Trans
 2. Transfer of Resources: To states, municipalities, companies, transfers made in foreign land, or directly to an individual,
 3. Direct Expenses by the Federal Government: Construction contracts, government purchases, per diems paid and expenses on government credit cards, indicating the person that expensed any of the financial operations above
 
-#### Revenue: 
+#### Revenue:
 
-1. Budget and financial execution data with daily updates of the estimated government revenue. 
+1. Budget and financial execution data with daily updates of the estimated government revenue.
 
 #### Other
 
@@ -82,11 +82,11 @@ The Portal registers an average of 410 000 monthly visits. The number of citizen
 
 ### Successes and Outcomes
 
-There have been a number of concrete cases where the Transparency Portal has supported direct social control of government activities. At the beginning of 2008, Brazil’s domestic media published numerous reports about “suspect” expenditure made using federal government Payment Cards. In one case the reports led to the resignation of one federal minister. In other cases the portal’s data has given rise to unsubstantiated media reports. 
+There have been a number of concrete cases where the Transparency Portal has supported direct social control of government activities. At the beginning of 2008, Brazil’s domestic media published numerous reports about “suspect” expenditure made using federal government Payment Cards. In one case the reports led to the resignation of one federal minister. In other cases the portal’s data has given rise to unsubstantiated media reports.
 
 The Transparency Portal will only be successful if a variety of stakeholders are engaged in anti-corruption efforts. Citizens, non-governmental organizations, press, private sector, academic institutions, think tanks and other civil society actors have an indispensable role to achieve the project’s effectiveness. To improve the interaction between government and civil society, the Transparency Portal discloses a communication channel: “Contact us”. Through this channel, the Portal users can elucidate any doubts related to the accessibility or to its own content, as well as praise or make suggestions. Through this channel the Portal also receives many suggestions for improvement and denounces of misuse of public money.
 
-### Challenges 
+### Challenges
 
 Monitoring and evaluating the impact of the Transparency Portal is an evolving area. The Office of the Comptroller General of the Union measures the average time spent on the website, as well as its bounce rates, pages per visit, visitors, most demanded searches, among other data. Access numbers have been used to identify demands for different queries and the depth of information researched by users. This analysis allows web managers to prioritise the most requested information in the layout. Bounce rates can be used to improve e.g. the frequently asked question section.
 
@@ -96,6 +96,6 @@ The Portal is administered by a Management Group and a Working Group (operationa
 
 Approximately 137 000 USD was invested for the initial stage of the Portal’s development, from the Office of the Comptroller-General regular budget. Nowadays, the Office of the Comptroller-General of Brazil (CGU) controls the program’s database and the maintenance cost is relatively low.
 
-<p style="text-align: right">Thanks for input from Izabela Moreira Correa, CGU</p> 
+<p style="text-align: right">Thanks for input from Izabela Moreira Correa, CGU</p>
 
 <div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter3-intro">Next &raquo;</a></div>

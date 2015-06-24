@@ -77,7 +77,7 @@ Do you have code/documentation you want to contribute? Awesome! All changes to t
 
 ##### 4. Review
 
-The pull requests sent in, must be reviewed by a core developer and in the case when a core developer creates a pull request by another core developer than the one who committed the changes (so a core developer cannot review her/his own contributions). The reviewer should try and foresee any problems with the implementation, remind the developer about translations, discuss quality or raise any other issues. This should all be done with constructive criticism. We have some general guidelines on [how to perform code reviews for OpenSpending](code-review.html).
+The pull requests sent in, must be reviewed by a core developer and in the case when a core developer creates a pull request by another core developer than the one who committed the changes (so a core developer cannot review her/his own contributions). The reviewer should try and foresee any problems with the implementation, remind the developer about translations, discuss quality or raise any other issues. This should all be done with constructive criticism. We have some general guidelines on [how to perform code reviews for OpenSpending](../review/).
 
 Don't be afraid of reviews or any criticism you might get. Use them to become a better developer/contributor! If you feel the reviewer isn't being constructive let her/him know so she/he can improve her/his future reviews (we're all trying to be constructive but that might take some practice or words might come out wrong online). The reviewer is not always correct so if you feel the reviewer is wrong, protect and argue for your contribution (and the reviewer can use it to become a better reviewer/developer).
 

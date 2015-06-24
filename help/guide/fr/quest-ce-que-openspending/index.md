@@ -11,8 +11,8 @@ Ce chapitre introduit les concepts principaux du système aux nouveaux contribut
 
 &nbsp;
 
-**Suivant**:[<a href="./quels-types-de-donnees-financieres-peut-on-ajouter-dans-openspending/">Quels types de données financières peut-on ajouter dans OpenSpending?</a>]
+**Suivant**:[<a href="../quels-types-de-donnees-financieres-peut-on-ajouter-dans-openspending/">Quels types de données financières peut-on ajouter dans OpenSpending?</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./">Le Guide OpenSpending</a>]
+**Précédent**: [<a href="../">Le Guide OpenSpending</a>]

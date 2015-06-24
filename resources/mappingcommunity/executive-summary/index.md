@@ -39,7 +39,7 @@ As one interviewee remarked, it does not take much to render data unusable. It i
 
 Publishing data in unstructured and non-machine-readable formats wastes time and prevents many projects from getting off the ground. Data should be published in a form that is transparent to computational processing. CSOs should push governments to:
 
-* publish data in a [machine-readable format](../appendix/machinreadfaq) (no PDFs, Word documents, or HTML tables)
+* publish data in a [machine-readable format](../appendix/machinereadfaq/) (no PDFs, Word documents, or HTML tables)
 * provide a bulk download option: no CAPTCHA codes, download limits, etc.
 
 ## Opportunities for knowledge-sharing and engagement

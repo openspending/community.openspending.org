@@ -41,8 +41,8 @@ Voici des exemples de **bons** jeux de données:
 
 &nbsp;
 
-**Suivant**:[<a href="./publier-les-donnees-sur-le-web/">Publier les données sur le web</a>]
+**Suivant**:[<a href="../publier-les-donnees-sur-le-web/">Publier les données sur le web</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./rassembler-les-donnees/">Rassembler les données</a>]
+**Précédent**: [<a href="../rassembler-les-donnees/">Rassembler les données</a>]

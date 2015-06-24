@@ -27,7 +27,7 @@ lead: true
                                                href="http://www.courtofaudit.nl/english/Publications/Topics/EU_governance_to_combat_the_economic_and_financial_crisis/Financial_stabilisation_instruments">Netherlands Court of Audit</a>.
       If you would like
       to contribute disaggregared data or further knowledge, please
-      <a href="/about/contact.html">get in touch</a>.
+      <a href="/about/contact/">get in touch</a>.
     </div>
 
     <p>The EU's financial planning happens on two levels: through
@@ -142,7 +142,7 @@ lead: true
       This site is intended as a short briefing for journalists and
       citizens interested in the EU. It is necessarily incomplete, but we
       hope to continuously extend it. If you have questions, comments or
-      suggestions, please message our <a href="/about/contact.html">mailing
+      suggestions, please message our <a href="/about/contact/">mailing
         list</a>.
     </p>
 

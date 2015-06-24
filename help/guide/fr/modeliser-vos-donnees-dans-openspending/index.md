@@ -75,8 +75,8 @@ Si votre modèle ne contient plus d’erreurs, cliquez sur **Load** pour charger
 
 &nbsp;
 
-**Suivant**:[<a href="./creer-une-visualisation/">Créer une visualisation</a>]
+**Suivant**:[<a href="../creer-une-visualisation/">Créer une visualisation</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./creer-un-jeu-de-donnees-sur-openspending/">Créer un jeu de données sur OpenSpending</a>]
+**Précédent**: [<a href="../creer-un-jeu-de-donnees-sur-openspending/">Créer un jeu de données sur OpenSpending</a>]

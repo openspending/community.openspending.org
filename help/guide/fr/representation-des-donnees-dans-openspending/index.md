@@ -25,8 +25,8 @@ Les autres dimensions sont utilisées pour représenter d’autres propriétés 
 
 &nbsp;
 
-**Suivant**:[<a href="./ajouter-des-donnees-dans-openspending/">Ajouter des données dans OpenSpending</a>]
+**Suivant**:[<a href="../ajouter-des-donnees-dans-openspending/">Ajouter des données dans OpenSpending</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./quels-types-de-donnees-financieres-peut-on-ajouter-dans-openspending/">Quels types de données financières peut-on ajouter dans OpenSpending?</a>]
+**Précédent**: [<a href="../quels-types-de-donnees-financieres-peut-on-ajouter-dans-openspending/">Quels types de données financières peut-on ajouter dans OpenSpending?</a>]

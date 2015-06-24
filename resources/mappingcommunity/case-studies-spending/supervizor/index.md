@@ -14,7 +14,7 @@ The Supervizor application:
 - matches such transactions to company records, including director lists and corporate leadership
 - use the actual bank transactions from public bank accounts at the Slovenian National Bank as source data, making the records highly reliable
 
-According to the developer behind the platform, the granularity of the data has enabled statisticians and anaylysts to make statistical models available, including a [Hidden Markov model](en.wikipedia.org/wiki/Hidden_Markov_model) of the data.
+According to the developer behind the platform, the granularity of the data has enabled statisticians and anaylysts to make statistical models available, including a [Hidden Markov model](http://en.wikipedia.org/wiki/Hidden_Markov_model) of the data.
 
 Over the years, the platform has helped identify shifts in contractor purchases around changes in the political leadership.
 

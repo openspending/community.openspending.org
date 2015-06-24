@@ -13,8 +13,8 @@ Si les données trouvées ne sont pas dans un format lisible par une machine, co
 
 &nbsp;
 
-**Suivant**:[<a href="./formatter-les-donnees/">Formatter les données</a>]
+**Suivant**:[<a href="../formatter-les-donnees/">Formatter les données</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./ajouter-des-donnees-dans-openspending/">Ajouter des données dans OpenSpending</a>]
+**Précédent**: [<a href="../ajouter-des-donnees-dans-openspending/">Ajouter des données dans OpenSpending</a>]

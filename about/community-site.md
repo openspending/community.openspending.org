@@ -31,6 +31,6 @@ To get involved see the [Get Involved page][3].
 
 [1]:	http://blog.openspending.org/
 [2]:	{{ site.baseurl }}/resources/
-[3]:	{{ site.baseurl }}/contribute/
+[3]:	{{ site.baseurl }}/get-involved/
 [3b]:   {{ site.baseurl }}/events/
 [4]:	{{ site.baseurl }}/help/
