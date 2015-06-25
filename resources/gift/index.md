@@ -4,7 +4,10 @@ title: Global Initiative for Fiscal Transparency Report
 
 ![Cover of TTAPF Report](http://farm9.staticflickr.com/8027/7296195082_0ae9bdb2f0_z.jpg)
 
-This report was prepared for the Global Initiative for Fiscal Transparency ([GIFT](www.fiscaltransparency.net) with generous support from the Omidyar Network.  The views represented are those of the authors.
+This report was prepared for the Global Initiative for Fiscal
+Transparency ([GIFT](http://www.fiscaltransparency.net) with generous
+support from the Omidyar Network.  The views represented are those of
+the authors.
 
 <table  align= "center">
 

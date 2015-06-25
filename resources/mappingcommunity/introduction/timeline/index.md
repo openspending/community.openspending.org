@@ -10,4 +10,4 @@ A visual timeline of key activities from the project can be seen here:
 
 **Next**: [Summary of recommendations](../../executive-summary/)
 
-**Up**: [Introduction](../introduction/)
+**Up**: [Introduction](../)

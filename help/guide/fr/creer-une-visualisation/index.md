@@ -49,8 +49,8 @@ En ajoutant une autre colonne en cliquant sur **Add a level**, le montant de la 
 
 &nbsp;
 
-**Suivant**:[<a href="./inclure-une-visualisation-sur-votre-site-web/">Inclure une visualisation sur votre site web</a>]
+**Suivant**:[<a href="../inclure-une-visualisation-sur-votre-site-web/">Inclure une visualisation sur votre site web</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./modeliser-vos-donnees-dans-openspending/">Modéliser vos données dans OpenSpending</a>]
+**Précédent**: [<a href="../modeliser-vos-donnees-dans-openspending/">Modéliser vos données dans OpenSpending</a>]

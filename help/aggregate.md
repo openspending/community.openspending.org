@@ -10,7 +10,7 @@ can be used to flexibly generate aggregated views of the data by
 applying filters and grouping criteria.
 
 This API is heavily based on OLAP concepts, and the documentation assumes
-you know [how we store data](../../guide/data-model/).
+you know [how we store data](../../help/guide/en/data-model/).
 
 #### Basic call and parameters
 

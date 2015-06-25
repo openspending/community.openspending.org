@@ -22,6 +22,6 @@ The OpenSpending Guide is the manual for OpenSpending, covering the entire proce
     * [Create a visualization](./create-viz)
     * [Embed a visualization on your website](./embed-viz)
 
-**Begin**: [What is OpenSpending?](../what-is-openspending/)
+**Begin**: [What is OpenSpending?](./what-is-openspending/)
 
 **Up**: [OpenSpending guides](../)

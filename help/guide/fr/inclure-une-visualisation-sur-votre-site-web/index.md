@@ -13,8 +13,8 @@ L’inclusion de visualisations est rendue possible par les _widgets_. Ces morce
 
 &nbsp;
 
-**Précédent**:[<a href="./creer-une-visualisation/">Créer une visualisation</a>]
+**Précédent**:[<a href="../creer-une-visualisation/">Créer une visualisation</a>]
 
 &nbsp;
 
-**Début**: [<a href="./">Le Guide OpenSpending</a>]
+**Début**: [<a href="../">Le Guide OpenSpending</a>]

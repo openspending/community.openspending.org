@@ -204,7 +204,7 @@ In this report we:
 </ul>
 Read the <a href="../../resources/mappingcommunity/conclusions/">conclusions</a>.
 
-<a href="../../resources/mappingcommunity/videos/">Athens to Berlin research trip: Watch the video interviews</a>
+<a href="../../resources/mappingcommunity/introduction/videos/">Athens to Berlin research trip: Watch the video interviews</a>
 
 </div>
 <div class="well">

@@ -28,8 +28,8 @@ GitHub Gist est un moyen très pratique pour héberger des fichiers textes de pe
 
 &nbsp;
 
-**Suivant**:[<a href="./creer-un-jeu-de-donnees-sur-openspending/">Créer un jeu de données sur OpenSpending</a>]
+**Suivant**:[<a href="../creer-un-jeu-de-donnees-sur-openspending/">Créer un jeu de données sur OpenSpending</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./formatter-les-donnees/">Formatter les données</a>]
+**Précédent**: [<a href="../formatter-les-donnees/">Formatter les données</a>]

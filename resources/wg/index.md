@@ -29,7 +29,7 @@ title: Working Group on Open Expenditure Data
 * **Damir Mehmedbasic**, [Public Interest Advocacy Centre](http://cpi.ba/), *Bosnia and Herzegovina*
 * **David Cabo**, Pro Bono Publico, *Spain*
 * **Diego de la Mora**, [Fundar](http://fundar.org.mx/index.html/), *Mexico*
-* **Dr Effie Vraniali**,[Fondafip](www.fondafip.org) and Member of Transparency International *Greece*
+* **Dr Effie Vraniali**,[Fondafip](http://www.fondafip.org) and Member of Transparency International *Greece*
 * **Elena Calistru**, [Lost Money](http://banipierduti.cloudapp.net/), *Romania*
 * **Eva Vozarova**, [Fair-Play Alliance](http://www.fair-play.sk/index.php),  *Slovakia*
 * **Federico Ramírez**, [Fundar](http://fundar.org.mx/index.html/), *Mexico*
@@ -44,7 +44,7 @@ title: Working Group on Open Expenditure Data
 * **Michael Roberts**, Co-founder, [Acclar](http://acclar.org/)
 * **Michal Skop**, [KohoVolit.eu](http://en.kohovolit.eu/), *Czech Republic*
 * **Oluseun Onigbinde**, [BudgIT](http://yourbudgit.com/), *Nigeria*
-* **Photios Zygoulis**, e-gov Coordinator, [Municipality of Neo Iraklio Attikis](www.iraklio.gr), *Greece*
+* **Photios Zygoulis**, e-gov Coordinator, [Municipality of Neo Iraklio Attikis](http://www.iraklio.gr), *Greece*
 * **Sam Lee**, [World Bank Finances](https://finances.worldbank.org/), *USA*
 * **Sam Smith**, Organiser of [OpenTech](http://www.ukuug.org/events/opentech2011/), *United Kingdom*
 

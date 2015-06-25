@@ -28,4 +28,4 @@ The videos below present highlights from this series of interviews. They introdu
 
 **Next**: [Map of Contacts](../map/)
 
-**Up**: [Introduction](../introduction/)
+**Up**: [Introduction](../)

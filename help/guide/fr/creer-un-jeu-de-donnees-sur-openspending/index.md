@@ -45,8 +45,8 @@ Si vous avez ajouté une mauvaise source, ce n’est pas grave. Vous n’avez pa
 
 &nbsp;
 
-**Suivant**:[<a href="./modeliser-vos-donnees-dans-openspending/">Modéliser vos données dans OpenSpending</a>]
+**Suivant**:[<a href="../modeliser-vos-donnees-dans-openspending/">Modéliser vos données dans OpenSpending</a>]
 
 &nbsp;
 
-**Précédent**: [<a href="./publier-les-donnees-sur-le-web/">Publier les données sur le web</a>]
+**Précédent**: [<a href="../publier-les-donnees-sur-le-web/">Publier les données sur le web</a>]
