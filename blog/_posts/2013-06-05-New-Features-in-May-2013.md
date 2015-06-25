@@ -1,6 +1,7 @@
 ---
 layout: post
-author: tryggvib
+authors:
+- tryggvib
 title: New Features in May 2013
 published: true
 type: post

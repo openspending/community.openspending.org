@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lisa
+authors:
+- lisa
 title: Spending Stories, Open Spending Are Moving Beyond Visualizations
 published: true
 type: post

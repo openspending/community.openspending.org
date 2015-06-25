@@ -1,6 +1,7 @@
 ---
 layout: post
-author: anders
+authors:
+- anders
 title: Next Data Clinic 19 June
 published: true
 type: post

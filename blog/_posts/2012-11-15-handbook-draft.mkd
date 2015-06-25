@@ -1,6 +1,7 @@
 ---
 layout: post
-author: friedrich
+authors:
+- friedrich
 title: Spending Data Handbook - Draft Version
 published: true
 type: post

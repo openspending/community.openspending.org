@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: lucy
+authors:
+- lucy
 title: New Translation Documentation for OpenSpending
 published: true
 meta: 

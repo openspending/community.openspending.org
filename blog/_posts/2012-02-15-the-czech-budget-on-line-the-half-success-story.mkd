@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: michal
+authors:
+- michal
 title: "The Czech budget on-line: the half success story"
 published: true
 meta: 

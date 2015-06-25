@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: Thoughts from the Global Investigative Journalism Conference
 published: true
 meta:

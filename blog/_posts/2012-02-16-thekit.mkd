@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: friedrich
+authors:
+- friedrich
 title: Announcing the Where Does My Money Go? Assembly Kit
 published: true
 meta: 

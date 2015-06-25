@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: lucy
+authors:
+- lucy
 title: "Civil Society and Spending Data: Who is mapping the money?"
 published: true
 meta: 

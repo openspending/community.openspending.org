@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: We're hiring!
 published: true
 type: post

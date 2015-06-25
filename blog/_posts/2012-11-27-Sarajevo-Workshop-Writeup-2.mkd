@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: Day 2 OpenSpending CSO Workshop - Sarajevo
 published: true
 type: post

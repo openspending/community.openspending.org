@@ -1,6 +1,7 @@
 ---
 layout: post
-author: nick
+authors:
+- nick
 title: An introduction to the TaxMan
 published: true
 type: post

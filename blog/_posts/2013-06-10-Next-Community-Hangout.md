@@ -1,6 +1,7 @@
 ---
 layout: post
-author: anders
+authors:
+- anders
 title: Next Community Hangout 12 June
 published: true
 type: post

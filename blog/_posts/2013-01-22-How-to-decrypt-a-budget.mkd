@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lisa
+authors:
+- lisa
 title: How to decrypt a budget?
 published: true
 type: post

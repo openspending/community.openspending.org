@@ -1,6 +1,7 @@
 ---
 layout: post
-author: anders
+authors:
+- anders
 title: Budget transparency for an open university
 published: true
 type: post

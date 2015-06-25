@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: lucy
+authors:
+- lucy
 title: Voting Systems for E-Participatory Budgeting - Upcoming Call
 published: true
 meta: 

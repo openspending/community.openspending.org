@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: Athens to Berlin - Day 1, Diavgeia
 published: true
 type: post

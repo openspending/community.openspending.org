@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: Where Does the Money Go - International. Updates from OKFestival 
 published: true
 type: post

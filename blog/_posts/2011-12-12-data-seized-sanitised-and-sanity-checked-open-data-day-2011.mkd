@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: mark
+authors:
+- mark
 title: Data = Seized, Sanitised and Sanity-checked. Open Data Day 2011
 published: true
 meta: 

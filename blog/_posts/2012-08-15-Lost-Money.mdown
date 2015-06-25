@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: Athens to Berlin - PROFILE - Bani pierduti? (Lost money?)
 published: true
 type: post

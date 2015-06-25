@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: lucy
+authors:
+- lucy
 title: "Open Meeting: Software for Participatory Budgeting"
 published: true
 meta: 

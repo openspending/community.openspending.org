@@ -1,6 +1,7 @@
 ---
 layout: post
-author: anders
+authors:
+- anders
 title: How to understand data from the EIB - what does the data tell us?
 published: false
 type: post

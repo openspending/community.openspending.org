@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: lucy
+authors:
+- lucy
 title: Participatory Budgeting and Technology
 published: true
 meta: 

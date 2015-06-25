@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lisa
+authors:
+- lisa
 title: How to Embed Open Spending Databases to Your Own Website
 published: true
 type: post

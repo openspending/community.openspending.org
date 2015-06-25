@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: friedrich
+authors:
+- friedrich
 title: Updates from the OpenSpending Dev Team
 published: true
 meta: 

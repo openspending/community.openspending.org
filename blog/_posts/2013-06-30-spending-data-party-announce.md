@@ -1,6 +1,7 @@
 ---
 layout: post
-author: anders
+authors:
+- anders
 title: Join us for a City Spending Data Party and map the money near you!
 published: true
 type: post

@@ -1,6 +1,7 @@
 ---
 layout: post
-author: martin
+authors:
+- martin
 title: Opening Budgets in Morocco
 published: true
 type: post

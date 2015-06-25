@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: lucy
+authors:
+- lucy
 title: OpenSpending visualisations featured in the Guardian
 published: true
 meta: 

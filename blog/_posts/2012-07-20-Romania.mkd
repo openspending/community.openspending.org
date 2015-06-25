@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: Athens to Berlin - Romania's Money Mappers.
 published: true
 type: post

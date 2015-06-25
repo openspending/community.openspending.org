@@ -1,6 +1,7 @@
 ---
 layout: post
-author: gisele
+authors:
+- gisele
 title: Caring for My Neighbourhood - Geolocating Spending in Brazil
 published: true
 type: post

@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: Bosnian Budgets - grouping data by categories people care about
 published: true
 type: post

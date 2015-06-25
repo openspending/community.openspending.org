@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: OpenSpending A Year in Review 
 published: true
 type: post

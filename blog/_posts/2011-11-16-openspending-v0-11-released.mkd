@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: friedrich
+authors:
+- friedrich
 title: OpenSpending v0.11 Released
 published: true
 meta: 

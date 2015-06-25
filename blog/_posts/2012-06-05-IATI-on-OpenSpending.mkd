@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: mark
+authors:
+- mark
 title: Aid Data - From XML to Visualisations
 published: true
 type: post

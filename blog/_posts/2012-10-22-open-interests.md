@@ -1,6 +1,7 @@
 ---
 layout: post
-author: friedrich
+authors:
+- friedrich
 title: Open Interests Hackathon - November 24-25, London, England
 published: true
 type: post

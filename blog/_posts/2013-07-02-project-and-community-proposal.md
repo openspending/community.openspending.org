@@ -1,6 +1,7 @@
 ---
 layout: post
-author: anders
+authors:
+- anders
 title: Supporting growth of the OS project and community - a proposal
 published: true
 type: post

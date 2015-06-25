@@ -1,6 +1,7 @@
 ---
 layout: post
-author: victoria
+authors:
+- victoria
 title: Budgetstories.md - using open budget data to create meaningful stories
 published: true
 type: post

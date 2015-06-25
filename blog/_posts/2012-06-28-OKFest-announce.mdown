@@ -1,6 +1,7 @@
 ---
 layout: post
-author: lucy
+authors:
+- lucy
 title: Budget Cycle Monitoring Hackday at OKFest
 published: true
 type: post

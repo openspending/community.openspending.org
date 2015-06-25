@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: friedrich
+authors:
+- friedrich
 title: "'Where Does My Money Go?' Goes international. Welcome to OpenSpending."
 published: true
 meta: 

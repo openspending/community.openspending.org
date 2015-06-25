@@ -1,6 +1,7 @@
 --- 
 layout: post
-author: lucy
+authors:
+- lucy
 title: "Open Bookkeeping: What role can accountants play in Open Spending & Budget Projects?"
 published: true
 meta: 

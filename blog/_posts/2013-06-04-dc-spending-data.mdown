@@ -1,6 +1,7 @@
 ---
 layout: post
-author: anders
+authors:
+- anders
 title: Hack for Change helps publish data from Washington DC 
 published: true
 type: post
