@@ -1,6 +1,5 @@
 ---
 title: "OpenTED, Opening Tender Electronic Daily"
-layout: osi
 ---
 
 # OpenTED, Opening Tender Electronic Daily

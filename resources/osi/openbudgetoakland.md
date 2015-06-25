@@ -1,6 +1,5 @@
 ---
 title: "OpenBudgetOakland"
-layout: osi
 ---
 
 # OpenOakland, United States

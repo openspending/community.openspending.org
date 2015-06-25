@@ -1,6 +1,5 @@
 ---
 title: "FarmSubsidy.org"
-layout: osi
 ---
 
 # FarmSubsidy.org

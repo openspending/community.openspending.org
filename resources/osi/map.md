@@ -1,6 +1,5 @@
 ---
 title: "Map of Contacts"
-layout: osi
 ---
 
 # Map of Contacts

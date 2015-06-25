@@ -1,6 +1,5 @@
 ---
 title: "Conclusions"
-layout: osi
 ---
 
 The voices and stories in this report highlight the diversity of the community working at the intersection of technology and government finance. We conclude this report by summarizing the demands CSOs are making for spending data and our recommendations for how they can pursue those demands and use the data to engage citizens with public finance.

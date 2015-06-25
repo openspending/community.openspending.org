@@ -1,6 +1,5 @@
 ---
 title: "Case Studies: Budgets"
-layout: osi
 ---
 
 # Case Studies - Budgets

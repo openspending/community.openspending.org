@@ -1,6 +1,5 @@
 ---
 title: "Case Studies: Procurements"
-layout: osi
 ---
 
 <a href="http://www.flickr.com/photos/seemoredomore/4710878501/" title="Construction in Ghana by Twin Work &amp; Volunteer"><img src="http://farm5.staticflickr.com/4072/4710878501_eb22b37418_z.jpg" width="640" height="480" alt="ConstructionsGhana (7)"></a>

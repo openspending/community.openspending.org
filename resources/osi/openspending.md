@@ -1,6 +1,5 @@
 ---
 title: "OpenSpending"
-layout: osi
 ---
 
 The availability of elegant and intuitive visualisations can drive government data release at a local level. OffenerHaushalt in Germany, for example, was launched with a small note on the page saying, “If you are a local government and you are interested in producing your own visualisation site such as this, please write to us.” To date, the OffenerHaushalt team have received 70-90 requests for similar sites in Germany at different levels of government, often from government officials themselves. 

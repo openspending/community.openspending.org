@@ -1,6 +1,5 @@
 ---
 title: "Budget transparency for an open university"
-layout: osi
 ---
 
 # Budget transparency for an open university

@@ -1,6 +1,5 @@
 ---
 title: Credits
-layout: osi
 ---
 
 The OpenSpending team would like to thank the contributors for outstanding engagement and support:

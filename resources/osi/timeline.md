@@ -1,6 +1,5 @@
 ---
 title: Timeline
-layout: osi
 ---
 
 # Timeline

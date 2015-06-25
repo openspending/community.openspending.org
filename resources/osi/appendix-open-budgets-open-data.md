@@ -1,6 +1,5 @@
 ---
 title: "Putting the Open Data Into Open Budgets"
-layout: osi
 ---
 
 # Putting the Open Data Into Open Budgets

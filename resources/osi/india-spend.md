@@ -1,6 +1,5 @@
 ---
 title: "India Spend"
-layout: osi
 ---
 
 # India Spend (Mumbai)

@@ -1,6 +1,5 @@
 ---
 title: CaseCaring for My Neighbourhood
-layout: osi
 ---
 
 # Caring for My Neighbourhood - Geolocating Spending in Brazil

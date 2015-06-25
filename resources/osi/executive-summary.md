@@ -1,6 +1,5 @@
 ---
 title: "Summary of recommendations"
-layout: osi
 ---
 
 In the rest of this report, we present the status quo in CSO usage of government spending data in the form of case studies on successful data-driven projects.

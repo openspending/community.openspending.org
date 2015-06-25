@@ -1,6 +1,5 @@
 ---
 title: "Farm subsidies in Mexico"
-layout: osi
 ---
 
 # Farm subsidies in Mexico

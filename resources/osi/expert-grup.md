@@ -1,6 +1,5 @@
 ---
 title: "Expert Grup"
-layout: osi
 ---
 
 # Expert Grup

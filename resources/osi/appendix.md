@@ -1,6 +1,5 @@
 ---
 title: Appendix
-layout: osi
 ---
 
 # Contents 

@@ -1,6 +1,5 @@
 ---
 title: "Bani pierduti? (Lost Money)"
-layout: osi
 ---
 
 # Lost Money

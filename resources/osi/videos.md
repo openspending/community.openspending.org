@@ -1,6 +1,5 @@
 ---
 title: "Athens to Berlin: Video Series"
-layout: osi
 ---
 
 # Athens to Berlin: Video Series

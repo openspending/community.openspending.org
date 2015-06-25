@@ -1,6 +1,5 @@
 ---
 title: "Case Studies: Spending"
-layout: osi
 ---
 
 ![Spending data](http://i.imgur.com/eXUlwMe.png)

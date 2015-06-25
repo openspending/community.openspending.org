@@ -1,6 +1,5 @@
 ---
 title: "Tool Ecosystem"
-layout: osi
 ---
 
 ## Spending Data: The Tool Ecosystem 

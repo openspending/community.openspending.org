@@ -1,6 +1,5 @@
 ---
 title: "Case Study: Hasadna, Israel"
-layout: osi
 ---
 
 # Budget transparency in Israel

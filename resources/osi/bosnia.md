@@ -1,6 +1,5 @@
 ---
 title: "Centre for Public Interest Advocacy"
-layout: osi
 ---
 
 <div class="well">After meeting the team from the Public Interest Advocacy Centre (CPI) at

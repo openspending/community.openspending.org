@@ -1,6 +1,5 @@
 ---
 title: "Hutspace"
-layout: osi
 ---
 
 # Hutspace, Ghana

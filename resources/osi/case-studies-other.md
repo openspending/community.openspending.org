@@ -1,6 +1,5 @@
 ---
 title: "Case Studies: From Local to Global"
-layout: osi
 ---
 
 ![WDMMG, Chiba City edition](http://i.imgur.com/qBuiQiK.png)

@@ -1,6 +1,5 @@
 ---
 title: "Open Knowledge Foundation Greece"
-layout: osi
 ---
 
 <div class="well">Project: Tracing financial reporting from the Cl@rity program.</div>

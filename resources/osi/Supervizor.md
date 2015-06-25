@@ -1,6 +1,5 @@
 ---
 title: "Supervizor, Slovenia"
-layout: osi
 ---
 
 In Slovenia, the anti-corruption agency has published the financial transparency site [Supervizor](http://supervizor.kpk-rs.si/) since 2011. 

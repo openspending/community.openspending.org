@@ -1,6 +1,5 @@
 ---
 title: "EU Spending Data"
-layout: osi
 ---
 
 # EU spending data

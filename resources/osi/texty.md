@@ -1,6 +1,5 @@
 ---
 title: "Texty"
-layout: osi
 ---
 
 # Texty

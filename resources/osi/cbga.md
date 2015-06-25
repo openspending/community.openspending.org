@@ -1,6 +1,5 @@
 ---
 title: "Centre for Budget and Governance Accountability"
-layout: osi
 ---
 
 # Case Study: Centre for Budget and Governance Accountability

@@ -1,6 +1,5 @@
 ---
 title: "Other handy datasets"
-layout: osi
 ---
 
 # Other handy datasets

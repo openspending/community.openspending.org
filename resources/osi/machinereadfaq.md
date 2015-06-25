@@ -1,6 +1,5 @@
 ---
 title: "Common arguments against publishing data"
-layout: osi
 ---
 
 # Common arguments against publishing data...

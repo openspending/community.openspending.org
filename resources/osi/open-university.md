@@ -1,7 +1,6 @@
 
 ---
 title: "Case Study: Open University"
-layout: osi
 ---
 
 # Budget transparency for an open university

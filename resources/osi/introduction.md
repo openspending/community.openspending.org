@@ -1,6 +1,5 @@
 ---
 title: Introduction
-layout: osi
 ---
 
 The unprecedented quantities of information on public finances now becoming available present an opportunity to create stronger and more participatory democracies, to campaign more effectively for social justice, and to hold power to account.
