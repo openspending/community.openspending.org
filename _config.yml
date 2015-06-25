@@ -81,3 +81,8 @@ defaults:
     values:
       layout: "page"
       edit: true
+  -
+    scope:
+      path: "blog"
+    values:
+      layout: "post"
