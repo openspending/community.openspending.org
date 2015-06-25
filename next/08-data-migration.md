@@ -73,3 +73,7 @@ To trial the process before dumping the whole dataset we'll use these datasets w
 ### Source archival
 
 * [Script to archive sources if they still exist](https://github.com/tryggvib/spendb/blob/master/contrib/os_export/archive_sources.py)
+
+### Test data
+
+* [Test data along with a source archive on s3](https://s3.amazonaws.com/openspending-migration-test/manifest.txt)
