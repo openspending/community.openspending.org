@@ -69,3 +69,7 @@ To trial the process before dumping the whole dataset we'll use these datasets w
 * [Private dataset, only analysis done, neither modelling nor import done](https://openspending.org/bosnian_test/)
 * [Private dataset, analysis and modelling done, no import](https://openspending.org/save_dimensions)
 * [No sources, no team members](https://openspending.org/ukgov-finances-cra)
+
+### Source archival
+
+* [Script to archive sources if they still exist](https://github.com/tryggvib/spendb/blob/master/contrib/os_export/archive_sources.py)
