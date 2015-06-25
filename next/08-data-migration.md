@@ -49,4 +49,7 @@ For that reason we will try to grab the original source data first and use the e
 
 ## Implementation
 
-Work has just started and no implementation currently exists. You still have a chance to participate and help out!
+### Implementation progress and discussions
+
+* [Trello card with discussions](https://trello.com/c/19X8lvwk/1-migrate-existing-os-data-to-osdp)
+
