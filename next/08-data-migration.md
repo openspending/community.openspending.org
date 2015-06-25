@@ -53,3 +53,6 @@ For that reason we will try to grab the original source data first and use the e
 
 * [Trello card with discussions](https://trello.com/c/19X8lvwk/1-migrate-existing-os-data-to-osdp)
 
+### Export OpenSpending datasets
+
+* [SpenDB's OpenSpending export script](https://github.com/pudo/spendb/blob/master/contrib/os_export/export.py)
