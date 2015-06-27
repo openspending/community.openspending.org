@@ -92,3 +92,4 @@ OpenSpending Community key shared resources.
 * [Core application](https://github.com/openspending/openspending)
 * [JavaScript library](https://github.com/openspending/openspendingjs)
 * [Satellite site template](https://github.com/openspending/satellite-template)
+* [R OpenSpending library](https://github.com/mihi-tr/r-openspending)
