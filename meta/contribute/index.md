@@ -17,13 +17,13 @@ improvements and additions, read on.
 
 In order to contribute, you need a little insight of how things work
 under the hood. We’re not going to go into too much detail here, but
-the are three components you need some understanding of.
+these are the three components you need some understanding of:
 
-- Github
+- GitHub
 - Jekyll
 - Markdown
 
-### Github
+### GitHub
 
 #### What is it?
 
@@ -34,12 +34,12 @@ web-based graphical interface.
 #### Why should I care?
 
 Any changes you wish to make, whether they be edits to an existing
-page, or creating a new one, will most likely be done via the Github
+page, or creating a new one, will most likely be done via the GitHub
 website (it is also possible to download and edit the files on your
 local machine, instructions for this method will be added in the
 future). All the files for this site can be browsed and edited the
-Github website. You will need to [sign up](https://github.com/) for a
-(free) Github account. For full instructions, see
+GitHub website. You will need to [sign up](https://github.com/) for a
+(free) GitHub account. For full instructions, see
 [Editing a page](./editing/).
 
 ### Jekyll
