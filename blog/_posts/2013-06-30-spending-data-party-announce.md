@@ -18,18 +18,18 @@ We are therefore thrilled to announce the global **City Spending Data Party - Ju
 
 **Who:** You, other spending explorers and the rest of the OpenSpending community
 
-The Spending Data Party came together thanks to feedback and engagement from [Hasadna](http://www.hasadna.org.il/en/) (Israel), [OpenBudgetOakland](http://openbudgetoakland.org/), [OpenKratio](openkratio.org/), [BudgIT](http://yourbudgit.com/) (Nigeria), [OKF Japan](http://spending.jp/) and [OKF Nepal](https://twitter.com/okfn_np). With the City Spending Data Party we want to open budget and spending data from cities to help us all get a sense of where the money is being spent. We hope that you will join to open up the budget and spending of your city! 
+The Spending Data Party came together thanks to feedback and engagement from [Hasadna](http://www.hasadna.org.il/en/) (Israel), [OpenBudgetOakland](http://openbudgetoakland.org/), [OpenKratio](http://openkratio.org/), [BudgIT](http://yourbudgit.com/) (Nigeria), [OKF Japan](http://spending.jp/) and [OKF Nepal](https://twitter.com/okfn_np). With the City Spending Data Party we want to open budget and spending data from cities to help us all get a sense of where the money is being spent. We hope that you will join to open up the budget and spending of your city!
 
 Register for the [**City Spending Data Party** ](https://docs.google.com/a/okfn.org/forms/d/1uHNAh9cfP_F5nudGfhV8t0XnNPmFL7cXhkuqWHAMaR4/viewform)!
 
 ###Explore spending in your city - dive in<br>
 <il>- Do you know how much your city actually spends on education compared to police enforcement?</il>
 
-<il>- Do you want more people to get people involved in the budget of your city?<br> 
+<il>- Do you want more people to get people involved in the budget of your city?<br>
 Maybe you can learn a few tricks from [OpenBudgetOakland](http://openbudgetoakland.org/mayor_13-15_proposed.html) who created a site where citizens have been commenting on the budget proposal throughout the entire decision making process.
 
-<il>- Which companies works for your city, and do they actually do a good job?</il><br> 
-Cities such as [London](http://openspending.org/gb-local-gla) and [Washington DC](http://openspending.org/dc-vendors-contractors) release transactional spending data that allows you to see what companies clean up the garbage and repair the roads. Let's make many more cities open up their spending data! 
+<il>- Which companies works for your city, and do they actually do a good job?</il><br>
+Cities such as [London](http://openspending.org/gb-local-gla) and [Washington DC](http://openspending.org/dc-vendors-contractors) release transactional spending data that allows you to see what companies clean up the garbage and repair the roads. Let's make many more cities open up their spending data!
 
 <il>- Share what you learn with the community and ask if you get stuck!
 
@@ -38,7 +38,7 @@ Cities such as [London](http://openspending.org/gb-local-gla) and [Washington DC
 
 <il>- **Open up budgets** from other local institutions such as [universities](http://openspending.org/blog/2013/06/17/universities-on-the-spending-map.html), public utilities or housing corporations.</il>
 
-<il>- **Learn from online trainings** how to visualise budgets, how to analyse spending data or how you can set up [a local OpenSpending satellite site](https://github.com/openspending/satellite-template). We will run various trainings and are eager to hear if you can contribute. Sign up [to do a training here](https://docs.google.com/a/okfn.org/forms/d/17diF5_alj37kvcY_2Oqx90xKz1aHJtjgVsXmL3yrHlY/viewform).</il> 
+<il>- **Learn from online trainings** how to visualise budgets, how to analyse spending data or how you can set up [a local OpenSpending satellite site](https://github.com/openspending/satellite-template). We will run various trainings and are eager to hear if you can contribute. Sign up [to do a training here](https://docs.google.com/a/okfn.org/forms/d/17diF5_alj37kvcY_2Oqx90xKz1aHJtjgVsXmL3yrHlY/viewform).</il>
 
 <il>- **Make OpenSpending better** by contributing to the code. We've got plans for some great enhancements and want to hear what you'd like to make.</il>
 

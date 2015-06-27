@@ -19,13 +19,13 @@ The idea emerged at the International Open Data Day, a gathering of citizens in 
 The set of tools used for the project included:
 
 * [CometDocs](http://www.cometdocs.com/) (online pdf 2 excel converter)
-* [Open Refine](http://openrefine.org/) (data cleaning) 
+* [Open Refine](http://openrefine.org/) (data cleaning)
 * [DataHub](http://datahub.io) (data hosting)
-* [OpenSpending API](http://docs.openspending.org/en/latest/model/design.html) & [D3.js](d3js.org) (visualizations)
+* [OpenSpending API](http://docs.openspending.org/en/latest/model/design.html) & [D3.js](http://d3js.org) (visualizations)
 
-###The importance on University budget transparency 
+###The importance on University budget transparency
 
-The Spanish Public Universities are almost solely funded by several Public Administration Offices. With the University of Grenade as an example, the amount of income coming from Public Payments (including college tuition) only raise up to 11% of the total. As a result of the Spanish economic crisis some college tuition rates rose, having a deep impact on the 
+The Spanish Public Universities are almost solely funded by several Public Administration Offices. With the University of Grenade as an example, the amount of income coming from Public Payments (including college tuition) only raise up to 11% of the total. As a result of the Spanish economic crisis some college tuition rates rose, having a deep impact on the
 pocket of those on the verge of being able to pay their studies.
 
 By releasing University budgeting data, the project:
@@ -38,8 +38,8 @@ Spanish public universities are equipped with system called SIIU (Integrated Uni
 system. Thus in reality most of the technical challenges around developing budgets in electronic and harmonized formats has already been completed. The question is therefore why the Ministry of Education will not make this information available to the public.
 
 ###Reactions following the publication of the app
-Honestly, budget transparency at universities is not a hot-topic today. Fortunately, a growing community in Spain where David Rey Jordan, a colleague at OpenKratio citizen group, member 
-of Open University group at OKFN Spain, and a public employee at Universidad Pablo de Olavide (Seville, Spain) encouraged me to replicate the same exercise for Olavide. Universidad Pablo de Olavide University opened its own Open Data Portal on 2012 releasing data about budgets and qualifications. Some visualizations using OpenSpending were done at the Open Data Day. 
+Honestly, budget transparency at universities is not a hot-topic today. Fortunately, a growing community in Spain where David Rey Jordan, a colleague at OpenKratio citizen group, member
+of Open University group at OKFN Spain, and a public employee at Universidad Pablo de Olavide (Seville, Spain) encouraged me to replicate the same exercise for Olavide. Universidad Pablo de Olavide University opened its own Open Data Portal on 2012 releasing data about budgets and qualifications. Some visualizations using OpenSpending were done at the Open Data Day.
 
 Find Openkratio on [github](http://openkratio.github.io/ugr-presupuestos/)
 
@@ -47,4 +47,3 @@ Nota: There are some weak points on the data. While income budget is broken down
 four levels, only three levels for the spending budget are available. The official University
 spending budget document (with 5 levels) has been published as scanned PDF images
 making them virtually imposible to be scrapped.
-

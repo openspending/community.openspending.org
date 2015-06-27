@@ -20,7 +20,7 @@ Several fresh datasets have been added from <strong>Bosnie-Herzegovina, Japan, B
 
 <a href="http://openspending.org/bosnia-and-herzegovina">Bosnia and Herzegovina July</a> 8, 2013
 
-<a href="Programa FDI Uruguay">Programa FDI Uruguay</a> July 8, 2013
+<a href="https://openspending.org/fdi_uy_2013">Programa FDI Uruguay</a> July 8, 2013
 
 <a href="http://openspending.org/inesc">Inesc</a> July 8, 2013
 

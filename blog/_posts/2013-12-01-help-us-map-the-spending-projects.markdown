@@ -8,7 +8,7 @@ authors:
 ---
 OpenSpending data is used in projects across the globe by students, journalists, activists, news media, governments, and others. Browse the map to discover some of these exciting projects, and get ideas for your own spending tracking projects.
 
-News Editor <a href="www.annaflagg.com">Anna Flagg</a> has now created an upgraded map of spending projects from around the world. The map includes investigative projects, budget monitoring groups and financial transparency initiatives. We need your help to expand the map with some of all the new and fantastic projects out there. Here is a quick guide for how you can add one or more projects in less than five minutes:
+News Editor <a href="http://www.annaflagg.com">Anna Flagg</a> has now created an upgraded map of spending projects from around the world. The map includes investigative projects, budget monitoring groups and financial transparency initiatives. We need your help to expand the map with some of all the new and fantastic projects out there. Here is a quick guide for how you can add one or more projects in less than five minutes:
 
 1) Go to the <a href="https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AqwLVP6U7FhDdEVnaUlLdnRmMnplRzdNWDF3cXBVUmc&usp=drive_web#gid=0">google doc</a> of spending projects, which functions as the "backend" of the map. Ask for approval to become editor in the right corner [the blue coloured "share" button]
 
@@ -19,4 +19,3 @@ News Editor <a href="www.annaflagg.com">Anna Flagg</a> has now created an upgrad
 *Made by Anna Flagg using D3.js.*
 
 [iframe src="http://www.annaflagg.com/os" frameborder="0" width="620" height="320"]
-

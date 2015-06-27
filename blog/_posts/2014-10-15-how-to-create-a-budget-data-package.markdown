@@ -65,7 +65,7 @@ Lines 48-67 of the [Armenia data processing script](https://gist.github.com/nmas
 
 ### Fixing COFOG values
 
-Budget Data Package datasets need to have well-formed COFOG values in the `cofog` column. Here, "well-formed" means that the values comply with [the COFOG standard](data.okfn.org/data/core/cofog#resource-cofog).
+Budget Data Package datasets need to have well-formed COFOG values in the `cofog` column. Here, "well-formed" means that the values comply with [the COFOG standard](http://data.okfn.org/data/core/cofog#resource-cofog).
 
 Our source dataset has a (mostly) COFOG-compatible functional classification system, but it formats its COFOG codes in an idiosyncratic way. It's necessary to transform these codes from values like "010101" to values like "01.1.1" for compliance.
 
@@ -85,4 +85,3 @@ You can see from looking at the metadata that it is mostly repetitious and predi
 ## Wrapping up
 
 Once the metadata file for the budget data package has been created and saved alongside the processed datasets, the budget data package has been created. You can now serve it up from whatever platform you prefer.
-
