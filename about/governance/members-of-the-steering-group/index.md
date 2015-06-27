@@ -42,7 +42,7 @@ Theories in Budapest.
 ### Elena Mondo, International Budget Partnership
 
 <figure>
-<img class="wp-image-1900 size-medium" src="{{ site.img_path }}/2014/04/Elena-pic-223x300.jpg" alt="" width="223" height="300" />
+<img class="wp-image-1900 size-medium" src="{{ site.baseurl }}/img/blog/2014/04/Elena-pic-223x300.jpg" alt="" width="223" height="300" />
 <figcaption>Elena Mondo, IBP</figcaption>
 </figure>
 
