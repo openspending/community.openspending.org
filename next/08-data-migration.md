@@ -49,4 +49,31 @@ For that reason we will try to grab the original source data first and use the e
 
 ## Implementation
 
-Work has just started and no implementation currently exists. You still have a chance to participate and help out!
+### Implementation progress and discussions
+
+* [Trello card with discussions](https://trello.com/c/19X8lvwk/1-migrate-existing-os-data-to-osdp)
+
+### Export OpenSpending datasets
+
+* [SpenDB's OpenSpending export script](https://github.com/pudo/spendb/blob/master/contrib/os_export/export.py)
+
+### Test datasets
+
+To trial the process before dumping the whole dataset we'll use these datasets which represent many of the edge cases we need to worry about:
+
+* [Good dataset with a single source](https://openspending.org/tekjur-rikissjods)
+* [Good dataset with multiple sources](https://openspending.org/uppgjor-rikissjods)
+* [Private dataset but good dataset](https://openspending.org/tryggvis_test_dataset/)
+* [Removed runs, errors in runs, multiple runs, multiple team members](https://openspending.org/bosnia-herzegovina)
+* [Source files no longer available](https://openspending.org/tunisia_budget)
+* [Private dataset, only analysis done, neither modelling nor import done](https://openspending.org/bosnian_test/)
+* [Private dataset, analysis and modelling done, no import](https://openspending.org/save_dimensions)
+* [No sources, no team members](https://openspending.org/ukgov-finances-cra)
+
+### Source archival
+
+* [Script to archive sources if they still exist](https://github.com/tryggvib/spendb/blob/master/contrib/os_export/archive_sources.py)
+
+### Test data
+
+* [Test data along with a source archive on s3](https://s3.amazonaws.com/openspending-migration-test/manifest.txt)
