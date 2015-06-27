@@ -8,7 +8,7 @@ authors:
 ---
 &nbsp;
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2015/04/01-tech-overview-polaroid.jpg"><img class="  wp-image-1915 alignright" src="http://0.0.0.0:8080/wp-content/uploads/2015/04/01-tech-overview-polaroid-257x300.jpg" alt="01-tech-overview-polaroid" width="276" height="320" /></a>At the 2015 Open Data Day a proposal for a new vision for the approach and architecture of OpenSpending was approved. It opens up an exciting opportunity for open budget initiatives around the world to work more closely together, whilst remaining independent. In a nutshell:
+<a href="{{ site.baseurl }}/img/blog/2015/04/01-tech-overview-polaroid.jpg"><img class="  wp-image-1915 alignright" src="{{ site.baseurl }}/img/blog/2015/04/01-tech-overview-polaroid-257x300.jpg" alt="01-tech-overview-polaroid" width="276" height="320" /></a>At the 2015 Open Data Day a proposal for a new vision for the approach and architecture of OpenSpending was approved. It opens up an exciting opportunity for open budget initiatives around the world to work more closely together, whilst remaining independent. In a nutshell:
 
 &nbsp;
 

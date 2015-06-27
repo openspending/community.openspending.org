@@ -18,7 +18,7 @@ During our exploration, we have been pleased to find that <a href="http://www.ma
 <h3>Downloading PDF files</h3>
 The Senegalese Authority for Public Procurement releases <a href="http://www.marchespublics.sn/pmb/index.php?option=com_stats&amp;task=afficheTacmaq&amp;Itemid=141&gt;" target="_blank">public procurement data as PDF files</a> on a quarterly basis
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/07/armp.jpg"><img class="alignnone size-medium wp-image-329" src="http://blog.openspending.org/files/2013/07/armp-300x159.jpg" alt="armp" width="300" height="159" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/07/armp.jpg"><img class="alignnone size-medium wp-image-329" src="http://blog.openspending.org/files/2013/07/armp-300x159.jpg" alt="armp" width="300" height="159" /></a>
 
 The files contain information on each public procurement contract awarded during this period of time, including :
 
@@ -68,7 +68,7 @@ To perform those operations we used only 3 kind of tools, linux shell tools, a s
 
 <strong>Open Refine</strong> is a powerful application to help you quickly clean your dataset. We mostly used Refine for its “cluster” feature, which helps you find groups of different cell values that might be alternative representations of the same thing, and then let you attribute a unique name to those cells. We used the “cluster” tool once we were sure that the cells contained the correct information.
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/07/refine1.png"><img class="alignnone size-large wp-image-354" src="http://blog.openspending.org/files/2013/07/refine1-1024x496.png" alt="refine" width="591" height="286" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/07/refine1.png"><img class="alignnone size-large wp-image-354" src="http://blog.openspending.org/files/2013/07/refine1-1024x496.png" alt="refine" width="591" height="286" /></a>
 
 And we used<strong> LibreOffice Calc</strong> for all other operations : aggregate divided cells ; convert amounts in the right currency ; fill in empty cells with a default value.
 
@@ -84,13 +84,13 @@ Here is a summary of the tasks performed during the cleaning process :
 <h3>Uploading data onto Open Spending</h3>
 Once the csv has been cleaned, <a href="http://www.nosdonnees.fr/dataset/marches-publics-du-senegal-publies-par-l-armp" target="_blank">we published the dataset on NosDonnées.fr </a>the French Open Data Hub, under the Odbl licence. The file was then available for all in an open and machine readable format.
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/07/nosdonneesfr.jpg"><img class="alignnone  wp-image-333" src="http://0.0.0.0:8080/wp-content/uploads/2013/07/nosdonneesfr.jpg" alt="nosdonneesfr" width="341" height="232" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/07/nosdonneesfr.jpg"><img class="alignnone  wp-image-333" src="{{ site.baseurl }}/img/blog/2013/07/nosdonneesfr.jpg" alt="nosdonneesfr" width="341" height="232" /></a>
 
 Last part was to upload and configure the dataset to be available on Open Spending :
 
 <strong>Step #1 - Import and validate the dataset :</strong> assign a name, an identifier, a country, language, a currency and a description to your dataset. Then specify the url of your dataset. The file must be available on the web, this is why we published it first on NosDonnées.fr.
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/07/import.png"><img class="alignnone size-medium wp-image-334" src="http://blog.openspending.org/files/2013/07/import-300x189.png" alt="import" width="300" height="189" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/07/import.png"><img class="alignnone size-medium wp-image-334" src="http://blog.openspending.org/files/2013/07/import-300x189.png" alt="import" width="300" height="189" /></a>
 
 &nbsp;
 

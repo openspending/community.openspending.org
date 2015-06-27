@@ -6,7 +6,7 @@ title: 'budzeti.ba: following the money in Bosnia and Herzegovina'
 authors:
 - Neil Ashton
 ---
-<img src="http://0.0.0.0:8080/wp-content/uploads/2013/10/budzetiba.png" alt="budzeti.ba tax calculator" width="600" height="453" class="alignnone size-full wp-image-1652" /><!--magazine.image = http://0.0.0.0:8080/wp-content/uploads/2013/10/budzetiba.png -->
+<img src="{{ site.baseurl }}/img/blog/2013/10/budzetiba.png" alt="budzeti.ba tax calculator" width="600" height="453" class="alignnone size-full wp-image-1652" /><!--magazine.image = {{ site.baseurl }}/img/blog/2013/10/budzetiba.png -->
 
 We're pleased to announce the launch of [budzeti.ba](http://budzeti.ba), a new way to understand public spending in Bosnia and Herzegovina (BiH). budzeti.ba is a joint project of Bosnian civil society advocates [CPI](http://cpi.ba) and the [Open Knowledge Foundation](http://okfn.org). It allows Bosnian citizens to navigate the complexities of the BiH tax system and to explore the distribution of public funds across administrative regions and categories of social spending.
 

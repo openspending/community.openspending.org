@@ -49,7 +49,7 @@ Avec un montant, une date et un identifiant, votre modèle est suffisamment rich
 
 Une pratique courante dans la présentation des jeux de données d’origine est la segmentation de l’information qui caractérise chaque donnée sur de multiples colonnes. L’information concernant un compte associé à une transaction peut être réparti entre une colonne “Compte” qui identifie le montant chiffré et une colonne “Description du compte” qui donne une description écrite. L’image ci-dessous illustre cette pratique avec les colonne “Head-account” et “Sub-account”.
 
-![Head-accounts et sub-accounts](http://0.0.0.0:8080/wp-content/uploads/2013/08/image_9.png)
+![Head-accounts et sub-accounts]({{ site.baseurl }}/img/blog/2013/08/image_9.png)
 
 Les dimensions composées d’OpenSpending sont conçues pour modéliser ce type d’informations éparpillées. Pour ce faire, ajoutez une nouvelle dimension composée et associez chaque colonne à l’un des champs de la dimension. Essayez de faire correspondre une colonne aux commentaires très détaillés à label et une colonne plus concise à _name_. Dans l’image ci-dessous “Head-account” correspond à _name_ et “Head-account description” à _label_.
 
@@ -57,7 +57,7 @@ Les dimensions composées d’OpenSpending sont conçues pour modéliser ce type
 
 Certaines colonnes de votre base de données sont plus indépendantes, représentant certaines propriétés particulières de chaque donnée. Par exemple, une colonne qui attribue à chaque transaction une catégorie rentre dans ce cadre. Dans l’image ci-dessous, les colonnes _Reporting Type_, _Revenue/Expenditure_ et _Recurrent/Investment_ sont de ce type.
 
-![Propriétés des données](http://0.0.0.0:8080/wp-content/uploads/2013/08/image_11.png)
+![Propriétés des données]({{ site.baseurl }}/img/blog/2013/08/image_11.png)
 
 Les colonnes indépendantes qui spécifient des propriétés ou des catégories sont mieux modélisées avec des dimensions d’attribut. Un attribut est essentiellement une dimension qui ne connaît qu’un seul champ, quel que soit son type. Pour créer un attribut, sélectionnez simplement la case _Attribute_ quand vous ajoutez une dimension.
 

@@ -17,7 +17,7 @@ You can make your data accessible on the web by turning it into a Google Drive s
 
 3. Click the *File* menu and select *Publish to the web...*. In the box that appears, click **Start publishing**. Beneath *Get a link to the published data*, select **CSV (comma-separated values)**.
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/08/image_0.png"><img src="http://0.0.0.0:8080/wp-content/uploads/2013/08/image_0.png" alt="image_0" width="596" height="578" class="alignnone size-full wp-image-577" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/08/image_0.png"><img src="{{ site.baseurl }}/img/blog/2013/08/image_0.png" alt="image_0" width="596" height="578" class="alignnone size-full wp-image-577" /></a>
 
 The URL at the bottom of the box now points to your data.
 

@@ -10,7 +10,7 @@ authors:
 
 <p dir="ltr"><strong>Updates from the community</strong>
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/08/OS-Capture.png"><img class="size-medium wp-image-624 alignleft" src="http://blog.openspending.org/files/2013/08/OS-Capture-300x159.png" alt="OS Capture" width="300" height="159" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/08/OS-Capture.png"><img class="size-medium wp-image-624 alignleft" src="http://blog.openspending.org/files/2013/08/OS-Capture-300x159.png" alt="OS Capture" width="300" height="159" /></a>
 
 <p dir="ltr">Last week saw several accounts of the <a href="http://blog.openspending.org/2013/06/30/spending-data-party-announce/">City Spending Data Party</a> we hosted in July, 19-21. <a href="http://okfn.org/members/prakashneupane/">Prakash Neupane</a> shared the systematic way in which our community in Kathmandu, Nepal approached the <a href="http://blog.openspending.org/2013/08/05/kathmandu-metropolitan-spending-party/">city’s expenditure data</a>, in addition to <a href="http://np.okfn.org/2013/07/24/kathmandu-metropolitan-in-city-spending-data-party/">the more detailed account</a> available on the Nepalese OKFN website.<!--more-->
 

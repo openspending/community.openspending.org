@@ -15,7 +15,7 @@ Vous pouvez mettre vos données à disposition sur le web en utilisant Google Dr
 2. Assurez-vous que Google Docs formatte correctement votre jeu de données. Sélectionnez la colonne qui contient les dates. Cliquez sur le menu _Format_ et sélectionnez _Nombre -&gt; Autre formats -&gt; 2008-09-26_. Vos dates devraient apparaître dans le format **aaaa-mm-jj** utilisé par OpenSpending.
 3. Cliquez sur le menu _Fichier_ et sélectionnez _Publier sur le web_ ... Dans la fenêtre qui apparaît, cliquez sur **Démarrer la publication**. En dessous, dans la section Insérer un lien vers les données publiées, sélectionnez **CSV (valeurs séparées par des virgules)**. L’URL en bas est celle de votre jeu de données.
 
-![Publier sur Google Drive](http://0.0.0.0:8080/wp-content/uploads/2013/08/image_0.png)
+![Publier sur Google Drive]({{ site.baseurl }}/img/blog/2013/08/image_0.png)
 
 ###Gist
 GitHub Gist est un moyen très pratique pour héberger des fichiers textes de petite taille, notamment des fichiers CSV.

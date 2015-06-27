@@ -64,7 +64,7 @@ authors:
 
 <span style="font-family: Sans, sans-serif;"><a style="font-family: Arial, Tahoma, Verdana, sans-serif;" href="http://blog.openspending.org/wp-admin/index.php">Dashboard</a>Discussed issues and problems we had faced while working.</span>
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/08/okfn.jpg"><img class="aligncenter size-full wp-image-567" src="http://0.0.0.0:8080/wp-content/uploads/2013/08/okfn.jpg" alt="okfn" width="969" height="500" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/08/okfn.jpg"><img class="aligncenter size-full wp-image-567" src="{{ site.baseurl }}/img/blog/2013/08/okfn.jpg" alt="okfn" width="969" height="500" /></a>
 
 <span style="font-family: Sans, sans-serif;"><span><strong>Output</strong></span></span>
 

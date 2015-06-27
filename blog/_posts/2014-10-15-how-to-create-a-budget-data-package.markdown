@@ -14,7 +14,7 @@ The Armenia BOOST government expenditure database contains planned, adjusted, an
 
 To download the Armenia dataset, go to the [Armenia BOOST Socrata instance](https://databox.worldbank.org/dataset/Armenia/4bk3-zxmf) and export the dataset as a CSV.
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2014/08/tutorial01.png"><img class="aligncenter size-large wp-image-1877" src="http://0.0.0.0:8080/wp-content/uploads/2014/08/tutorial01-1024x558.png" alt="Export as CSV" width="591" height="322" /></a>
+<a href="{{ site.baseurl }}/img/blog/2014/08/tutorial01.png"><img class="aligncenter size-large wp-image-1877" src="{{ site.baseurl }}/img/blog/2014/08/tutorial01-1024x558.png" alt="Export as CSV" width="591" height="322" /></a>
 
 This dataset now needs to be cleaned and processed. To do this, we will use [OpenRefine](http://openrefine.org/).
 
@@ -24,11 +24,11 @@ Before we can use the Armenia dataset in Budget Data Package, a few properties n
 
 To split up a column like this, click the arrow next to the column name, select **Edit column**, and click **Split into several columns**.
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2014/08/tutorial02.png"><img class="aligncenter size-full wp-image-1878" src="http://0.0.0.0:8080/wp-content/uploads/2014/08/tutorial02.png" alt="Splitting columns" width="445" height="414" /></a>
+<a href="{{ site.baseurl }}/img/blog/2014/08/tutorial02.png"><img class="aligncenter size-full wp-image-1878" src="{{ site.baseurl }}/img/blog/2014/08/tutorial02.png" alt="Splitting columns" width="445" height="414" /></a>
 
 Each column is in the format "1234 Description", where 1234 is the ID. We can therefore extract the numerical ID by splitting the column up on spaces and limiting the resulting number of columns to 2.
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2014/08/tutorial03.png"><img class="aligncenter size-full wp-image-1879" src="http://0.0.0.0:8080/wp-content/uploads/2014/08/tutorial03.png" alt="Splitting on spaces" width="621" height="345" /></a>
+<a href="{{ site.baseurl }}/img/blog/2014/08/tutorial03.png"><img class="aligncenter size-full wp-image-1879" src="{{ site.baseurl }}/img/blog/2014/08/tutorial03.png" alt="Splitting on spaces" width="621" height="345" /></a>
 
 Do this with each column that combines a numerical ID with a text description.
 

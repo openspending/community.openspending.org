@@ -6,7 +6,7 @@ title: Mapping the Open Spending Data Community
 authors:
 - Neil Ashton
 ---
-[caption id="attachment_1779" align="aligncenter" width="669"]<a href="http://community.openspending.org/research/mappingcommunity/"><img src="http://0.0.0.0:8080/wp-content/uploads/2013/12/mappingcommunity.jpg" alt="Mapping the Open Spending Data Community" width="669" height="503" class="size-full wp-image-1779" /></a> Mapping the Open Spending Data Community[/caption]<!--magazine.image = http://0.0.0.0:8080/wp-content/uploads/2013/12/mappingcommunity.jpg -->
+[caption id="attachment_1779" align="aligncenter" width="669"]<a href="http://community.openspending.org/research/mappingcommunity/"><img src="{{ site.baseurl }}/img/blog/2013/12/mappingcommunity.jpg" alt="Mapping the Open Spending Data Community" width="669" height="503" class="size-full wp-image-1779" /></a> Mapping the Open Spending Data Community[/caption]<!--magazine.image = {{ site.baseurl }}/img/blog/2013/12/mappingcommunity.jpg -->
 
 We're pleased to announce the official release of "[Mapping the Open Spending Data Community](http://community.openspending.org/research/mappingcommunity/)" by [Anders Pedersen](http://okfn.org/members/anderspeders/) and [Lucy Chambers](http://okfn.org/members/lucychambers), an in-depth look at how citizens, journalists, and civil society organisations around the world are using data on government finances to further their civic missions.
 

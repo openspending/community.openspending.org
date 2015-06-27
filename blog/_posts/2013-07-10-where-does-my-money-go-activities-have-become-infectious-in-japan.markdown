@@ -14,5 +14,5 @@ Building on this growing attention to WDMMG, the Open Knowledge Foundation (OKF)
 
 The event in Japan will highlight some advanced WDMMG-like activities in Japan, help recently joining players to develop their own sites, and discuss the latest issues on WDMMG development such as budget data standardization and transactional data collection. Please take a look at the <a href="http://spending.jp/">WDMMG site for Japan</a> and keep your eyes on new developments!
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/07/jpg"><img class="alignnone size-medium wp-image-411" src="http://blog.openspending.org/files/2013/07/名称未設定-300x230.jpg" alt="名称未設定" width="300" height="230" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/07/jpg"><img class="alignnone size-medium wp-image-411" src="http://blog.openspending.org/files/2013/07/名称未設定-300x230.jpg" alt="名称未設定" width="300" height="230" /></a>
 

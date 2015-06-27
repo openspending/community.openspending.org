@@ -47,7 +47,7 @@ With an amount, time, and key, your model is sufficiently rich. A really complet
 
 A common pattern in source data is spreading information that identifies entities – groups, accounts, and so on – across multiple columns. Information about an account associated with a transaction may be divided into an "Account" column with an identifying number and an "Account description" column with a verbal description, for example. "Head-account" and "Sub-account" in the image below exhibit this pattern.
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/08/image_9.png"><img src="http://0.0.0.0:8080/wp-content/uploads/2013/08/image_9.png" alt="image_9" width="533" height="403" class="alignnone size-full wp-image-592" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/08/image_9.png"><img src="{{ site.baseurl }}/img/blog/2013/08/image_9.png" alt="image_9" width="533" height="403" class="alignnone size-full wp-image-592" /></a>
 
 OpenSpending's compound dimensions are designed to model this kind of scattered information. To do so, add a new compound dimension and associate each column to one of the dimension's fields. Try to match a human-readable column to *label* and a more terse column to *name*. In the image below, "Head-account" is matched to *name* and "Head-account description" to *label*.
 
@@ -55,7 +55,7 @@ OpenSpending's compound dimensions are designed to model this kind of scattered 
 
 Some columns of your data are more self-contained, representing particular attributes of each data point. A column which sorts each transaction into some category, for example, is of this type. In the image below, the Reporting Type, Revenue/Expenditure, and Recurrent/Investment columns are like this.
 
-<a href="http://0.0.0.0:8080/wp-content/uploads/2013/08/image_11.png"><img src="http://0.0.0.0:8080/wp-content/uploads/2013/08/image_11.png" alt="image_11" width="609" height="378" class="alignnone size-full wp-image-594" /></a>
+<a href="{{ site.baseurl }}/img/blog/2013/08/image_11.png"><img src="{{ site.baseurl }}/img/blog/2013/08/image_11.png" alt="image_11" width="609" height="378" class="alignnone size-full wp-image-594" /></a>
 
 Self-contained columns specifying attributes or categories are best modeled with *attribute* dimensions. An attribute is essentially a dimension with only a single field, which may have any type. To create an attribute, simply select the *Attribute* radio button when adding a dimension.
 

@@ -18,7 +18,7 @@ You can already get some nice overviews, for example
 
 Note: this is just 2013 data (not 2012 + 2013)
 
-<a href="https://openspending.org/big-lottery-fund-grants/views/local-authority-grantee-treemap"><img src="http://0.0.0.0:8080/wp-content/uploads/2014/07/big-lottery-fund-grants-local-authority-grantee-os.png" alt="big-lottery-fund-grants-local-authority-grantee-os" width="959" height="571" class="alignnone size-full wp-image-1871" /></a>
+<a href="https://openspending.org/big-lottery-fund-grants/views/local-authority-grantee-treemap"><img src="{{ site.baseurl }}/img/blog/2014/07/big-lottery-fund-grants-local-authority-grantee-os.png" alt="big-lottery-fund-grants-local-authority-grantee-os" width="959" height="571" class="alignnone size-full wp-image-1871" /></a>
 
 ### By region then local authority then grantee
 

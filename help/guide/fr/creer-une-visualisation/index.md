@@ -17,11 +17,11 @@ Le BubbleTree est une visualisation interactive qui présente les données de d�
 
 Pour créer un BubbleTree, choisissez les dimension d’agrégation et l’ordre dans lequel vous voulez les agréger. Choisissez la première dimension dans la liste déroulante Level. Vous verrez alors le total agrégé de cette dimension sous la forme de la bulle centrale, avec les valeurs des dimensions qui l’entourent et leurs propres totaux.
 
-![Bumble Tree](http://0.0.0.0:8080/wp-content/uploads/2013/08/image_14.png)
+![Bumble Tree]({{ site.baseurl }}/img/blog/2013/08/image_14.png)
 
 Pour ajouter un deuxième niveau, cliquez sur _**Add a level**_ et choisissez une nouvelle dimension. Les utilisateurs seront alors capables de cliquer sur les bulles pour les segmenter et voir comment les valeur du premier niveau se divisent dans les valeurs du second niveau.
 
-![Bumble Tree](http://0.0.0.0:8080/wp-content/uploads/2013/08/image_15.png)
+![Bumble Tree]({{ site.baseurl }}/img/blog/2013/08/image_15.png)
 
 ###TreeMap
 
@@ -29,11 +29,11 @@ Le TreeMap représente les données de dépense agrégées sous forme de rectang
 
 Pour créer un TreeMap, choisissez simplement les dimensions à agréger et leur niveau. En sélectionnant la dimension de premier niveau vous verrez apparaître la répartition des montants dans les rectangles suivant la dimension choisie.
 
-![Tree Map](http://0.0.0.0:8080/wp-content/uploads/2013/08/image_16.png)
+![Tree Map]({{ site.baseurl }}/img/blog/2013/08/image_16.png)
 
 Pour rendre la visualisation plus interactive, ajoutez des niveaux supplémentaires qui vous permettront d’explorer comment chaque montant se divise en sous-montants. Pour ajouter un second niveau, cliquez sur **Add a level** et choisissez une nouvelle dimension. Les utilisateurs peuvent désormais cliquer pour voir comment les montants se divisent.
 
-![Visualisation interactive](http://0.0.0.0:8080/wp-content/uploads/2013/08/image_17.png)
+![Visualisation interactive]({{ site.baseurl }}/img/blog/2013/08/image_17.png)
 
 ###Tableau d’agrégats
 
