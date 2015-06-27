@@ -1,5 +1,4 @@
 ---
-section: contribute
 title: Contributing to this site
 authors:
  - Sam Smith
@@ -57,7 +56,7 @@ on the web.
 All you really need to know about Jekyll is the method it uses to
 include metadata (ie. page title). Each page needs to start with a
 section it calls Front Matter, containing the page title. An example
-is provided in the [Adding a page](adding) section.
+is provided in the [Adding a page](./adding/) section.
 
 ### Markdown
 
@@ -73,4 +72,4 @@ Markdown is your key to formatting the text your provide for this
 site. By learning a few intuitive rules you’ll be able to ensure your
 text is formatted with headings, list, quotes etc, without writing any
 HTML. For examples, head to the
-[Markdown]({{site.baseurl}}/contribute/markdown-examples/) section.
+[Markdown]({{site.baseurl}}/meta/contribute/markdown-examples/) section.
