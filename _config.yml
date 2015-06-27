@@ -9,8 +9,7 @@ url: "http://community.openspending.org/" # the base hostname & protocol for you
 github_username: openspending
 github_repo: dotorg
 paypal: admin@okfn.org
-contact: https://discuss.okfn.org/t/openspending-community-website-migration-2015/330
-img_path: http://community.openspending.org/files
+contact: https://discuss.okfn.org/c/openspending
 gems:
   - jekyll-redirect-from
   - jekyll-mentions
