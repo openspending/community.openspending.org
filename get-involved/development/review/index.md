@@ -1,5 +1,5 @@
 ---
-section: help
+section: get-involved
 lead: true
 title: Code reviews
 authors:

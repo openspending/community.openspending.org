@@ -26,7 +26,9 @@ also have [mailing lists, an irc channel][contact] and regular
 
 Help build and run the OpenSpending platform.
 
-[Find out more &raquo;]({{site.baseurl}}/help/development/)
+* [Hacking on OpenSpending](./development/volunteer)
+* [Development process](./development/process)
+* [Code reviews](./development/review)
 
 ### Website and News
 
@@ -71,3 +73,22 @@ budget and spending data. Have a look to see if you can <a
 href="https://github.com/openspending/datatoload/issues">clean and
 upload one of the datasets</a> we're currently hoping to add to
 OpenSpending.
+
+#### Resource links
+
+OpenSpending Community key shared resources.
+
+##### Documents
+
+* [Community Google Drive folder](https://drive.google.com/a/okfn.org/#folders/0B6R8dXc6Ji4JUWs5UDdzSzU2UG8)
+
+##### Data Stuff
+
+* [Tracker for data to load](https://github.com/openspending/datatoload)
+
+##### Code
+
+* [OpenSpending on GitHub](https://github.com/openspending)
+* [Core application](https://github.com/openspending/openspending)
+* [JavaScript library](https://github.com/openspending/openspendingjs)
+* [Satellite site template](https://github.com/openspending/satellite-template)

@@ -1,5 +1,5 @@
 ---
-section: help
+section: get-involved
 lead: true
 title: Hacking on OpenSpending
 authors:
@@ -13,7 +13,7 @@ When hacking on OpenSpending, there are a few important cyberspace places you sh
 * [the IRC channel (#openspending on Freenode)](http://webchat.freenode.net/?channels=openspending) (informal chat and the monthly developer meetings)
 * [the repositories](http://github.com/openspending/) (where code and documentation for OpenSpending live)
 * [the transifex project](https://www.transifex.com/projects/p/openspending/) (if you want to get your language into OpenSpending)
-* [development process](/help/development/process) (get your contributions into OpenSpending faster by following our process)
+* [development process](/get-involved/development/process) (get your contributions into OpenSpending faster by following our process)
 
 #### Where can you start?
 
