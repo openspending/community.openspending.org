@@ -1,159 +1,225 @@
 ---
-section: resources
-title: Where Does the EU's Money Go?
-lead: true
+title: Where Does Europe’s Money Go?
+authors:
+- Elisabeth Druel
+- Pierre Chrzanowski
+- Rufus Pollock
+- Jonathan Gray
 ---
 
-<h2>Where Does the EU's Money Go? &mdash; A Guide to the Data</h2>
+## Where Does Europe’s Money Go? A Guide to EU Budget Data Sources
 
-<div class="row">
-  <div class="span6">
-    <p>The European Union is an odd spender: unlike national
-      states, it doesn't have to pay for most normal functions
-      of government - like social security, defense or pensions. Its €925bn
-      budget for the 2007-2013 period is therefore mostly dedicated to
-      structural investments, subsidies and research.
-    </p>
-    <p>Many groups have tried to track how the various funds
-      are spent across projects and beneficiaries. The following
-      page aims to provide an overview for those unfamiliar
-      with the EU's funds, policies and often strange language.
-    </p>
+A report from
 
-    <div class="alert alert-block">
-      Information about the stability mechanisms <a href="http://www.efsf.europa.eu/about/index.htm">EFSF</a>
-      and <a href="http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ecofin/127788.pdf">ESM</a>
-      has been collected on the site of the <a
-                                               href="http://www.courtofaudit.nl/english/Publications/Topics/EU_governance_to_combat_the_economic_and_financial_crisis/Financial_stabilisation_instruments">Netherlands Court of Audit</a>.
-      If you would like
-      to contribute disaggregared data or further knowledge, please
-      <a href="/about/contact/">get in touch</a>.
-    </div>
+![okfn-logo-landscape-l.png](./img/image03.png)
 
-    <p>The EU's financial planning happens on two levels: through
-      a seven year plan (called the Multiannual Financial Framework)
-      and through a budget, which is decided each year.</p>
+With support from
 
-    <ul>
-      <li>Budget: <a href="http://ec.europa.eu/budget/figures/2012/2012_en.cfm">web site</a> (2012), <a href="http://www.asktheeu.org/en/request/machine_readable_version_of_the">XML data</a> (2008-2012, on AskTheEU.org).</li>
-      <li>Multiannual Financial Framework
-        <ul>
-          <li>2007-2013: <a href="http://ec.europa.eu/budget/figures/fin_fwk0713/fwk0713_en.cfm">official site</a>, <span class="fail">no structured data</span></li>
-          <li>2014-2020: <a href="http://ec.europa.eu/budget/reform/commission-proposals-for-the-multiannual-financial-framework-2014-2020/index_en.htm">official site</a>, <span class="fail">no structured data</span></li>
-        </ul>
-      </li>
-    </ul>
+![](./img/image01.png)
 
-  </div>
-  <div class="span6">
-    <a href="https://docs.google.com/drawings/d/19dXXjdSafEQFz0mAkRi2ynsrK_W9Y7eAHbjj2fWYfjU/edit"><img src="images/fundsmap.png"></a>
-    <p>
-      <small>Overview of EU funds (click to enlarge)</small>
-    </p>
-  </div>
-</div>
+July 2015
 
-<br/>
+* * * * *
 
-<div class="row">
-  <div class="span4">
-    <h3>Farm and Fish Subsidies <small>~€420bn</small></h3>
-    <p>The system of agricultural subsidies (often called
-      the <a href="http://en.wikipedia.org/wiki/Common_Agricultural_Policy">Common Agricultural Policy</a>, CAP) are by far the largest section of
-      the spending. EU Transparency operates
-      <a href="http://farmsubsidy.org/">FarmSubsidy.org</a> and
-      <a href="http://fishsubsidy.org/">FishSubsidy.org</a> with
-      great background information on these funds.</p>
-    <ul>
-      <li>FarmSubsidy.org: <a href="https://docs.google.com/spreadsheet/ccc?key=0Ajagl3TOC7X_dFlzQ0ljaUxUWVNmNE40TGdweWNlcEE">Data Overview</a>.
-      <li>Official <a href="http://ec.europa.eu/agriculture/fin/budget/index_en.htm">argicultural funds budget information</a>.</li>
-      <li>Summary of <a href="http://europa.eu/legislation_summaries/agriculture/general_framework/l11096_en.htm">argicultural funds legislation</a>.</li>
-      <li>Home page of the <a href="http://ec.europa.eu/fisheries/cfp/eff/index_en.htm">fisheries fund</a>.</li>
-    </ul>
-    <div class="alert alert-block">
-      Thanks to FarmSubsidies' efforts, data on the
-      beneficiaties of agricultural subsidies was available until 2010.
-      After <a href="http://eutransparency.org/initial-reaction-to-ecj-ruling/">a
-        ruling by the European Court of Justice</a>, the release of this
-      information has <a href="https://docs.google.com/document/pub?id=18IkIRXsX4hxWBR50h6S2FiVLesmFsah5wmJHgv_oZrM">virtually stopped</a>.
-    </div>
-  </div>
-  <div class="span4">
-    <h3>Regional development <small>~€350bn</small></h3>
-    <p>Three major funds are used to invest in various regions in Europe:
-      the <a href="http://europa.eu/legislation_summaries/employment_and_social_policy/job_creation_measures/l60015_en.htm">Regional Development Fund</a>, <a href="http://ec.europa.eu/esf/main.jsp?catId=440&langId=en">Social Fund</a> and the <a href="http://ec.europa.eu/regional_policy/thefunds/cohesion/index_en.cfm">Cohesion Fund</a>. Project
-      funding is disbursed by each region and reported individually. In 2010,
-      the Financial Times and the <a href="http://www.thebureauinvestigates.com/">Bureau of Investigative Journalists</a> collected the data.
-    </p>
-    <ul>
-      <li>EC portal on <a href="http://ec.europa.eu/regional_policy/country/commu/beneficiaries/index_en.htm">regional policy beneficiaries</a>.</li>
-      <li><a href="http://eufunds.ftdata.co.uk/">EUFunds</a> search engine by the
-        Financial Times and TBIJ, <a href="http://www.thebureauinvestigates.com/2010/11/29/data-story-1/">related reporting</a>.</li>
+This report was researched and written by Elisabeth Druel and Pierre Chrzanowski on behalf of Open Knowledge, with input and guidance from Rufus Pollock and Jonathan Gray. Support was provided by the Adessium Foundation.
 
-      <li>The same data as a <a href="http://dl.dropbox.com/u/39827429/EU_Structural_Funds/sql/euFunds.sql">MySQL</a> or <a href="http://dl.dropbox.com/u/39827429/EU_Structural_Funds/csv/euFunds.csv">CSV file</a>. This
-        database is currently too messy for an import into OpenSpending &mdash; please
-        let us know if you want to help clean it up!
-      </li>
-    </ul>
-  </div>
-  <div class="span4">
-    <h3>Research and Foreign Aid <small>~€90bn</small></h3>
-    <p>The EU also operates a large research programme (<a href="http://cordis.europa.eu/fp7/home_en.html">FP7</a>), a nuclear research effort
-      (<a href="http://ec.europa.eu/energy/nuclear/euratom/euratom_en.htm">EURATOM</a>) and overseas development assistance programmes, some of which is managed
-      independently of the budget (<a href="http://ec.europa.eu/europeaid/how/finance/edf_en.htm">EDF</a>). Additionally, the budget includes administrative
-      costs for EU institutions.</p>
-    <ul>
-      <li>EC <a href="http://ec.europa.eu/beneficiaries/fts/index_en.htm">Financial Transparency System</a> has all direct expenditure by the Commission, including FP7 and the EDF. A cleaned and extended version is available as an <a href="http://openspending.org/eu-commission-fts">OpenSpending dataset</a>.</li>
-      <li>EuropeAid releases a <a href="http://ec.europa.eu/europeaid/work/funding/beneficiaries/index.cfm?lang=en">database of beneficiaries</a>.</li>
-      <li>Similar information is available through the <a href="http://ec.europa.eu/europeaid/how/accountability/iati_en.htm">International Aid Transparency Initiative</a> release of the EC (XML data).</li>
-    </ul>
-  </div>
+Open Knowledge is a global civil society organisation dedicated to opening up public information, research and culture to benefit the lives of citizens around the world. Find out more at: [okfn.org](https://okfn.org/).
 
-</div>
+Adessium Foundation aspires to a society that encourages people to live in harmony with each other and with their environments. The Foundation works to achieve a balanced society characterized by integrity, a balance between people and nature, and social harmony. Find out more at: [adessium.org](http://www.adessium.org/).
 
-<div class="row">
-  <div class="span8">
-    <h3>Other funds and related data sources</h3>
+Thanks to the following people who provided input, feedback and support at various stages:
 
-    <p>
-      Further EU spending data sources are available
-      in <a href="https://docs.google.com/spreadsheet/ccc?key=0AvoV_cBqwo28dE8wRWV4YzV4QUlKRWpuSTBZaWQyR3c#gid=3">
-      this overview spreadsheet</a> and
-      on <a href="http://datahub.io/dataset?q=eu+spending">datahub.io</a>.
-      This includes some of the more exotic funds and finance-related
-      data sources, such as:</p>
-    <ul>
-      <li><a href="http://ec.europa.eu/competition/state_aid/register/">State aid register</a> in the context of the current financial crisis.</li>
-      <li><a href="http://ec.europa.eu/enlargement/countries/index_en.htm">EU Accession Funds</a> (IPA), payments to potential member states.</li>
-      <li><a href="http://europa.eu/legislation_summaries/regional_policy/provisions_and_instruments/g24217_en.htm">European Union Solidarity Fund</a></li>
-      <li><a href="http://ec.europa.eu/social/main.jsp?catId=582&langId=en">European Globalisation Adjustment Fund</a></li>
-      <li><a href="http://ted.europa.eu/TED/main/HomePage.do">Tenders Electronic
-          Daily</a> (TED), European procurement announcements.</li>
-      <li><a href="http://www.eib.org/projects/loans/list/index.htm">European Investment Bank (EIB) Loans</a></li>
-      <li><a href="http://europa.eu/transparency-register/index_en.htm">Lobbyists register</a> and <a href="http://ec.europa.eu/transparency/regexpert/">EC expert groups</a>
-        (<a href="http://expertgroups.govtrace.com/">data</a>).</li>
-      <li><a href="http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database">Eurostat</a>, statistics on
-        GDP, population, deficits, etc.</li>
-    </ul>
-  </div>
-  <div class="span4">
-    <h3>Errors, additions?</h3>
-    <p>
-      This site is intended as a short briefing for journalists and
-      citizens interested in the EU. It is necessarily incomplete, but we
-      hope to continuously extend it. If you have questions, comments or
-      suggestions, please message our <a href="/about/contact/">mailing
-        list</a>.
-    </p>
+-   Caelainn Barr, Data Journalist, The Guardian
+-   Cynthia O’Murchu, Reporter, Financial Times
+-   Nick Aiossa, EU Policy Officer, Transparency International EU Office
 
-    <h3>Thanks</h3>
-    <p>
-      Many items listed on this page were contributed by experienced
-      journalists. Special thanks to Caelainn Barr and Brigitte Alfter.
-    </p>
-  </div>
-</div>
+Executive Summary
+=================
 
-<h2>More Information</h2>
+<table>
+<col width="100%" />
+<tbody>
+<tr class="odd">
+<td align="left"><p>The EU Budget in Numbers</p>
+<p></p>
+<ul>
+<li>The EU has committed to spending over €959,988 billion over the period 2014-2020.</li>
+</ul>
+<ul>
+<li>The EU budget is divided into more than 80 funds and programmes.</li>
+<li>Five of these funds, the European Structural and Investments Funds (ESIF), represent 33% of the total budget.</li>
+<li>Around 6% of the budget goes to the administration of the European institutions, whereas around 94% is allocated to various European programmes.</li>
+<li>There are more than 100 authorities managing EU funds. 20% of these are managed directly by the European Commission. The remaining 80% are managed by other authorities.</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
-See the <a href="./notes/">Research Notes</a>
+Recent polls show that European citizens hold the EU to be inaccessible due to its complexity and lack of transparency.[^ftnt1] The lack of transparency and democratic accountability in European institutions is widely characterised as a “[democratic deficit](http://europa.eu/legislation_summaries/glossary/democratic_deficit_en.htm)”, a phrase which has become part of the EU’s official glossary. This “democratic deficit” is particularly apparent when it comes to EU public finances.
+
+This guide aims to help civil society organisations (CSOs), journalists and others to navigate the vast landscape of documents and datasets about the EU’s fiscal affairs. In doing so, our objective is to support more evidence-based journalism and advocacy, and - in the longer term - to contribute towards the transparency, public understanding and democratic accountability of EU public finances.
+
+The level of transparency about EU public money is highly variable, and is largely dependent on which authority is responsible for managing and disbursing a given fund. Funds which are exemplary for their transparency exist alongside funds which are effectively dark. For example, on one hand, the Financial Transparency System (FTS) set up by the European Commission provides access to granular open data about spending, but only concerns about 20% of total spending. On the other hand, information about public money spent by EU Members States is often unavailable to the public.
+
+The European Union has now entered into a new budget framework for 2014-2020. This is accompanied by a new financial regulation, defining new funds and new transparency rules. However, as we shall see in this report, many barriers still remain. In addition to providing an overview of key funds and programmes, we also conclude with some analysis and recommendations for further work in this area.
+
+
+
+<table>
+<col width="100%" />
+<tbody>
+<tr class="odd">
+<td align="left"><h2>Summary of Recommendations</h2>
+<p></p>
+<ol>
+<li>Establish a single central point of reference for data and documents about EU revenue, budgeting and expenditure and ensure all the information is up to date  at this domain (e.g. at a website such as <a href="http://www.google.com/url?q=http%3A%2F%2Fec.europa.eu%2Fbudget&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFWcyA9aOiTTUegt8YVevYXpnkn0Q">ec.europa.eu/budget</a>). In the same time, ensure all EU Budget data are available from the EU open data portal as open data.</li>
+</ol>
+<p></p>
+<ol start="2">
+<li>Create an open dataset with key details about each EU fund, including name of the fund, heading, policy, type of management, implementing authorities, link to information on beneficiaries.</li>
+</ol>
+<p></p>
+<ol start="3">
+<li>Extend the Financial Transparency System to all EU funds by integrating or federating detailed data expenditures from Members States, non-EU Members and international organisations. Data on beneficiaries should include, when relevant, a unique European identifier of company, and when the project is co-financed, the exact amount of EU funding received and the total amount of the project.</li>
+</ol>
+<p></p>
+<ol start="4">
+<li>Clarify and harmonise the legal framework regarding transparency rules for the beneficiaries of EU funds.</li>
+</ol>
+<p></p>
+<ol start="5">
+<li>Support and strengthen funding for civil society groups and journalists working on EU public finances.</li>
+</ol>
+<p></p>
+<ol start="6">
+<li>Conduct a more detailed assessment of beneficiary data availability for all EU funds and for all implementing authorities - e.g., through a dedicated “open data audit”.</li>
+</ol>
+<p></p>
+<ol start="7">
+<li>Build a stronger central base of evidence about the uses and users of EU fiscal data - including data projects, investigative journalism projects and data users in the media and civil society.</li>
+</ol>
+<p></p></td>
+</tr>
+</tbody>
+</table>
+
+* * * * *
+
+Table of Contents
+
+[List of acronyms](./acronyms/)
+
+[Glossary](./glossary/)
+
+[The EU Budget at a glance](./overview/)
+
+[How is the EU budget set up?](./budget/)
+
+[The Multiannual Financial Framework](./budget/)
+
+[What are commitment and payment appropriations?](./budget/)
+
+[The EU annual budget](./budget/)
+
+[Where does the money come from?](./revenue/)
+
+[Who manages, spends the money and how?](./revenue/)
+
+[Where does the money go?](./funds/)
+
+[The Cohesion Fund (CF)](./funds/)
+
+[The European Agricultural Fund for Rural Development (EAFRD)](./funds/)
+
+[The European Maritime and Fisheries Fund (EMFF)](./funds/)
+
+[The European Regional Development Fund (ERDF)](./funds/)
+
+[The European Social Fund (ESF)](./funds/)
+
+[How transparent is the EU Budget?](./transparency/)
+
+[Overall fiscal transparency](./transparency/)
+
+[Transparency regulations](./transparency/)
+
+[Review of investigations and transparency efforts](./transparency/)
+
+[Investigations into EU funds](./investigations/)
+
+[Tools for EU funds data investigation](./investigations/)
+
+[Recommendations and next steps](./recommendations/)
+
+[Annex 1 - EU  funds dataset](./funds/)
+
+[Annex 2 - The Open Data audit of EU funds](./datasets/)
+
+[Annex 3 - Legal basis for the establishment of the EU budget](#h.ghfuvtjkv7st)
+
+[Official sources of EU budget data](#h.au466c9p3mvr)
+
+[Diagrams in editable version](#h.z9mfyf836v7j)
+
+
+[^ftnt1]: For example, see this analysis from the Robert Schuman Foundation on recent opinion polls: [http://www.robert-schuman.eu/en/european-issues/0333-overcoming-democratic-breakdown-in-the-european-union](http://www.robert-schuman.eu/en/european-issues/0333-overcoming-democratic-breakdown-in-the-european-union) 
+
+[^ftnt2]: See [Council regulation n°1311/2013 of 2 December 2013 laying down the multiannual financial framework for the years 2014-2020](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0884.01.ENG).
+
+[^ftnt3]: The Flexibility Instrument was used to finance the Juncker Plan: [http://ec.europa.eu/priorities/jobs-growth-investment/plan/docs/an-investment-plan-for-europe\_com\_2014\_903\_en.pdf.](http://ec.europa.eu/priorities/jobs-growth-investment/plan/docs/an-investment-plan-for-europe_com_2014_903_en.pdf.)
+
+[^ftnt4]: See [the EU Funding Glossary](http://ec.europa.eu/budget/funding/information/eu-funding-glossary_en).
+
+[^ftnt5]: See [the Assembly of European Regions briefing note](http://www.aer.eu/fileadmin/user_upload/MainIssues/Future_of_Europe/EU_Budget_Review/MFF-briefing-note.pdf).
+
+[^ftnt6]: [The ordinary legislative procedure step by step.](http://www.europarl.europa.eu/aboutparliament/en/20150201PVL00004/Legislative-powers)
+
+[^ftnt7]: Article 310 of the Treaty on the Functioning of the European Union (TFEU).
+
+[^ftnt8]: [Definitive adoption (EU, EURATOM) 2015/339 of the European Union's general budget for the financial year 2015](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2015:069:FULL)
+
+[^ftnt9]: The 2014 report is available online: [http://ec.europa.eu/budget/library/biblio/publications/2014/2015.04.15\_RBFM\_Report\_en.pdf](http://ec.europa.eu/budget/library/biblio/publications/2014/2015.04.15_RBFM_Report_en.pdf)
+
+[^ftnt10]: [Reports of the ECA.](http://www.eca.europa.eu/en/Pages/AuditReportsOpinions.aspx)
+
+[^ftnt11]: [Council Decision of 7 June 2007 on the system of the European Communities' own resources.](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007D0436)
+
+[^ftnt12]: [2014 Council Decision on the system of own resources of the European Union.](http://register.consilium.europa.eu/doc/srv?l=EN&f=ST%205602%202014%20INIT)
+
+[^ftnt13]: As the UK rebate, lump sum payments and reduced VAT call rates are correction mechanisms, that is to say measures taken to compensate Member States whose contribution to the EU budget is perceived as being too high compared to their relative wealth and the benefits they get out of the EU budget.
+
+[^ftnt14]: [Council regulation (EU) 2015/323 of 2 March 2015 on the financial regulation applicable to the 11th European Development Fund](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.058.01.0017.01.ENG)
+
+[^ftnt15]: See for example [this presentation](http://ec.europa.eu/chafea/documents/health/calls/2013/Workshop_on_Joint_Action_2013/Financial_Managment_JA%20Workshop_December_2012.pdf).
+
+[^ftnt16]: [The 12 highlights for the 2014/2020 MFF.](http://ec.europa.eu/budget/mff/highlights/index_en.cfm#funding)
+
+[^ftnt17]: Europe 2020 is the 10-year growth strategy of the European Union for the period 2010-2020. See [http://ec.europa.eu/europe2020/index\_en.htm](http://ec.europa.eu/europe2020/index_en.htm).
+
+[^ftnt18]: [European Commission ESIF webpage.](http://ec.europa.eu/contracts_grants/funds_en.htm)
+
+[^ftnt19]: Initial amount was €74 928 million but in accordance with regulation 1303/2013 (art. 92(6) and 92(7)), parts of this amount have been transferred to the Connecting Europe Facility and to the Fund for European Aid to the Most Deprived.
+
+[^ftnt20]: For example, concerning the exact amount of the five ESIF for the 2014-2020 period, one EU publication mentions a number of [366.9 billion euros](http://ec.europa.eu/contracts_grants/pdf/synergies_beneficiaries_en.pdf) whereas another one makes reference to a total of [351.8 billion euros](http://ec.europa.eu/regional_policy/sources/docgener/panorama/pdf/mag48/mag48_en.pdf).
+
+[^ftnt21]: It should be noted, however, that DG BUDGET, the EU Directorate-General for Budget, was quite responsive to the requests for information sent by the authors of the report through social medias such as Twitter.
+
+[^ftnt22]: The Directive  2012/17/EU introduces a unique identifier for European companies. However, there is no provision for that unique identifier to be used in data on EU funds beneficiaries. See [http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0017](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0017)
+
+[^ftnt23]: [2012 financial regulation, Articles 34 and 35](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:298:0001:0096:EN:PDF).
+
+[^ftnt24]: The threshold can be set by Member States, see article 12 of regulation 1306/2013: [http://ec.europa.eu/agriculture/cap-funding/beneficiaries/shared/index\_en.htm](http://ec.europa.eu/agriculture/cap-funding/beneficiaries/shared/index_en.htm).
+
+[^ftnt25]: For a good introduction to data journalism, see Gray, J., Bounegru, L. and Chambers, L. (eds.) The Data Journalism Handbook (O'Reilly Media, 2012), co-edited by Open Knowledge and the European Journalism Center and freely available [online.](http://datajournalismhandbook.org/)
+
+[^ftnt26]: For an in depth-review of journalism investigation on EU funds up to 2012, see: European Commission, Deterrence of fraud with EU funds through investigative journalism in EU-27, 2012, [http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf](http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf).
+
+[^ftnt27]: ICIJ, €6 billion in subsidies fuel Spain’s ravenous fleet, October 2011, [online.](http://www.icij.org/project/looting-seas-ii/nearly-eu6-billion-subsidies-fuel-spains-ravenous-fleet)
+
+[^ftnt28]: ICIJ,  [methodology](http://www.icij.org/project/looting-seas-ii/subsidy-methodology).
+
+[^ftnt29]: European Commission, Deterrence of fraud with EU funds through investigative journalism in EU-27, p. 227,2012:[http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf](http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf).
+
+[^ftnt30]: See, James T Hamilton, Democracy's Detectives: The Economics and Impacts of Investigative Reporting (forthcoming).
+
+[^ftnt31]: [TFUE](http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012E/TXT).
