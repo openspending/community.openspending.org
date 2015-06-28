@@ -39,7 +39,7 @@ Thanks to the following people who provided input, feedback and support at vario
 Executive Summary
 =================
 
-[](#)[](#)
+
 
 <table>
 <col width="100%" />
@@ -68,7 +68,7 @@ The level of transparency about EU public money is highly variable, and is large
 
 The European Union has now entered into a new budget framework for 2014-2020. This is accompanied by a new financial regulation, defining new funds and new transparency rules. However, as we shall see in this report, many barriers still remain. In addition to providing an overview of key funds and programmes, we also conclude with some analysis and recommendations for further work in this area.
 
-[](#)[](#)
+
 
 <table>
 <col width="100%" />
@@ -481,7 +481,7 @@ Below are details for each of the 5 ESIF.
 The Cohesion Fund (CF)
 ----------------------
 
-[](#)[](#)
+
 
 <table>
 <col width="50%" />
@@ -528,7 +528,7 @@ Beneficiaries: 
 The European Agricultural Fund for Rural Development (EAFRD)
 ------------------------------------------------------------
 
-[](#)[](#)
+
 
 <table>
 <col width="50%" />
@@ -577,7 +577,7 @@ Beneficiaries:
 The European Maritime and Fisheries Fund (EMFF)
 -----------------------------------------------
 
-[](#)[](#)
+
 
 <table>
 <col width="50%" />
@@ -626,7 +626,7 @@ Beneficiaries:
 The European Regional Development Fund (ERDF)
 ---------------------------------------------
 
-[](#)[](#)
+
 
 <table>
 <col width="50%" />
@@ -683,7 +683,7 @@ Beneficiaries:
 The European Social Fund (ESF)
 ------------------------------
 
-[](#)[](#)
+
 
 <table>
 <col width="50%" />
