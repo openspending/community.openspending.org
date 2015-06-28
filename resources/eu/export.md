@@ -60,7 +60,7 @@ Executive Summary
 </tbody>
 </table>
 
-Recent polls show that European citizens hold the EU to be inaccessible due to its complexity and lack of transparency.<sup>[[1]](#ftnt1)</sup> The lack of transparency and democratic accountability in European institutions is widely characterised as a “[democratic deficit](http://europa.eu/legislation_summaries/glossary/democratic_deficit_en.htm)”, a phrase which has become part of the EU’s official glossary. This “democratic deficit” is particularly apparent when it comes to EU public finances.
+Recent polls show that European citizens hold the EU to be inaccessible due to its complexity and lack of transparency.[^ftnt1] The lack of transparency and democratic accountability in European institutions is widely characterised as a “[democratic deficit](http://europa.eu/legislation_summaries/glossary/democratic_deficit_en.htm)”, a phrase which has become part of the EU’s official glossary. This “democratic deficit” is particularly apparent when it comes to EU public finances.
 
 This guide aims to help civil society organisations (CSOs), journalists and others to navigate the vast landscape of documents and datasets about the EU’s fiscal affairs. In doing so, our objective is to support more evidence-based journalism and advocacy, and - in the longer term - to contribute towards the transparency, public understanding and democratic accountability of EU public finances.
 
@@ -307,7 +307,7 @@ Unlike most national budgets which are only set up on an annual basis, the EU bu
 The Multiannual Financial Framework
 -----------------------------------
 
-The MFF is an instrument which sets the maximum annual amounts - or “ceilings” - which the EU may spend in different political fields - or “headings” - for a period of at least 5 years. In practice, the MFF is adopted for a period of 7 years and the current one is applicable for the years 2014-2020.<sup>[[2]](#ftnt2)</sup>
+The MFF is an instrument which sets the maximum annual amounts - or “ceilings” - which the EU may spend in different political fields - or “headings” - for a period of at least 5 years. In practice, the MFF is adopted for a period of 7 years and the current one is applicable for the years 2014-2020.[^ftnt2]
 
 The MFF takes the form of a Council regulation, adopted following a special legislative procedure called the consent procedure:
 
@@ -330,7 +330,7 @@ For the period 2014/2020, the headings are:
 -   Administration;
 -   Compensation.
 
-The framework also sets up ceilings for a number of instruments established outside the general headings and known as the Flexibility and Special Instruments, such as (1) the Emergency Aid Reserve; (2) the European Union Solidarity Fund; (3) the Flexibility Instrument;<sup>[[3]](#ftnt3)</sup> (4) the European Globalisation Adjustment Fund; (5) the Contingency Margin; (6) the Global Margin for commitments for growth and employment, in particular youth employment. These instruments enable the EU to mobilise the necessary funds to react to unforeseen events (financial crisis, emergency situations).
+The framework also sets up ceilings for a number of instruments established outside the general headings and known as the Flexibility and Special Instruments, such as (1) the Emergency Aid Reserve; (2) the European Union Solidarity Fund; (3) the Flexibility Instrument;[^ftnt3] (4) the European Globalisation Adjustment Fund; (5) the Contingency Margin; (6) the Global Margin for commitments for growth and employment, in particular youth employment. These instruments enable the EU to mobilise the necessary funds to react to unforeseen events (financial crisis, emergency situations).
 
 One specific instrument, the European Development Fund (EDF) is managed outside the framework of the MFF and governed by its own set of rules. The EDF provides development aid to African, Caribbean and Pacific (ACP) countries, as well as to Overseas Countries and Territories (OCTs). It is based on an ACP-EU Partnership Agreement known as the “Cotonou Agreement”, which is revised every five years, and it is financed by direct contributions from EU Member States. The resources for the current EDF amount to 30.5 billion euros for the period 2014 - 2020.
 
@@ -339,7 +339,7 @@ One specific instrument, the European Development Fund (EDF) is managed outside 
 In the EU annual budget and in the MFF regulations, authorised expenditure amounts are expressed in both commitment and payment appropriations.
 
 -   Commitments are legal pledges to provide finance, provided that certain conditions are fulfilled. The EU commits itself to reimburse its share of the costs of an EU-funded project when the project is completed.
--   Payments are cash or bank transfers to beneficiaries. Today’s commitments are tomorrow’s payments.<sup>[[4]](#ftnt4)</sup>
+-   Payments are cash or bank transfers to beneficiaries. Today’s commitments are tomorrow’s payments.[^ftnt4]
 
 This means for instance that 2015 payments are actually 2014 commitments. In practice, this implies that the EU does not finance a project in advance. Someone, a Member State in most of the cases, would have to provide the funds beforehand before being reimbursed by the EU.
 
@@ -350,12 +350,12 @@ This represents a decrease compared to the 2007-2013 MFF, whose ceiling in commi
 The main areas concerned by this decrease are:
 
 -   The Cohesion Policy, under the heading Smart and Inclusive Growth (-8%);
--   The Agriculture and Rural Development Policy, under the heading Sustainable Growth: Natural Resources (-11%).<sup>[[5]](#ftnt5)</sup>
+-   The Agriculture and Rural Development Policy, under the heading Sustainable Growth: Natural Resources (-11%).[^ftnt5]
 
 The EU Annual Budget
 --------------------
 
-Every year, a regulation is adopted to set up the annual budget of the EU. This budget is based on the MFF and the procedure followed is the ordinary legislative procedure.<sup>[[6]](#ftnt6)</sup> One of the guiding principles for establishing the annual budget is that “the revenue and expenditure shown in the budget must be in balance”.<sup>[[7]](#ftnt7)</sup>
+Every year, a regulation is adopted to set up the annual budget of the EU. This budget is based on the MFF and the procedure followed is the ordinary legislative procedure.[^ftnt6] One of the guiding principles for establishing the annual budget is that “the revenue and expenditure shown in the budget must be in balance”.[^ftnt7]
 
 Figure 1: EU annual budget regulation adoption procedure![Annual Budget.png](../img/image08.png)
 
@@ -367,15 +367,15 @@ For the year 2015, the budget amounts to:
 
 -   €145.321 billion in commitment appropriations;
 -   €141.214 billion in payment appropriations (this represents an increase of 1,57% compared to the 2014 EU annual budget);
--   €141.214 billion in budgetary revenue.<sup>[[8]](#ftnt8)</sup>
+-   €141.214 billion in budgetary revenue.[^ftnt8]
 
 It is possible to amend the budget after its adoption.
 
 [Annual activity reports](http://ec.europa.eu/atwork/synthesis/aar/index_en.htm) are prepared every year by each Directorate-General (DG) and contain the DG’s annual accounts and financial reports. These reports are summarised in a synthesis report, sent to the European Parliament, the Council and the European Court of Auditors (ECA).
 
-In addition, an annual report on budgetary and financial management is published every year by the Commission.<sup>[[9]](#ftnt9)</sup> 
+In addition, an annual report on budgetary and financial management is published every year by the Commission.[^ftnt9] 
 
-In November every year, the Court of Auditors publishes public reports on the implementation of the EU budget and the EDF by the Commission. Based on these reports, the European Parliament expresses an opinion on the implementation of the budget by the European Commission. If this opinion is positive, it means that the Parliament has granted discharge to the Commission for this financial year.<sup>[[10]](#ftnt10)</sup>
+In November every year, the Court of Auditors publishes public reports on the implementation of the EU budget and the EDF by the Commission. Based on these reports, the European Parliament expresses an opinion on the implementation of the budget by the European Commission. If this opinion is positive, it means that the Parliament has granted discharge to the Commission for this financial year.[^ftnt10]
 
 * * * * *
 
@@ -384,7 +384,7 @@ Where Does the Money Come From?
 
 The sources of the EU revenue are called the EU’s “own resources”. A Council Decision on Own Resources, setting up the rules applying to their calculation, is usually negotiated at the same time as the MFF regulation. Resources are then provided on an annual basis.
 
-The difference with the MFF regulation is that the Council Decision has to be approved by all the Member States before it comes into force - usually through a vote in national parliaments. This explains why, as of April 2015, the Council Decision on the EU’s own resources dates back from 2007<sup>[[11]](#ftnt11)</sup> and continues to apply until the new Council Decision, adopted in May 2014 by the Council, comes into force.<sup>[[12]](#ftnt12)</sup> When the 2014 Decision will be approved by all the Member States, it will apply retroactively as of 1 January 2014.
+The difference with the MFF regulation is that the Council Decision has to be approved by all the Member States before it comes into force - usually through a vote in national parliaments. This explains why, as of April 2015, the Council Decision on the EU’s own resources dates back from 2007[^ftnt11] and continues to apply until the new Council Decision, adopted in May 2014 by the Council, comes into force.[^ftnt12] When the 2014 Decision will be approved by all the Member States, it will apply retroactively as of 1 January 2014.
 
 The EU’s own resources are divided into several categories:
 
@@ -401,9 +401,9 @@ The collection of revenues does not apply uniformly to all EU Member States, as 
 
 -   The UK rebate: the UK is reimbursed a percentage of the difference between its contribution and what it receives back from the EU budget (as of today, 66% of the difference). To compensate this loss, all other Member States have to make an additional contribution to the budget in proportion to the share they contribute to the EU’s GNI. Although controversial, the UK rebate has been maintained by the 2014 Council Decision on the EU own resources;
 -   Lump-sum payments: some countries (Denmark, the Netherlands and Sweden) benefit from gross reductions in their annual GNI contributions;
--   Reduced VAT call rates for Germany, the Netherlands and Sweden.<sup>[[13]](#ftnt13)</sup>
+-   Reduced VAT call rates for Germany, the Netherlands and Sweden.[^ftnt13]
 
-As previously noted, the European Development Fund is not concerned by these rules, as it is financed directly by the Member States and has its own financial regulations.<sup>[[14]](#ftnt14)</sup>
+As previously noted, the European Development Fund is not concerned by these rules, as it is financed directly by the Member States and has its own financial regulations.[^ftnt14]
 
 * * * * *
 
@@ -440,7 +440,7 @@ Ultimately, a large number of entities are involved in the spending of the EU bu
 
 As a general rule, the co-financing principle usually applies to EU spending, especially when it comes to shared management. Through this rule, part of the cost of an action or the running costs of an entity is borne by the beneficiary of the grant or by contributors other than the European Commission, with the aim to make beneficiaries responsible for the operational and financial viability of their projects. Some flexibility nevertheless exists to allow for the full financing of some projects with EU funds.
 
-Other rules usually applicable to funding projects with EU money are: the non-profit rule; the non-retroactivity rule and the non-cumulative rule.<sup>[[15]](#ftnt15)</sup>
+Other rules usually applicable to funding projects with EU money are: the non-profit rule; the non-retroactivity rule and the non-cumulative rule.[^ftnt15]
 
 * * * * *
 
@@ -449,7 +449,7 @@ Where Does the Money Go?
 
 The European Union has a budget to pay for policies carried out at the European level and for the institutions deciding, managing and implementing these policies (the Commission and its Directorates-General, the Parliament, the agencies, the Council, etc.).
 
-The spending priorities are set in the MFF when defining the amount of the funds under its headings. For the 2014-2020 MFF, the priorities are creating growth and jobs and reducing economic gaps between the EU's various regions.<sup>[[16]](#ftnt16)</sup> Agriculture, rural development, fisheries and environmental protection account for a major share of the budget.
+The spending priorities are set in the MFF when defining the amount of the funds under its headings. For the 2014-2020 MFF, the priorities are creating growth and jobs and reducing economic gaps between the EU's various regions.[^ftnt16] Agriculture, rural development, fisheries and environmental protection account for a major share of the budget.
 
 Each heading is then split into programmes and funds which finance the implementation of EU policies. The final beneficiaries can be any person or organisation (company, research organisation, local council, etc.) from the EU Member States and beyond.
 
@@ -459,10 +459,10 @@ The European Structural and Investment Funds (ESIF)
 
 A very large amount of the EU budget is spent through 5 funds known as the European Structural and Investment Funds (ESIF). Indeed, with a total of 366.9 billion euros for the 2014-2020 period, the ESIF make up more than one third of the EU’s budget. To these funds, in addition to the specific regulations regarding their implementation, applies a single set of common rules defined in the [Common Provisions regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0320.01.ENG), with the objectives of:
 
--   Establishing a clear link with the Europe 2020 Strategy;<sup>[[17]](#ftnt17)</sup>
+-   Establishing a clear link with the Europe 2020 Strategy;[^ftnt17]
 -   Improving coordination;
 -   Ensuring consistent implementation;
--   Making access to the funds as straightforward as possible for those who may benefit from them.<sup>[[18]](#ftnt18)</sup>
+-   Making access to the funds as straightforward as possible for those who may benefit from them.[^ftnt18]
 
 The ESIF are managed under the shared management mechanism, which provides that Members States are co-responsible for the funds and, as such, must comply with specific control and audit procedures.
 
@@ -501,7 +501,7 @@ The Cohesion Fund (CF)
 </tr>
 <tr class="even">
 <td align="left"><p>2014-2020 MFF ceiling</p></td>
-<td align="left"><p>€63 399 million<sup><a href="#ftnt19">[19]</a></sup></p></td>
+<td align="left"><p>€63 399 millionf="#ftnt19">[19]</a></sup></p></td>
 </tr>
 <tr class="odd">
 <td align="left"><p>Managing Member States</p></td>
@@ -759,20 +759,20 @@ Most of the data and documentation for the budget process and its implementation
 
 Indeed, even though the Commision has [a central budget section](http://ec.europa.eu/budget/index_en.cfm) on its website, this report has evidenced that is was necessary to consult many websites or webpages not referenced under the Commission website in order to understand the basic principles related to the EU budget functioning and to collect related figures.
 
-There are also some inconsistencies between the terms and figures published in the budget documents from different EU institutions websites.<sup>[[20]](#ftnt20)</sup> As a result, accessing, analysing and understanding the whole EU Budget is a complex task which hampers EU Budget transparency.
+There are also some inconsistencies between the terms and figures published in the budget documents from different EU institutions websites.[^ftnt20] As a result, accessing, analysing and understanding the whole EU Budget is a complex task which hampers EU Budget transparency.
 
 One of the main issues is the missing link between the two major EU budgetary instruments (the  seven years framework and the annual budget regulation) and the funds themselves. The funds set up by the multiannual framework and the budget are implemented, directly or not, by the Directorate-Generals and Agencies of the Commission, and specific information related to these funds is therefore to be found on their respective websites. But the information and data they provide are not presented in an harmonised way, making it difficult and extremely burdensome to gather the same level of information for each of the funds. 
 
-In addition, whereas the Commission provides a unique website to link the beneficiaries of its spending under centralised direct management (the FTS), there is no such system for the vast majority of funds spent under shared management.<sup>[[21]](#ftnt21)</sup> Diversity of languages for the different websites of the Member States also adds complexity to find and analyse the information on beneficiaries. The lack of distinction from EU and other co-funding for a project is also an issue. Lastly, datasets on beneficiaries do not use a unique European identifier for legal entities. This  hampers the capacity of investigation and other data analysis across Europe.<sup>[[22]](#ftnt22)</sup>
+In addition, whereas the Commission provides a unique website to link the beneficiaries of its spending under centralised direct management (the FTS), there is no such system for the vast majority of funds spent under shared management.[^ftnt21] Diversity of languages for the different websites of the Member States also adds complexity to find and analyse the information on beneficiaries. The lack of distinction from EU and other co-funding for a project is also an issue. Lastly, datasets on beneficiaries do not use a unique European identifier for legal entities. This  hampers the capacity of investigation and other data analysis across Europe.[^ftnt22]
 
 Transparency Regulations
 ------------------------
 
 According to Article 15 of the TFUE, “the Union’s institutions , bodies, offices and agencies shall conduct their work as openly as possible. (...) Any citizen of the Union, and any natural or legal person residing or having its registered office in a Member State, shall have a right to access to documents of the Union’s institutions, bodies, offices and agencies, whatever their medium, subject to the principles and conditions to be defined in accordance with this paragraph”.
 
-To implement this principle of transparency, specific obligations were defined in successive legal instruments called “Financial regulations”. The last financial regulation, adopted in 2012, established an obligation of publication of accounts, budgets and reports through means such as the Official Journal of the European Union. There is also an obligation of publication of information on recipients of EU funds. It is stated in the financial regulation that “where natural persons are concerned, the publication shall be limited to the name and locality of the recipient, the amount awarded and the purpose of the award”.<sup>[[23]](#ftnt23)</sup>
+To implement this principle of transparency, specific obligations were defined in successive legal instruments called “Financial regulations”. The last financial regulation, adopted in 2012, established an obligation of publication of accounts, budgets and reports through means such as the Official Journal of the European Union. There is also an obligation of publication of information on recipients of EU funds. It is stated in the financial regulation that “where natural persons are concerned, the publication shall be limited to the name and locality of the recipient, the amount awarded and the purpose of the award”.[^ftnt23]
 
-Therefore, this principle of transparency is not an absolute one, as it is the subject of “principles and conditions”. This was evidenced in 2010, when the Court of Justice of the European Union delivered [a judgment](http://curia.europa.eu/juris/document/document.jsf;jsessionid=9ea7d0f130de9fa4dec2274b4c12a176e3a592620a2c.e34KaxiLc3eQc40LaxqMbN4ObxaSe0?text=&docid=79001&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=583202) in which it rules that publishing personal data on the beneficiaries of funds deriving from the two financial pillars of the CAP was not proportionate when it comes to natural persons who are the beneficiaries of these funds. As a consequence, for a two-years period, the obligation to publish information on the beneficiaries of CAP payments was limited to only legal persons. In 2013, [a new regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R1306&from=en) was adopted, which re-established the obligation to publish information on the beneficiaries of CAP payments, except when it comes to small amounts of money received by natural persons (per default less than €1250 received in one year).<sup>[[24]](#ftnt24)</sup> 
+Therefore, this principle of transparency is not an absolute one, as it is the subject of “principles and conditions”. This was evidenced in 2010, when the Court of Justice of the European Union delivered [a judgment](http://curia.europa.eu/juris/document/document.jsf;jsessionid=9ea7d0f130de9fa4dec2274b4c12a176e3a592620a2c.e34KaxiLc3eQc40LaxqMbN4ObxaSe0?text=&docid=79001&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=583202) in which it rules that publishing personal data on the beneficiaries of funds deriving from the two financial pillars of the CAP was not proportionate when it comes to natural persons who are the beneficiaries of these funds. As a consequence, for a two-years period, the obligation to publish information on the beneficiaries of CAP payments was limited to only legal persons. In 2013, [a new regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R1306&from=en) was adopted, which re-established the obligation to publish information on the beneficiaries of CAP payments, except when it comes to small amounts of money received by natural persons (per default less than €1250 received in one year).[^ftnt24] 
 
 The 2010 ruling of the Court certainly influenced the drafting of the 2012 financial regulations. In [the Commission Delegated regulation of 29 October 2012](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2012:362:FULL&from=EN), it is stated that “as far as personal data referring to natural persons are concerned, the information published shall be removed two years after the end of the financial year in which the funds were awarded. The same shall apply to personal data referring to legal persons for whom the official title identifies one or more natural persons”. This limitation is applicable to recipients of EU funds awarded under direct and indirect management.
 
@@ -822,7 +822,7 @@ Data is published directly by the European Commission on:
 Journalistic Investigations and Transparency Projects to Follow the Money
 =========================================================================
 
-There is a growing network of investigative journalists in Europe, supported by initiatives such as the European Journalism Funds, who are acquiring skills to work on complex data projects. In parallel, a number of data-savvy analysts, activists and developers, are supporting investigations efforts by extracting (scraping), gathering and releasing EU budget data in a more useful way and developing dedicated tools and platforms.Those practices are often described as data journalism.<sup>[[25]](#ftnt25)</sup> Investigations can also be conducted or initiated by EU public authorities which have the mandate to control the EU Budget. The following sections present a brief and illustrative overview of a selection of recent work.<sup>[[26]](#ftnt26)</sup>
+There is a growing network of investigative journalists in Europe, supported by initiatives such as the European Journalism Funds, who are acquiring skills to work on complex data projects. In parallel, a number of data-savvy analysts, activists and developers, are supporting investigations efforts by extracting (scraping), gathering and releasing EU budget data in a more useful way and developing dedicated tools and platforms.Those practices are often described as data journalism.[^ftnt25] Investigations can also be conducted or initiated by EU public authorities which have the mandate to control the EU Budget. The following sections present a brief and illustrative overview of a selection of recent work.[^ftnt26]
 
 Investigations into EU Funds
 ----------------------------
@@ -853,7 +853,7 @@ The Bureau of Investigative Journalism (TBIJ) is a non-for-profit news organisat
 
 The International Consortium of Investigative Journalists
 
-[The International Consortium of Investigative Journalists (ICIJ)](http://www.icij.org/) is a global network of about 200 hundred investigative journalists who collaborate on investigative stories across the globe. The ICIJ was launched as a project of the Center for Public Integrity. In 2012, the ICIJ published “[Looting the seas II](http://www.icij.org/projects/looting-seas-ii)”, an in-depth investigation into EU subsidies supporting Spanish fisheries. The investigation evidences that "decades of overfishing have left Europe’s fish stocks in peril and its fishermen in poverty. It’s an impasse paid for by EU taxpayers." Among the key findings, it has been found that one Spanish shipowner received more than €8.2 million in subsidies even while his company or its affiliates faced more than 40 accusations of illegal fishing and US\$5 million in fines.<sup>[[27]](#ftnt27)</sup> ICIJ used various data sources for its investigation, including data from fishsubsidy.org (see section below) but also had to requests additional information to regional governments in Spain.<sup>[[28]](#ftnt28)</sup>
+[The International Consortium of Investigative Journalists (ICIJ)](http://www.icij.org/) is a global network of about 200 hundred investigative journalists who collaborate on investigative stories across the globe. The ICIJ was launched as a project of the Center for Public Integrity. In 2012, the ICIJ published “[Looting the seas II](http://www.icij.org/projects/looting-seas-ii)”, an in-depth investigation into EU subsidies supporting Spanish fisheries. The investigation evidences that "decades of overfishing have left Europe’s fish stocks in peril and its fishermen in poverty. It’s an impasse paid for by EU taxpayers." Among the key findings, it has been found that one Spanish shipowner received more than €8.2 million in subsidies even while his company or its affiliates faced more than 40 accusations of illegal fishing and US\$5 million in fines.[^ftnt27] ICIJ used various data sources for its investigation, including data from fishsubsidy.org (see section below) but also had to requests additional information to regional governments in Spain.[^ftnt28]
 
 Transparency International EU Office
 
@@ -890,7 +890,7 @@ FarmSubsidy.org 
 
 Fishsubsidy.org
 
-Similar to FarmSubsidy, FishSubsidy was a website providing detailed data related to payments and recipients of fish subsidies in every EU Member State. The website was closed down due to lack of funding. However, [related datasets are still available online](https://docs.google.com/spreadsheets/d/1NZ9tc_JN8psXXOhCHmdzsVqhvGWsE7igDf004gHgfgQ/edit?hl=en_US#gid=4) and their T[witter account](https://twitter.com/fishsubsidy) is still active. A report of the European Commission from 2012 on investigative journalism estimated that around 40 stories came out from the FishSubsidy data.<sup>[[29]](#ftnt29)</sup> 
+Similar to FarmSubsidy, FishSubsidy was a website providing detailed data related to payments and recipients of fish subsidies in every EU Member State. The website was closed down due to lack of funding. However, [related datasets are still available online](https://docs.google.com/spreadsheets/d/1NZ9tc_JN8psXXOhCHmdzsVqhvGWsE7igDf004gHgfgQ/edit?hl=en_US#gid=4) and their [Twitter account](https://twitter.com/fishsubsidy) is still active. A report of the European Commission from 2012 on investigative journalism estimated that around 40 stories came out from the FishSubsidy data.[^ftnt29] 
 
 EuFunds
 
@@ -923,7 +923,7 @@ Therefore, based on the EU budget mechanisms analysis, related transparency rule
 
 1.  Clarify the legal framework regarding the rules applicable to the transparency of beneficiaries of EU funds and ensure its consistency across the European Union. Although this report did not conduct a comprehensive legal review of EU budget transparency, it has found that: i) the differences of transparency rules applying to the beneficiaries of funds managed under centralised and shared management are preventing the establishment of a common transparency standard for all EU expenditures. This should concern also the publication, by the European institutions and in open data format, of more detailed expenditure information under the “Administration” heading; ii) the differences between data protection law and effective enforcement within each Member State are also preventing a high level of EU funds transparency across Europe; iii) the interpretation of the principle of proportionality regarding data protection is still subject to discussion; iv) the transparency rules adopted by third countries and international organisations managing EU funds may also differ from the ones adopted by the EU and its Member States and prevent the establishment of a common transparency framework.
 
-1.  Support and strengthen civil society and journalists capacities on EU funds, together with the development of common data and investigation tools. Newsrooms are too often reticent to launch long data investigations without the guarantee that these will pay off with good stories. In the wake of journalism fund, there is a need to support funding for data skills and relevant tools to develop data journalism and investigation projects related to EU funds.<sup>[[30]](#ftnt30)</sup> This should include not only literacy with datasets, but also literacy with data infrastructures, institutions and policies.
+1.  Support and strengthen civil society and journalists capacities on EU funds, together with the development of common data and investigation tools. Newsrooms are too often reticent to launch long data investigations without the guarantee that these will pay off with good stories. In the wake of journalism fund, there is a need to support funding for data skills and relevant tools to develop data journalism and investigation projects related to EU funds.[^ftnt30] This should include not only literacy with datasets, but also literacy with data infrastructures, institutions and policies.
 
 1.  Conduct an assessment of EU funds beneficiary data availability (open data audit of EU funds). Data on EU funds beneficiaries are spread into multiple data system managed by various implementing authorities such as EU institutions, Member States and international organisations. The open data audit of EU funds seeks to map all this data management system, the data they contain (from which EU funds), and their level of openness against a specific set of criteria such as the ones used in the [Open Data Index](http://index.okfn.org/). The Open Data audit of EU funds would be an essential tool for any further investigation into EU funds data as well as a powerful benchmark for any advocacy effort towards greater transparency in Europe and to assist  official accountability initiatives and public institutions in identifying transparency gaps.
 
@@ -952,7 +952,7 @@ The Open Data audit of EU funds is an ongoing and collaborative effort. First re
 Annex 3 - Legal basis for the establishment of the EU budget
 ============================================================
 
-Treaty on the Functioning of the European Union (TFEU), Title II - Financial Provisions - Articles 310 to 325:<sup>[[31]](#ftnt31)</sup>
+Treaty on the Functioning of the European Union (TFEU), Title II - Financial Provisions - Articles 310 to 325:[^ftnt31]
 
 Article 310: “The Union’s annual budget shall be established by the European Parliament and the Council (...). The revenue and expenditure shown in the budget shall be in balance”.
 
@@ -1014,68 +1014,64 @@ EU Budget Guide by Open Knowledge        P |
 
 * * * * *
 
-[[1]](#ftnt_ref1) For example, see this analysis from the Robert Schuman Foundation on recent opinion polls: [http://www.robert-schuman.eu/en/european-issues/0333-overcoming-democratic-breakdown-in-the-european-union](http://www.robert-schuman.eu/en/european-issues/0333-overcoming-democratic-breakdown-in-the-european-union) 
+[^ftnt1]: For example, see this analysis from the Robert Schuman Foundation on recent opinion polls: [http://www.robert-schuman.eu/en/european-issues/0333-overcoming-democratic-breakdown-in-the-european-union](http://www.robert-schuman.eu/en/european-issues/0333-overcoming-democratic-breakdown-in-the-european-union) 
 
-[[2]](#ftnt_ref2) See [Council regulation n°1311/2013 of 2 December 2013 laying down the multiannual financial framework for the years 2014-2020](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0884.01.ENG).
+[^ftnt2]: See [Council regulation n°1311/2013 of 2 December 2013 laying down the multiannual financial framework for the years 2014-2020](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0884.01.ENG).
 
-[[3]](#ftnt_ref3) The Flexibility Instrument was used to finance the Juncker Plan: [http://ec.europa.eu/priorities/jobs-growth-investment/plan/docs/an-investment-plan-for-europe\_com\_2014\_903\_en.pdf.](http://ec.europa.eu/priorities/jobs-growth-investment/plan/docs/an-investment-plan-for-europe_com_2014_903_en.pdf.)
+[^ftnt3]: The Flexibility Instrument was used to finance the Juncker Plan: [http://ec.europa.eu/priorities/jobs-growth-investment/plan/docs/an-investment-plan-for-europe\_com\_2014\_903\_en.pdf.](http://ec.europa.eu/priorities/jobs-growth-investment/plan/docs/an-investment-plan-for-europe_com_2014_903_en.pdf.)
 
-[[4]](#ftnt_ref4) See [the EU Funding Glossary](http://ec.europa.eu/budget/funding/information/eu-funding-glossary_en).
+[^ftnt4]: See [the EU Funding Glossary](http://ec.europa.eu/budget/funding/information/eu-funding-glossary_en).
 
-[[5]](#ftnt_ref5) See [the Assembly of European Regions briefing note](http://www.aer.eu/fileadmin/user_upload/MainIssues/Future_of_Europe/EU_Budget_Review/MFF-briefing-note.pdf).
+[^ftnt5]: See [the Assembly of European Regions briefing note](http://www.aer.eu/fileadmin/user_upload/MainIssues/Future_of_Europe/EU_Budget_Review/MFF-briefing-note.pdf).
 
-[[6]](#ftnt_ref6) [The ordinary legislative procedure step by step.](http://www.europarl.europa.eu/aboutparliament/en/20150201PVL00004/Legislative-powers)
+[^ftnt6]: [The ordinary legislative procedure step by step.](http://www.europarl.europa.eu/aboutparliament/en/20150201PVL00004/Legislative-powers)
 
-[[7]](#ftnt_ref7) Article 310 of the Treaty on the Functioning of the European Union (TFEU).
+[^ftnt7]: Article 310 of the Treaty on the Functioning of the European Union (TFEU).
 
-[[8]](#ftnt_ref8) [Definitive adoption (EU, EURATOM) 2015/339 of the European Union's general budget for the financial year 2015](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2015:069:FULL)
+[^ftnt8]: [Definitive adoption (EU, EURATOM) 2015/339 of the European Union's general budget for the financial year 2015](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2015:069:FULL)
 
-[[9]](#ftnt_ref9) The 2014 report is available online:
+[^ftnt9]: The 2014 report is available online: [http://ec.europa.eu/budget/library/biblio/publications/2014/2015.04.15\_RBFM\_Report\_en.pdf](http://ec.europa.eu/budget/library/biblio/publications/2014/2015.04.15_RBFM_Report_en.pdf)
 
-[http://ec.europa.eu/budget/library/biblio/publications/2014/2015.04.15\_RBFM\_Report\_en.pdf](http://ec.europa.eu/budget/library/biblio/publications/2014/2015.04.15_RBFM_Report_en.pdf)
+[^ftnt10]: [Reports of the ECA.](http://www.eca.europa.eu/en/Pages/AuditReportsOpinions.aspx)
 
-[[10]](#ftnt_ref10) [Reports of the ECA.](http://www.eca.europa.eu/en/Pages/AuditReportsOpinions.aspx)
+[^ftnt11]: [Council Decision of 7 June 2007 on the system of the European Communities' own resources.](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007D0436)
 
-[[11]](#ftnt_ref11) [Council Decision of 7 June 2007 on the system of the European Communities' own resources.](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007D0436)
+[^ftnt12]: [2014 Council Decision on the system of own resources of the European Union.](http://register.consilium.europa.eu/doc/srv?l=EN&f=ST%205602%202014%20INIT)
 
-[[12]](#ftnt_ref12) [2014 Council Decision on the system of own resources of the European Union.](http://register.consilium.europa.eu/doc/srv?l=EN&f=ST%205602%202014%20INIT)
+[^ftnt13]: As the UK rebate, lump sum payments and reduced VAT call rates are correction mechanisms, that is to say measures taken to compensate Member States whose contribution to the EU budget is perceived as being too high compared to their relative wealth and the benefits they get out of the EU budget.
 
-[[13]](#ftnt_ref13) As the UK rebate, lump sum payments and reduced VAT call rates are correction mechanisms, that is to say measures taken to compensate Member States whose contribution to the EU budget is perceived as being too high compared to their relative wealth and the benefits they get out of the EU budget.
+[^ftnt14]: [Council regulation (EU) 2015/323 of 2 March 2015 on the financial regulation applicable to the 11th European Development Fund](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.058.01.0017.01.ENG)
 
-[[14]](#ftnt_ref14) [Council regulation (EU) 2015/323 of 2 March 2015 on the financial regulation applicable to the 11th European Development Fund](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.058.01.0017.01.ENG)
+[^ftnt15]: See for example [this presentation](http://ec.europa.eu/chafea/documents/health/calls/2013/Workshop_on_Joint_Action_2013/Financial_Managment_JA%20Workshop_December_2012.pdf).
 
-[[15]](#ftnt_ref15) See for example [this presentation](http://ec.europa.eu/chafea/documents/health/calls/2013/Workshop_on_Joint_Action_2013/Financial_Managment_JA%20Workshop_December_2012.pdf).
+[^ftnt16]: [The 12 highlights for the 2014/2020 MFF.](http://ec.europa.eu/budget/mff/highlights/index_en.cfm#funding)
 
-[[16]](#ftnt_ref16) [The 12 highlights for the 2014/2020 MFF.](http://ec.europa.eu/budget/mff/highlights/index_en.cfm#funding)
+[^ftnt17]: Europe 2020 is the 10-year growth strategy of the European Union for the period 2010-2020. See [http://ec.europa.eu/europe2020/index\_en.htm](http://ec.europa.eu/europe2020/index_en.htm).
 
-[[17]](#ftnt_ref17) Europe 2020 is the 10-year growth strategy of the European Union for the period 2010-2020. See [http://ec.europa.eu/europe2020/index\_en.htm](http://ec.europa.eu/europe2020/index_en.htm).
+[^ftnt18]: [European Commission ESIF webpage.](http://ec.europa.eu/contracts_grants/funds_en.htm)
 
-[[18]](#ftnt_ref18) [European Commission ESIF webpage.](http://ec.europa.eu/contracts_grants/funds_en.htm)
+[^ftnt19]: Initial amount was €74 928 million but in accordance with regulation 1303/2013 (art. 92(6) and 92(7)), parts of this amount have been transferred to the Connecting Europe Facility and to the Fund for European Aid to the Most Deprived.
 
-[[19]](#ftnt_ref19) Initial amount was €74 928 million but in accordance with regulation 1303/2013 (art. 92(6) and 92(7)), parts of this amount have been transferred to the Connecting Europe Facility and to the Fund for European Aid to the Most Deprived.
+[^ftnt20]: For example, concerning the exact amount of the five ESIF for the 2014-2020 period, one EU publication mentions a number of [366.9 billion euros](http://ec.europa.eu/contracts_grants/pdf/synergies_beneficiaries_en.pdf) whereas another one makes reference to a total of [351.8 billion euros](http://ec.europa.eu/regional_policy/sources/docgener/panorama/pdf/mag48/mag48_en.pdf).
 
-[[20]](#ftnt_ref20) For example, concerning the exact amount of the five ESIF for the 2014-2020 period, one EU publication mentions a number of [366.9 billion euros](http://ec.europa.eu/contracts_grants/pdf/synergies_beneficiaries_en.pdf) whereas another one makes reference to a total of [351.8 billion euros](http://ec.europa.eu/regional_policy/sources/docgener/panorama/pdf/mag48/mag48_en.pdf).
+[^ftnt21]: It should be noted, however, that DG BUDGET, the EU Directorate-General for Budget, was quite responsive to the requests for information sent by the authors of the report through social medias such as Twitter.
 
-[[21]](#ftnt_ref21) It should be noted, however, that DG BUDGET, the EU Directorate-General for Budget, was quite responsive to the requests for information sent by the authors of the report through social medias such as Twitter.
+[^ftnt22]: The Directive  2012/17/EU introduces a unique identifier for European companies. However, there is no provision for that unique identifier to be used in data on EU funds beneficiaries. See [http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0017](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0017)
 
-[[22]](#ftnt_ref22) The Directive  2012/17/EU introduces a unique identifier for European companies. However, there is no provision for that unique identifier to be used in data on EU funds beneficiaries. See [http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0017](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0017)
+[^ftnt23]: [2012 financial regulation, Articles 34 and 35](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:298:0001:0096:EN:PDF).
 
-[[23]](#ftnt_ref23) [2012 financial regulation, Articles 34 and 35](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:298:0001:0096:EN:PDF).
+[^ftnt24]: The threshold can be set by Member States, see article 12 of regulation 1306/2013: [http://ec.europa.eu/agriculture/cap-funding/beneficiaries/shared/index\_en.htm](http://ec.europa.eu/agriculture/cap-funding/beneficiaries/shared/index_en.htm).
 
-[[24]](#ftnt_ref24) The threshold can be set by Member States, see article 12 of regulation 1306/2013: [http://ec.europa.eu/agriculture/cap-funding/beneficiaries/shared/index\_en.htm](http://ec.europa.eu/agriculture/cap-funding/beneficiaries/shared/index_en.htm).
+[^ftnt25]: For a good introduction to data journalism, see Gray, J., Bounegru, L. and Chambers, L. (eds.) The Data Journalism Handbook (O'Reilly Media, 2012), co-edited by Open Knowledge and the European Journalism Center and freely available [online.](http://datajournalismhandbook.org/)
 
-[[25]](#ftnt_ref25) For a good introduction to data journalism, see Gray, J., Bounegru, L. and Chambers, L. (eds.) The Data Journalism Handbook (O'Reilly Media, 2012), co-edited by Open Knowledge and the European Journalism Center and freely available [online.](http://datajournalismhandbook.org/)
+[^ftnt26]: For an in depth-review of journalism investigation on EU funds up to 2012, see: European Commission, Deterrence of fraud with EU funds through investigative journalism in EU-27, 2012, [http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf](http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf).
 
-[[26]](#ftnt_ref26) For an in depth-review of journalism investigation on EU funds up to 2012, see: European Commission, Deterrence of fraud with EU funds through investigative journalism in EU-27, 2012,
+[^ftnt27]: ICIJ, €6 billion in subsidies fuel Spain’s ravenous fleet, October 2011, [online.](http://www.icij.org/project/looting-seas-ii/nearly-eu6-billion-subsidies-fuel-spains-ravenous-fleet)
 
-[http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf](http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf).
+[^ftnt28]: ICIJ,  [methodology](http://www.icij.org/project/looting-seas-ii/subsidy-methodology).
 
-[[27]](#ftnt_ref27) ICIJ, €6 billion in subsidies fuel Spain’s ravenous fleet, October 2011, [online.](http://www.icij.org/project/looting-seas-ii/nearly-eu6-billion-subsidies-fuel-spains-ravenous-fleet)
+[^ftnt29]: European Commission, Deterrence of fraud with EU funds through investigative journalism in EU-27, p. 227,2012:[http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf](http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf).
 
-[[28]](#ftnt_ref28) ICIJ,  [methodology](http://www.icij.org/project/looting-seas-ii/subsidy-methodology).
+[^ftnt30]: See, James T Hamilton, Democracy's Detectives: The Economics and Impacts of Investigative Reporting (forthcoming).
 
-[[29]](#ftnt_ref29) European Commission, Deterrence of fraud with EU funds through investigative journalism in EU-27, p. 227,2012:[http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf](http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf).
-
-[[30]](#ftnt_ref30) See, James T Hamilton, Democracy's Detectives: The Economics and Impacts of Investigative Reporting (forthcoming).
-
-[[31]](#ftnt_ref31) [TFUE](http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012E/TXT).
+[^ftnt31]: [TFUE](http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012E/TXT).
