@@ -73,6 +73,11 @@ related_projects:
       name: Introducing Open Data
       link: http://okfn.org/opendata/
 
+collections:
+  eu_datasets:
+    output: true
+    permalink: /resources/eu/datasets/:path/
+
 defaults:
   -
     scope:
@@ -85,3 +90,9 @@ defaults:
       path: "blog"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: eu_datasets
+    values:
+      layout: eu_dataset
