@@ -99,3 +99,9 @@ defaults:
       type: eu_datasets
     values:
       layout: eu_dataset
+  -
+    scope:
+      path: ""
+      type: eu_funds
+    values:
+      layout: eu_fund

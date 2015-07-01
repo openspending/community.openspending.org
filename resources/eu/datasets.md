@@ -10,4 +10,8 @@ The Open Data audit of EU funds is an ongoing and collaborative effort. First re
 
 * * * * *
 
+{% for dataset in site.eu_datasets %}
+[{{dataset.title}} ({{ dataset.coverage }})]({{ dataset.url }})
+{% endfor %}
+
 {% include_relative footnotes.md %}

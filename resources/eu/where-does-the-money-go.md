@@ -320,4 +320,11 @@ Source of the data: [European Commission](http://ec.europa.eu/budget/figures/int
 
 * * * * *
 
+All Funds
+---------
+
+{% for fund in site.eu_funds %}
+[{{fund.title}}]({{ fund.url }}) *{{ fund.objectives }}*
+{% endfor %}
+
 {% include_relative footnotes.md %}
