@@ -139,6 +139,9 @@
     <li>
       <a href="{{ site.baseurl }}/resources/">Resources</a>
       <ul>
+        <li {% if url_last == 'eu' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/eu/">Where Does Europe's Money Go?</a>
+        </li>
         <li {% if url_last == 'gb-spending' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/gb-spending/">UK Departmental Spending</a>
         </li>
