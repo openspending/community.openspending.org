@@ -113,3 +113,5 @@ The European Union has now entered into a new budget framework for 2014-2020. Th
 <a href="./pdf/WhereDoesEuropesMoneyGo.pdf">
 <img src="./img/cover.png">
 </a>
+
+{% include_relative footnotes.md %}
