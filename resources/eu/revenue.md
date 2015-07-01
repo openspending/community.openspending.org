@@ -33,4 +33,5 @@ Source of the data: [European Commission](http://ec.europa.eu/budget/figures/int
 
 * * * * *
 
+{% include_relative nav.md %}
 {% include_relative footnotes.md %}

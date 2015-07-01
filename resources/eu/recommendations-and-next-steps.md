@@ -14,11 +14,7 @@ Therefore, based on the EU budget mechanisms analysis, related transparency rule
 
 1.  **Extend the Financial Transparency System to all EU funds by centralising or federating detailed data expenditures from Members States, non-EU Members and international organisations.** Data on beneficiaries should include, when relevant, a unique European identifier of company, and when the project is co-financed, the exact amount of EU funding received, the total amount of the project and all other co-financing sources.
 
-****
-
 1.  **Clarify the legal framework regarding the rules applicable to the transparency of beneficiaries of EU funds and ensure its consistency across the European Union.** Although this report did not conduct a comprehensive legal review of EU budget transparency, it has found that: (i) the differences of transparency rules applying to the beneficiaries of funds managed under centralised and shared management are preventing the establishment of a common transparency standard for all EU expenditures. This should concern also the publication, by the European institutions and in open data format, of more detailed expenditure information under the “Administration” heading; (ii) the differences between data protection law and effective enforcement within each Member State are also preventing a high level of EU funds transparency across Europe; (iii) the interpretation of the principle of proportionality regarding data protection is still subject to discussion; (iv) the transparency rules adopted by third countries and international organisations managing EU funds may also differ from the ones adopted by the EU and its Member States and prevent the establishment of a common transparency framework.
-
-****
 
 1.  **Support and strengthen civil society and journalists capacities on EU funds, together with the development of common data and investigation tools.** Newsrooms are too often reticent to launch long data investigations without the guarantee that these will pay off with good stories. In the wake of JournalismFund.eu, there is a need to support funding for data skills and relevant tools to develop data journalism and investigation projects related to EU funds.[^ftnt32] This should include not only literacy with datasets, but also literacy with data infrastructures, institutions and policies. Projects of interest in this area may include issues such as contracts/tenders financed or co-financed through the EU budget, in order to determine what are the regulations governing their functioning, what level of information is currently open to public scrutiny and what are the loopholes which may eventually be corrected in this system both to facilitate access to the data and to prevent fraud or misuse of the funds.
 
@@ -28,4 +24,5 @@ Therefore, based on the EU budget mechanisms analysis, related transparency rule
 
 * * * * *
 
+{% include_relative nav.md %}
 {% include_relative footnotes.md %}

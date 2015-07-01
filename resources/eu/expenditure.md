@@ -34,4 +34,5 @@ Other rules usually applicable to funding projects with EU money are: the non-pr
 
 * * * * *
 
+{% include_relative nav.md %}
 {% include_relative footnotes.md %}

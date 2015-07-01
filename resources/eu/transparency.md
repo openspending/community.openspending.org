@@ -79,4 +79,5 @@ Data is published directly by the European Commission on:
 
 * * * * *
 
+{% include_relative nav.md %}
 {% include_relative footnotes.md %}

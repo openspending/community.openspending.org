@@ -24,4 +24,5 @@ Information,** available as open data**, about the investments made and the res
 
 * * * * *
 
+{% include_relative nav.md %}
 {% include_relative footnotes.md %}

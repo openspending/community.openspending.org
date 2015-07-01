@@ -1,5 +1,5 @@
 ---
-title: Annex 3 - Legal Basis for the Establishment of the EU budget
+title: Annex - Legal Basis for the Establishment of the EU budget
 ---
 
 **Treaty on the Functioning of the European Union (TFEU), Title II - Financial Provisions - Articles 310 to 325:**[^ftnt33]
@@ -36,4 +36,5 @@ Official Journal of the European Union (2013). Council Regulation (EU, EURATOM) 
 
 European Parliament (2012). Deterrence of fraud with EU funds through investigative journalism in EU-27, 2012. Available at: [http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf](http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf) 
 
+{% include_relative nav.md %}
 {% include_relative footnotes.md %}

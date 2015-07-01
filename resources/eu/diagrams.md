@@ -10,4 +10,5 @@ title: Diagrams in editable version
 
 * * * * *
 
+{% include_relative nav.md %}
 {% include_relative footnotes.md %}

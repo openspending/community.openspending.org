@@ -1,5 +1,5 @@
 ---
-title: Annex 2 - The Open Data Audit of EU Funds
+title: Annex - The Open Data Audit of EU Funds
 ---
 
 As we have seen, detailed information on EU spending and beneficiaries managed directly by the Commission can be found on the EU FTS, but it only concerns 20% of the EU Budget. For the remaining 80%, there is no central place to go and one has to look at every external entity spending EU money.
@@ -14,4 +14,5 @@ The Open Data audit of EU funds is an ongoing and collaborative effort. First re
 [{{dataset.title}} ({{ dataset.coverage }})]({{ dataset.url }})
 {% endfor %}
 
+{% include_relative nav.md %}
 {% include_relative footnotes.md %}
