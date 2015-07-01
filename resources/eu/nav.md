@@ -8,7 +8,7 @@
 - [Where Does the Money Go?](../funds/)
 - [How Transparent is the EU Budget?](../transparency/)
 - [Journalistic Investigations and Transparency Projects to Follow the Money](../research/)
-- [Recommendations and Next Steps](../recommendations-and-next-steps/)
+- [Recommendations and Next Steps](../recommendations/)
 - [Annex - EU Funds Dataset](../funds_dataset/)
 - [Annex - The Open Data Audit of EU Funds](../datasets/)
 - [Annex - Legal Basis for the Establishment of the EU budget](../legal-basis/)
