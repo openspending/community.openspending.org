@@ -3,7 +3,18 @@
   <div>
     <div class="primary">
       <a href="https://okfn.org/" rel="external"><img src="{{ "/img/open-knowledge.png" | prepend: site.baseurl }}" width="145" height="32" alt="Open Knowledge"></a>
+    </div>
+    
+    <div class="secondary">
+      <ul>
+        <li><a href="{{ site.baseurl }}/meta/contribute/">Contribute</a></li>
+        <li><a href="https://okfn.org/terms-of-use/" rel="external">Terms of use</a></li>
+        <li><a href="https://okfn.org/privacy-policy/" rel="external">Privacy policy</a></li>
+        <li class="button"><a href="http://opendefinition.org/" rel="external"><img src="{{ site.baseurl }}/img/open-content.svg" width="80" height="15" alt="Open Content"/></a></li>
+      </ul>
+    </div>
 
+    <div class="tertiary">
       {% if site.supporters %}
       <div class="supporters">
         <h6>Supported by</h6>
@@ -16,16 +27,7 @@
       {% endif %}
     </div>
 
-    <div class="secondary">
-      <ul>
-        <li><a href="{{ site.baseurl }}/meta/contribute/">Contribute</a></li>
-        <li><a href="https://okfn.org/terms-of-use/" rel="external">Terms of use</a></li>
-        <li><a href="https://okfn.org/privacy-policy/" rel="external">Privacy policy</a></li>
-        <li class="button"><a href="http://opendefinition.org/" rel="external"><img src="{{ site.baseurl }}/img/open-content.svg" width="80" height="15" alt="Open Content"/></a></li>
-      </ul>
-    </div>
-
-    <div class="tertiary">
+    <div class="quaternary">
       {% if site.related_projects %}
       <div>
         <h6>Related Projects</h6>

@@ -1134,7 +1134,7 @@ html.mm-background .mm-page,
   
   .primary {
     @include media($large-screen) {
-      @include span-columns(8);
+      @include span-columns(6);
     }
     
     & > a {
@@ -1145,7 +1145,34 @@ html.mm-background .mm-page,
         padding-left:$base-spacing / 2;
         padding-right:$base-spacing / 2;
       }
+    }    
+  }
+  
+  .secondary {
+    padding-top:$base-spacing / 2;
+    padding-bottom:$base-spacing / 2;
+    font-size:0.8em;
+    
+    @include media($large-screen) {
+      @include span-columns(6);
+      @include omega();
+      text-align:right;
+      padding-left:$base-spacing / 2;
     }
+    
+    li {
+      display:inline-block;
+      padding-right:$base-spacing / 2;
+      
+      &.button a {
+        top:3px;
+        position:relative;
+      }
+    }
+  }
+  
+  .tertiary {
+    clear:both;
     
     .supporters {
       margin-bottom:10px;
@@ -1160,7 +1187,7 @@ html.mm-background .mm-page,
         height:34px;
       }
       
-      @include media($medium-screen) {
+      @include media($large-screen) {
         @include omega();
         padding-left:$base-spacing / 2;
         padding-right:$base-spacing / 2;
@@ -1187,31 +1214,8 @@ html.mm-background .mm-page,
       }
     }
   }
-  
-  .secondary {
-    padding-top:$base-spacing / 2;
-    padding-bottom:$base-spacing / 2;
-    font-size:0.8em;
     
-    @include media($large-screen) {
-      @include span-columns(4);
-      @include omega();
-      text-align:right;
-      padding-left:$base-spacing / 2;
-    }
-    
-    li {
-      display:inline-block;
-      padding-right:$base-spacing / 2;
-      
-      &.button a {
-        top:3px;
-        position:relative;
-      }
-    }
-  }
-  
-  .tertiary {
+  .quaternary {
     font-size:rem(12);
     clear:left;
     
