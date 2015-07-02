@@ -43,6 +43,9 @@ supporters:
   -
     name: Omidyar Network
     footer_logo: on-footer.png
+  -
+    name: Hewlett Foundation
+    footer_logo: hewlett-footer.png
 
 googleanalytics: UA-8271754-63
 
