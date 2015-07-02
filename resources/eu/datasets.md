@@ -15,7 +15,7 @@ The Open Data audit of EU funds is an ongoing and collaborative effort. First re
 {% endfor %}
 
 - [Return to Beginning](../)
-- [Prev: Annex - EU Funds Dataset](../funds_dataset/)
+- [Prev: Recommendations and Next Steps](../recommendations/)
 - [Next: Annex - Legal Basis for the Establishment of the EU budget](../legal-basis/)
 
 {% include_relative footnotes.md %}

@@ -103,10 +103,9 @@ The European Union has now entered into a new budget framework for 2014-2020. Th
 - [How Transparent is the EU Budget?](./transparency/)
 - [Journalistic Investigations and Transparency Projects to Follow the Money](./research/)
 - [Recommendations and Next Steps](./recommendations/)
-- [Annex - EU Funds Dataset](./funds_dataset/)
 - [Annex - The Open Data Audit of EU Funds](./datasets/)
 - [Annex - Legal Basis for the Establishment of the EU budget](./legal-basis/)
-- [Official sources of EU budget data](./official-sources/)
+- [References](./references/)
 
 ## Download the PDF version
 

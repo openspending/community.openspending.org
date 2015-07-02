@@ -26,6 +26,6 @@ Therefore, based on the EU budget mechanisms analysis, related transparency rule
 
 - [Return to Beginning](../)
 - [Prev: Journalistic Investigations and Transparency Projects to Follow the Money](../research/)
-- [Next: Annex - EU Funds Dataset](../funds_dataset/)
+- [Next: Annex - The Open Data Audit of EU Funds](../datasets/)
 
 {% include_relative footnotes.md %}
