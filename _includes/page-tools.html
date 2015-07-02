@@ -5,7 +5,11 @@
       Improve this page
 
       <span class="tooltip">
+        {% if page.collection %}
+        <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}/edit/gh-pages/{{page.relative_path}}" class="github" rel="external">Edit on Github</a>
+        {% else %}
         <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}/edit/gh-pages/{{page.path}}" class="github" rel="external">Edit on Github</a>
+        {% endif %}
         <a href="{{ "/meta/contribute/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
       </span>
     </li>
