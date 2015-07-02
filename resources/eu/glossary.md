@@ -58,5 +58,8 @@ Most of these definitions are taken from the [EU Glossary](http://ec.europa.eu/b
 
 **Sugar Levies        **Mainly customs duties on imports of certain agricultural products from non-EU countries as well as levies paid by producers on sugar, isoglucose and insulin syrup.
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Prev: Acronyms](../acronyms/)
+- [Next: The EU Budget at a Glance](../overview/)
+
 {% include_relative footnotes.md %}

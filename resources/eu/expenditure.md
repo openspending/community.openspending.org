@@ -34,5 +34,8 @@ Other rules usually applicable to funding projects with EU money are: the non-pr
 
 * * * * *
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Prev: Where Does the Money Come From?](../revenue/)
+- [Next: Where Does the Money Go?](../funds/)
+
 {% include_relative footnotes.md %}

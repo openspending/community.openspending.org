@@ -327,5 +327,8 @@ All Funds
 [{{fund.title}}]({{ fund.url }}) *{{ fund.objectives }}*
 {% endfor %}
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Prev: Who Manages and Spends the Money, and How?](../expenditure/)
+- [Next: How Transparent is the EU Budget?](../transparency/)
+
 {% include_relative footnotes.md %}

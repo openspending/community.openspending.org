@@ -34,5 +34,7 @@ title: List of Acronyms
 | **UN** | United Nations |
 | **VAT** | Value-added Tax |
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Next: Glossary](../glossary/)
+
 {% include_relative footnotes.md %}

@@ -24,5 +24,7 @@ Information,** available as open data**, about the investments made and the res
 
 * * * * *
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Prev: Annex - Legal Basis for the Establishment of the EU budget](../legal-basis/)
+
 {% include_relative footnotes.md %}

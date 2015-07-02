@@ -79,5 +79,8 @@ Data is published directly by the European Commission on:
 
 * * * * *
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Prev: Where Does the Money Go?](../funds/)
+- [Next: Journalistic Investigations and Transparency Projects to Follow the Money](../research/)
+
 {% include_relative footnotes.md %}

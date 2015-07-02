@@ -36,5 +36,8 @@ Official Journal of the European Union (2013). Council Regulation (EU, EURATOM) 
 
 European Parliament (2012). Deterrence of fraud with EU funds through investigative journalism in EU-27, 2012. Available at: [http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf](http://www.journalismfund.eu/sites/default/files/EP%20Study%20-%20Deterrence%20of%20fraud.pdf) 
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Prev: Annex - The Open Data Audit of EU Funds](../datasets/)
+- [Next: Official sources of EU budget data](../official-sources/)
+
 {% include_relative footnotes.md %}

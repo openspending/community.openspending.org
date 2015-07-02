@@ -6,5 +6,8 @@ This dataset contains the list of EU funds for the MFF 2014 - 2020, together wit
 
 [Working version of the EU funds dataset](https://docs.google.com/spreadsheets/d/1tkKxRlkW60-ylxdvxGkMlMq8BS4SRPR4QoEd72qgFwQ/edit#gid=0)
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Prev: Recommendations and Next Steps](../recommendations/)
+- [Next: Annex - The Open Data Audit of EU Funds](../datasets/)
+
 {% include_relative footnotes.md %}

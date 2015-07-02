@@ -70,5 +70,8 @@ In November every year, the Court of Auditors publishes public reports on the im
 
 * * * * *
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Prev: The EU Budget at a Glance](../overview/)
+- [Next: Where Does the Money Come From?](../revenue/)
+
 {% include_relative footnotes.md %}

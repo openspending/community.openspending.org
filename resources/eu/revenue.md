@@ -33,5 +33,8 @@ Source of the data: [European Commission](http://ec.europa.eu/budget/figures/int
 
 * * * * *
 
-{% include_relative nav.md %}
+- [Return to Beginning](../)
+- [Prev: How is the EU Budget Set Up?](../budget/)
+- [Next: Who Manages and Spends the Money, and How?](../expenditure/)
+
 {% include_relative footnotes.md %}
