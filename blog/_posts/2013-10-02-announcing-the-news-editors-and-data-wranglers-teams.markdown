@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Announcing the News Editors' and Data Wranglers' Teams
 authors:
 - Teodora Beleaga

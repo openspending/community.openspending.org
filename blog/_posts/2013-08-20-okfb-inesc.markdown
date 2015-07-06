@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Visualizing How the Brazilian Government Underspends on the Public Good
 authors:
 - Vítor Baptista

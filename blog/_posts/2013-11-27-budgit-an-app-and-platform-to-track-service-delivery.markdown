@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'BudgIT: An App and Platform to track service delivery'
 authors:
 - Oluseun Onigbinde

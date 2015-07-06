@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: Opening Israel's Budget

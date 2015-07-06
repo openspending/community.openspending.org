@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Processing data for Open Spending
 authors:
 - Olaf Veerman

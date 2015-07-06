@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Presenting public finance just got easier
 authors:
 - Tryggvi Björgvinsson

@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Lagos City Spending Party
 authors:
 - Oluseun Onigbinde

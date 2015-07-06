@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - victoria
 title: Budgetstories.md - using open budget data to create meaningful stories

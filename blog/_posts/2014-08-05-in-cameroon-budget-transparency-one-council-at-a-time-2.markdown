@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: In Cameroon, budget transparency one council at a time
 authors:
 - pierre chrzanowski

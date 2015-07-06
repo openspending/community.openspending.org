@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: Join us for a City Spending Data Party and map the money near you!

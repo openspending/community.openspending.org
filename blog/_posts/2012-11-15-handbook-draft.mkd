@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - friedrich
 title: Spending Data Handbook - Draft Version

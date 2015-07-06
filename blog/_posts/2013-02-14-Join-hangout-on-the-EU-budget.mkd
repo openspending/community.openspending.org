@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: How to find spending data inside EU's budget - join us for a Google Hangout!

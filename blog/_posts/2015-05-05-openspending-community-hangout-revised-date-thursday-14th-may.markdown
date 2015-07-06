@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'OpenSpending Community Hangout: Revised Date - Thursday 14th May'
 authors:
 - Meg Foulkes

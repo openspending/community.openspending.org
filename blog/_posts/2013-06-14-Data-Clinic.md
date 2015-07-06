@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: Next Data Clinic 19 June

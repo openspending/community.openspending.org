@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Partnership with CERN results in new Load API
 authors:
 - albertorodriguezpeon

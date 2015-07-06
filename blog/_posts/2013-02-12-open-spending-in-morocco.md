@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - martin
 title: Opening Budgets in Morocco

@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: OpenSpending site move sprint
 authors:
 - Neil Ashton

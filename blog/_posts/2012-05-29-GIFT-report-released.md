@@ -1,5 +1,4 @@
 --- 
-layout: post
 authors:
 - lucy
 title: Technology for Transparent and Accountable Public Finance

@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: The Open Budget Survey is out

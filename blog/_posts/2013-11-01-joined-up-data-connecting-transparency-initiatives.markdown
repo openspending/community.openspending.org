@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'Joined Up Data: first steps towards connecting transparency initiatives'
 authors:
 - Neil Ashton

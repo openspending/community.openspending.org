@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: City Spending Party around the world
 authors:
 - Anders Pedersen

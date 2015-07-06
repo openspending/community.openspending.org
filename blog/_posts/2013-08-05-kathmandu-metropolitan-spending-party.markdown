@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Kathmandu Metropolitan Spending Party
 authors:
 - Prakash Neupane

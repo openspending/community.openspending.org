@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Northern Mariana Islands Retirement Fund Bankruptcy
 authors:
 - Rufus Pollock

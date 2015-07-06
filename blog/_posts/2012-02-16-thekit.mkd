@@ -1,5 +1,4 @@
 --- 
-layout: post
 authors:
 - friedrich
 title: Announcing the Where Does My Money Go? Assembly Kit

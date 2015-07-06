@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - nick
 title: An introduction to the TaxMan

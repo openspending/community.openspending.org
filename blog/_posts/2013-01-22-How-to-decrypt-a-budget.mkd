@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lisa
 title: How to decrypt a budget?

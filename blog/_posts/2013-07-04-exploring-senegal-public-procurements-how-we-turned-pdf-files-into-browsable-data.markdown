@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'Exploring Senegal Public Procurements : how we turned PDF files into browsable
   data ?'
 authors:

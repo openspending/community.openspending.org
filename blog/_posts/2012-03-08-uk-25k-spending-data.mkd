@@ -1,5 +1,4 @@
 --- 
-layout: post
 author: $authornamehere
 title: UK 25k Spending Data
 published: false

@@ -1,5 +1,4 @@
 --- 
-layout: post
 authors:
 - lucy
 title: How Spending Stories Fact Checks Big Brother, the Wiretappers' Ball

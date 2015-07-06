@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'OpenSpending Community Hangout in April: Suggested Theme and Vote for the
   Date!'
 authors:

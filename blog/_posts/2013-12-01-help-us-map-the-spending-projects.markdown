@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Help map spending projects around world!
 authors:
 - Anders Pedersen

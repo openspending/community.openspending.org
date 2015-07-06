@@ -1,5 +1,4 @@
 --- 
-layout: post
 authors:
 - friedrich
 title: "'Where Does My Money Go?' Goes international. Welcome to OpenSpending."

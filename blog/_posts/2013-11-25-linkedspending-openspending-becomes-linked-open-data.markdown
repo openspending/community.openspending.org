@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'LinkedSpending: OpenSpending becomes Linked Open Data'
 authors:
 - Anders Pedersen

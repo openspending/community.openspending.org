@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lisa
 title: Spending Stories, Open Spending Are Moving Beyond Visualizations

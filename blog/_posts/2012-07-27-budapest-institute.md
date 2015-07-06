@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lucy
 title: Athens to Berlin - PROFILE - Our Money, the Budapest Institute

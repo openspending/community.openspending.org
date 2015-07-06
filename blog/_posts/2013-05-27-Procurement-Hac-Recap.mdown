@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Opening the EU procurement database
 published: true
 type: post

@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Opening up municipal spending data
 authors:
 - Niels Erik Kaaber Rasmussen

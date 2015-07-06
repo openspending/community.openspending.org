@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Community update
 authors:
 - Anders Pedersen

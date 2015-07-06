@@ -1,5 +1,4 @@
 --- 
-layout: post
 authors:
 - friedrich
 title: OpenSpending v0.11 Released

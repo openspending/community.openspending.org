@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: Hack for Change helps publish data from Washington DC 

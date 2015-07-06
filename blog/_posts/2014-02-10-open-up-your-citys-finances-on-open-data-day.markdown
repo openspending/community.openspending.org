@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Open up your city's finances on Open Data Day!
 authors:
 - Anders Pedersen

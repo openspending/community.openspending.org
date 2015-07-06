@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'Workshop at OKCon: Human Centered Data - What Should Public Spending Data
   Tell Us?'
 authors:

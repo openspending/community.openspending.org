@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: Next Community Hangout 12 June

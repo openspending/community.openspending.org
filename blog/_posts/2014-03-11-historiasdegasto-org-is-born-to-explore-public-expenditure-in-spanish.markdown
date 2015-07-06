@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: historiasdegasto.org is born to explore public expenditure in Spanish
 authors:
 - Concha Catalan

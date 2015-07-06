@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lucy
 title: Where Does the Money Go - International. Updates from OKFestival 

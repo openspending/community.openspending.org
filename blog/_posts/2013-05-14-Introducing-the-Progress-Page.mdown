@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Introducing the Progress page
 published: true
 type: post

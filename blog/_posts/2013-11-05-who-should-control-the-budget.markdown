@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Who should control the budget?
 authors:
 - tarikn

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Making sense of French press aid
 published: true
 type: post

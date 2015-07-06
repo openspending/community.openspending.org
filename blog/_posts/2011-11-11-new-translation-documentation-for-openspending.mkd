@@ -1,5 +1,4 @@
 --- 
-layout: post
 authors:
 - lucy
 title: New Translation Documentation for OpenSpending

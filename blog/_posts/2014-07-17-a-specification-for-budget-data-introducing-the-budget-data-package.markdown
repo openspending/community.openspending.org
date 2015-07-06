@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'A specification for Budget Data: Introducing the Budget Data Package'
 authors:
 - Lucy Chambers

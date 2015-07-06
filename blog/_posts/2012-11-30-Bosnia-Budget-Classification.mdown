@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lucy
 title: Bosnian Budgets - grouping data by categories people care about

@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'Hackathon #ODD14 Barcelona'
 authors:
 - Concha Catalan

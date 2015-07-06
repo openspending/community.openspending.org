@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Budget monitoring in an Amsterdam neighborhood
 published: false
 type: post

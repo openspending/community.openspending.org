@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'Community update: Data wrangling list, moving day for our progress page and
   more'
 authors:

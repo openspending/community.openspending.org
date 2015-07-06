@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - tryggvib
 title: New Features in May 2013

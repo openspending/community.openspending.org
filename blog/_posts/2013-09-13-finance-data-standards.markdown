@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: What public finance can learn from public transit about data standards
 authors:
 - Friedrich Lindenberg

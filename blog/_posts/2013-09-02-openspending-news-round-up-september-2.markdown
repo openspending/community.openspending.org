@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: OpenSpending News Round-up, September 2
 authors:
 - Teodora Beleaga

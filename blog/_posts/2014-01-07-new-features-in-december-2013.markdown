@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: New Features in December 2013
 authors:
 - Tryggvi Björgvinsson

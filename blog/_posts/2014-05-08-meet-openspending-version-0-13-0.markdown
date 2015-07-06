@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Meet OpenSpending version 0.13.0
 authors:
 - Tryggvi Björgvinsson

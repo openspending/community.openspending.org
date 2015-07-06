@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: News Editors and Data Wranglers Hangout - Live
 authors:
 - Teodora Beleaga

@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Join the OpenSpending data wranglers and help open up finances around the world!
 authors:
 - Anders Pedersen

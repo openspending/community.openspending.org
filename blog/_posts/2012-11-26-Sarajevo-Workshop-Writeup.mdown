@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lucy
 title: Day 1 OpenSpending CSO Workshop - Sarajevo

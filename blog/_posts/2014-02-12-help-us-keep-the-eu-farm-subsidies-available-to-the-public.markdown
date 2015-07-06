@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Help us keep the EU farm subsidies open and accessible
 authors:
 - Anders Pedersen

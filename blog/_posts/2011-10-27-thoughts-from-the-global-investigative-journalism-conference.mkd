@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lucy
 title: Thoughts from the Global Investigative Journalism Conference

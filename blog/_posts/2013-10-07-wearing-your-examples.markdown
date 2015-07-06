@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Wearing your examples
 authors:
 - Tryggvi Björgvinsson

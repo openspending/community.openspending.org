@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - raimo
 title: First steps for Participatory Budgeting in Finland

@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Announcing the OpenSpending Steering Group
 authors:
 - Anders Pedersen

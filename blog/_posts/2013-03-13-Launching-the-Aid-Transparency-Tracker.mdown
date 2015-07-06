@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - mark
 title: Publish What You Fund Launches Aid Transparency Tracker

@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Big Lottery Fund Grants Data on OpenSpending
 authors:
 - Rufus Pollock

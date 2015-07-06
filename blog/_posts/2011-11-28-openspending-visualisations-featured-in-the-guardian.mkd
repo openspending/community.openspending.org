@@ -1,5 +1,4 @@
 --- 
-layout: post
 authors:
 - lucy
 title: OpenSpending visualisations featured in the Guardian

@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lucy
 title: Balkan Budget Bubbles

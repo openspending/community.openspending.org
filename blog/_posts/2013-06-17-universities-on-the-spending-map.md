@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: Budget transparency for an open university

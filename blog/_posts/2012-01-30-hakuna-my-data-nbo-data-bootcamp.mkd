@@ -1,5 +1,4 @@
 --- 
-layout: post
 authors:
 - friedrich
 title: "Hakuna My Data: NBO Data Bootcamp"

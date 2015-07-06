@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: New York State Comptroller Using Open Data and Models to Track Local Government
   Finances
 authors:

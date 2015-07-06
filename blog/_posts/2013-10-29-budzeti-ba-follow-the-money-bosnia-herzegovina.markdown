@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'budzeti.ba: following the money in Bosnia and Herzegovina'
 authors:
 - Neil Ashton

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: $authornamehere
 title: FAQ - The Daily Bread in the UK
 published: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lucy
 title: Athens to Berlin - Chicken or the Egg? Days 2-4 (Athens and Thessaloniki)

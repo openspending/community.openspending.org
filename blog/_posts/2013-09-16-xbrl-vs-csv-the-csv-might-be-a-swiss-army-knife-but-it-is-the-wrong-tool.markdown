@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'XBRL vs. CSV: The CSV might be a Swiss army knife, but it is the wrong tool'
 authors:
 - Anders Pedersen

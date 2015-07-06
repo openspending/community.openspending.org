@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: 'Human Centered data: Takes from workshop at OKCon'
 authors:
 - Anders Pedersen

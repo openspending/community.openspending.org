@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: OpenSpending around the world, Week 8

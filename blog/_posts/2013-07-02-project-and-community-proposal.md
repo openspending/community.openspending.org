@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - anders
 title: Supporting growth of the OS project and community - a proposal

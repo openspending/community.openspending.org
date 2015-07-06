@@ -1,5 +1,4 @@
 ---
-layout: post
 authors:
 - lucy
 title: Budget Cycle Monitoring Hackday at OKFest

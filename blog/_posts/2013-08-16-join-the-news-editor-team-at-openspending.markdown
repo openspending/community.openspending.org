@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Join our News and Website team!
 authors:
 - Anders Pedersen

@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: "“Where Does My Money Go?” activities have become infectious in Japan"
 authors:
 - Hiroichi Kawashima

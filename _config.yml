@@ -96,6 +96,7 @@ defaults:
       path: "blog"
     values:
       layout: "post"
+      section: "blog"
   -
     scope:
       path: ""

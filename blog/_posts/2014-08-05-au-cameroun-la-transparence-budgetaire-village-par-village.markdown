@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Au Cameroun, la transparence budgétaire, village par village
 authors:
 - pierre chrzanowski

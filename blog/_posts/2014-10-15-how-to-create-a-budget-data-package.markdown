@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: How to create a budget data package
 authors:
 - Neil Ashton

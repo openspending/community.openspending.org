@@ -1,7 +1,4 @@
 ---
-layout: post
-section: about
-lead: true
 title: Announcing A New Architectural Roadmap for OpenSpending
 authors:
 - Meg Foulkes
