@@ -2,21 +2,5 @@
 layout: page
 ---
 
-<table>
-  <tr><td>Coverage:</td><td>{{ page.coverage }}</td></tr>
-  <tr><td>Institution:</td><td>{{ page.institution }}</td></tr>
-  {% if page.source_url %}
-  <tr>
-    <td>Source URL:</td>
-    <td><a href="{{ page.source_url }}">{{ page.source_url }}</a></td>
-  </tr>
-  {% endif %}
-  {% if page.download_url %}
-  <tr>
-    <td>Download URL:</td>
-    <td><a href="{{ page.download_url }}">{{ page.download_url }}</a></td>
-  </tr>
-  {% endif %}
-</table>
 
 {{ page.content }}
