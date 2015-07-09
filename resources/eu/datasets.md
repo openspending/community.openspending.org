@@ -6,8 +6,6 @@ As we have seen, detailed information on EU spending and beneficiaries managed 
 
 In order to help in that task, we have set up the **Open Data audit of EU funds**. The aim of this census is to identify all existing datasets containing information on EU funds beneficiaries, and to assess whether or not data are available as open data.
 
-The Open Data audit of EU funds is an ongoing and collaborative effort. First results can be found [here](https://docs.google.com/spreadsheets/d/1tkKxRlkW60-ylxdvxGkMlMq8BS4SRPR4QoEd72qgFwQ/edit#gid=2028897927).
-
 * * * * *
 
 {% for dataset in site.eu_datasets %}
