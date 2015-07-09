@@ -1,0 +1,112 @@
+---
+title: 'Beneficiaries of the Common Agricultural Policy '
+---
+
+- Austria
+  - Institution:
+  - Source URL: [http://www.transparenzdatenbank.at/](http://www.transparenzdatenbank.at/)
+  - Download URL:
+- Belgium
+  - Institution:
+  - Source URL: [http://www.belpa.be/pub/EN/index.html](http://www.belpa.be/pub/EN/index.html)
+  - Download URL:
+- Bulgaria
+  - Institution:
+  - Source URL: [http://iacs-online.dfz.bg/apex/f?p=100:1:2519959547410070](http://iacs-online.dfz.bg/apex/f?p=100:1:2519959547410070)
+  - Download URL:
+- Cyprus
+  - Institution:
+  - Source URL: [http://www.capo.gov.cy/capo/capo.nsf/All/5E029E8BAFE1B145C2257B65003894EA?OpenDocument](http://www.capo.gov.cy/capo/capo.nsf/All/5E029E8BAFE1B145C2257B65003894EA?OpenDocument)
+  - Download URL:
+- Czech Republic
+  - Institution:
+  - Source URL: [http://www.szif.cz/irj/portal/anonymous/spd](http://www.szif.cz/irj/portal/anonymous/spd)
+  - Download URL:
+- Germany
+  - Institution:
+  - Source URL: [http://www.agrar-fischerei-zahlungen.de/](http://www.agrar-fischerei-zahlungen.de/)
+  - Download URL:
+- Denmark
+  - Institution:
+  - Source URL: [http://naertest.fvm.moc.net/tilskud-selvbetjening/soeg-i-registre/modtagere-af-eu-stoette/](http://naertest.fvm.moc.net/tilskud-selvbetjening/soeg-i-registre/modtagere-af-eu-stoette/)
+  - Download URL:
+- Estonia
+  - Institution:
+  - Source URL: [http://www.pria.ee/toetused/toetusesaajad](http://www.pria.ee/toetused/toetusesaajad)
+  - Download URL:
+- Spain
+  - Institution:
+  - Source URL: [http://www.fega.es/PwfGcp/es/accesos_directos/consulta_de_beneficiarios_de_ayudas_de_la_pac/index.jsp](http://www.fega.es/PwfGcp/es/accesos_directos/consulta_de_beneficiarios_de_ayudas_de_la_pac/index.jsp)
+  - Download URL:
+- Finland
+  - Institution:
+  - Source URL: [http://www.mavi.fi/en/about-the-agency/Pages/EU-support-information-search-service.aspx](http://www.mavi.fi/en/about-the-agency/Pages/EU-support-information-search-service.aspx)
+  - Download URL:
+- France
+  - Institution: Ministry of Agriculture, Agrifood, and Forestry
+  - Source URL: [http://agriculture.gouv.fr/les-beneficiaires-des-aides-de-la](http://agriculture.gouv.fr/les-beneficiaires-des-aides-de-la)
+  - Download URL:
+- United Kingdom
+  - Institution:
+  - Source URL: [http://cap-payments.defra.gov.uk/](http://cap-payments.defra.gov.uk/)
+  - Download URL:
+- Greece
+  - Institution: Ministry of Rural Development and Food
+  - Source URL: [http://asp.dikaiomata.gr:7780/portal/page/portal/OPEKEPE1/Dimosiopoihsh](http://asp.dikaiomata.gr:7780/portal/page/portal/OPEKEPE1/Dimosiopoihsh)
+  - Download URL:
+- Hungary
+  - Institution:
+  - Source URL: [http://www.mvh.gov.hu/portal/MVHPortal/default/kozerdekmenu/kozerdeku_adatok/tevekenysegi_adatok/kozzeteteli_listak/Z20080910001](http://www.mvh.gov.hu/portal/MVHPortal/default/kozerdekmenu/kozerdeku_adatok/tevekenysegi_adatok/kozzeteteli_listak/Z20080910001)
+  - Download URL:
+- Ireland
+  - Institution:
+  - Source URL: [http://www.agriculture.gov.ie/agri-foodindustry/euinternationalpolicy/commonagriculturalpolicycap/capbeneficiariesdatabase/paymentsdatabase/cap_ben_master.jsp](http://www.agriculture.gov.ie/agri-foodindustry/euinternationalpolicy/commonagriculturalpolicycap/capbeneficiariesdatabase/paymentsdatabase/cap_ben_master.jsp)
+  - Download URL:
+- Italy
+  - Institution:
+  - Source URL: [http://www.agea.gov.it/portal/page/portal/AGEAPageGroup/HomeAGEA/AreaCons/Reg.%20(CE)%20259%202008%20e%20succ.%20mod.](http://www.agea.gov.it/portal/page/portal/AGEAPageGroup/HomeAGEA/AreaCons/Reg.%20(CE)%20259%202008%20e%20succ.%20mod.)
+  - Download URL:
+- Lithuania
+  - Institution:
+  - Source URL: [https://portal.nma.lt/nma-portal/pages/fas_search](https://portal.nma.lt/nma-portal/pages/fas_search)
+  - Download URL:
+- Luxembourg
+  - Institution:
+  - Source URL: [http://saturn.etat.lu/mafea/index.do](http://saturn.etat.lu/mafea/index.do)
+  - Download URL:
+- Latvia
+  - Institution:
+  - Source URL: [https://eps.lad.gov.lv/payment_recipients/index](https://eps.lad.gov.lv/payment_recipients/index)
+  - Download URL:
+- Malta
+  - Institution:
+  - Source URL: [https://secure2.gov.mt/MRRA-PA/payments?l=1](https://secure2.gov.mt/MRRA-PA/payments?l=1)
+  - Download URL:
+- The Netherlands
+  - Institution:
+  - Source URL: [https://mijn.rvo.nl/openbaarmaking-europese-subsidiegegevens](https://mijn.rvo.nl/openbaarmaking-europese-subsidiegegevens)
+  - Download URL:
+- Poland
+  - Institution:
+  - Source URL: [http://beneficjenciwpr.minrol.gov.pl/](http://beneficjenciwpr.minrol.gov.pl/)
+  - Download URL: [http://beneficjenciwpr.minrol.gov.pl/filenames](http://beneficjenciwpr.minrol.gov.pl/filenames)
+- Portugal
+  - Institution:
+  - Source URL: [http://www.ifap.min-agricultura.pt/portal/page/portal/ifap_publico/GC_pagamentos](http://www.ifap.min-agricultura.pt/portal/page/portal/ifap_publico/GC_pagamentos)
+  - Download URL:
+- Romania
+  - Institution:
+  - Source URL: [http://portal.apdrp.ro/informatii_Institutionale_organism_coordonator_beneficiari_plati_fega_si_feadr](http://portal.apdrp.ro/informatii_Institutionale_organism_coordonator_beneficiari_plati_fega_si_feadr)
+  - Download URL:
+- Sweden
+  - Institution:
+  - Source URL: [http://www.jordbruksverket.se/etjanster/etjanster/sokmottagareavstod.4.3f1d6bc122e5d59ab980003664.html](http://www.jordbruksverket.se/etjanster/etjanster/sokmottagareavstod.4.3f1d6bc122e5d59ab980003664.html)
+  - Download URL:
+- Slovenia
+  - Institution:
+  - Source URL: [http://www.arsktrp.gov.si/si/o_agenciji/informacije_javnega_znacaja/prejemniki_sredstev/](http://www.arsktrp.gov.si/si/o_agenciji/informacije_javnega_znacaja/prejemniki_sredstev/)
+  - Download URL:
+- Slovakia
+  - Institution:
+  - Source URL: [http://www.apa.sk/index.php?navID=202](http://www.apa.sk/index.php?navID=202)
+  - Download URL:
