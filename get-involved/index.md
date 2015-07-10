@@ -3,6 +3,8 @@ lead: true
 title: Get Involved
 authors:
 - Anders Pedersen
+redirect_from:
+  - /contribute/
 ---
 
 Glad to see you here! Working with the OpenSpending community is the

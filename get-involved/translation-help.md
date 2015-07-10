@@ -4,6 +4,8 @@ lead: true
 title: Translation help
 authors:
 - Anders Pedersen
+redirect_from:
+  - /contribute/translation-help/
 ---
 
 The OpenSpending community cares strongly about making the

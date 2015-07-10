@@ -4,6 +4,8 @@ lead: true
 title: Data Team
 authors:
 - Rufus Pollock
+redirect_from:
+  - /contribute/data/
 ---
 
 Have you got data you want to load? Or do you like sharing your skills

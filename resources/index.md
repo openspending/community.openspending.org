@@ -1,6 +1,8 @@
 ---
 title: Resources on Financial Data
 lead: true
+redirect_from:
+  - /research/
 ---
 
 ## Community Resources

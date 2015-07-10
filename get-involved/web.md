@@ -4,6 +4,8 @@ lead: true
 title: Web and News Team
 authors:
 - Rufus Pollock
+redirect_from:
+  - /contribute/web/
 ---
 
 Every day, government spending makes headlines. At OpenSpending, we

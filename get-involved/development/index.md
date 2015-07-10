@@ -4,6 +4,8 @@ lead: true
 title: Development
 authors:
 - Neil Ashton
+redirect_from:
+  - /help/development/
 ---
 You can become a part of the community of volunteers that builds and runs OpenSpending. These documents tell you how.
 
