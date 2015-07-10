@@ -93,8 +93,6 @@ The European Union has now entered into a new budget framework for 2014-2020. Th
 
 ## Table of Contents
 
-- [Acronyms](./acronyms/)
-- [Glossary](./glossary/)
 - [The EU Budget at a Glance](./overview/)
 - [How is the EU Budget Set Up?](./budget/)
 - [Where Does the Money Come From?](./revenue/)
@@ -106,6 +104,8 @@ The European Union has now entered into a new budget framework for 2014-2020. Th
 - [Annex - The Open Data Audit of EU Funds](./datasets/)
 - [Annex - Legal Basis for the Establishment of the EU budget](./legal-basis/)
 - [References](./references/)
+- [Acronyms](./acronyms/)
+- [Glossary](./glossary/)
 
 ## Download the PDF version
 
