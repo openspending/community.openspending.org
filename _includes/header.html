@@ -14,17 +14,17 @@
     <li {% if page.url contains 'get-involved' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/get-involved/">Get Involved</a>
       <ul>
-        <li>
+        <li {% if url_last == 'next' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/next/">OpenSpending Next</a>
           <ul>
             <li {% if page.url contains 'roadmap' %}class="Selected"{% endif %}>
               <a href="{{ site.baseurl }}/next/roadmap/">Roadmap</a>
               <ul>
-                {% for page in site.pages %}
-                {% if page.section == 'next' %}
-                {% if page.type == 'spec' %}
-                <li>
-                  <a href="{{ page.url }}">{{ page.title }}</a>
+                {% for pg in site.pages %}
+                {% if pg.section == 'next' %}
+                {% if pg.type == 'spec' %}
+                <li {% if page.url == pg.url %}class="Selected"{% endif %}>
+                  <a href="{{ pg.url }}">{{ pg.title }}</a>
                 </li>
                 {% endif %}
                 {% endif %}
@@ -40,7 +40,7 @@
             <li>
               <a target="_blank" href="https://discuss.okfn.org/t/tech-hangout-june-2015/357">Tech Hangouts</a>
             </li>
-            <li {% if page.url contains 'next' %}class="Selected"{% endif %}>
+            <li {% if url_last == 'presentation' %}class="Selected"{% endif %}>
               <a href="{{ site.baseurl }}/next/presentation/">Presentation</a>
             </li>
           </ul>
