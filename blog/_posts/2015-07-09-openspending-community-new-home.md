@@ -4,6 +4,8 @@ authors:
 - Dan Fowler
 ---
 
+![Hello](/img/blog/2015/07/migration.png)
+
 Welcome to the new OpenSpending Community site!  This site is now
 built using [Jekyll](http://jekyllrb.com/) and hosted on
 [GitHub Pages](https://pages.github.com/).  What does this mean for
@@ -25,16 +27,12 @@ to migrate to GitHub Pages because it gives us the best mix of:
 - Auditable / moderatable
 - Configurability and themability
 
-While we recognize that not everyone is comfortable with the outward
-"geekiness" of git and [GitHub](https://github.com), we hope you'll
-agree that it's quite understandable once you get the hang of it.
-
 In the process of migrating this site, we also reorganized some of its
 content, so please let us know if something is broken or not where it
 is supposed to be by creating an issue on the GitHub
 [repository](https://github.com/openspending/dotorg/issues/) that hosts this
 site.
 
-Contributions are, of course, encouraged.  Guidelines for contributing
-content to the site are available
+Contributing is easy and, of course, highly encouraged!  Guidelines
+for contributing content to the site are available
 [here](http://community.openspending.org/meta/contribute/).
