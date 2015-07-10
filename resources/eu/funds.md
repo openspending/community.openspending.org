@@ -70,7 +70,7 @@ The Cohesion Fund (CF)
 </tr>
 <tr class="odd">
 <td align="left"><p>Website</p></td>
-<td align="left"><p><a href="http://www.google.com/url?q=http%3A%2F%2Fec.europa.eu%2Fregional_policy%2Fen%2Ffunding%2Fcohesion-fund%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEgETvDTaMF2PdIsBX4sNYQ68Shcw">http://ec.europa.eu/regional_policy/en/funding/cohesion-fund/</a></p></td>
+<td align="left"><p><a href="http://ec.europa.eu/regional_policy/en/funding/cohesion-fund/">http://ec.europa.eu/regional_policy/en/funding/cohesion-fund/</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -119,7 +119,7 @@ The European Agricultural Fund for Rural Development (EAFRD)
 </tr>
 <tr class="odd">
 <td align="left"><p>Website</p></td>
-<td align="left"><p><a href="http://www.google.com/url?q=http%3A%2F%2Fec.europa.eu%2Fagriculture%2Fcap-funding%2Findex_en.htm&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHjpAxMmKUfPl4Sq-ss3GEJiRfyHw">http://ec.europa.eu/agriculture/cap-funding/index_en.htm</a></p></td>
+<td align="left"><p><a href="http://ec.europa.eu/agriculture/cap-funding/index_en.htm">http://ec.europa.eu/agriculture/cap-funding/index_en.htm</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -170,7 +170,7 @@ The European Maritime and Fisheries Fund (EMFF)
 </tr>
 <tr class="odd">
 <td align="left"><p>Website</p></td>
-<td align="left"><p><a href="http://www.google.com/url?q=http%3A%2F%2Fec.europa.eu%2Ffisheries%2Fcfp%2Femff%2Findex_en.htm&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF-06Kb8QI47cnCwh7gH4ik-JmoXA">http://ec.europa.eu/fisheries/cfp/emff/index_en.htm</a></p></td>
+<td align="left"><p><a href="http://ec.europa.eu/fisheries/cfp/emff/index_en.htm">http://ec.europa.eu/fisheries/cfp/emff/index_en.htm</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -219,7 +219,7 @@ The European Regional Development Fund (ERDF)
 </tr>
 <tr class="odd">
 <td align="left"><p>Website</p></td>
-<td align="left"><p><a href="http://www.google.com/url?q=http%3A%2F%2Fec.europa.eu%2Fregional_policy%2Fen%2Ffunding%2Ferdf%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHK0H2lwmOYvrJGuHVALuPMzjEE-g">http://ec.europa.eu/regional_policy/en/funding/erdf/</a> </p></td>
+<td align="left"><p><a href="http://ec.europa.eu/regional_policy/en/funding/erdf/">http://ec.europa.eu/regional_policy/en/funding/erdf/</a> </p></td>
 </tr>
 </tbody>
 </table>
@@ -276,7 +276,7 @@ The European Social Fund (ESF)
 </tr>
 <tr class="odd">
 <td align="left"><p>Website</p></td>
-<td align="left"><p><a href="http://www.google.com/url?q=http%3A%2F%2Fec.europa.eu%2Fesf%2Fhome.jsp%3FlangId%3Den&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHhuowUHHohNUaHr03iGu0vnC0XNg">http://ec.europa.eu/esf/home.jsp?langId=en</a></p></td>
+<td align="left"><p><a href="http://ec.europa.eu/esf/home.jsp?langId=en">http://ec.europa.eu/esf/home.jsp?langId=en</a></p></td>
 </tr>
 </tbody>
 </table>
