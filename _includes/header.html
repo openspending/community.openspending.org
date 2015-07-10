@@ -11,7 +11,7 @@
     <li>
       <a href="{{ site.baseurl }}/">Home</a>
     </li>
-    <li>
+    <li {% if page.url contains 'get-involved' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/get-involved/">Get Involved</a>
       <ul>
         <li>
@@ -46,7 +46,7 @@
           </ul>
         </li>
 
-        <li>
+        <li {% if url_last == 'events' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/events/">Events</a>
           <ul>
             <li {% if url_last == 'hangouts' %}class="Selected"{% endif %}>
@@ -78,7 +78,7 @@
         </li>
       </ul>
     </li>
-    <li>
+    <li {% if url_last == 'help' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/help/">Help &amp; Guides</a>
       <ul>
         <li {% if url_last == 'en' %}class="Selected"{% endif %}>
@@ -101,7 +101,7 @@
         </li>
       </ul>
     </li>
-    <li>
+    <li {% if url_last == 'resources' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/resources/">Resources</a>
       <ul>
         <li {% if url_last == 'eu' %}class="Selected"{% endif %}>
@@ -166,7 +166,7 @@
         </li>
       </ul>
     </li>
-    <li>
+    <li {% if url_last == 'meta' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/meta/">Meta</a>
       <ul>
         <li {% if url_last == 'changes' %}class="Selected"{% endif %}>
@@ -177,12 +177,9 @@
         </li>
       </ul>
     </li>
-    <li>
+    <li {% if url_last == 'about' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/about/">About</a>
       <ul>
-        <li {% if url_last == 'about' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/about/">About OpenSpending</a>
-        </li>
         <li {% if url_last == 'community-site' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/about/community-site/">About this site</a>
         </li>
@@ -206,7 +203,7 @@
         </li>
       </ul>
     </li>
-    <li>
+    <li {% if url_last == 'blog' %}class="Selected"{% endif %}>
       <a href="/blog/">Blog</a>
     </li>
     <li>
