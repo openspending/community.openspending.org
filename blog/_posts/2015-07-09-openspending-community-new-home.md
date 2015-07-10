@@ -4,7 +4,7 @@ authors:
 - Dan Fowler
 ---
 
-![Hello](/img/blog/2015/07/migration.png)
+![Migration](/img/blog/2015/07/migration.png)
 
 Welcome to the new OpenSpending Community site!  This site is now
 built using [Jekyll](http://jekyllrb.com/) and hosted on
