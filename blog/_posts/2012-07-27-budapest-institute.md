@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/07/budapest-institute/
 title: Athens to Berlin - PROFILE - Our Money, the Budapest Institute
 published: true
 type: post

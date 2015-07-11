@@ -1,6 +1,7 @@
 ---
 authors:
 - anders
+redirect_from: /2013/06/next-community-hangout/
 title: Next Community Hangout 3 July
 published: true
 type: post

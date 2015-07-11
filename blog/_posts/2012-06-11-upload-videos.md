@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/06/upload-videos/
 title: Video Instruction Guide - Loading Data Into OpenSpending
 published: true
 type: post

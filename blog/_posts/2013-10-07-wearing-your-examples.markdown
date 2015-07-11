@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/10/wearing-your-examples/
 title: Wearing your examples
 authors:
 - Tryggvi Björgvinsson

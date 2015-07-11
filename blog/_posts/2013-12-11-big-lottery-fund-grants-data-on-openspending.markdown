@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/12/big-lottery-fund-grants-data-on-openspending/
 title: Big Lottery Fund Grants Data on OpenSpending
 authors:
 - Rufus Pollock

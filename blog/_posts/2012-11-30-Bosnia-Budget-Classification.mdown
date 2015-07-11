@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/11/Bosnia-Budget-Classification/
 title: Bosnian Budgets - grouping data by categories people care about
 published: true
 type: post

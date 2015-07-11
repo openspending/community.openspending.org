@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/11/handbook-spring-day-1/
 title: Spending Data Handbook Sprint - Day 1
 published: true
 type: post

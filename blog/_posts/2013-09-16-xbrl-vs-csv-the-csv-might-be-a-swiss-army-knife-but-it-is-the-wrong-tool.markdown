@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/xbrl-vs-csv-the-csv-might-be-a-swiss-army-knife-but-it-is-the-wrong-tool/
 title: 'XBRL vs. CSV: The CSV might be a Swiss army knife, but it is the wrong tool'
 authors:
 - Anders Pedersen

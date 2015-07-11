@@ -2,6 +2,7 @@
 layout: post
 authors:
 - lucy
+redirect_from: /2012/03/participatory-budgeting-and-technology/
 title: Participatory Budgeting and Technology
 published: true
 meta: 

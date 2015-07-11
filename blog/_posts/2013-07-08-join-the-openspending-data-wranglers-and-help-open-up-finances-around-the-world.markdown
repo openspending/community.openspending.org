@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/07/join-the-openspending-data-wranglers-and-help-open-up-finances-around-the-world/
 title: Join the OpenSpending data wranglers and help open up finances around the world!
 authors:
 - Anders Pedersen

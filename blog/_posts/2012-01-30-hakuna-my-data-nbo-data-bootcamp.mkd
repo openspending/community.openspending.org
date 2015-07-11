@@ -1,6 +1,7 @@
 --- 
 authors:
 - friedrich
+redirect_from: /2012/01/hakuna-my-data-nbo-data-bootcamp/
 title: "Hakuna My Data: NBO Data Bootcamp"
 published: true
 meta: 

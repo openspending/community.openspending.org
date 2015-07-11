@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/07/Greece-2/
 title: Athens to Berlin - Chicken or the Egg? Days 2-4 (Athens and Thessaloniki)
 published: true
 type: post

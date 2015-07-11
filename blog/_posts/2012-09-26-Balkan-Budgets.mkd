@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/09/Balkan-Budgets/
 title: Balkan Budget Bubbles
 published: true
 type: post

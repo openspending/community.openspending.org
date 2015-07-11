@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/09/Spending-Data-Handbook/
 title: Spending Data Handbook - How do Civil Society Organisations Wrangle Spending Data? 
 published: true
 type: post

@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/07/predicting-city-bankruptcies-with-open-data-the-case-of-detroit/
 title: 'Predicting city bankruptcies with open data: The case of Detroit'
 authors:
 - Anders Pedersen

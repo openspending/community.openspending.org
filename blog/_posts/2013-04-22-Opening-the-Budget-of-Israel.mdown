@@ -1,6 +1,7 @@
 ---
 authors:
 - anders
+redirect_from: /2013/04/Opening-the-Budget-of-Israel/
 title: Opening Israel's Budget
 published: true
 type: post

@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/11/northern-mariana-islands-retirement-fund-bankruptcy/
 title: Northern Mariana Islands Retirement Fund Bankruptcy
 authors:
 - Rufus Pollock

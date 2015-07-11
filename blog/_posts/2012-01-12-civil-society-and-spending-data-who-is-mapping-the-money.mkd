@@ -2,6 +2,7 @@
 layout: post
 authors:
 - lucy
+redirect_from: /2012/01/civil-society-and-spending-data-who-is-mapping-the-money/
 title: "Civil Society and Spending Data: Who is mapping the money?"
 published: true
 meta: 

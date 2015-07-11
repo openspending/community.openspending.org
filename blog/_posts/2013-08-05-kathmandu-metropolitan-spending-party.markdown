@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/kathmandu-metropolitan-spending-party/
 title: Kathmandu Metropolitan Spending Party
 authors:
 - Prakash Neupane

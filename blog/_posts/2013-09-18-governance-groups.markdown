@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/governance-groups/
 title: Announcing the OpenSpending Steering Group
 authors:
 - Anders Pedersen

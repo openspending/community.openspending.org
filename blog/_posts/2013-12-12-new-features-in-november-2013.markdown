@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/12/new-features-in-november-2013/
 title: New Features in November 2013
 authors:
 - Tryggvi Björgvinsson

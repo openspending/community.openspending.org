@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/06/french-press-aid/
 title: Making sense of French press aid
 published: true
 type: post

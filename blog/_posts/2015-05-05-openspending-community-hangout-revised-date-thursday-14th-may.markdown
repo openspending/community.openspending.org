@@ -1,4 +1,5 @@
 ---
+redirect_from: /2015/05/openspending-community-hangout-revised-date-thursday-14th-may/
 title: 'OpenSpending Community Hangout: Revised Date - Thursday 14th May'
 authors:
 - Meg Foulkes

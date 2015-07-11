@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/features-in-july-and-august-2013/
 title: Features in July and August 2013
 authors:
 - Tryggvi Björgvinsson

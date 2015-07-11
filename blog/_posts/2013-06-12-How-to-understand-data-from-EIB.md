@@ -1,6 +1,7 @@
 ---
 authors:
 - anders
+redirect_from: /2013/06/How-to-understand-data-from-EIB/
 title: How to understand data from the EIB - what does the data tell us?
 published: false
 type: post

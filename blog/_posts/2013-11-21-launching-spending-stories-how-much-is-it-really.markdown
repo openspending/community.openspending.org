@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/11/launching-spending-stories-how-much-is-it-really/
 title: 'Launching Spending Stories: How much is it really?'
 authors:
 - Neil Ashton

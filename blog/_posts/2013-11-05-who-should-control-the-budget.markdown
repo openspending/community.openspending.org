@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/11/who-should-control-the-budget/
 title: Who should control the budget?
 authors:
 - tarikn

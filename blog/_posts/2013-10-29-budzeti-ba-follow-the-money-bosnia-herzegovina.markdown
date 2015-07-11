@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/10/budzeti-ba-follow-the-money-bosnia-herzegovina/
 title: 'budzeti.ba: following the money in Bosnia and Herzegovina'
 authors:
 - Neil Ashton

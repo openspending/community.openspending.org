@@ -1,6 +1,7 @@
 --- 
 authors:
 - friedrich
+redirect_from: /2011/11/openspending-v0-11-released/
 title: OpenSpending v0.11 Released
 published: true
 meta: 

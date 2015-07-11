@@ -1,6 +1,7 @@
 --- 
 authors:
 - friedrich
+redirect_from: /2012/01/updates-from-the-openspending-dev-team/
 title: Updates from the OpenSpending Dev Team
 published: true
 meta: 

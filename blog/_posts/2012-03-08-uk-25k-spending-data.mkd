@@ -1,5 +1,6 @@
 --- 
 author: $authornamehere
+redirect_from: /2012/03/uk-25k-spending-data/
 title: UK 25k Spending Data
 published: false
 meta: 

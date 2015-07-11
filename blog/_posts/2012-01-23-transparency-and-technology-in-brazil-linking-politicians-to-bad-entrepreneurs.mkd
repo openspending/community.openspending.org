@@ -2,6 +2,7 @@
 layout: post
 authors:
 - fabiano
+redirect_from: /2012/01/transparency-and-technology-in-brazil-linking-politicians-to-bad-entrepreneurs/
 title: "Transparency and technology in Brazil: linking politicians to bad entrepreneurs"
 published: true
 meta: 

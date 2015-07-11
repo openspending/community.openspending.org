@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/07/where-does-my-money-go-activities-have-become-infectious-in-japan/
 title: "“Where Does My Money Go?” activities have become infectious in Japan"
 authors:
 - Hiroichi Kawashima

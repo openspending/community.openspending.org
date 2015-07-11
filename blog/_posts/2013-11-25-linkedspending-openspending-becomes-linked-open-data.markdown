@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/11/linkedspending-openspending-becomes-linked-open-data/
 title: 'LinkedSpending: OpenSpending becomes Linked Open Data'
 authors:
 - Anders Pedersen

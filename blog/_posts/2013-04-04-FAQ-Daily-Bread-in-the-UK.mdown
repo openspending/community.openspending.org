@@ -1,5 +1,6 @@
 ---
 author: $authornamehere
+redirect_from: /2013/04/FAQ-Daily-Bread-in-the-UK/
 title: FAQ - The Daily Bread in the UK
 published: true
 type: post

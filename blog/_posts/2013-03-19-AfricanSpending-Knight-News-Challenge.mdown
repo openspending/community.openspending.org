@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2013/03/AfricanSpending-Knight-News-Challenge/
 title: AfricanSpending - Knight News Challenge with Open Institute and African Media Initiative
 published: true
 type: post

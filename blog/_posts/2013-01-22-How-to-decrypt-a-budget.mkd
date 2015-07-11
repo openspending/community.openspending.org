@@ -1,6 +1,7 @@
 ---
 authors:
 - lisa
+redirect_from: /2013/01/How-to-decrypt-a-budget/
 title: How to decrypt a budget?
 published: true
 type: post

@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/05/Introducing-the-Progress-Page/
 title: Introducing the Progress page
 published: true
 type: post

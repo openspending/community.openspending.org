@@ -1,6 +1,7 @@
 ---
 authors:
 - nick
+redirect_from: /2012/08/introduction-to-the-taxman/
 title: An introduction to the TaxMan
 published: true
 type: post

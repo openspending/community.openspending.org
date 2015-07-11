@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/07/Romania/
 title: Athens to Berlin - Romania's Money Mappers.
 published: true
 type: post

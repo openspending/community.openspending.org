@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/11/Sarajevo-Workshop-Writeup-2/
 title: Day 2 OpenSpending CSO Workshop - Sarajevo
 published: true
 type: post

@@ -1,6 +1,7 @@
 ---
 authors:
 - anders
+redirect_from: /2013/02/Join-hangout-on-the-EU-budget/
 title: How to find spending data inside EU's budget - join us for a Google Hangout!
 published: true
 type: post

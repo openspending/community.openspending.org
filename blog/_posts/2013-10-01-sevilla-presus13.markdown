@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/10/sevilla-presus13/
 title: 'Sevilla Presus: Data-driven journalism at municipal level'
 authors:
 - J. Félix Ontañón

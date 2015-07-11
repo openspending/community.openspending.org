@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/okfb-inesc/
 title: Visualizing How the Brazilian Government Underspends on the Public Good
 authors:
 - Vítor Baptista

@@ -1,6 +1,7 @@
 --- 
 authors:
 - lucy
+redirect_from: /2011/11/openspending-visualisations-featured-in-the-guardian/
 title: OpenSpending visualisations featured in the Guardian
 published: true
 meta: 

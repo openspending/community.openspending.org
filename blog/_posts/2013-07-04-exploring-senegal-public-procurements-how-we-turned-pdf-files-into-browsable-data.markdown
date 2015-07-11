@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/07/exploring-senegal-public-procurements-how-we-turned-pdf-files-into-browsable-data/
 title: 'Exploring Senegal Public Procurements : how we turned PDF files into browsable
   data ?'
 authors:

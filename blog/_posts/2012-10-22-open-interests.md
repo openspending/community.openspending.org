@@ -1,6 +1,7 @@
 ---
 authors:
 - friedrich
+redirect_from: /2012/10/open-interests/
 title: Open Interests Hackathon - November 24-25, London, England
 published: true
 type: post

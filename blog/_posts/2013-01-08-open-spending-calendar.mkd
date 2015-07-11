@@ -1,6 +1,7 @@
 ---
 authors:
 - lisa
+redirect_from: /2013/01/open-spending-calendar/
 title: An Open Call for Ideas - How Would You Use OpenSpending's Data Calendar?  
 published: true
 type: post

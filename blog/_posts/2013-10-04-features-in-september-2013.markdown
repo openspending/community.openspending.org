@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/10/features-in-september-2013/
 title: Features in September 2013
 authors:
 - Tryggvi Björgvinsson

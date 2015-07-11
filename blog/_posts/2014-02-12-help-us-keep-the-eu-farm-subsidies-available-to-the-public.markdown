@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/02/help-us-keep-the-eu-farm-subsidies-available-to-the-public/
 title: Help us keep the EU farm subsidies open and accessible
 authors:
 - Anders Pedersen

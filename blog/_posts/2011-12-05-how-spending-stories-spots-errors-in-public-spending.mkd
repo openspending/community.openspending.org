@@ -2,6 +2,7 @@
 layout: post
 authors:
 - martin
+redirect_from: /2011/12/how-spending-stories-spots-errors-in-public-spending/
 title: How Spending Stories Spots Errors in Public Spending
 published: true
 meta: 

@@ -1,6 +1,7 @@
 --- 
 authors:
 - lucy
+redirect_from: /2012/01/open-bookkeeping-what-role-can-accountants-play-in-open-spending-budget-projects/
 title: "Open Bookkeeping: What role can accountants play in Open Spending & Budget Projects?"
 published: true
 meta: 

@@ -1,5 +1,6 @@
 --- 
 author: $authornamehere
+redirect_from: /2012/03/calculating-portugal's-taxes/
 title: Calculating Portugal's taxes
 published: false
 meta: 

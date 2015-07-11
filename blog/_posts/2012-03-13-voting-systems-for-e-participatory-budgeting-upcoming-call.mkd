@@ -1,6 +1,7 @@
 --- 
 authors:
 - lucy
+redirect_from: /2012/03/voting-systems-for-e-participatory-budgeting-upcoming-call/
 title: Voting Systems for E-Participatory Budgeting - Upcoming Call
 published: true
 meta: 

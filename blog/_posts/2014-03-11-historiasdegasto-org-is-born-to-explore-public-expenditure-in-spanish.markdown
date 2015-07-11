@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/03/historiasdegasto-org-is-born-to-explore-public-expenditure-in-spanish/
 title: historiasdegasto.org is born to explore public expenditure in Spanish
 authors:
 - Concha Catalan

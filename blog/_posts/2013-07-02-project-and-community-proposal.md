@@ -1,6 +1,7 @@
 ---
 authors:
 - anders
+redirect_from: /2013/07/project-and-community-proposal/
 title: Supporting growth of the OS project and community - a proposal
 published: true
 type: post

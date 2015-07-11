@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/lagos-city-spending-party/
 title: Lagos City Spending Party
 authors:
 - Oluseun Onigbinde

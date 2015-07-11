@@ -2,6 +2,7 @@
 layout: post
 authors:
 - lucy
+redirect_from: /2012/02/open-meeting-software-for-participatory-budgeting/
 title: "Open Meeting: Software for Participatory Budgeting"
 published: true
 meta: 

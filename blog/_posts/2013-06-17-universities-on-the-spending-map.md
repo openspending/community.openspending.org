@@ -1,6 +1,7 @@
 ---
 authors:
 - anders
+redirect_from: /2013/06/universities-on-the-spending-map/
 title: Budget transparency for an open university
 published: true
 type: post

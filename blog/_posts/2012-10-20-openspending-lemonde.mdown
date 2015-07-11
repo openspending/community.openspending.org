@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/10/openspending-lemonde/
 title: OpenSpending visualisations featured in Le Monde 
 published: true
 type: post

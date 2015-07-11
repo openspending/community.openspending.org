@@ -1,6 +1,7 @@
 --- 
 authors:
 - lucy
+redirect_from: /2012/05/GIFT-report-released/
 title: Technology for Transparent and Accountable Public Finance
 published: true
 type: post

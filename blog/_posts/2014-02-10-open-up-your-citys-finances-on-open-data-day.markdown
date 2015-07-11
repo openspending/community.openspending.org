@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/02/open-up-your-citys-finances-on-open-data-day/
 title: Open up your city's finances on Open Data Day!
 authors:
 - Anders Pedersen

@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/01/mapping-the-open-spending-data-community/
 title: Mapping the Open Spending Data Community
 authors:
 - Neil Ashton

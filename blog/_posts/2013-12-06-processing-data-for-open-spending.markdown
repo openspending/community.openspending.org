@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/12/processing-data-for-open-spending/
 title: Processing data for Open Spending
 authors:
 - Olaf Veerman

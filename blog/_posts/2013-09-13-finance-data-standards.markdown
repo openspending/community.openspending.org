@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/finance-data-standards/
 title: What public finance can learn from public transit about data standards
 authors:
 - Friedrich Lindenberg

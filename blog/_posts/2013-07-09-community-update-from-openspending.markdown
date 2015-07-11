@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/07/community-update-from-openspending/
 title: Community update
 authors:
 - Anders Pedersen

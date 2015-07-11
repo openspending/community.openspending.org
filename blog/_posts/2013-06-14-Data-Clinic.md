@@ -1,6 +1,7 @@
 ---
 authors:
 - anders
+redirect_from: /2013/06/Data-Clinic/
 title: Next Data Clinic 19 June
 published: true
 type: post

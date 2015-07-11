@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/12/Jobs-OS/
 title: We're hiring!
 published: true
 type: post

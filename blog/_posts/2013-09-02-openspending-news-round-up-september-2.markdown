@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/openspending-news-round-up-september-2/
 title: OpenSpending News Round-up, September 2
 authors:
 - Teodora Beleaga

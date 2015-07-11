@@ -1,6 +1,7 @@
 ---
 authors:
 - lisa
+redirect_from: /2013/03/spending-stories-open-spending-are-moving-beyond-visualizations/
 title: Spending Stories, Open Spending Are Moving Beyond Visualizations
 published: true
 type: post

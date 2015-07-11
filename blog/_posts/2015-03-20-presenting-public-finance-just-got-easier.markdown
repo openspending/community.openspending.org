@@ -1,4 +1,5 @@
 ---
+redirect_from: /2015/03/presenting-public-finance-just-got-easier/
 title: Presenting public finance just got easier
 authors:
 - Tryggvi Björgvinsson

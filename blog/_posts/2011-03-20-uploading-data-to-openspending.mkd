@@ -2,6 +2,7 @@
 layout: post
 authors:
 - lucy
+redirect_from: /2011/03/uploading-data-to-openspending/
 title: Uploading Data to OpenSpending
 published: true
 meta: 

@@ -1,6 +1,7 @@
 --- 
 authors:
 - lucy
+redirect_from: /2012/03/technology-for-fiscal-transparency-where-next/
 title: Technology for Fiscal Transparency, Where Next?
 published: true
 type: post

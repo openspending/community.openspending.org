@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/07/city-spending-party-around-the-world/
 title: City Spending Party around the world
 authors:
 - Anders Pedersen

@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/12/help-us-map-the-spending-projects/
 title: Help map spending projects around world!
 authors:
 - Anders Pedersen

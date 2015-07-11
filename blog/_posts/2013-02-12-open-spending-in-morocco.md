@@ -1,6 +1,7 @@
 ---
 authors:
 - martin
+redirect_from: /2013/02/open-spending-in-morocco/
 title: Opening Budgets in Morocco
 published: true
 type: post

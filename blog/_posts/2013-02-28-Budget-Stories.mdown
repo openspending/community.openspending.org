@@ -1,6 +1,7 @@
 ---
 authors:
 - victoria
+redirect_from: /2013/02/Budget-Stories/
 title: Budgetstories.md - using open budget data to create meaningful stories
 published: true
 type: post

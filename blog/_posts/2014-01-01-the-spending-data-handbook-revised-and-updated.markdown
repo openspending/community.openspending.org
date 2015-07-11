@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/01/the-spending-data-handbook-revised-and-updated/
 title: The Spending Data Handbook, revised and updated
 authors:
 - Neil Ashton

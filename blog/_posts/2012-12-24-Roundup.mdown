@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/12/Roundup/
 title: OpenSpending A Year in Review 
 published: true
 type: post

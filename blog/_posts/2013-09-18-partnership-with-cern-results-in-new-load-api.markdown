@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/partnership-with-cern-results-in-new-load-api/
 title: Partnership with CERN results in new Load API
 authors:
 - albertorodriguezpeon

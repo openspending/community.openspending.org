@@ -1,6 +1,7 @@
 --- 
 authors:
 - mark
+redirect_from: /2012/06/IATI-on-OpenSpending/
 title: Aid Data - From XML to Visualisations
 published: true
 type: post

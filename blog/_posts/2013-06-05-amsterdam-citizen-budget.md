@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/06/amsterdam-citizen-budget/
 title: Budget monitoring in an Amsterdam neighborhood
 published: false
 type: post

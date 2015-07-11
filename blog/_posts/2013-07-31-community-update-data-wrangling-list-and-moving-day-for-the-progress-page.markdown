@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/07/community-update-data-wrangling-list-and-moving-day-for-the-progress-page/
 title: 'Community update: Data wrangling list, moving day for our progress page and
   more'
 authors:

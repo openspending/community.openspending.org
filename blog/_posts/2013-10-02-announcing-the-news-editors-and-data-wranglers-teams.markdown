@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/10/announcing-the-news-editors-and-data-wranglers-teams/
 title: Announcing the News Editors' and Data Wranglers' Teams
 authors:
 - Teodora Beleaga

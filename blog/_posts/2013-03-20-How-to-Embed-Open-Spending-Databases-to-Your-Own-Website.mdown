@@ -1,6 +1,7 @@
 ---
 authors:
 - lisa
+redirect_from: /2013/03/How-to-Embed-Open-Spending-Databases-to-Your-Own-Website/
 title: How to Embed Open Spending Databases to Your Own Website
 published: true
 type: post

@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/10/spending-standard/
 title: Upcoming call - Spending Standard
 published: true
 type: post

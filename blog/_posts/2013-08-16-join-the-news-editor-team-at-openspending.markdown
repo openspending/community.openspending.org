@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/join-the-news-editor-team-at-openspending/
 title: Join our News and Website team!
 authors:
 - Anders Pedersen

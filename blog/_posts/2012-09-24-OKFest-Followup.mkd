@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/09/OKFest-Followup/
 title: Where Does the Money Go - International. Updates from OKFestival 
 published: true
 type: post

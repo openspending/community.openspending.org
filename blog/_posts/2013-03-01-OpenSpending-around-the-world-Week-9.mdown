@@ -1,6 +1,7 @@
 ---
 authors:
 - anders
+redirect_from: /2013/03/OpenSpending-around-the-world-Week-9/
 title: OpenSpending around the world, Week 9
 published: true
 type: post

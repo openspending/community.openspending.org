@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/visualizing-data/
 title: Visualizing Data in OpenSpending
 authors:
 - Michael Bauer

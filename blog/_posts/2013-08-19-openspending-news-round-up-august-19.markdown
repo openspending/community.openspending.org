@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/openspending-news-round-up-august-19/
 title: OpenSpending News Round-up, August 19
 authors:
 - Teodora Beleaga

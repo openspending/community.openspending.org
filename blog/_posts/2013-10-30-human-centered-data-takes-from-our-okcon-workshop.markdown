@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/10/human-centered-data-takes-from-our-okcon-workshop/
 title: 'Human Centered data: Takes from workshop at OKCon'
 authors:
 - Anders Pedersen

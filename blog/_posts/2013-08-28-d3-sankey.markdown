@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/d3-sankey/
 title: D3.js Sankey diagrams with the OpenSpending API
 authors:
 - J. Félix Ontañón

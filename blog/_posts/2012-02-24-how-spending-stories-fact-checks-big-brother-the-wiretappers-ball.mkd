@@ -1,6 +1,7 @@
 --- 
 authors:
 - lucy
+redirect_from: /2012/02/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/
 title: How Spending Stories Fact Checks Big Brother, the Wiretappers' Ball
 published: true
 meta: 

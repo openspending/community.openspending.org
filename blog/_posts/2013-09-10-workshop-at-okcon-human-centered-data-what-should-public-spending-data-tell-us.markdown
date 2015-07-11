@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/workshop-at-okcon-human-centered-data-what-should-public-spending-data-tell-us/
 title: 'Workshop at OKCon: Human Centered Data - What Should Public Spending Data
   Tell Us?'
 authors:

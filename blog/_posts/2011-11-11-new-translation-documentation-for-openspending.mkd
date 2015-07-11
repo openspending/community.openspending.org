@@ -1,6 +1,7 @@
 --- 
 authors:
 - lucy
+redirect_from: /2011/11/new-translation-documentation-for-openspending/
 title: New Translation Documentation for OpenSpending
 published: true
 meta: 

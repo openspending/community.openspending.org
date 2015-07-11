@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/10/how-to-create-a-budget-data-package/
 title: How to create a budget data package
 authors:
 - Neil Ashton

@@ -2,6 +2,7 @@
 layout: post
 authors:
 - michal
+redirect_from: /2012/02/the-czech-budget-on-line-the-half-success-story/
 title: "The Czech budget on-line: the half success story"
 published: true
 meta: 

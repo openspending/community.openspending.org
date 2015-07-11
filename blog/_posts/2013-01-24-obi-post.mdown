@@ -1,5 +1,6 @@
 ---
 author: $authornamehere
+redirect_from: /2013/01/obi-post/
 title: The Open Budget Survey is out
 published: false
 type: post

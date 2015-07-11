@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/10/news-editors-and-data-wranglers-hangout-live/
 title: News Editors and Data Wranglers Hangout - Live
 authors:
 - Teodora Beleaga

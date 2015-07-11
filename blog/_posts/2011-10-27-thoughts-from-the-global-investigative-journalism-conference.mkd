@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2011/10/thoughts-from-the-global-investigative-journalism-conference/
 title: Thoughts from the Global Investigative Journalism Conference
 published: true
 meta:

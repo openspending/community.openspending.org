@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/11/new-features-in-october-2013/
 title: New Features in October 2013
 authors:
 - Tryggvi Björgvinsson

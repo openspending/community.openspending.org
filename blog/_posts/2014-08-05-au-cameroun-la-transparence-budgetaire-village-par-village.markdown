@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/08/au-cameroun-la-transparence-budgetaire-village-par-village/
 title: Au Cameroun, la transparence budgétaire, village par village
 authors:
 - pierre chrzanowski

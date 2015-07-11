@@ -1,6 +1,7 @@
 ---
 authors:
 - friedrich
+redirect_from: /2012/11/handbook-draft/
 title: Spending Data Handbook - Draft Version
 published: true
 type: post

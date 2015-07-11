@@ -1,6 +1,7 @@
 --- 
 authors:
 - friedrich
+redirect_from: /2011/03/where-does-my-money-go-goes-international-welcome-to-openspending/
 title: "'Where Does My Money Go?' Goes international. Welcome to OpenSpending."
 published: true
 meta: 

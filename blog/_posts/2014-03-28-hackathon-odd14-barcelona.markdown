@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/03/hackathon-odd14-barcelona/
 title: 'Hackathon #ODD14 Barcelona'
 authors:
 - Concha Catalan

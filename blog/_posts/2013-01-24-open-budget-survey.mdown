@@ -1,6 +1,7 @@
 ---
 authors:
 - anders
+redirect_from: /2013/01/open-budget-survey/
 title: The Open Budget Survey is out
 published: true
 type: post

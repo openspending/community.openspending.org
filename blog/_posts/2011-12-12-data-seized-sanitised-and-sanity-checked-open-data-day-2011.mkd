@@ -2,6 +2,7 @@
 layout: post
 authors:
 - mark
+redirect_from: /2011/12/data-seized-sanitised-and-sanity-checked-open-data-day-2011/
 title: Data = Seized, Sanitised and Sanity-checked. Open Data Day 2011
 published: true
 meta: 

@@ -1,6 +1,7 @@
 --- 
 authors:
 - friedrich
+redirect_from: /2012/02/thekit/
 title: Announcing the Where Does My Money Go? Assembly Kit
 published: true
 meta: 

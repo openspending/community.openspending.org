@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/07/a-specification-for-budget-data-introducing-the-budget-data-package/
 title: 'A specification for Budget Data: Introducing the Budget Data Package'
 authors:
 - Lucy Chambers

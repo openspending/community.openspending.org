@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/05/meet-openspending-version-0-13-0/
 title: Meet OpenSpending version 0.13.0
 authors:
 - Tryggvi Björgvinsson

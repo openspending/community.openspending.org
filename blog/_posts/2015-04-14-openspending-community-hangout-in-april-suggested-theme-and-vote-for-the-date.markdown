@@ -1,4 +1,5 @@
 ---
+redirect_from: /2015/04/openspending-community-hangout-in-april-suggested-theme-and-vote-for-the-date/
 title: 'OpenSpending Community Hangout in April: Suggested Theme and Vote for the
   Date!'
 authors:

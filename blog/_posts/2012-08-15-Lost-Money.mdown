@@ -1,6 +1,7 @@
 ---
 authors:
 - lucy
+redirect_from: /2012/08/Lost-Money/
 title: Athens to Berlin - PROFILE - Bani pierduti? (Lost money?)
 published: true
 type: post

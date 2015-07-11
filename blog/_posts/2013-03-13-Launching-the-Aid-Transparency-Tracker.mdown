@@ -1,6 +1,7 @@
 ---
 authors:
 - mark
+redirect_from: /2013/03/Launching-the-Aid-Transparency-Tracker/
 title: Publish What You Fund Launches Aid Transparency Tracker
 published: true
 type: post

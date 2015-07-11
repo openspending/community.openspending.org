@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/11/budgit-an-app-and-platform-to-track-service-delivery/
 title: 'BudgIT: An App and Platform to track service delivery'
 authors:
 - Oluseun Onigbinde

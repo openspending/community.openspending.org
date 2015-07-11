@@ -1,6 +1,7 @@
 ---
 authors:
 - samuel
+redirect_from: /2013/01/worldbank-guest-post/
 title: Can Open Data and Mobile Technology Eliminate the Need for a "Feedback" Loop? - Reimagining the new World Bank Open Finances app
 published: true
 type: post

@@ -1,6 +1,7 @@
 ---
 authors:
 - tryggvib
+redirect_from: /2013/07/New-Features-in-June-2013/
 title: New Features in June 2013
 published: true
 type: post

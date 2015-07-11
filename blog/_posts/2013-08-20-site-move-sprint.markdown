@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/site-move-sprint/
 title: OpenSpending site move sprint
 authors:
 - Neil Ashton

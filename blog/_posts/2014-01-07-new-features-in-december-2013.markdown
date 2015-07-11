@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/01/new-features-in-december-2013/
 title: New Features in December 2013
 authors:
 - Tryggvi Björgvinsson
