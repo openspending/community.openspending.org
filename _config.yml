@@ -51,6 +51,8 @@ googleanalytics: UA-8271754-63
 
 markdown: kramdown
 
+markdown_ext: "markdown,mkdown,mdown,mkdn,mkd,md"
+
 permalink: pretty
 
 related_projects:
