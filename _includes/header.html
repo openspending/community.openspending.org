@@ -164,6 +164,23 @@
         <li {% if url_last == 'wg' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/wg/">Working Group on Open Spending Data</a>
         </li>
+        <li {% if url_last == 'standard' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/standard/">Spending Data Standard</a>
+          <ul>
+            <li>
+              <a href="{{ site.baseurl }}/resources/standard/technical/">Technical Specification</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/resources/standard/faq/">Frequently Asked Questions</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/resources/standard/related/">Related Initiatives</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/resources/standard/contribute/">Help make this standard</a>
+            </li>
+          </ul>
+        </li>
       </ul>
     </li>
     <li {% if url_last == 'meta' %}class="Selected"{% endif %}>
