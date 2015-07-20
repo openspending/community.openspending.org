@@ -167,16 +167,16 @@
         <li {% if url_last == 'standard' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/standard/">Spending Data Standard</a>
           <ul>
-            <li>
+            <li {% if page.url contains 'standard/technical' %}class="Selected"{% endif %}>
               <a href="{{ site.baseurl }}/resources/standard/technical/">Technical Specification</a>
             </li>
-            <li>
+            <li {% if page.url contains 'standard/faq' %}class="Selected"{% endif %}>
               <a href="{{ site.baseurl }}/resources/standard/faq/">Frequently Asked Questions</a>
             </li>
-            <li>
+            <li {% if page.url contains 'standard/related' %}class="Selected"{% endif %}>
               <a href="{{ site.baseurl }}/resources/standard/related/">Related Initiatives</a>
             </li>
-            <li>
+            <li {% if page.url contains 'standard/contribute' %}class="Selected"{% endif %}>
               <a href="{{ site.baseurl }}/resources/standard/contribute/">Help make this standard</a>
             </li>
           </ul>
@@ -189,7 +189,7 @@
         <li {% if url_last == 'changes' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/meta/changes/">Recent Changes</a>
         </li>
-        <li {% if url_last == 'contribute' %}class="Selected"{% endif %}>
+        <li {% if page.url contains 'meta/contribute' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/meta/contribute/">Contribute</a>
         </li>
       </ul>
