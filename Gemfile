@@ -1,8 +1,6 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "nokogiri" # required by _plugins/html_filters.rb
-gem "rdiscount"
+gem 'github-pages'
 gem 'jekyll-redirect-from'
 gem 'jekyll-mentions'
