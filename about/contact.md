@@ -4,6 +4,8 @@ lead: true
 title: Contact
 authors:
 - Anders Pedersen
+redirect_from:
+- /contact/
 ---
 
 ## General Discussion
