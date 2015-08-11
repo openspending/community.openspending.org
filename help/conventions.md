@@ -4,6 +4,8 @@ lead: true
 title: API conventions
 authors:
 - Neil Ashton
+redirect_from:
+- /help/api/
 ---
 #### Authentication
 
