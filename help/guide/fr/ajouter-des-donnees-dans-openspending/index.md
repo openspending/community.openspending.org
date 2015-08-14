@@ -5,7 +5,7 @@ title: Ajouter des données dans OpenSpending
 authors:
 - lombardoelisabetta
 ---
-L’une des contributions les plus utiles que vous pouvez faire sur OpenSpending est d’ajouter un nouveau jeu de données. Ce paragraphe vous explique comment faire.
+L’une des contributions les plus utiles que vous pouvez faire sur OpenSpending est d’ajouter un nouveau jeu de données. Ce paragraphe vous explique en détails comment faire.
 
 Une démarche classique pour importer un jeu de données sur OpenSpending suit les étapes suivantes:
 
