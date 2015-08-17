@@ -2,7 +2,7 @@
 layout: docs
 section: next
 type: spec
-title: Static agreggation
+title: Static aggregation
 ---
 
 ## Overview
