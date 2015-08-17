@@ -129,22 +129,16 @@ var issues = $("#github-issues");
       data: {labels:label.name},
       success: function(data) {
         $.each(data, function(i) {
-          issues.append('
-
-<tr>
-<td>'
+          issues.append('<tr><td>'
                         + '<span class="label" style="background:'
                         + label.colour
                         + '; color: #222222; text-shadow: 0 -1px 0 rgba(255, 255, 255, 0.75);">'
                         + label.name
-                        + '</td>
-<td><a href="'
+                        + '</td><td><a href="'
                         + this.html_url
                         + '">'
                         + this.title
-                        + '</a></td>
-</tr>
-'
+                        + '</a></td></tr>'
                        );
         });
       },
