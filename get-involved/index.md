@@ -16,7 +16,7 @@ skills and will do what we can to help you getting started!
 
 There's lots of discussion happening on our
 [OpenSpending Forums](https://discuss.okfn.org/c/openspending).  We
-also have [mailing lists, an irc channel][contact] and regular
+also have [an irc channel][contact] and regular
 [online community meetings][hangouts]. You're welcome to join!
 
 [contact]: {{site.baseurl}}/about/contact/
