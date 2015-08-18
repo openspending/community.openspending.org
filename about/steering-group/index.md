@@ -1,15 +1,35 @@
 ---
 section: about
 lead: true
-title: Members of the OpenSpending Steering Group
-authors:
-- Anders Pedersen
+title: Steering Group
+redirect_from:
+  - "/about/governance/members-of-the-steering-group/index.html"
+  - "/about/governance/members-of-the-steering-group/"
 ---
 
-Members of the OpenSpending Steering Group are nominated by the
-OpenSpending Community, and appointed for a two year period. The
-current members where appointed September 2013. The members are listed
-below in alphabetical order.
+The steering group oversees the project and represents its major stakeholders. This group takes responsibility for maintaining the integrity of the project, setting project policies, representing the project in relation to third parties etc.
+
+The steering group's specific responsibilities include:
+
+* **Finances**: overseeing and managing (where relevant) any project finances and resources.
+* **Branding**. Overseeing Twitter account, website, etc.
+* **Recognition** of satellite sites as part of the OpenSpending community and use of the OpenSpending name.
+* **Partnerships** and collaborations with other communities and projects.
+* **Setting policy** for data licensing and other matters, as necessary.
+* **Advocacy guidelines**, as appropriate.
+* **Legal matters**: for example, removal of datasets
+
+# Appointment of the Steering Group
+
+Anyone who has contributed to the OpenSpending project (whether in code, data, or content) may put themselves forward for membership in the steering group. The existing steering group members will consider the application and decide whether or not to accept. In the future, once the concept of OpenSpending membership is better established, this decision may be made by a vote among OpenSpending members.
+
+Membership in the steering group is for a term of two years. Multiple consecutive terms are permitted. If members resign during their two-year term, nominations for a replacement will be solicited from the community.
+
+# Minutes
+
+Find the [living minutes for the OpenSpending Steering Group](https://docs.google.com/a/okfn.org/document/d/1jCB-RquGYeW9mm466ViucMRjggbCxa0pGZDH5JThcRc/edit).
+
+# Members
 
 ### Justin Arenstein, International Center for Journalists
 
@@ -71,11 +91,11 @@ Ambassador for Nigeria.
 
 [bio coming here]
 
-### Anders Pedersen, Open Knowledge
+### Anders Pedersen, Natural Resource Governance Institute
 
-Anders Pedersen is Development Knowledge Lead with Open Knowledge. He
-holds an MA degree in Political Science from University of Copenhagen,
-and has worked in development and financial data journalism.
+Anders Pedersen is Open Data Program Officer at the Natural Resource Governance
+Institute. He holds an MA degree in Political Science from University of
+Copenhagen, and has worked in development and financial data journalism.
 
 ### Federico Ramírez, Fundar
 
@@ -89,3 +109,4 @@ member of the City of Oakland's budget advisory committee. He's also a
 news editor, builder, and outdoor preschool founder.
 
 ### Mark Brough, Publish What You Fund
+
