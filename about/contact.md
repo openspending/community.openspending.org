@@ -10,11 +10,11 @@ redirect_from:
 
 For all discussions about OpenSpending, spending data, developing
 using OpenSpending, as well as new and upcoming projects, please visit
-the [OpenSpending Forums](https://discuss.okfn.org/c/openspending).  
+the [OpenSpending Forums]({{ site.contact }}).  
 
 The full list of ways to get in touch:
 
-* [OpenSpending Forums](https://discuss.okfn.org/c/openspending)
+* [OpenSpending Forums]({{ site.contact }})
 * Online chat (<abbr title="Internet Relay Chat">IRC</abbr>): [#OpenSpending on Freenode](http://webchat.freenode.net/?channels=openspending)
 * GitHub: [openspending](https://github.com/openspending)
 * Twitter: 
