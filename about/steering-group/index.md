@@ -108,3 +108,5 @@ news editor, builder, and outdoor preschool founder.
 
 ### Mark Brough, Publish What You Fund
 
+### Cecile Le Guen, Open Knowledge
+
