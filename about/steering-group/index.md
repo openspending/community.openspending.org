@@ -109,4 +109,4 @@ news editor, builder, and outdoor preschool founder.
 ### Mark Brough, Publish What You Fund
 
 ### Cecile Le Guen, Open Knowledge
-
+Cecile Le Guen is Project Manager at Open Knowledge, involved in different fiscal open data projects.
