@@ -17,7 +17,7 @@ the many individuals and groups who wish to discuss and investigate
 public financial information, including journalists, academics,
 campaigners, and more.
 
-# Project Principles
+## Project Principles
 
 OpenSpending is guided by its community principles.
 
@@ -25,9 +25,9 @@ OpenSpending is guided by its community principles.
 * **Open community**. Anyone interested in financial data can contribute. We're friendly to newcomers and old hands alike—everyone was new once, and we value all levels of experience.
 * **Doing**. Our focus is on the concrete, not the abstract, and on making rather than theorizing.
 
-# Governance
+## Governance
 
-## Principles
+### Principles
 
 * The OpenSpending project is **community-owned and community-run**. Both individuals and organizations - non-profit and for-profit - may participate.
 * The project's **Steering Group** has overall responsibility for the project. This includes engaging with community members and communicating decisions.
@@ -35,7 +35,7 @@ OpenSpending is guided by its community principles.
 
 [ok]: http://okfn.org/
 
-## Steering Group
+### Steering Group
 
 The steering group oversees the project and represents its major stakeholders. This group takes responsibility for maintaining the integrity of the project, setting project policies, representing the project in relation to third parties etc.
 
@@ -43,19 +43,19 @@ See the [Steering Group page][sg] for more details and current members.
 
 [sg]: /about/steering-group/
 
-## Advisory Council
+### Advisory Council
 
 The advisory council advises the project, providing expertise and reflecting insights and issues from the broader community around finance data.
 
-## Technical Team
+### Technical Team
 
 The Technical Team manage and oversee technical work on the project, including all code contributions. They are responsible for maintaining the source code and the technical infrastructure, including site hosting.
 
-## Data Team
+### Data Team
 
 The Data Team oversees the contribution and management of data. This includes assisting community members in contributing data, deciding on whether to accept new data formats, managing legal and privacy issues, promoting data quality, and holding discussions on spending standards.
 
-## Content Team
+### Content Team
 
 The Content Team manage and oversee all OpenSpending content and research including the blog, websites, etc.
 

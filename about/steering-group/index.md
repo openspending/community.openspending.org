@@ -19,19 +19,19 @@ The steering group's specific responsibilities include:
 * **Advocacy guidelines**, as appropriate.
 * **Legal matters**: for example, removal of datasets
 
-# Meetings
+## Meetings
 
 The Steering Group meets approximately once a quarter via an online conference call.
 
 The [living minutes of the OpenSpending Steering Group are online](https://docs.google.com/a/okfn.org/document/d/1jCB-RquGYeW9mm466ViucMRjggbCxa0pGZDH5JThcRc/edit).
 
-# Appointment of the Steering Group
+## Appointment of the Steering Group
 
 Anyone who has contributed to the OpenSpending project (whether in code, data, or content) may put themselves forward for membership in the steering group. The existing steering group members will consider the application and decide whether or not to accept. In the future, once the concept of OpenSpending membership is better established, this decision may be made by a vote among OpenSpending members.
 
 Membership in the steering group is for a term of two years. Multiple consecutive terms are permitted. If members resign during their two-year term, nominations for a replacement will be solicited from the community.
 
-# Members
+## Members
 
 ### Justin Arenstein, International Center for Journalists
 
