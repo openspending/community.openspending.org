@@ -33,6 +33,11 @@ Membership in the steering group is for a term of two years. Multiple consecutiv
 
 ## Members
 
+### Anna Alberts, Open Knowledge Germany, Chair
+
+Based in Berlin, Anna Alberts works as a Project Manager for the EU research project OpenBudgets.eu at Open Knowledge Foundation Germany. 
+Anna studied International Development and International Relations, and worked as a policy officer for the Strategy Unit at the Ministry of Foreign Affairs in the Netherlands, focusing on geopolitics and (open) data.
+
 ### Justin Arenstein, International Center for Journalists
 
 <figure>
