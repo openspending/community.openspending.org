@@ -1,7 +1,7 @@
 ---
 section: about
 lead: true
-title: Introduction
+title: "Introduction to OpenSpending: Mapping the Money"
 presentation: true
 authors:
 - Anders Pedersen
