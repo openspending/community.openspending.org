@@ -18,39 +18,54 @@ title: OpenSpending Next
   <p>
     We are currently working towards a minimal viable product (MVP) of the new architecture discussed in <a href="http://labs.openspending.org/osep/osep-01.html">OSEP-01</a> and subsequent OSEPs. A roadmap is in place for 2015, and we are inviting interested developers to help by forming work teams.
   </p>
+  <h3>Workboard</h3>
+  <iframe src="https://trello.com/b/BNXzXDEc.html" width="100%" height="450px" frameborder="0"></iframe>
+  <h3>General architecture overview</h3>
+  <div style="text-align: center">
+    <img width="60%" src="http://labs.openspending.org/osep/img/01-tech-overview-subcomponents.png" />
+  </div>
+  <h3>First iteration architecture (MVP)</h3>
+  <img src="/img/osnext-mvp.png" />
+  <h4>Goals</h4>
   <ul>
-    <li><a href="/next/roadmap/">Roadmap</a></li>
-    <li><a href="/next/roadmap/#components-and-teams">Work teams</a></li>
-    <li><a href="https://trello.com/b/BNXzXDEc/openspending-next-development
-">Workboard</a></li>
-    <li><a href="/next/presentation/">Presentation</a></li>
+    <li>Provide a simple flow for a user to start with a file of spend data and have it visualized in a few of steps</li>
+    <li>Provide basic validation of the concepts in OSEP-01</li>
+    <li>Provide a good testing ground for iterating on OpenSpending Data Package</li>
+    <li>Provide a migration path for all existing data in openspending.org to the new Datastore</li>
   </ul>
-
-  <h2>Tech Lead Group</h2>
+  <h2>Presentation</h2>
   <p>
-    The OpenSpending Tech Lead Group is a group of developers and domain experts who are helping Open Knowledge push forward with the new Open Spending roadmap.
+    The following presentation gives an overview of where we are going with OpenSpending Next.
+  </p>
+  <iframe src="https://docs.google.com/presentation/d/1dRFlFrcOF2XrTGO485F9BPnzwK9DmrGLQkfjhodcwvw/embed?start=true&loop=true&delayms=10000" frameborder="0" width="625" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <br /><br />
+  <h2>Technical Lead</h2>
+  <p>
+    Paul Walsh is Technical Lead for OpenSpending Next. For any questions, or to participate, feel free to <a href="https://discuss.okfn.org/users/pwalsh">get in touch directly</a>.
+  </p>
+  <p>
+    Additionally, the OpenSpending Tech Lead Group is a group of developers and domain experts who are helping Open Knowledge push forward with the new Open Spending roadmap.
   </p>
   <p>
     Tasks the group is involved with:
   </p>
   <ul>
     <li>Working through the existing OpenSpending Enhancement Proposals, and making new ones (of course, **anyone** can submit an OSEP, just <a href=" http://labs.openspending.org/osep/">follow the guidelines here</a>)</li>
-    <li>Breaking up the general architecture into sets of specific components that individuals or teams may want to 'take ownership' over</li>
+    <li>Breaking up the general architecture into sets of specific components that individuals or teams can work on</li>
     <li>Synchronising our plans with other spend data projects - it is a complex area, and one we all want to solve well, so we want to do it together</li>
   </ul>
   <p>
     This is **not** a formal committee that has to sign off on every step along the path. Rather, it will be a group that helps bring the existing ideas into fruition, as well as discuss, debate and enhance them. The group will be limited to 5-10 participants.
   </p>
   <p>
-    If you are interested in joining the Tech Lead Group, <a href=" https://github.com/openspending/next/issues/9">let us know here</a>.
+    If you are interested in taking part, <a href="https://discuss.okfn.org/c/openspending">let us know here</a>, or <a href="https://discuss.okfn.org/users/pwalsh">contact Paul directly</a>.
   </p>
   <p>
     <strong>Current Tech Lead Group:</strong>
     <ul>
-      <li>Rufus Pollock (@rgrp)</li>
-      <li>Paul Walsh (@pwalsh)</li>
-      <li>Tryggvi Björgvinsson (@tryggvib)</li>
-      <li>Edgar Zanella Alvarenga (@aivuk)</li>
+      <li>Rufus Pollock (@rgrp) <a href="https://discuss.okfn.org/users/rufuspollock">Profile</a></li>
+      <li>Paul Walsh (@pwalsh) <a href="https://discuss.okfn.org/users/pwalsh">Profile</a></li>
+      <li>Tryggvi Björgvinsson (@tryggvib) <a href="https://discuss.okfn.org/users/trickvi/activity">Profile</a></li>
     </ul>
   </p>
   <h2>Enhancement Proposals</h2>
@@ -62,6 +77,18 @@ title: OpenSpending Next
     <li><a href="http://labs.openspending.org/osep/osep-00.html">OSEP Guidelines</a></li>
   </ul>
 
+  <h2>Contributing data</h2>
+  <p>
+    One of the best ways to contribute right now is by adding data sources to our <a href="https://github.com/os-data/registry/issues">registry tracker</a>.
+  </p>
+  <ul>
+    <li>Open a new issue</li>
+    <li>Write a brief description of the data</li>
+    <li>Provide a link to the data (hosted as flat files on GitHub would be best, if possible)</li>
+  </ul>
+  <p>
+    This allows us to look at the data and see how well it fits with our current assumptions. We can then work together on steps to get the data imported into the flat file DataStore.
+  </p>
   <h2>Specifications</h2>
   <p>We are taking a just in time approach to specs. User stories and use cases should exist first, and from there, implementation details should be devised by working teams.</p>
   <ul>
