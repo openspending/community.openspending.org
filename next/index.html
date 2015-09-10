@@ -5,40 +5,51 @@ title: OpenSpending Next
 ---
 
 <div class="home">
-
-  <br />
   <img src="/img/next_preview.jpg" alt="OpenSpending Next" />
   <div style="text-align: center"><i>OpenSpending Next Data Loader</i></div>
   <br />
+
   <p>
     <strong>OpenSpending Next</strong> is the next generation of the OpenSpending platform. All the documentation and specifications for work on Open Spending Next can be found here.
   </p>
 
-  <h2>Roadmap</h2>
-  <p>
-    We are currently working towards a minimal viable product (MVP) of the new architecture discussed in <a href="http://labs.openspending.org/osep/osep-01.html">OSEP-01</a> and subsequent OSEPs. A roadmap is in place for 2015, and we are inviting interested developers to help by forming work teams.
-  </p>
-  <h3>Workboard</h3>
-  <iframe src="https://trello.com/b/BNXzXDEc.html" width="100%" height="450px" frameborder="0"></iframe>
   <h3>General architecture overview</h3>
   <div style="text-align: center">
-    <img width="60%" src="http://labs.openspending.org/osep/img/01-tech-overview-subcomponents.png" />
+    <img width="100%" src="http://labs.openspending.org/osep/img/01-tech-overview-subcomponents.png" />
+    <p><em><a href="http://labs.openspending.org/osep/img/01-tech-overview-subcomponents.png">Click through for a higher resolution version</a></em></p>
   </div>
+
+  <h3>Presentation</h3>
+  <p>
+    The following presentation gives an overview of where we are going with OpenSpending Next.
+  </p>
+  <iframe src="https://docs.google.com/presentation/d/1dRFlFrcOF2XrTGO485F9BPnzwK9DmrGLQkfjhodcwvw/embed?start=true&loop=true&delayms=10000" frameborder="0" width="625" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+  <hr />
+
+  <h2>Roadmap</h2>
+  <p>
+    We are currently working towards a minimal viable product (MVP) of the new architecture discussed in <a href="http://labs.openspending.org/osep/osep-01.html">OSEP-01</a> and subsequent OSEPs. A roadmap is in place for 2015, and we are inviting all interested developers to participate.
+  </p>
+
+  <p>We are tracking the overall roadmap in a Trello workboard:</p>
+  <p style="font-size: 140%"><a href="https://trello.com/b/BNXzXDEc/openspending-next">https://trello.com/b/BNXzXDEc/openspending-next</a></p>
+  <iframe src="https://trello.com/b/BNXzXDEc.html" width="100%" height="450px" frameborder="0"></iframe>
+
+
   <h3>First iteration architecture (MVP)</h3>
-  <img src="/img/osnext-mvp.png" />
-  <h4>Goals</h4>
+  <p>The initial focus within the roadmap will be on creating a "minimum viable product" version of OpenSpending Next. Primary goals are set out here and in the associated diagram:</p>
   <ul>
     <li>Provide a simple flow for a user to start with a file of spend data and have it visualized in a few of steps</li>
     <li>Provide basic validation of the concepts in OSEP-01</li>
     <li>Provide a good testing ground for iterating on OpenSpending Data Package</li>
     <li>Provide a migration path for all existing data in openspending.org to the new Datastore</li>
   </ul>
-  <h2>Presentation</h2>
-  <p>
-    The following presentation gives an overview of where we are going with OpenSpending Next.
-  </p>
-  <iframe src="https://docs.google.com/presentation/d/1dRFlFrcOF2XrTGO485F9BPnzwK9DmrGLQkfjhodcwvw/embed?start=true&loop=true&delayms=10000" frameborder="0" width="625" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <br /><br />
+
+  <img width="60%" src="https://docs.google.com/drawings/d/1gunValMY1E5CTK7_lQRpuLoAto7KOvUEBVOaZ602184/pub?w=757&h=936">
+
+  <hr />
+
   <h2>Technical Lead</h2>
   <p>
     Paul Walsh is Technical Lead for OpenSpending Next. For any questions, or to participate, feel free to <a href="https://discuss.okfn.org/users/pwalsh">get in touch directly</a>.
@@ -58,7 +69,7 @@ title: OpenSpending Next
     This is **not** a formal committee that has to sign off on every step along the path. Rather, it will be a group that helps bring the existing ideas into fruition, as well as discuss, debate and enhance them. The group will be limited to 5-10 participants.
   </p>
   <p>
-    If you are interested in taking part, <a href="https://discuss.okfn.org/c/openspending">let us know here</a>, or <a href="https://discuss.okfn.org/users/pwalsh">contact Paul directly</a>.
+    If you are interested in taking part, <a href="https://discuss.okfn.org/t/openspending-community-introductions/1145">let us know here</a>, or <a href="https://discuss.okfn.org/users/pwalsh">contact Paul directly</a>.
   </p>
   <p>
     <strong>Current Tech Lead Group:</strong>
@@ -89,18 +100,4 @@ title: OpenSpending Next
   <p>
     This allows us to look at the data and see how well it fits with our current assumptions. We can then work together on steps to get the data imported into the flat file DataStore.
   </p>
-  <h2>Specifications</h2>
-  <p>We are taking a just in time approach to specs. User stories and use cases should exist first, and from there, implementation details should be devised by working teams.</p>
-  <ul>
-    {% for page in site.pages %}
-    {% if page.section == 'next' %}
-    {% if page.type == 'spec' %}
-      <li>
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      </li>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-  </ul>
-
 </div>
