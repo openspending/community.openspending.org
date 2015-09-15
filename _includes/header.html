@@ -17,22 +17,8 @@
         <li {% if url_last == 'next' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/next/">OpenSpending Next</a>
           <ul>
-            <li {% if page.url contains 'roadmap' %}class="Selected"{% endif %}>
-              <a href="{{ site.baseurl }}/next/roadmap/">Roadmap</a>
-              <ul>
-                {% for pg in site.pages %}
-                {% if pg.section == 'next' %}
-                {% if pg.type == 'spec' %}
-                <li {% if page.url == pg.url %}class="Selected"{% endif %}>
-                  <a href="{{ pg.url }}">{{ pg.title }}</a>
-                </li>
-                {% endif %}
-                {% endif %}
-                {% endfor %}
-              </ul>
-            </li>
             <li>
-              <a target="_blank" href="https://trello.com/b/BNXzXDEc/openspending-next-development">Workboard</a>
+              <a target="_blank" href="https://trello.com/b/BNXzXDEc/openspending-next">Workboard</a>
             </li>
             <li>
               <a target="_blank" href="http://labs.openspending.org/osep/">Proposals (OSEPs)</a>
@@ -44,9 +30,6 @@
             </li>
             <li>
               <a target="_blank" href="https://discuss.okfn.org/t/tech-hangout-june-2015/357">Tech Hangouts</a>
-            </li>
-            <li {% if url_last == 'presentation' %}class="Selected"{% endif %}>
-              <a href="{{ site.baseurl }}/next/presentation/">Presentation</a>
             </li>
             <li>
               <a target="_blank" href="https://discuss.okfn.org/c/openspending">Discussion</a>
@@ -61,7 +44,7 @@
                   <a target="_blank" href="https://github.com/openspending/next/issues">Issue tracker for teams</a>
                 </li>
               </ul>
-            </li> 
+            </li>
           </ul>
         </li>
 
