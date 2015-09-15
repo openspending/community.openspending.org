@@ -35,15 +35,19 @@ Membership in the steering group is for a term of two years. Multiple consecutiv
 
 ### Anna Alberts, Open Knowledge Germany, Chair
 
-Based in Berlin, Anna Alberts works as a Project Manager for the EU research project OpenBudgets.eu at Open Knowledge Foundation Germany. 
-Anna studied International Development and International Relations, and worked as a policy officer for the Strategy Unit at the Ministry of Foreign Affairs in the Netherlands, focusing on geopolitics and (open) data.
+Based in Berlin, Anna Alberts works as a Project Manager for the EU
+research project OpenBudgets.eu at Open Knowledge Foundation Germany.
+
+Anna studied International Development and International Relations,
+and worked as a policy officer for the Strategy Unit at the Ministry
+of Foreign Affairs in the Netherlands, focusing on geopolitics and
+(open) data.
 
 ### Justin Arenstein, International Center for Journalists
+{: .person-name}
 
-<figure>
-<img src="http://www.icfj.org/sites/default/files/imagecache/medium/JustinWebsite_0.JPG" alt="" width="204" height="225" />
-<figcaption>Justin Arenstein</figcaption>
-</figure>
+![Justin Arenstein](http://www.icfj.org/sites/default/files/imagecache/medium/JustinWebsite_0.JPG)
+{: .person-photo}
 
 Justin Arenstein is a Knight International Journalism Fellow who is
 helping the African Media Initiative (AMI) to establish a digital
@@ -53,6 +57,7 @@ executives, is working with more than 600 of the most influential
 media companies in both northern and sub-Saharan Africa.
 
 ### Júlia Keserű, Sunlight Foundation
+{: .person-name}
 
 Júlia Keserű is the International Policy Manager at the Sunlight
 Foundation and oversees its international work. Coming from the
@@ -67,11 +72,10 @@ University Budapest, Free University Berlin and the College for Social
 Theories in Budapest.
 
 ### Elena Mondo, International Budget Partnership
+{: .person-name}
 
-<figure>
-<img class="wp-image-1900 size-medium" src="{{ site.baseurl }}/img/blog/2014/04/Elena-pic-223x300.jpg" alt="" width="223" height="300" />
-<figcaption>Elena Mondo, IBP</figcaption>
-</figure>
+![Elena Mondo, IBP]({{ site.baseurl }}/img/blog/2014/04/Elena-pic-223x300.jpg)
+{: .person-photo}
 
 Elena joined the International Budget Partnership (IBP) in 2007. She
 manages the Open Budget Survey, the only independent, comparative, and
@@ -84,27 +88,29 @@ economics and management from Bocconi University, and an MPA in public
 and economic policy from the London School of Economics.
 
 ### Oluseun Onigbinde, BudgIT
+{: .person-name}
 
-<figure>
-<img class="  " src="http://under40preneur.com/wp-content/uploads/2013/02/Seun-Onigbinde.jpg" alt="" width="208" height="208" />
-<figcaption>Oluseun Onigbinde</figcaption>
-</figure>
+![Oluseun Onigbinde](http://under40preneur.com/wp-content/uploads/2013/02/Seun-Onigbinde.jpg)
+{: .person-photo}
 
 Oluseun Onigbinde is the Co-Founder of BudgIT, a Nigerian public data
 visualisation startup. He is an Ashoka Fellow and Open Knowledge
 Ambassador for Nigeria.
 
 ### Anders Pedersen, Natural Resource Governance Institute
+{: .person-name}
 
 Anders Pedersen is Open Data Program Officer at the Natural Resource Governance
 Institute. He holds an MA degree in Political Science from University of
 Copenhagen, and has worked in development and financial data journalism.
 
 ### Federico Ramírez, Fundar
+{: .person-name}
 
 [bio coming here]
 
 ### Adam Stiles, Open Budget Oakland
+{: .person-name}
 
 Adam is co-creator of <a
 href="http://openbudgetoakland.org/">openbudgetoakland.org</a> and a
@@ -112,6 +118,9 @@ member of the City of Oakland's budget advisory committee. He's also a
 news editor, builder, and outdoor preschool founder.
 
 ### Mark Brough, Publish What You Fund
+{: .person-name}
 
 ### Cecile Le Guen, Open Knowledge
+{: .person-name}
+
 Cecile Le Guen is Project Manager at Open Knowledge, involved in different fiscal open data projects.
