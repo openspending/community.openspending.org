@@ -2,6 +2,8 @@
 title: Map of Spending Projects
 authors:
 - Anders Pedersen
+redirect_from:
+- "/map-of-spending-projects"
 ---
 
 *Made by Anna Flagg using D3.js.*

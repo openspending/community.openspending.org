@@ -4,6 +4,8 @@ lead: true
 title: 'OpenSpending: first steps'
 authors:
 - Neil Ashton
+redirect_from:
+- "/openspending-first-steps"
 ---
 <section class="slide shout">
 <div>

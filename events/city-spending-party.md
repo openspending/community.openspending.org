@@ -4,6 +4,8 @@ lead: true
 title: City Spending Data Party
 authors:
 - Anders Pedersen
+redirect_from:
+- "/city-spending-party"
 ---
 On July 19th to 21st groups across the OpenSpending community are running local events worldwide part of the global <a href="http://blog.openspending.org/2013/06/30/spending-data-party-announce/">City Spending Data Party to map the money worldwide</a>.
 
