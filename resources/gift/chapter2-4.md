@@ -12,25 +12,25 @@ title: Brazilian Transparency Portal - Access to Information and Citizen Oversig
     </tr>
     <tr class="iconbar">
         <td class="inner">
-            <img src="images/revenue.png" class="" title="Revenue Side" />
-            <img src="images/spending.png" class="" title="Spending Side" />
-            <img src="images/invisible_money.png" class="" title="Off-Budget" />
+            <img src="../images/revenue.png" class="" title="Revenue Side" />
+            <img src="../images/spending.png" class="" title="Spending Side" />
+            <img src="../images/invisible_money.png" class="" title="Off-Budget" />
         </td>
         <td class="inner">
-            <img src="images/upload.png" class="" title="Publish Better Data" />
-            <img src="images/educate.png" class="" title="Educate Citizens" />
-            <img src="images/citizen.png" class="no" title="Facilitate Direct Participation"/>
-            <img src="images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
-            <img src="images/data_analysis.png" class="no" title="Analyse and Understand Data" />
+            <img src="../images/upload.png" class="" title="Publish Better Data" />
+            <img src="../images/educate.png" class="" title="Educate Citizens" />
+            <img src="../images/citizen.png" class="no" title="Facilitate Direct Participation"/>
+            <img src="../images/decision-maker.png" class="" title="Get Feedback to Policy Makers" />
+            <img src="../images/data_analysis.png" class="no" title="Analyse and Understand Data" />
         </td>
         <td>
-            <img src="images/mobile.png" class="no" title="Mobile Technology" />
-            <img src="images/web.png" class="" title="Web-based Technology" />
-            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
-            <img src="images/piechart.png" class="no" title="Data Visualisation and Maps" />
-            <img src="images/standards.png" class="no" title="Formats and Standards" />
-            <img src="images/social_media.png" class="" title="Social Media" />
-            <img src="images/radio.png" class="no" title="Radio" />
+            <img src="../images/mobile.png" class="no" title="Mobile Technology" />
+            <img src="../images/web.png" class="" title="Web-based Technology" />
+            <img src="../images/offline.png" class="no" title="Offline and Print on Demand" />
+            <img src="../images/piechart.png" class="no" title="Data Visualisation and Maps" />
+            <img src="../images/standards.png" class="no" title="Formats and Standards" />
+            <img src="../images/social_media.png" class="" title="Social Media" />
+            <img src="../images/radio.png" class="no" title="Radio" />
         </td>
     </tr>
     <tr>

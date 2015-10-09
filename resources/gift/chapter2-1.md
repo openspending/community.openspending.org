@@ -12,25 +12,25 @@ title: CKAN in Data.Gov.Uk
     </tr>
     <tr class="iconbar">
         <td class="inner">
-            <img src="images/revenue.png" class="" title="Revenue Side" />
-            <img src="images/spending.png" class="" title="Spending Side" />
-            <img src="images/invisible_money.png" class="no" title="Off-Budget" />
+            <img src="../images/revenue.png" class="" title="Revenue Side" />
+            <img src="../images/spending.png" class="" title="Spending Side" />
+            <img src="../images/invisible_money.png" class="no" title="Off-Budget" />
         </td>
         <td class="inner">
-            <img src="images/upload.png" class="" title="Publish Better Data" />
-            <img src="images/educate.png" class="no" title="Educate Citizens" />
-            <img src="images/citizen.png" class="no" title="Facilitate Direct Participation"/>
-            <img src="images/decision-maker.png" class="no" title="Get Feedback to Policy Makers" />
-            <img src="images/data_analysis.png" class="no" title="Analyse and Understand Data" />
+            <img src="../images/upload.png" class="" title="Publish Better Data" />
+            <img src="../images/educate.png" class="no" title="Educate Citizens" />
+            <img src="../images/citizen.png" class="no" title="Facilitate Direct Participation"/>
+            <img src="../images/decision-maker.png" class="no" title="Get Feedback to Policy Makers" />
+            <img src="../images/data_analysis.png" class="no" title="Analyse and Understand Data" />
         </td>
         <td>
-            <img src="images/mobile.png" class="no" title="Mobile Technology" />
-            <img src="images/web.png" class="" title="Web-based Technology" />
-            <img src="images/offline.png" class="no" title="Offline and Print on Demand" />
-            <img src="images/piechart.png" class="" title="Data Visualisation and Maps" />
-            <img src="images/standards.png" class="no" title="Formats and Standards" />
-            <img src="images/social_media.png" class="no" title="Social Media" />
-            <img src="images/radio.png" class="no" title="Radio" />
+            <img src="../images/mobile.png" class="no" title="Mobile Technology" />
+            <img src="../images/web.png" class="" title="Web-based Technology" />
+            <img src="../images/offline.png" class="no" title="Offline and Print on Demand" />
+            <img src="../images/piechart.png" class="" title="Data Visualisation and Maps" />
+            <img src="../images/standards.png" class="no" title="Formats and Standards" />
+            <img src="../images/social_media.png" class="no" title="Social Media" />
+            <img src="../images/radio.png" class="no" title="Radio" />
         </td>
     </tr>
     <tr>
@@ -112,7 +112,7 @@ To take one example related to fiscal data and the publication of the £25k spen
 ### Project Resources
 The project was initiated in September 2009 with a go-live data 1-month later for the first version of the site. This target was met and a closed beta started in early October 2009. In January 2010 the site was made public.
 
-<table border="1"; padding= "1em";>
+<table border="1" padding= "1em">
     <tr>
         <td><strong>Phase</strong></td>
         <td><strong>Duration</strong></td>
@@ -132,6 +132,7 @@ The project was initiated in September 2009 with a go-live data 1-month later fo
         <td>Ongoing</td>
         <td>Since Jan 2010</td>
         <td>3-6</td>
+    </tr>
 </table>
 
 <div class="pull-right"><a class="btn btn-default btn-mini" href="../chapter2-2">Next &raquo;</a></div>
