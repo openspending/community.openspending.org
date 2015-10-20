@@ -41,7 +41,7 @@ In the EU annual budget and in the MFF regulations, authorised expenditure amoun
 
 This means for instance that 2015 payments are actually 2014 commitments. In practice, this implies that the EU does not finance a project in advance. Someone, a Member State in most of the cases, would have to provide the funds beforehand before being reimbursed by the EU.
 
-The ceilings of the 2014-2020 MFF are **959,988 billion euros** in commitment appropriations and **908,4 billion euros** in payment appropriations. This represents a decrease compared to the 2007-2013 MFF, whose ceiling in commitment appropriations was up to 994,176 billion euros. The main areas concerned by this decrease are the Cohesion Policy, under the heading Smart and Inclusive Growth (-8%) and the Agriculture and Rural Development Policy, under the heading Sustainable Growth: Natural Resources (-11%).[^ftnt5]
+The ceilings of the 2014-2020 MFF are **959 988 million euros** in commitment appropriations and **908 400 million euros** in payment appropriations. This represents a decrease compared to the 2007-2013 MFF, whose ceiling in commitment appropriations was up to 994 176 million euros. The main areas concerned by this decrease are the Cohesion Policy, under the heading Smart and Inclusive Growth (-8%) and the Agriculture and Rural Development Policy, under the heading Sustainable Growth: Natural Resources (-11%).[^ftnt5]
 
 The EU Annual Budget
 --------------------
