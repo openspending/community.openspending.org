@@ -56,9 +56,9 @@ The annual budget regulation is divided into several sections detailing, for eac
 
 For the year 2015, the budget amounts to:
 
--   €145.321 billion in commitment appropriations;
--   €141.214 billion in payment appropriations (this represents an increase of 1,57% compared to the 2014 EU annual budget);
--   €141.214 billion in budgetary revenue.[^ftnt8]
+-   145 321 million euros in commitment appropriations;
+-   141 214 million euros in payment appropriations (this represents an increase of 1,57% compared to the 2014 EU annual budget);
+-   141 214 million euros in budgetary revenue.[^ftnt8]
 
 It is possible to amend the budget after its adoption.
 
