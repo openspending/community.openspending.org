@@ -31,7 +31,7 @@ Thanks to the following people who provided input, feedback and support at vario
 <td align="left"><p>The EU Budget in Numbers</p>
 <p></p>
 <ul>
-<li>The EU has committed to spending over €959,988 billion over the period 2014-2020.</li>
+<li>The EU has committed to spending over €959 988 million over the period 2014-2020.</li>
 </ul>
 <ul>
 <li>The EU budget is divided into more than 80 funds and programmes.</li>
