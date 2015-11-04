@@ -5,6 +5,8 @@ authors:
 - Pierre Chrzanowski
 - Rufus Pollock
 - Jonathan Gray
+redirect_from:
+- /research/eu/
 ---
 
 ## A Guide to EU Budget Data Sources
@@ -80,7 +82,7 @@ The European Union has now entered into a new budget framework for 2014-2020. Th
 </ol>
 <p></p>
 <ol start="6">
-<li><strong>Conduct a more detailed</strong><strong>assessment</strong><strong> of beneficiary data availability</strong> for all EU funds and for all implementing authorities - e.g., through a dedicated “open data audit”.</li>
+<li><strong>Conduct a more detailed</strong> <strong>assessment</strong><strong> of beneficiary data availability</strong> for all EU funds and for all implementing authorities - e.g., through a dedicated “open data audit”.</li>
 </ol>
 <p></p>
 <ol start="7">
