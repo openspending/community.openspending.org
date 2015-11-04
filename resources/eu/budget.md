@@ -30,7 +30,7 @@ For the period 2014/2020, the headings are:
 
 The framework also sets up ceilings for a number of instruments established outside the general headings and known as the Flexibility and Special Instruments, such as (1) the Emergency Aid Reserve; (2) the European Union Solidarity Fund; (3) the Flexibility Instrument;[^ftnt3] (4) the European Globalisation Adjustment Fund; (5) the Contingency Margin; (6) the Global Margin for commitments for growth and employment, in particular youth employment. These instruments enable the EU to mobilise the necessary funds to react to unforeseen events (financial crisis, emergency situations).
 
-One specific instrument, the European Development Fund (EDF) is managed outside the framework of the MFF and governed by its own set of rules. The EDF provides development aid to African, Caribbean and Pacific (ACP) countries, as well as to Overseas Countries and Territories (OCTs). It is based on an ACP-EU Partnership Agreement known as the “Cotonou Agreement”, which is revised every five years, and it is financed by direct contributions from EU Member States. The resources for the current EDF amount to 30.5 billion euros for the period 2014 - 2020.
+One specific instrument, the European Development Fund (EDF) is managed outside the framework of the MFF and governed by its own set of rules. The EDF provides development aid to African, Caribbean and Pacific (ACP) countries, as well as to Overseas Countries and Territories (OCTs). It is based on an ACP-EU Partnership Agreement known as the “Cotonou Agreement”, which is revised every five years, and it is financed by direct contributions from EU Member States. The resources for the current EDF amount to €30.5 billion for the period 2014 - 2020.
 
 ### What are Commitment and Payment Appropriations?
 
@@ -41,7 +41,7 @@ In the EU annual budget and in the MFF regulations, authorised expenditure amoun
 
 This means for instance that 2015 payments are actually 2014 commitments. In practice, this implies that the EU does not finance a project in advance. Someone, a Member State in most of the cases, would have to provide the funds beforehand before being reimbursed by the EU.
 
-The ceilings of the 2014-2020 MFF are **959,988 billion euros** in commitment appropriations and **908,4 billion euros** in payment appropriations. This represents a decrease compared to the 2007-2013 MFF, whose ceiling in commitment appropriations was up to 994,176 billion euros. The main areas concerned by this decrease are the Cohesion Policy, under the heading Smart and Inclusive Growth (-8%) and the Agriculture and Rural Development Policy, under the heading Sustainable Growth: Natural Resources (-11%).[^ftnt5]
+The ceilings of the 2014-2020 MFF are **€959 988 million** in commitment appropriations and **€908 400 million** in payment appropriations. This represents a decrease compared to the 2007-2013 MFF, whose ceiling in commitment appropriations was up to €994 176 million. The main areas concerned by this decrease are the Cohesion Policy, under the heading Smart and Inclusive Growth (-8%) and the Agriculture and Rural Development Policy, under the heading Sustainable Growth: Natural Resources (-11%).[^ftnt5]
 
 The EU Annual Budget
 --------------------
@@ -56,9 +56,9 @@ The annual budget regulation is divided into several sections detailing, for eac
 
 For the year 2015, the budget amounts to:
 
--   €145.321 billion in commitment appropriations;
--   €141.214 billion in payment appropriations (this represents an increase of 1,57% compared to the 2014 EU annual budget);
--   €141.214 billion in budgetary revenue.[^ftnt8]
+-   €145 321 million in commitment appropriations;
+-   €141 214 million in payment appropriations (this represents an increase of 1,57% compared to the 2014 EU annual budget);
+-   €141 214 million in budgetary revenue.[^ftnt8]
 
 It is possible to amend the budget after its adoption.
 
