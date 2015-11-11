@@ -4,94 +4,60 @@ title: Get Involved
 authors:
 - Anders Pedersen
 redirect_from:
-  - /contribute/
+- /contribute/
 ---
 
-Glad to see you here! Working with the OpenSpending community is the
-place for enthusiastic doers, citizens and budget nerds from across
-the world. We care deeply about welcoming everyone regardless of
-skills and will do what we can to help you getting started!
+Glad to see you here! 
 
-## Connecting with the Community
+This site is for enthusiastic doers, citizens and budget nerds from
+across the world. We care deeply about welcoming everyone regardless
+of skills and will do what we can to help you getting started!
+
+## Connect with the Community
 
 There's lots of discussion happening on our
 [OpenSpending Forums](https://discuss.okfn.org/c/openspending).  We
-also have [an irc channel][contact] and regular
-[online community meetings][hangouts]. You're welcome to join!
+also have an IRC channel on Freenode: 
+[#openspending](http://webchat.freenode.net/?channels=openspending). You're
+welcome to join!
 
 [contact]: {{site.baseurl}}/about/contact/
-[hangouts]: {{site.baseurl}}/events/hangouts/
 
-## Specific Areas
+## Contribute to the Fiscal Data Package Spec
 
-### Development and Coding
+We're hard at work on defining
+[Fiscal Data Package](http://fiscal.dataprotocols.org/).  Fiscal Data
+Package is a simple, open technical specification for government
+budget and spending data.
 
-Help build and run the OpenSpending platform.
+We welcome input from the community regarding the specification. You
+can already contribute to the development process by leaving
+suggestions and queries in the
+[issue tracker](https://github.com/openspending/fiscal-data-package/issues).
 
-* [Hacking on OpenSpending](./development/volunteer)
-* [Development process](./development/process)
-* [Code reviews](./development/review)
+## Follow the Development of OpenSpending Next
 
-### Website and News
+[OpenSpending Next](/next/) is the next generation of the OpenSpending
+platform.  We are now creating a "minimum viable product" version.
+This includes a
+[Fiscal Data Packager](https://github.com/openspending/fiscal-data-packager)
+and an [import tool](https://github.com/openspending/os-import).
 
-Help run this blog and website: write up stories about money and
-finances and track coverage of public finances in the news.
+## Upload and Package Your Data
 
-[Find out more &raquo;](./web/) or
-[Jump straight into the Web and News Trello board](https://trello.com/b/7E5enK5J/openspending-news-and-website-team).
+One way to contribute right now is by adding data sources to our
+[registry tracker](https://github.com/os-data/registry/issues).
 
-### Data and Data Wrangling
+* Open a new issue
+* Write a brief description of the data
+* Provide a link to the data (hosted as flat files on GitHub would be best, if possible)
 
-Prepare and load data into OpenSpending or help others do so!
+This allows us to look at the data and see how well it fits with our
+current assumptions. We can then work together on steps to get the
+data imported into the flat file DataStore.
 
-<a href="./data/">Find out more &raquo;</a> or <a
-href="https://github.com/openspending/datatoload/issues">jump straight
-into the datasets-to-work-on tracker</a>!
-
-## Good Tasks to Get Started With
-
-Below you will find a small sample of tasks you can work on.
-
-### Map cities on OpenSpending
-
-Help us map cities already on OpenSpending by adding the
-information <a
-href="https://docs.google.com/spreadsheet/ccc?key=0AqR8dXc6Ji4JdHZZNUpWQ2paY3FfYTdFNXkxZXZDTWc#gid=0">here</a>.
-
-### Translate
-
-Help more people use OpenSpending by translating our content. Do you
-have the language skills, we would be thrilled to hav your help on
-translations of the OpenSpending tool <a
-href="https://www.transifex.com/projects/p/openspending/">over at
-Trasifex</a> or of the <a
-href="https://trello.com/c/abfAVgBC/14-openspending-guide-translation">OpenSpending
-guide</a>.
-
-### Help us add fresh data
-
-Can you help us upload data? We are constantly looking to tale on more
-budget and spending data. Have a look to see if you can <a
-href="https://github.com/openspending/datatoload/issues">clean and
-upload one of the datasets</a> we're currently hoping to add to
-OpenSpending.
-
-#### Resource links
-
-OpenSpending Community key shared resources.
-
-##### Documents
-
-* [Community Google Drive folder](https://drive.google.com/a/okfn.org/#folders/0B6R8dXc6Ji4JUWs5UDdzSzU2UG8)
-
-##### Data Stuff
-
-* [Tracker for data to load](https://github.com/openspending/datatoload)
-
-##### Code
+## Code
 
 * [OpenSpending on GitHub](https://github.com/openspending)
-* [Core application](https://github.com/openspending/openspending)
-* [JavaScript library](https://github.com/openspending/openspendingjs)
-* [Satellite site template](https://github.com/openspending/satellite-template)
-* [R OpenSpending library](https://github.com/mihi-tr/r-openspending)
+* [Fiscal Data Packager](https://github.com/openspending/fiscal-data-packager)
+* [OpenSpending Import](https://github.com/openspending/os-import)
