@@ -1,17 +1,11 @@
 --- 
-layout: post
 authors:
 - fabiano
 redirect_from: /2012/01/transparency-and-technology-in-brazil-linking-politicians-to-bad-entrepreneurs/
 title: "Transparency and technology in Brazil: linking politicians to bad entrepreneurs"
-published: true
-meta: 
-  _edit_last: "239"
 tags: 
 - Data Journalism
 - Spending Stories
-type: post
-status: publish
 ---
 **This story by Fabiano Angélico, who formerly worked at Transparencia Brasil, is about how technology and the help of coders can be used to highlight links between politicians and corrupt entrepreneurs. It is followed by a brief "Behind the News" interview which shows some of the time costs of datawrangling and problems faced when getting the story out.** 
 

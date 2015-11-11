@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/09/OKFest-Followup/
 title: Where Does the Money Go - International. Updates from OKFestival 
-published: true
-type: post
-status: publish
 ---
 
 We got a chance to catch up with many old OpenSpending friends at [OKFestival](http://okfestival.org/) last week and got the chance to meet some new ones. For any of you who missed the action, here's a quick recap...  

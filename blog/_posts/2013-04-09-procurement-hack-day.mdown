@@ -2,9 +2,6 @@
 author: $authornamehere
 redirect_from: /2013/04/procurement-hack-day/
 title: Join us for Hack Day on EU procurement data May 2 in Brussels
-published: true
-type: post
-status: publish
 ---
 
 Next month OpenSpending will be at the annual [DataHarvest](http://www.journalismfund.eu/dataharvest13), where investigative journalists and civic coders dig into data projects from across Europe. The DataHarvest takes it name from the annual release of payments to farmers under the Common Agricultural Policy analyzes by the friends at [Farmsubsidy](www.farmsubsidy.org).

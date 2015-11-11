@@ -3,9 +3,6 @@ authors:
 - nick
 redirect_from: /2012/08/introduction-to-the-taxman/
 title: An introduction to the TaxMan
-published: true
-type: post
-status: publish
 ---
 
 One of the pieces of technology powering [Where Does My Money Go][wdmmg] is a standalone application, TaxMan, that performs a rather dull yet important task. As anyone who has filled out a tax return will know, tax can be rather complicated, with numerous steps and calculations to perform. If you are  lucky, some of these calculations may be performed for you by your national revenue agency. This however doesn't help you if your aim is not only to calculate *your* tax, but also to understand how taxes are calculated in general. With [Where Does My Money Go][wdmmg], we wanted to find a way to estimate the total tax payments of UK citizens based on their salaries, income tax and "indirect" payments such as VAT (sales tax), fuel duties, etc.

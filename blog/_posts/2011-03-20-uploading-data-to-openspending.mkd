@@ -1,17 +1,8 @@
 --- 
-layout: post
 authors:
 - lucy
 redirect_from: /2011/03/uploading-data-to-openspending/
 title: Uploading Data to OpenSpending
-published: true
-meta: 
-  aktt_notify_twitter: "no"
-  _edit_last: "2"
-tags: 
-- Contribute
-type: post
-status: publish
 ---
 The amount of datasets that are available on [OpenSpending.org](http://www.openspending.org) are growing fast and we want more! Currently the process looks like this:
 

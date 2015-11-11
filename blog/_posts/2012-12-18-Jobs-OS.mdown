@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/12/Jobs-OS/
 title: We're hiring!
-published: true
-type: post
-status: publish
 ---
 
 *Hacker? Passionate about finding stories in the money? Care about which companies get contracts with government? OpenSpending is seeking a lead developer to guide it through its next phase of development and it might be just the job for you!*

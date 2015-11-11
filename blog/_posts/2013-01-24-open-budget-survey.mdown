@@ -3,9 +3,6 @@ authors:
 - anders
 redirect_from: /2013/01/open-budget-survey/
 title: The Open Budget Survey is out
-published: true
-type: post
-status: publish
 ---
 
 Yesterday the [International Budget Partnership](http://internationalbudget.org/) published their [2012 Open Budget Survey](http://survey.internationalbudget.org/#rankings) assessing fiscal transparency across 100 countries. The survey is the most comprehensive of its kind and evaluates countries across 125 questions on everything from the independence of state auditors to the transparency of every step of the budgeting process.  

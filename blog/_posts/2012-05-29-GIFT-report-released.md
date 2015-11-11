@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/05/GIFT-report-released/
 title: Technology for Transparent and Accountable Public Finance
-published: true
-type: post
-status: publish
 ---
 
 In early March, we embarked on a project to map out projects which use [technology to further the aims of fiscal transparency, accountability and participation](http://openspending.org/blog/2012/03/12/technology-for-fiscal-transparency-where-next.html). Today, we are happy to announce the official release of the resulting report, Technology for Transparent and Accountable Public Finance. Preliminary findings were presented at last month's [GIFT](http://fiscaltransparency.net/) meeting in Brasilia. Since then, we've been building on the comments, follow-up questions and feedback from the session. 

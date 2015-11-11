@@ -1,18 +1,12 @@
 --- 
-layout: post
 authors:
 - lucy
 redirect_from: /2012/02/open-meeting-software-for-participatory-budgeting/
 title: "Open Meeting: Software for Participatory Budgeting"
-published: true
-meta: 
-  _edit_last: "2"
 tags: 
 - pb
 - Updates
 - Working Group
-type: post
-status: publish
 ---
 There are already shining examples of direct forms of democracy and deliberation going on around the world but many of them are small scale, local and idiosyncratic solutions. Can technology help to take these discussions to the next level and offer templates for solutions that could be applied all over the world? 
 

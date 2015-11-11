@@ -1,9 +1,6 @@
 ---
 redirect_from: /2013/05/Procurement-Hac-Recap/
 title: Opening the EU procurement database
-published: true
-type: post
-status: published
 ---
 
 <a href="http://www.flickr.com/photos/94746900@N06/8754972519/" title="OpenTed datastore by anderspedersenOKF, on Flickr"><img src="http://farm4.staticflickr.com/3797/8754972519_7290637fb4_z.jpg" width="640" height="318" alt="OpenTed datastore"></a>

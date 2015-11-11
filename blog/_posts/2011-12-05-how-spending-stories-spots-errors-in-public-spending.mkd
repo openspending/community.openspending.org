@@ -1,17 +1,11 @@
 --- 
-layout: post
 authors:
 - martin
 redirect_from: /2011/12/how-spending-stories-spots-errors-in-public-spending/
 title: How Spending Stories Spots Errors in Public Spending
-published: true
-meta: 
-  _edit_last: "239"
 tags: 
 - Data Journalism
 - Spending Stories
-type: post
-status: publish
 ---
 *This article was originally published on [MediaShift Idea Lab](http://www.pbs.org/idealab/2011/12/how-spending-stories-spots-errors-in-public-spending328.html) and was co-written by Martin Keegan, project lead for Spending Stories and Lucy Chambers, Community Coordinator for OpenSpending.*
 

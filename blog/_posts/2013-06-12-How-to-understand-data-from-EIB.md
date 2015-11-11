@@ -3,9 +3,6 @@ authors:
 - anders
 redirect_from: /2013/06/How-to-understand-data-from-EIB/
 title: How to understand data from the EIB - what does the data tell us?
-published: false
-type: post
-status: draft
 ---
 
 <iframe width='500' height='400' src='http://openspending.org/eib-energy-lending/embed?widget=bubbletree&state=%7B%22drilldowns%22%3A%5B%22category%22%2C%22location%22%2C%22year%22%2C%22project-name%22%5D%2C%22year%22%3A2011%2C%22cuts%22%3A%7B%7D%7D&width=500&height=400' frameborder='0'></iframe>

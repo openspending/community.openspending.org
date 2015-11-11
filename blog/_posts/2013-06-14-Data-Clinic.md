@@ -3,9 +3,6 @@ authors:
 - anders
 redirect_from: /2013/06/Data-Clinic/
 title: Next Data Clinic 19 June
-published: true
-type: post
-status: published
 ---
 
 Earlier this month we organised the first OpenSpending Data Clinic, to offer help on how you can work with your budget or spending data. 

@@ -3,14 +3,9 @@ authors:
 - friedrich
 redirect_from: /2012/02/thekit/
 title: Announcing the Where Does My Money Go? Assembly Kit
-published: true
-meta: 
-  _edit_last: "44"
 tags: 
 - Releases
 - Updates
-type: post
-status: publish
 ---
 Over the past few months, we've made a lot of progress on OpenSpending. The core of the application is now mostly stable and it is getting ever easier to load data into the platform through the web-based dataset editor. Yet, inevitably, this raises a simple question: I've imported my data, what next?
 

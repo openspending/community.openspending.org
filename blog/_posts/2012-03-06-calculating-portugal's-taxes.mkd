@@ -2,14 +2,9 @@
 author: $authornamehere
 redirect_from: /2012/03/calculating-portugal's-taxes/
 title: Calculating Portugal's taxes
-published: false
-meta: 
-  _edit_last: "239"
 tags: 
 - Contribute
 - portugal
-type: post
-status: draft
 ---
 **This post is by Nuno Moniz, who has recently developed an application to allow citizens in Portugal to calculate where their taxes go. Portuguese citizens can see how much they contribute to the State on a daily, weekly and monthly basis [here](http://www.nunomoniz.com/orcamento/) and if they live in the Azores Autonomous Region they will also be able to see how much they contribute at a local level [here](http://www.nunomoniz.com/orcamento/acores/).**
 

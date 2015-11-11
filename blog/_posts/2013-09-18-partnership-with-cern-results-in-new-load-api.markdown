@@ -8,14 +8,14 @@ This summer OpenSpending and the <a href="http://openlab.web.cern.ch/">Openlab a
 
 In this guest post <a href="http://openlab.web.cern.ch/about/people/alberto-rodriguez-peon">Alberto Rodriguez Peon</a> describes how he created the tool.
 
-###Problem
+### Problem
 The collaboration between CERN and the Open Knowledge Foundation implies the need of sending financial data to <a href="http://openspending.org">OpenSpending</a>, a project for mapping the financial transactions of governments and institutions.
 
 OpenSpending manages the input of new datasets through a CSV file with raw data and a form (containing information like name, country, language, currency, etc.) filled in manually by the user.
 
 However there is no opportunity for dynamically adding a dataset, which is what CERN needs in order to push financial information in an automated way. The OpenSpending API does not cover the process of introducing data, just searching and visualising it. To overpass this issue, we are developing this API for the OpenSpending site.
 
-###Solution
+### Solution
 The idea consists of adding a new method to the existing API to complement the manual input of the metadata.
 
 For that, we replace the form with a JSON file containing all the information that we have to provide in order to create a dataset. This works in the same way that the internal tool “ostool” is used in OpenSpending for the installation and setup.
@@ -32,7 +32,7 @@ Each OpenSpending user has an API key which can be used to identify himself for 
 </blockquote>
 The problem is that we cannot just put the API key in the request as anybody can intercept it and use it as if it was its own.
 
-###Authentication via API key
+### Authentication via API key
 To solve this issue, we propose a solution using symmetric key as the authorization method (in an Amazon-like way).
 
 Instead of having only a public API key for each user, we create a “secret” one as well. The idea is therefore to put the public one in the request and adding a signature, calculated using the ‘secret’ API key and a cryptographic hash algorithm (in our case MD5).

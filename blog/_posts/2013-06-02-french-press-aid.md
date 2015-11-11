@@ -1,9 +1,6 @@
 ---
 redirect_from: /2013/06/french-press-aid/
 title: Making sense of French press aid
-published: true
-type: post
-status: published
 ---
 
 This is a guest post by [Samuel Goëta](https://twitter.com/samgoeta), OKF France.

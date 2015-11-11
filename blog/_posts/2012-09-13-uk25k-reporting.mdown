@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/09/uk25k-reporting/
 title: UK Departmental Government Spending - Improving the Quality of Reporting
-published: true
-type: post
-status: publish
 ---
 
 **Continuing in their mission to make spending data more accessible and comprehensible, the Spending Stories team and the team of Data.Gov.Uk are releasing a reporting tool today that will help journalists and analysts to pick the freshest and best departmental spending data to work with when exploring the UK central government expenditure.**

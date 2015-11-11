@@ -3,9 +3,6 @@ authors:
 - anders
 redirect_from: /2013/07/project-and-community-proposal/
 title: Supporting growth of the OS project and community - a proposal
-published: true
-type: post
-status: published
 ---
 
 Over the last few years OpenSpending has seen rapid growth in terms of technology, datasets, and community. As with many projects when they achieve a certain threshold of success and activity, the time has come to bring a bit more structure to the growth of the community and development of the project in order to empower more explicitly and more formally the growing array of stakeholders in the project.<br>

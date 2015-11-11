@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/09/Spending-Data-Handbook/
 title: Spending Data Handbook - How do Civil Society Organisations Wrangle Spending Data? 
-published: true
-type: post
-status: publish
 ---
 
 Over the last few months, we have been travelling the globe in an effort to work out [which organisations are mapping the ebbs and flows of government money](http://openspending.org/blog/2012/01/12/civil-society-and-spending-data-who-is-mapping-the-money.html) - and how they do it. In a series of interviews, currently being published via the [OpenSpending blog](http://openspending.org/blog/index.html) we've highlighted the issues which Civil Society Organisations face when working with government financial data. 

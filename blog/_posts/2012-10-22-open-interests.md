@@ -3,9 +3,6 @@ authors:
 - friedrich
 redirect_from: /2012/10/open-interests/
 title: Open Interests Hackathon - November 24-25, London, England
-published: true
-type: post
-status: publish
 ---
 
 As a journalist, to understand European Union institutions, policies and commitments, you have to look where the money goes and understand who affects the money flow in the EU. As the influence of Brussels lobbyists grows, it is increasingly important to draw the connections between lobbying, policy-making and funding. [The EU publishes information on its spending](http://ec.europa.eu/beneficiaries/fts/index_en.htm) and also maintains a [transparency register](http://europa.eu/transparency-register/). These, however, are difficult for journalists and citizens to use. 

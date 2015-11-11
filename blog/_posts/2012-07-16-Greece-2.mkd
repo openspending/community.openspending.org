@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/07/Greece-2/
 title: Athens to Berlin - Chicken or the Egg? Days 2-4 (Athens and Thessaloniki)
-published: true
-type: post
-status: publish
 ---
 
 Immediately after landing in Greece, I have my first experience of where austerity cuts were hitting services. While attempting to buy tickets for the metro, I struck up conversation with an irate but lovely lady named Tina, who was irritated to have to travel all the way into central Athens by metro just to travel out again on another line to get home, a journey she would normally do via the suburban railway, which wasn't running, meaning the journey would take twice as long. *"Cuts!"* she told me in a mock-angry voice.

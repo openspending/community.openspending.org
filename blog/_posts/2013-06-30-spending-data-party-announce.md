@@ -3,9 +3,6 @@ authors:
 - anders
 redirect_from: /2013/06/spending-data-party-announce/
 title: Join us for a City Spending Data Party and map the money near you!
-published: true
-type: post
-status: published
 ---
 
 <a href="http://www.flickr.com/photos/94746900@N06/9155317160/" title="lagos_lite by anderspedersenOKF, on Flickr"><img src="http://farm6.staticflickr.com/5516/9155317160_2fde6deae9_z.jpg" width="540" height="404" alt="commons.wikimedia.org"></a>

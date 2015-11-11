@@ -3,14 +3,9 @@ authors:
 - lucy
 redirect_from: /2011/10/thoughts-from-the-global-investigative-journalism-conference/
 title: Thoughts from the Global Investigative Journalism Conference
-published: true
-meta:
-  _edit_last: "239"
 tags:
 - Data Journalism
 - Spending Stories
-type: post
-status: publish
 ---
 **This post is by [Lucy Chambers](http://okfn.org/members/lucychambers), community coordinator at the Open Knowledge Foundation, and [Friedrich Lindenberg](http://okfn.org/members/pudo), Developer on OpenSpending. They recently attended the Global Investigative Journalism Conference 2011 in Kyiv, Ukraine, and in this post, bring home their thoughts on journalist-programmer collaboration...** 
 

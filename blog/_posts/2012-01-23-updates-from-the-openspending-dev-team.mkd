@@ -3,15 +3,10 @@ authors:
 - friedrich
 redirect_from: /2012/01/updates-from-the-openspending-dev-team/
 title: Updates from the OpenSpending Dev Team
-published: true
-meta: 
-  _edit_last: "239"
 tags: 
 - Releases
 - Spending Stories
 - Updates
-type: post
-status: publish
 ---
 # What are we focusing on this week? 
 

@@ -2,9 +2,6 @@
 author: $authornamehere
 redirect_from: /2013/04/Visualising-Urban-development-data-at-UN-Habitat/
 title: Visualising Urban development data at UN-Habitat
-published: true
-type: post
-status: published
 ---
 
 <a href="http://www.flickr.com/photos/94746900@N06/8624384287/" title="Explore Visualizations - Open UN-Habitat Transparency Initiative by anderspedersenOKF, on Flickr"><img src="http://farm9.staticflickr.com/8404/8624384287_53114d0bd0_z.jpg" width="629" height="462" alt="Explore Visualizations - Open UN-Habitat Transparency Initiative"></a>

@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/08/Lost-Money/
 title: Athens to Berlin - PROFILE - Bani pierduti? (Lost money?)
-published: true
-type: post
-status: publish
 ---
 
 </strong>This is a profile of a very interesting new project coming out of Romania, aiming to make government finances understandable for the average citizen. It is written based on contributions from [Elena Calistru](https://twitter.com/MadamadePica), who kicked off the project.</strong>

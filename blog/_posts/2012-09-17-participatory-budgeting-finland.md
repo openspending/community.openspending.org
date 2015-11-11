@@ -3,9 +3,6 @@ authors:
 - raimo
 redirect_from: /2012/09/participatory-budgeting-finland/
 title: First steps for Participatory Budgeting in Finland
-published: true
-type: post
-status: publish
 ---
 
 **This post is written by [Raimo Muurinen](https://twitter.com/ra__mu) and [Henri Ahti](https://twitter.com/HenriAhti) who are taking a lead on one of Finland’s first Participatory Budgeting (PB) projects with Helsinki City Library. The post comes just as we prepare for Tiago Peixoto’s (aka [@participatory](https://twitter.com/participatory)) keynote and talk on [how to involve citizens in the budget making process](http://okfestival.org/participatory-budgeting/) at OKFestival.**

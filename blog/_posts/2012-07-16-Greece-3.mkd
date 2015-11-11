@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/07/Greece-3/
 title: Athens to Berlin - PROFILE - Linked Data and Public Spending
-published: true
-type: post
-status: publish
 ---
 
 From the hot, dusty streets of Athens, I trundle in to breezy but baking Thessaloniki on a late-night train... 

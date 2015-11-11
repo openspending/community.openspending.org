@@ -2,9 +2,6 @@
 author: $authornamehere
 redirect_from: /2013/01/Welcome/
 title: Welcome Anders
-published: false
-type: post
-status: draft
 ---
 
 Welcome, Anders!

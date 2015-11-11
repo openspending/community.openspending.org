@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/07/OSI/
 title: Athens to Berlin - a European Financial Profile
-published: true
-type: post
-status: publish
 ---
 
 **How does the work of budget monitoring organisations, investigative journalists, academic researchers and think-tanks differ in the various countries of Europe? What are the key questions these organisations address - are they largely the same in every country, or does each country have a different issue at the forefront of their minds? What tools and techniques do they have at their disposal to get to the bottom of Europe's tricky financial situations?**

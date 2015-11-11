@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/11/Bosnia-Budget-Classification/
 title: Bosnian Budgets - grouping data by categories people care about
-published: true
-type: post
-status: publish
 ---
 
 Last week, I sat watching the team of CPI Bosnia mapping the Bosnian budget into functional classifications. We're working on making the budget accessible to the citizens of Bosnia, making clear visually things such as the division of funds between the cantons and municipalities of the country.

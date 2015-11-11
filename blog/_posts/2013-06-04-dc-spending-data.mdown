@@ -3,9 +3,6 @@ authors:
 - anders
 redirect_from: /2013/06/dc-spending-data/
 title: Hack for Change helps publish data from Washington DC 
-published: true
-type: post
-status: published
 ---
 
 

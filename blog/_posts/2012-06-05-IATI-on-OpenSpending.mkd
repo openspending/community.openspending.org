@@ -3,9 +3,6 @@ authors:
 - mark
 redirect_from: /2012/06/IATI-on-OpenSpending/
 title: Aid Data - From XML to Visualisations
-published: true
-type: post
-status: publish
 ---
 
 Are the World Bank and Department for International Development (DfID) spending money on projects in similar sectors and countries?  Does all aid to Kenya go the North-East?  How much aid in total did India receive last year?

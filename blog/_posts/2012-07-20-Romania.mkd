@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/07/Romania/
 title: Athens to Berlin - Romania's Money Mappers.
-published: true
-type: post
-status: publish
 ---
 
 Although the people I meet here in Romania seem to dispute the fact - Bucharest has a very strong NGO scene. Corruption, both institutional and petty, comes high on the focus agenda as well as making citizens vaguely data-literate about how the government spends money and getting a good grasp on where the money comes from.

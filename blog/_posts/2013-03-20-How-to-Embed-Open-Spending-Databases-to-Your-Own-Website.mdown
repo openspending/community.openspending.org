@@ -3,9 +3,6 @@ authors:
 - lisa
 redirect_from: /2013/03/How-to-Embed-Open-Spending-Databases-to-Your-Own-Website/
 title: How to Embed Open Spending Databases to Your Own Website
-published: true
-type: post
-status: published
 ---
 
 This post is by [Lisa Evans](https://twitter.com/objectgroup) of the Spending Stories project at OpenSpending and cross-posted from the [PBS Idea Lab](http://www.pbs.org/idealab/2013/03/how-to-embed-open-spending-databases-to-your-own-website078.html).

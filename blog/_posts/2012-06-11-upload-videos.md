@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/06/upload-videos/
 title: Video Instruction Guide - Loading Data Into OpenSpending
-published: true
-type: post
-status: publish
 ---
 
 Recently, the OpenSpending team have been working on a project to visualise financial data in Cameroon. One of the aims of the project is to create a platform which is sustainable for years to come and that means that it needs to be really easy to load and maintain datasets into OpenSpending.

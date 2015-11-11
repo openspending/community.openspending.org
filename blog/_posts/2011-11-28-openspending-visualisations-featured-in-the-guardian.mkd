@@ -3,13 +3,6 @@ authors:
 - lucy
 redirect_from: /2011/11/openspending-visualisations-featured-in-the-guardian/
 title: OpenSpending visualisations featured in the Guardian
-published: true
-meta: 
-  _edit_last: "239"
-tags: 
-- Coverage
-type: post
-status: publish
 ---
 **This post is by [Lucy Chambers](http://okfn.org/members/lucychambers), Community Coordinator on OpenSpending.** 
 

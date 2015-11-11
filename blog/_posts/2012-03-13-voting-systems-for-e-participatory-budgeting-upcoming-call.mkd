@@ -3,13 +3,10 @@ authors:
 - lucy
 redirect_from: /2012/03/voting-systems-for-e-participatory-budgeting-upcoming-call/
 title: Voting Systems for E-Participatory Budgeting - Upcoming Call
-published: true
 meta: 
   _edit_last: "239"
 tags: 
 - Working Group
-type: post
-status: publish
 ---
 What are the best systems for voting in tech-solutions to Participatory Budgeting? Join upcoming call to contribute to the discussion. 
 

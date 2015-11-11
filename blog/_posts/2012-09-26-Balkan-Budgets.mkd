@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/09/Balkan-Budgets/
 title: Balkan Budget Bubbles
-published: true
-type: post
-status: publish
 ---
 
 **We're pleased to announce that the Where Does My Money Go bubbles are on their way to the Balkans! Thanks to a grant from the National Endowment for Democracy, the OpenSpending team will be working with the [Centre for Public Interest Advocacy](http://cpi.ba/) in Bosnia to produce interactive graphics of national and subnational budgets in Bosnia and lead training workshops with other Balkan countries (already on the guest list is [CRTA - Serbia](http://www.crta.rs/wp/en/)). We hope that this project will help organisations working in this area to form a united front to demand ever better data from governments, and to do ever more ambitious work with it.**

@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/02/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/
 title: How Spending Stories Fact Checks Big Brother, the Wiretappers' Ball
-published: true
-meta: 
-  _edit_last: "239"
 tags: 
 - big brother
 - Data Journalism
@@ -14,8 +11,6 @@ tags:
 - Spending Stories
 - spending stories
 - surveillance
-type: post
-status: publish
 ---
 **This piece was co-written with Eric King of [Privacy International](https://www.privacyinternational.org/) and comes as Privacy International launches a huge new data release about companies selling surveillance technologies. It is cross-posted on the [MediaShift PBS IDEA LAB](http://www.pbs.org/idealab/)**
 

@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2013/03/AfricanSpending-Knight-News-Challenge/
 title: AfricanSpending - Knight News Challenge with Open Institute and African Media Initiative
-published: true
-type: post
-status: published
 ---
 
 <strong>The Open Knowledge Foundation, in partnership with the Open Institute in Kenya and the African Media Initiative have submitted a proposal to the Knight News Challenge on Open Government with the title AfricanSpending - Monitoring the Money. The focus of this proposal is enabling journalists & CSOs to effectively track government finances. 

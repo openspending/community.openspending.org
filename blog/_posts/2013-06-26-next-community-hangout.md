@@ -3,9 +3,6 @@ authors:
 - anders
 redirect_from: /2013/06/next-community-hangout/
 title: Next Community Hangout 3 July
-published: true
-type: post
-status: publish
 ---
 
 We'll be running the next Community Call via Google Hangout Wednesday 3 July.

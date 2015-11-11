@@ -2,9 +2,6 @@
 author: $authornamehere
 redirect_from: /2013/01/obi-post/
 title: The Open Budget Survey is out
-published: false
-type: post
-status: draft
 ---
 
 Yesterday the [International Budget Partnership] (http://internationalbudget.org/) published their [2012 Open Budget Survey] (http://survey.internationalbudget.org/#rankings) evaluating fiscal transparency across 100 countries. Based on the survey, IBP calculates the Open Budget Index, as a measure for comparing budget transparency across the world. The survey is based on the performance of countries across 125 questions on everything from the independence of state auditors to the transparency of each and every step of the budgeting process.  

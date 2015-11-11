@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/11/Sarajevo-Workshop-Writeup/
 title: Day 1 OpenSpending CSO Workshop - Sarajevo
-published: true
-type: post
-status: publish
 ---
 
 *A while back, we wrote about the [kickoff of our project to deliver the budget of Bosnia and Herzegovina to its citizens in a form they can understand](http://openspending.org/blog/2012/09/26/Balkan-Budgets.html). Last week in Sarajevo - we had the kickoff workshop, bringing together a group of techies and policy experts from the Balkans and Eastern Europe, the OpenSpending team and MySociety's Tony Bowden to see how, through and beyond visualisation, we could work together to make budgets in the Balkans and Eastern Europe more transparent and accountable.*

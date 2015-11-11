@@ -1,20 +1,14 @@
 --- 
-layout: post
 authors:
 - mark
 redirect_from: /2011/12/data-seized-sanitised-and-sanity-checked-open-data-day-2011/
 title: Data = Seized, Sanitised and Sanity-checked. Open Data Day 2011
-published: true
-meta: 
-  _edit_last: "239"
 tags: 
 - CKAN
 - events
 - IATI
 - Open Data Day
 - Publish What You Fund
-type: post
-status: publish
 ---
 **This post is by Mark Brough, Research Officer at [Publish What You Fund](http://www.publishwhatyoufund.org/),  [Lucy Chambers](http://okfn.org/members/lucychambers), Community Coordinator for OpenSpending, and [Irina Bolychevsky](http://okfn.org/members/shevski), Product Owner for CKAN. It is cross-posted on the [OpenSpending Blog](http://blog.openspending.org/2011/12/10/data-seized-sanitised-and-sanity-checked-open-data-day-2011) and the [Open Knowledge Foundation Blog](http://blog.okfn.org/2011/12/12/data-seized-sanitised-and-sanity-checked-open-data-day-2011) and Mark Brough's contribution is also featured on [aidinfolabs.org](http://www.aidinfolabs.org/archives/786).** 
 

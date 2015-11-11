@@ -3,9 +3,6 @@ authors:
 - lisa
 redirect_from: /2013/01/open-spending-calendar/
 title: An Open Call for Ideas - How Would You Use OpenSpending's Data Calendar?  
-published: true
-type: post
-status: publish
 ---
 With the new year upon us, it's the time of year when you might be thinking about the calendars you use and wondering how they could work better for you. 
 

@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/06/OKFest-announce/
 title: Budget Cycle Monitoring Hackday at OKFest
-published: true
-type: post
-status: publish
 ---
 
 **Often, the only way to check whether governments are releasing financial documents, is retroactively. But what if it were possible to receive alerts and check up against internationally recognised best-practice guidelines as to when the government in your country should be releasing key budget documents?** 

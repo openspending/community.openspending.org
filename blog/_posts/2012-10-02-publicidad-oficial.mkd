@@ -3,9 +3,6 @@ authors:
 - federico
 redirect_from: /2012/10/publicidad-oficial/
 title: PROFILE - 'Publicidad Oficial' - Official Advertising, Fundar, Mexico
-published: true
-type: post
-status: publish
 ---
 
 **At Open Knowledge Festival, Federico Ramírez from Mexico presented Fundar's project on uncovering which government parties were using taxpayers's money to

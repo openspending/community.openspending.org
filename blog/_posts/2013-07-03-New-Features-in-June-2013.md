@@ -3,9 +3,6 @@ authors:
 - tryggvib
 redirect_from: /2013/07/New-Features-in-June-2013/
 title: New Features in June 2013
-published: true
-type: post
-status: published
 ---
 
 ![Image by GemiTux (cc-by 2.0)](http://farm1.staticflickr.com/76/196956563_150aee58c0_z.jpg "Outside of OpenSpending!")

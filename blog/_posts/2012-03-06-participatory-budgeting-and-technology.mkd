@@ -1,17 +1,11 @@
 --- 
-layout: post
 authors:
 - lucy
 redirect_from: /2012/03/participatory-budgeting-and-technology/
 title: Participatory Budgeting and Technology
-published: true
-meta: 
-  _edit_last: "239"
 tags: 
 - GIFT
 - Working Group
-type: post
-status: publish
 ---
 **Last week we held our first Open Meeting on [Software for Participatory Budgeting](http://blog.openspending.org/2012/02/29/open-meeting-software-for-participatory-budgeting/). We just scratched the surface of this huge topic, but here are the first notes. A full write up in blog-post form will follow after a few more calls**
 

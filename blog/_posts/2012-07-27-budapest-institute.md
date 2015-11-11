@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/07/budapest-institute/
 title: Athens to Berlin - PROFILE - Our Money, the Budapest Institute
-published: true
-type: post
-status: publish
 ---
 
 **This post was written based on the contributions of Petra Reszkető, Balázs Váradi and Timea Sütő of the [Budapest Institute](http://www.budapestinstitute.eu/), Hungary. The video of their interview will be displayed as part of the complete series [Athens to Berlin](http://openspending.org/blog/2012/07/05/OSI.html).**

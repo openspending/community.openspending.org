@@ -3,13 +3,8 @@ authors:
 - friedrich
 redirect_from: /2011/11/openspending-v0-11-released/
 title: OpenSpending v0.11 Released
-published: true
-meta: 
-  _edit_last: "239"
 tags: 
 - Releases
-type: post
-status: publish
 ---
 We are happy to announce the release of the latest version of OpenSpending. Most of our work has been to improve how we store and or organise spending data. Users will notice that the web frontend has been refreshed and is now much better integrated.
 

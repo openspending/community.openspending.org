@@ -3,14 +3,8 @@ authors:
 - friedrich
 redirect_from: /2011/03/where-does-my-money-go-goes-international-welcome-to-openspending/
 title: "'Where Does My Money Go?' Goes international. Welcome to OpenSpending."
-published: true
-meta: 
-  _edit_last: "239"
-tags: []
-
-type: post
-status: publish
 ---
+
 **This post is by [Friedrich Lindenberg](http://okfn.org/members/pudo), one of the developers working on OpenSpending.**
 
 Our primary goal has to be to grow WDMMG as an open platform, similar to Open Street Map: while on OSM you sketch out your local streets, WDMMG should become the place to upload and analyze your local or state governments spending. Therefore, our priority has to be providing the right tools to allow people to contribute to this effort themselves: either by loading data, annotating spending or visualizing it in custom ways.

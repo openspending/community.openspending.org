@@ -2,14 +2,6 @@
 author: $authornamehere
 redirect_from: /2012/03/uk-25k-spending-data/
 title: UK 25k Spending Data
-published: false
-meta: 
-  _edit_last: "239"
-tags: 
-- Contribute
-- Updates
-type: post
-status: draft
 ---
 Since the question just came up about what's going on there, figure
 this is a good day to tidy this up and send it out...

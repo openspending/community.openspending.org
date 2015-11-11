@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/10/openspending-lemonde/
 title: OpenSpending visualisations featured in Le Monde 
-published: true
-type: post
-status: publish
 ---
 
 The OpenSpending platform experienced a huge peak in traffic earlier this week as a visualisation based on French data was featured in Le Monde. 

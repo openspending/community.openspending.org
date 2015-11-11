@@ -3,17 +3,12 @@ authors:
 - friedrich
 redirect_from: /2012/01/hakuna-my-data-nbo-data-bootcamp/
 title: "Hakuna My Data: NBO Data Bootcamp"
-published: true
-meta: 
-  _edit_last: "239"
 tags: 
 - Data Journalism
 - events
 - Kenya
 - NBO
 - x
-type: post
-status: publish
 ---
 **This post is by [Friedrich Lindenberg](http://okfn.org/members/pudo), developer on OpenSpending.**
 

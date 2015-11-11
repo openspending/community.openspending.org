@@ -8,18 +8,18 @@ The [Human Centered Data workshop][1] held at [OKCon 2013][2] by the [Sunlight F
 
 The workshop wisely refrained from looking for a single answer to that important question. Instead, it recognized that there are as many answers as there are types of users. It asked workshop participants to sort themselves into "basic" and "advanced" user categories and to explore what spending data designed for each group would look like.
 
-##Basic asks from spending data
+## Basic asks from spending data
 Júlia Keseru headed up a discussion to address the needs for non-technical users of spending data who wish to access and utilise spending data: from citizens to journalists and activists. Several participants in the group emphasised the importance of having access to user friendly presentations of spending data and not just raw spending data in order to broaden access across levels of data literacy.
 
 The need for enabling citizens to comment and ask questions about actual spending items data was also highlighted. Though this is not possible today it could enable the citizenry to engage more directly on budgeting priorities they care about.
 
-###Unit costs of services
+### Unit costs of services
 One of the issues often arising as a barrier when citizens or journalists attempt to engage with spending data is the lack of access to the actual unit costs of services. For example a purchase of school books for 1 mio. USD might appear justifiable at first glance, but ultimately it will depend on whether the unit price is 10 or 200 USD per school book. Today only few countries provide information about unit costs though the participants agreed that this could help the public gain a better understanding of the proportions behind the numbers.
 
-###Beware of digital divide
+### Beware of digital divide
 Some participants flagged the challenge of disseminating spending information to communities with little or no access to the internet. Radio was mentioned as a communication channel often under valued, along with  community boards and other low tech solutions, which were also emphasised. Finally SMS was mentioned as option for distributing tailored spending information, which could be configured based on Q&A services. 
 
-##Advanced users
+## Advanced users
 The "advanced" group brought together participants from organisations like [Publish What You Fund][5] and [Development Initiatives][6]. It was conducted by Kaitlin Devine, who got the ball rolling by suggesting the broad outlines of the ideal spending data and allowing participants to flesh them out.
 
 The result was a portrait of spending data as designed for the technical leaders in financial transparency. Surprisingly, most of the discussion centered not around data itself but rather around the contextual information associated with it.

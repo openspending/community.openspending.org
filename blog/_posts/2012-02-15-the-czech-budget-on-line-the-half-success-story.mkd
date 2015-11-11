@@ -1,16 +1,10 @@
 --- 
-layout: post
 authors:
 - michal
 redirect_from: /2012/02/the-czech-budget-on-line-the-half-success-story/
 title: "The Czech budget on-line: the half success story"
-published: true
-meta: 
-  _edit_last: "239"
 tags: 
 - Working Group
-type: post
-status: publish
 ---
 **This post is by Michal Škop, of KohoVolit.eu.**
 

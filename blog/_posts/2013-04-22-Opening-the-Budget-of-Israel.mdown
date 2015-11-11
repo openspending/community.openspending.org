@@ -3,9 +3,6 @@ authors:
 - anders
 redirect_from: /2013/04/Opening-the-Budget-of-Israel/
 title: Opening Israel's Budget
-published: true
-type: post
-status: published
 ---
 
 <a href="http://www.hasadna.org.il/wp-content/uploads/2012/01/obudget.jpg" title="Public Knowledge Workshop"><img src="http://www.hasadna.org.il/wp-content/uploads/2012/01/obudget.jpg" width="629" height="462" alt="Public Knowledge Workshop"></a>

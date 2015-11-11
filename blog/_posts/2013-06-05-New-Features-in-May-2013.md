@@ -3,9 +3,6 @@ authors:
 - tryggvib
 redirect_from: /2013/06/New-Features-in-May-2013/
 title: New Features in May 2013
-published: true
-type: post
-status: published
 ---
 
 ![Image by Mosman Library (cc-by 2.0)](https://farm9.staticflickr.com/8205/8206356927_3d5c720658_c.jpg "Badges!")

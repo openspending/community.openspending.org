@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/12/Roundup/
 title: OpenSpending A Year in Review 
-published: true
-type: post
-status: publish
 ---
 
 Just before I turn on my autoresponder and submerge my computer into the blackness of holiday in a concrete box to which I have no access, I thought I'd just quickly wrap up a few of the highlights from this amazing year. It has been very intense - but we've covered a lot of ground, here's a few highlights... 

@@ -3,9 +3,6 @@ authors:
 - lisa
 redirect_from: /2013/03/spending-stories-open-spending-are-moving-beyond-visualizations/
 title: Spending Stories, Open Spending Are Moving Beyond Visualizations
-published: true
-type: post
-status: published
 ---
 
 <iframe width='650' height='500' src='http://www.pbs.org/idealab/os.jpg' frameborder='0'></iframe>

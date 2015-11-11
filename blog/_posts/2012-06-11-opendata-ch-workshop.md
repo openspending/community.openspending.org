@@ -3,9 +3,6 @@ authors:
 - matthias
 redirect_from: /2012/06/opendata-ch-workshop/
 title: Workshop - Open Budget and Procurement Zurich June 28th 2012
-published: true
-type: post
-status: publish
 ---
 
 **As part of the Opendata.ch conference on June 28th 2012 in Zürich there will be a workshop dedicated to the topic of open budget and procurement.** 

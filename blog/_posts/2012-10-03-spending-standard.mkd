@@ -3,9 +3,6 @@ authors:
 - lucy
 redirect_from: /2012/10/spending-standard/
 title: Upcoming call - Spending Standard
-published: true
-type: post
-status: publish
 ---
 
 **At OKFestival we had a fantastic session bringing together the IATI and spending community to talk about how we could make standards work for the users of government financial data. Now we want to keep the ball rolling. Next week, we will have a call to discuss how we can make a standard for transaction-level spending data happen...**

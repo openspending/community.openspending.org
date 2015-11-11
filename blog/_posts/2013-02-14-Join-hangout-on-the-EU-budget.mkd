@@ -3,9 +3,6 @@ authors:
 - anders
 redirect_from: /2013/02/Join-hangout-on-the-EU-budget/
 title: How to find spending data inside EU's budget - join us for a Google Hangout!
-published: true
-type: post
-status: published
 ---
 
 <iframe width='600' height='343' src='http://openspending.org/eu-budget-mff/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22main-programme%22%2C%22programme%22%2C%22sub-programme%22%5D%2C%22year%22%3A2020%2C%22cuts%22%3A%7B%7D%7D&width=700&height=400' frameborder='0'></iframe>
