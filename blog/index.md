@@ -1,5 +1,6 @@
 ---
 title: The OpenSpending Blog
+layout: page
 ---
 
 {% for post in site.categories.blog %}

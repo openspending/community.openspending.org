@@ -6,7 +6,7 @@ wide: true
 {% assign section = page.section %}
 
 {% assign section_base = site.baseurl | append: section | append: '/' %}
-
+                 
 <div class="post">
   <article class="post-content">
     <a href="/{{ section_base }}" class="pre-header">{{ section }}</a>
@@ -20,6 +20,12 @@ wide: true
       </ul>
     </div>
     {% endif %}
+
+    {% capture pagetime %}{{page.date | date: '%s'}}{% endcapture %}
+    {% if pagetime < '1429045200' %}
+    {% include deprecated.html %}
+    {% endif %}
+                     
     {{ content }}
   </article>
 
