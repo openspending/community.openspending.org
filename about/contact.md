@@ -21,4 +21,4 @@ The best place for OpenSpending-related discussions is our [forum](https://discu
   * [OpenSpending Datasets and Data Registry](https://github.com/os-data) (Datasets to load into OpenSpending)
 * Twitter: [&#64;openspending](https://twitter.com/openspending)
 * Facebook: [OpenSpending](https://www.facebook.com/openspending?_rdr=p)
-* Email: `info@openspending.org`
+* Email: <a href="mailto:info@openspending.org">info@openspending.org</a>
