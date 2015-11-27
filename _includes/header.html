@@ -75,12 +75,70 @@
         </li>
         <li {% if url_last == 'mappingcommunity' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/mappingcommunity/">Mapping the OpenSpending Community</a>
+          <ul>
+            <li {% if page.url contains 'mappingcommunity/introduction/' %}class="Selected"{% endif %}>
+              <a href="{{ site.baseurl }}/resources/mappingcommunity/introduction/">Introduction</a>
+              <ul>
+                <li {% if page.url contains 'mappingcommunity/introduction/videos/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/introduction/videos/">Athens to Berlin: Video Series</a></li>
+                <li {% if page.url contains 'mappingcommunity/introduction/map/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/introduction/map/">Map of Contacts</a></li>
+                <li {% if page.url contains 'mappingcommunity/introduction/timeline/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/introduction/timeline/">Timeline</a></li>
+              </ul>
+            </li>
+            <li {% if page.url contains 'mappingcommunity/executive-summary/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/executive-summary/">Executive summary</a></li>
+            <li {% if page.url contains 'mappingcommunity/case-studies-budgets/' %}class="Selected"{% endif %}>
+              <a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-budgets/">Case Studies: Budgets</a>
+              <ul>
+                <li {% if page.url contains 'mappingcommunity/case-studies-budgets/lost-money' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-budgets/lost-money">Bani pierduti?</a></li>
+                <li {% if page.url contains 'mappingcommunity/case-studies-budgets/openbudgetoakland/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-budgets/openbudgetoakland/">OpenBudgetOakland</a></li>
+                <li {% if page.url contains 'mappingcommunity/case-studies-budgets/cbga/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-budgets/cbga/">Centre for Budget and Governance Accountability</a></li>
+                <li {% if page.url contains 'mappingcommunity/case-studies-budgets/bosnia/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-budgets/bosnia/">Centre for Public Interest Advocacy</a></li>
+                <li {% if page.url contains 'mappingcommunity/case-studies-budgets/expert-grup/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-budgets/expert-grup/">Expert Grup</a></li>
+              </ul>
+            </li>
+            <li {% if page.url contains 'mappingcommunity/case-studies-spending/' %}class="Selected"{% endif %}>
+              <a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-spending/">Case Studies: Spending</a>
+              <ul>
+                <li {% if page.url contains 'mappingcommunity/case-studies-spending/caring-for-my-neighbourhood/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-spending/caring-for-my-neighbourhood/">Caring for my Neighbourhood</a></li>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-spending/okfn-greece/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-spending/okfn-greece/">Open Knowledge Foundation Greece</a></li>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-spending/eu-spending-data/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-spending/eu-spending-data/">EU Spending Data</a></li>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-spending/farmsubsidy/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-spending/farmsubsidy/">FarmSubsidy.org</a></li>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-spending/farm-subsidies-mexico/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-spending/farm-subsidies-mexico/">Farm subsidies in Mexico</a></li>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-spending/india-spend/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-spending/india-spend/">India Spend</a></li>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-spending/supervizor/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-spending/supervizor/">Supervizor, Slovenia</a></li>
+              </ul>
+            </li>
+            <li {% if page.url contains 'mappingcommunity/case-studies-procurements/' %}class="Selected"{% endif %}>
+              <a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-procurements/">Case Studies: Procurements</a>
+              <ul>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-procurements/hutspace/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-procurements/hutspace/">Hutspace</a></li>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-procurements/texty/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-procurements/texty/">Texty</a></li>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-procurements/opented/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-procurements/opented/">OpenTED, Opening Tender Electronic Daily</a></li>
+              </ul>
+            </li>
+            <li {% if page.url contains 'mappingcommunity/case-studies-other/' %}class="Selected"{% endif %}>
+              <a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-other/">Case Studies: From Local to Global</a>
+              <ul>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-other/openspending/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-other/openspending/">OpenSpending</a></li>
+	        <li {% if page.url contains 'mappingcommunity/case-studies-other/opening-university/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/case-studies-other/opening-university/">Open University</a></li>
+              </ul>
+            </li>
+            <li {% if page.url contains 'mappingcommunity/conclusions/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/conclusions/">Conclusions</a></li>
+            <li {% if page.url contains 'mappingcommunity/appendix/' %}class="Selected"{% endif %}>
+              <a href="{{ site.baseurl }}/resources/mappingcommunity/appendix/">Appendix</a>
+              <ul>
+	        <li {% if page.url contains 'mappingcommunity/appendix/open-budgets-open-data' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/appendix/open-budgets-open-data">Putting the Open Data into Open Budgets</a></li>
+	        <li {% if page.url contains 'mappingcommunity/appendix/tool-ecosystem/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/appendix/tool-ecosystem/">Tool Ecosystem</a></li>
+	        <li {% if page.url contains 'mappingcommunity/appendix/machinereadfaq/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/appendix/machinereadfaq/">Common arguments against publishing data</a></li>
+	        <li {% if page.url contains 'mappingcommunity/appendix/privacyguide/' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/appendix/privacyguide/">How to publish spending data without disclosing personal information</a></li>
+	        <li {% if page.url contains 'mappingcommunity/appendix/other-handy-datasets' %}class="Selected"{% endif %}><a href="{{ site.baseurl }}/resources/mappingcommunity/appendix/other-handy-datasets">Other handy datasets</a></li>
+              </ul>
+            </li>
+          </ul>
         </li>
         <li {% if url_last == 'gift' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/gift/">Technology for Transparent and Accountable Public Finance</a>
           {% include gift_nav.html %}
         </li>
-
         <li {% if url_last == 'iati' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/iati/">IATI</a>
         </li>
