@@ -1,40 +1,37 @@
 ---
-title: Resources on Financial Data
-lead: true
+title: Resources
 redirect_from:
   - /research/
 ---
 
-## Community Resources
 
-![Photo from MozFest](img/mozfest1.png)
+## Community
 
-OpenSpending is not just a set of technologies, the core of our
+OpenSpending is not just a set of technologies.  The core of our
 project is a community of transparency enthusiasts, public finance
 experts and data wranglers. We're discussing and developing new ways
 to monitor and explain budgets and government spending through the use
-of technology.
+of technology.  The following reports and guides are the results of
+this ongoing work.
 
-![Photo from MozFest](img/mozfest2.png)
+![Photo from MozFest](img/mozfest1.png)
+
+### Reports
+
+- [Where Does the European Union's Money Go?](./eu/)
+- [Mapping the Open Spending Data Community](./mappingcommunity/)
+- [Technology for Transparent and Accountable Public Finance](./gift/)
 
 ### Guides
 
-- [Where Does the European Union's Money Go?](./eu/)
 - [Connecting the International Aid Flows](./iati/)
+- [Follow the money](./journo/)
+- [UK Departmental Spending](./gb-spending/)
+
+### Other
+
 - [OpenSpending.mobi](./mobi/)
-
-![Photo from MozFest](img/mozfest3.png)
-
-### Reports and Books
-
-- [Journalist resources](./journo/)
-- [Spending Data Handbook](./handbook/ch001_introduction.html)
-- [Technology for Fiscal Transparency Report](./gift/)
-- [Standard for Transaction-Level Spending Data](./standard/)
-
-### Join our discussion list!
-
-<form action="http://lists.okfn.org/mailman/subscribe/openspending" action="POST" class="form-inline">
-<input type="text" class="input-medium span4" name="email" placeholder="Email">
-<button type="submit" class="btn">Sign up</button>
-</form>
+- [Map of Spending Projects](./map-of-spending-projects/)
+- [Working Group on Open Spending Data](./wg/)
+- [Spending Data Standard [Fiscal Data Package] (current)](http://fiscal.dataprotocols.org/)
+- [Spending Data Standard (deprecated)](./standard/)
