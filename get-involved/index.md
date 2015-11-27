@@ -59,7 +59,7 @@ data imported into the flat file DataStore.
 ## Code
 
 * [Fiscal Data Package](https://github.com/openspending/fiscal-data-package) (FDP): A standard for publishing fiscal data
-* [Fiscal Data Package (schema)](https://github.com/dataprotocols/schemas/blob/master/fiscal-data-package.json): JSON Schema for validating a Fiscal Data Package
+* [Fiscal Data Package](https://github.com/dataprotocols/schemas/blob/master/fiscal-data-package.json) (schema): JSON Schema for validating a Fiscal Data Package
 * [Fiscal Data Packager](https://github.com/openspending/fiscal-data-packager): A simple app to create a FDP from CSV
 * [Fiscal Data JS](https://github.com/openspending/fiscal-data-js): A data access library to create "views" on fiscal data (e.g. for visualization)
 * [Fiscal Data Package Viewer](https://github.com/openspending/fiscal-data-package-viewer): A single app to visualise data in common formats (e.g. treemap, table)
