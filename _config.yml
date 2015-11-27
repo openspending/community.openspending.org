@@ -95,6 +95,12 @@ defaults:
       edit: true
   -
     scope:
+      path: "help"
+    values:
+      layout: "deprecated"
+      section: "help"
+  -
+    scope:
       path: "blog"
     values:
       layout: "post"
