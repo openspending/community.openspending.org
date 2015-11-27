@@ -8,16 +8,17 @@ redirect_from:
 - /contact/
 ---
 
-For all discussions about OpenSpending, spending data, developing
-using OpenSpending, as well as new and upcoming projects, please visit
-the [OpenSpending Forums]({{ site.contact }}).  
+Connect with the OpenSpending community.
 
-The full list of ways to get in touch:
+The best place for OpenSpending-related discussions is our [forum](https://discuss.okfn.org/c/openspending/), but you can interact with OpenSpending on your favorite social network by following the links below:
 
-* [OpenSpending Forums]({{ site.contact }})
-* Online chat (<abbr title="Internet Relay Chat">IRC</abbr>): [#OpenSpending on Freenode](http://webchat.freenode.net/?channels=openspending)
-* GitHub: [openspending](https://github.com/openspending)
-* Twitter: 
-  * [&#64;openspending](https://twitter.com/openspending)
-  * [Spending Orgs list](https://twitter.com/#!/openspending/spending-orgs)
+* Open Knowledge Discussion Forum
+  * [English](https://discuss.okfn.org/c/openspending/none)
+  * [Portuguese](https://discuss.okfn.org/c/openspending/gastos-abertos)
+* <abbr title="Internet Relay Chat">IRC</abbr> chat: [#OpenSpending](http://webchat.freenode.net/?channels=openspending)
+* GitHub: 
+  * [OpenSpending](https://github.com/openspending) (OpenSpending-related code)
+  * [OpenSpending Datasets and Data Registry](https://github.com/os-data) (Datasets to load into OpenSpending)
+* Twitter: [&#64;openspending](https://twitter.com/openspending)
+* Facebook: [OpenSpending](https://www.facebook.com/openspending?_rdr=p)
 * Email: `info@openspending.org`
