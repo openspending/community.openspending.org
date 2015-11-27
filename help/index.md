@@ -1,5 +1,4 @@
 ---
-lead: true
 title: Help
 authors:
 - Anders Pedersen
