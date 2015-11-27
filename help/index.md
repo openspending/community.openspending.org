@@ -2,6 +2,7 @@
 title: Help
 authors:
 - Anders Pedersen
+redirect_to: "/get-involved/"
 ---
 
 Are you looking to get started using OpenSpending? Have a look at some
