@@ -24,7 +24,7 @@ Our [blog](http://blog.openspending.org) is powered by WordPress.  The
 Community Site is built using [Jekyll](http://jekyllrb.com/) and
 hosted on [GitHub Pages](https://pages.github.com/), which makes it
 easy for community members to contribute via pull requests on our
-[GitHub repo](https://github.com/openspending/dotorg).
+[GitHub repo](https://github.com/openspending/community.openspending.org).
 
 
 To get involved see the [Get Involved page][3].
