@@ -1,5 +1,6 @@
 ---
 title: Media
+section: meta
 ---
 
 ## OpenSpending Square Logo

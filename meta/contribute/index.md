@@ -3,6 +3,7 @@ title: Contributing to this site
 authors:
  - Sam Smith
 lang: en
+section: meta
 ---
 
 Thank you for your interest in in helping to build the OpenSpending
