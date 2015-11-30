@@ -27,7 +27,7 @@ OpenSpending joined forces with other projects in 2011 and expanded to become
 OpenSpending.
 
 Today, the original OpenSpending database has over 1000 datasets
-representing roughly 28k transactions.  In addition, there are more
+representing more than 28 million transactions. In addition, there are more
 than 30 local “Where Does My Money Go” sites powered by OpenSpending
 from Brazil to Nicaragua, Cameroon to Bosnia.
 
@@ -36,7 +36,7 @@ from Brazil to Nicaragua, Cameroon to Bosnia.
 OpenSpending is guided by its community principles.
 
 * **Open materials**. All material created within the project will be [open data and open content](http://opendefinition.org) built with [open tools](http://opensource.org). All project data is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/) or another [Open Data Commons license](http://opendatacommons.org/licenses/).
-* **Open community**. Anyone interested in financial data can contribute. We're friendly to newcomers and old hands alike—everyone was new once, and we value all levels of experience.
+* **Open community**. Anyone interested in financial data can contribute. We're friendly to newcomers and old hands alike -- everyone was new once, and we value all levels of experience.
 * **Doing**. Our focus is on the concrete, not the abstract, and on making rather than theorizing.
 
 ## Governance
