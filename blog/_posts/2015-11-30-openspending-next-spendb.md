@@ -21,7 +21,7 @@ Going forward, we're excited to see both branches of OpenSpending develop: on th
 
 Within the community, our goal is to make OpenSpending a meeting point for anyone interested in understanding how government manages and distributes public money. This is not a conversation about tools and widgets, but one about how open data can be used in the service of public education, accountability and wider engagement with public finances. 
 
-At the same time, this is an exciting moment for the technologies surrounding OpenSpending: while the [main software platform](http://openspending.org/) hadn't evolved much for several years, it is about to be replaced by [a more flexible set of standards and up-to-date technologies](/next/) giving it a new level of usability, scalability and robustness. 
+At the same time, this is an exciting moment for the technologies surrounding OpenSpending: the [main software platform](http://openspending.org/) is about to get a [major upgrade with a more flexible architecture, a new standard and the latest technologies](/next/). This will provide the platform with a new and much improved level of usability, scalability and robustness. 
 
 The [Fiscal Data Package (FDP)](http://fiscal.dataprotocols.org/) is a light-weight, descriptive data model that can be used to describe and compare a wide variety of fiscal data - it will act as a backbone to connect many of the applications in the OpenSpending technology stack.
 
