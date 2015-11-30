@@ -14,25 +14,26 @@ Here are some of the projects, past and present, that we have been involved with
 * <a href="#publications">Publications and reports</a>
 * <a href="#standards">Technical standards</a>
 * <a href="#stories">Stories and data journalism</a>
-* <a href="#you-project">Collaborate! Your project here...</a>
+* <a href="#your-project">Collaborate! Your project here...</a>
 
 <a name="current-development"></a>
 
-### Current projects
+## Current projects
 
-<div class="well">
-<h5>Spending Stories</h5>
+We're working on [OpenSpending Next](/next/), the next version of OpenSpending.  Learn how to [get involved](/get-involved/)!
+
+<a name="past-development"></a>
+
+## Already unleashed
+
+#### Spending Stories
+
 In 2011, the Open Knowledge Foundation was awarded a Knight News Challenge Grant to work on the <a href="http://blog.okfn.org/2011/01/18/spending-stories/">Spending Stories</a> Project. Large numbers are often meaningless to the general public, and despite a wealth of information around government spending, the topic of government finance is often overlooked by journalists. The Spending Stories project aims to facilitate reporting by speeding up fact-checking around spending data as well as connecting news stories about public spending to relevant datasets and visualisations to put these stories into context.
 
 We're into our second year of the project now. <a href="http://www.pbs.org/idealab/2012/12/follow-the-money-a-spending-stories-guide-for-journalists345.html">See what we are up to by following our updates on the PBS Idea Lab blog.</a>
 
-</div>
-<a name="past-development"></a>
+#### budzeti.ba: Bosnian Budget Bubbles
 
-### Already unleashed
-
-<div class="well">
-<h5>budzeti.ba: Bosnian Budget Bubbles</h5>
 <img class="pull-right" style="margin-left: 1em;" title="Balkan Budgets" src="http://farm9.staticflickr.com/8063/8219557569_cc12ebbdea_m.jpg" alt="" />
 
 In October 2013 OpenSpending launched the "Where Does My Money Go"-site <a href="http://budzeti.ba/">budzeti.ba</a> in Bosnia and Herzegovina. Thanks to a grant from the National Endowment for Democracy, the OpenSpending team collaborated with the Centre for Public Interest Advocacy in Bosnia to produce interactive graphics of national and subnational budgets in Bosnia.
@@ -45,11 +46,11 @@ As part of the project OpenSpending:
 <li>Developed a tax calculator for Bosnia (similar to the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a>).</li>
 <li>Tested the <a href="http://openspending.org/resources/handbook/ch001_introduction.html">Spending Data Handbook</a> and added an <a href="http://community.openspending.org/help/guide/">OpenSpending guide</a> with a more technical guidance, for those organisations wishing to do more ambitious data work.</li>
 </ul>
+
 <a href="http://blog.openspending.org/2012/09/26/balkan-budget-bubbles/">Read more about the project.</a> Read the full announcement from <a href="http://community.openspending.org/2013/10/budzeti-ba-follow-the-money-bosnia-herzegovina/">the launch</a>.
 
-</div>
-<div class="well">
-<h5>OpenSpending Slovakia</h5>
+#### OpenSpending Slovakia
+
 In early 2013, we launched <a href="http://slovakia.openspending.org">Slovakia Openspending</a>, prepared in collaboration with transparency and anti-corruption watchdog <a href="http://www.transparency.sk/">Transparency International Slovakia</a>. The site contains budget and expenditure information gathered from some 20 cities across Slovakia allowing users to examine current municipality budgets and compare them to expenditures going back to 2009. Based on the openspending.org source code, we have added several improvements such as:
 
 <ul>
@@ -59,9 +60,8 @@ In early 2013, we launched <a href="http://slovakia.openspending.org">Slovakia O
 </ul>
 Transparency Slovakia hopes to promote the site as an example of how budgets could be made more accessible and comprehensible to the public once the site is localized and tested further. While not in its current plans, additional spending data and a feature to allow users to compare cities would improve opportunities for doing crowdsourced benchmarking.
 
-</div>
-<div class="well">
-<h5>Where Does My Money Go?</h5>
+#### Where Does My Money Go?
+
 <img class="pull-left" style="margin-right: 3em;" title="WDMMG original" src="http://farm8.staticflickr.com/7088/7315252358_7dae93b263.jpg" alt="" width="250" />
 
 <a href="http://wheredoesmymoneygo.org/">Where Does My Money Go?</a> (WDMMG) is the project from which OpenSpending was born. Funded originally by 4IP, it allows UK citizens to examine where their taxes are being spent through an interactive 'bubble tree' visualisation. They can even find out how much they contribute on a daily basis through their taxes to various sectors of society through the <a href="http://wheredoesmymoneygo.org/dailybread.html">Daily Bread</a> app.
@@ -73,9 +73,9 @@ You can now build a site like WDMMG for your own country using the OpenSpending 
 <li><a href="https://twitter.com/#!/wdmmg">Follow Where Does My Money Go? on Twitter</a></li>
 <li><a href="http://blog.openspending.org/2012/02/16/thekit/">Read more about how to create your own Where Does My Money Go?site</a></li>
 </ul>
-</div>
-<div class="well">
-<h5>Cameroon Budget Inquirer</h5>
+
+#### Cameroon Budget Inquirer
+
 <img class="pull-left" style="margin-right: 2em;" title="Cameroon Budget Inquirer" src="http://farm9.staticflickr.com/8340/8287000485_4daf7d73da_n.jpg" alt="" />
 
 We collaborated with the World Bank to produce a citizen-friendly representation of <a href="http://cameroon.openspending.org/">Cameroon's budget</a>.
@@ -87,9 +87,8 @@ The project incorporates the open-source 'bubble visualisations' first seen in W
 <li>A sub-national budget transparency index - similar to the work of the International Budget Partnership, but at sub-national levels. This highlights the availability of key budget documents and ranks regions on their availability.</li>
 <li>Explore the data: filter the data by categories such as amount, location, and activity.</li>
 </ul>
-</div>
-<div class="well">
-<h5>OffenerHaushalt</h5>
+
+#### OffenerHaushalt
 <img class="pull-right" style="margin-left: 1em;" title="Offener Haushalt" src="http://farm8.staticflickr.com/7077/7315281352_2c00d928d8.jpg" alt="" width="250" />
 
 <a href="http://bund.offenerhaushalt.de/">OffenerHaushalt</a> allows users to explore and drill down through the various layers of Germany's federal budget, comparing data from as far back as 2006. Through the new TreeMap visualisation, the user can easily see and explore the different departments and programmes and see how much is spent, proportions and statistics on changes between years.
@@ -100,9 +99,9 @@ The success of OffenerHaushalt and the demand to roll it out on a local level wa
 <li><a href="http://bund.offenerhaushalt.de/">Visit the OffenerHaushalt Project</a></li>
 <li><a href="https://twitter.com/#!/offenerhaushalt">Follow OffenerHaushalt on Twitter</a></li>
 </ul>
-</div>
-<div class="well">
-<h5>Uganda Aid Visualisation</h5>
+
+#### Uganda Aid Visualisation
+
 Aid flows often do not pass through a recipient government’s conventional budget mechanisms. When this happens, recipient governments themselves may not have the complete overview of where aid money goes and how donor priorities align with their own. This information is vital for governments and aid donors to be able to make the best use of scarce resources.
 
 <img class="pull-left" style="margin-right: 1em;" title="Uganda Aid" src="http://farm9.staticflickr.com/8159/7315314386_7940819de6.jpg" alt="" width="250" />
@@ -117,9 +116,9 @@ The Uganda Aid visualisation project was a joint project between the OKFN and Pu
 <li><a href="http://openspending.org/ugandabudget">Uganda Budget and Aid to Uganda, 2003-2006 dataset in OpenSpending</a></li>
 <li>Coverage of the Uganda Visualisation: <a href="http://www.guardian.co.uk/global-development/poverty-matters/2011/nov/25/uganda-aid-confusion-analyse-spending?newsfeed=true">Guardian Poverty Matters Blog</a></li>
 </ul>
-</div>
-<div class="well">
-<h5>IATI</h5>
+
+#### IATI
+
 The International Aid Transparency Initiative is a common format for publishing aid information. 29 signatories representing 75% of global Official Development Finance have committed to reporting timely information about their aid activities in this standard format. Already, 13 signatories representing 45% of ODF have published.
 
 <img class="pull-right" style="margin-left: 1em;" title="IATI" src="http://farm9.staticflickr.com/8007/7315331330_4dafe5ea48.jpg" alt="" width="250" />
@@ -130,49 +129,46 @@ However, the nature of IATI as a distributed collection of raw data feeds also p
 
 <a href="http://openspending.org/iati?_time=2011">View the IATI data on OpenSpending</a>
 
-</div>
 <a name="gov-tools"></a>
 
-<h2>Tools for governments</h2>
-<div class="well">
-<h5>Data.Gov.Uk Spend Browser</h5>
+## Tools for governments
+
+#### Data.Gov.Uk Spend Browser
+
 <img class="pull-left" style="margin-right: 2em;" title="Reporting Tool" src="http://farm6.staticflickr.com/5523/9045231550_505140b175_n.jpg" alt="http://farm6.staticflickr.com/5523/9045231550_505140b175_n.jpg" />
+
 The OpenSpending team worked with Data.Gov.Uk to build the <a href="http://data.gov.uk/data/openspending-browse">transaction explorer</a> which forms part of the Data.Gov.Uk website.
 
 The transaction explorer allows any user to directly search the OpenSpending database for companies, departments or projects of interest and investigate how much money was spent on them.
 
-</div>
-<div class="well">
-<h5>UK Government Spend Reporting Dashboard</h5>
+#### UK Government Spend Reporting Dashboard
+
 <img class="pull-left" style="margin-right: 2em;" title="Reporting Tool" src="http://farm9.staticflickr.com/8443/7980196066_d4aa29eb0d_z.jpg" alt="" />
 
 The OpenSpending team worked with Data.Gov.Uk to produce an automatic reporting tool to demonstrate which government departments were complying with their transparency obligations.
 
 The <a href="http://data.gov.uk/data/openspending-report/index">tool</a> lists departments registered as data publishers on data.gov.uk and details how precisely they have followed the <a href="https://www.gov.uk/government/publications/guidance-for-publishing-spend-over-25000">HM Treasury reporting guidelines</a>. It will also make the whole of the reported data available for search and analysis both on <a href="http://data.gov.uk/openspending">data.gov.uk</a> and on the OpenSpending site.
 
-</div>
 <a name="gov-use-cases"></a>
 
-<h2>Government use cases</h2>
-<div class="well">
-<h5>City of Bologna</h5>
+## Government use cases
+
+#### City of Bologna
+
 <img class="pull-left" style="margin-right: 2em;" title="Open Dati Bologna Tool" src="http://dati.comune.bologna.it/file/field/image/open_spending_pic_bologna.png" alt="http://dati.comune.bologna.it/file/field/image/open_spending_pic_bologna.png" />
 
 The open data team at the City of Bologna uses OpenSpending to visualise several years of <a href="http://openspending.org/bp_2012_entrate/views/table-of-aggregates-bilancio-di-previsione-2012-entrate">the city budget</a>.
 
-</div>
-<div class="well">
-<h5>City of Berlin</h5>
+#### City of Berlin
 <img class="pull-left" style="margin-right: 2em;" title="The budget for Berlin city" src="http://stefanwehrmeyer.com/img/blog/2013/02/budget-berlin.png" alt="http://stefanwehrmeyer.com/img/blog/2013/02/budget-berlin.png" />
 
 The City of Berlin asked Open Knowledge Foundation Germany to visualise the budget for the city using OpenSpending. The result is featured on the <a href="https://imperia9.berlinonline.de/sen/finanzen/haushalt/haushaltsplan/artikel.5697.php">site for the city finances</a>.
 
-</div>
 <a name="publications"></a>
 
-<h2>Publications and Reports</h2>
-<div class="well" style="padding-bottom: 50px;">
-<h5>Technology for Transparent &amp; Accountable Public Finance</h5>
+## Publications and Reports
+
+#### Technology for Transparent &amp; Accountable Public Finance
 <img class="pull-left" style="margin-right: 2em;" title="TTAPF" src="http://farm9.staticflickr.com/8031/8002530046_fe4354f76a_m.jpg" alt="" />
 
 The report, <a href="../../resources/gift/">“Technology for Transparent and Accountable Public Finance”</a>, was commissioned by the Global Initiative for Fiscal Transparency (GIFT) in February 2012 in order to assist GIFT in assessing the potential of technology to aid transparency and accountability in relation to governments’ fiscal activities.
@@ -181,9 +177,7 @@ Read the <a href="../../resources/gift/chapter9-intro/#governments">recommendati
 
 <a href="http://content.openspending.org/resources/gift/pdf/ttapf_report_20120530.pdf">Download as PDF</a>
 
-</div>
-<div class="well">
-<h5>Mapping the Open Spending Data Community</h5>
+#### Mapping the Open Spending Data Community
 <img class="pull-right" style="margin-left: 2em;" title="Spend Report" src="http://farm8.staticflickr.com/7414/8881834696_4176e6d2ea_m.jpg" alt="" />
 
 In early 2012, we set out on a mission. Our aim was to establish how CSO's currently work with spending data, how they would like to use it, and what they would like to achieve - including:
@@ -206,9 +200,7 @@ Read the <a href="../../resources/mappingcommunity/conclusions/">conclusions</a>
 
 <a href="../../resources/mappingcommunity/introduction/videos/">Athens to Berlin research trip: Watch the video interviews</a>
 
-</div>
-<div class="well">
-<h5>The Spending Data Handbook</h5>
+#### The Spending Data Handbook
 <img class="pull-left" style="margin-right: 2em;" title="Spending Handbook" src="http://farm8.staticflickr.com/7449/8754377372_77aed9107e_m.jpg" alt="" />
 
 The <a href="../../resources/handbook/">Spending Data Handbook</a> is addressed to people and organisations who want to use and understand government budgets and spending data in their work.
@@ -223,12 +215,12 @@ The book covers:
 <li>Presenting your findings to engage the public, media and government</li>
 <li>Lists and appendices of technical and non-technical resources</li>
 </ul>
-</div>
+
 <a name="standards"></a>
 
-<h2>Standards</h2>
-<div class="well">
-<h5>[Draft] Standard for Transaction-level Spending Data</h5>
+## Standards
+
+#### [Draft] Standard for Transaction-level Spending Data
 The release of transaction-level data (i.e. information about individual disbursements or contract spending) is a relatively new idea, compared to the release of higher-level accounting information or budget overviews. The availability of such data allows for fine-grained analysis and oversight of activities and will, in the future, enable anyone inside or outside of government to reconstruct key reports from raw data. In order to perform these types of analysis, it is often necessary to combine spending information from several sources - either for completeness or comparison.
 
 Too often, standardization in this context appears to be supply-driven: every publisher wants to express the full range of data they hold and are willing to release. Necessarily, such an approach leads to a standard that is the superset of all the systems that feed into it.
@@ -237,12 +229,12 @@ Such designs tend to be of little use to the intended consumers, as they raise t
 
 Read our <a href="../../resources/standard/">proposed standard</a>.
 
-</div>
 <a name="stories"></a>
 
-<h2>Stories and Data Journalism</h2>
-<h5>The Guardian (UK)</h5>
-<div class="well">
+## Stories and Data Journalism
+
+#### The Guardian (UK)
+
 <h4>The Real Price of the London Olympics</h4>
 <a title="olympic-guardian by anderspedersenOKF, on Flickr" href="http://www.flickr.com/photos/94746900@N06/8915659698/"><img src="http://farm3.staticflickr.com/2806/8915659698_60f3b70eed_o.png" alt="olympic-guardian" /></a>
 
@@ -253,24 +245,18 @@ The Guardian used OpenSpending's bubbletree visualisations to answer the questio
 <h4>The Daily Bread</h4>
 <a href="http://www.guardian.co.uk/uk/datablog/interactive/2013/mar/20/budget-2013-how-taxes-spent-interactive">The Daily Bread</a> from Where Does My Money Go? Has made regular appearances on the Guardian Datablog around budget time in the UK.
 
-</div>
-<div class="well">
-<h5>Le Monde (France)</h5>
+#### Le Monde (France)
 We experienced an extremely high traffic spike when a visualisation based on French data was featured in Le Monde in October 2012.
 The article <a href="http://www.lemonde.fr/politique/article/2012/10/16/plf-des-avions-au-bouclier-fiscal-la-java-des-amendements_1776093_823448.html?xtmc=depenses&amp;xtcr=52">PLF : des avions au bouclier fiscal, la java des amendements</a>, (PLF=Projet de loi de finances, the draft finance law) deals with suggested amendments to the draft finance law and which parties were demanding what amendments.
 
 The OpenSpending visualisation used in the article is intended to give a high-level representation of some of the main areas of government expenditure in France.
 
-</div>
-<div class="well">
-<h5>Politiken (Denmark)</h5>
+#### Politiken (Denmark)
 <a title="politiken" href="http://farm6.staticflickr.com/5339/9044797934_366b1d8914_m.jpg"><img class="pull-right" style="margin-left: 2em;" src="http://farm6.staticflickr.com/5339/9044797934_366b1d8914_m.jpg" alt="politiken" /></a>
 
 Municipalities are central for the functioning of the welfare state Denmark. They take care of a range of important tasks like social- and health care, primary education, social benefits, traffic and much more. Even in a year with local elections, however, they do not attract much public attention. The open data web agency Buhl-Rasmussen developed a site of all 98 Danish municipalities for one of the biggest Danish news sites, Politiken.
 
-</div>
-<div class="well" style="padding-bottom: 50px;">
-<h5>Sumy News, Ukraine</h5>
+#### Sumy News, Ukraine
 <a title="politiken" href="http://sumynews.com/data-journalism2/budget-economy/item/4726-byudzhet-m-sumy-na-2013-rik-openspending.html&lt;br /&gt;
 "><img class="pull-left" style="margin-right: 1em;" src="http://farm6.staticflickr.com/5459/9045133060_9dbb04b97c_m.jpg" alt="" /></a>
 
@@ -280,9 +266,8 @@ The expected revenues for the coming year did not appear to match the planned ou
 
 <a href="http://sumynews.com/data-journalism2/budget-economy/item/4726-byudzhet-m-sumy-na-2013-rik-openspending.html">Read the article</a>.
 
-</div>
-<div class="well">
-<h5>Privacy International</h5>
+#### Privacy International
+
 In early 2012, Privacy International approached the Spending Stories team to ask for a search widget to be able to search across all of the government spending datasets held in OpenSpending. They had a list of companies which exhibited at the famous surveillance technology conferences in the US, the so-called Wiretappers' Ball, as well as a list of attendees of the conference, and they wanted to check which attendees also became customers of these companies.
 
 <img class="pull-right" style="margin-left: 1em;" title="Caelainn Barr" src="http://farm8.staticflickr.com/7213/7315271184_921d9ed606.jpg" alt="" width="250" />
@@ -295,9 +280,8 @@ As more datasets are loaded into OpenSpending, this universal search will get in
 <li><a href="http://opendatalabs.org/spendbrowser">Try out the search for yourself in the spendbrowser</a></li>
 <li><a href="http://blog.openspending.org/2012/02/24/how-spending-stories-fact-checks-big-brother-the-wiretappers-ball/">Read more about the story</a></li>
 </ul>
-</div>
-<div class="well">
-<h5>Italian Regional Accounts Data</h5>
+
+#### Italian Regional Accounts Data
 <img class="pull-left" style="margin-right: 1em;" title="Caelainn Barr" src="http://farm6.staticflickr.com/5224/5639223572_5451048271.jpg" alt="" width="250" />
 
 During the International Journalism Festival in Perugia in 2011, the OpenSpending team loaded and visualised the Italian regional accounts for 2008. The project received wide coverage in the Italian and International Press and was one of the earliest success stories for OpenSpending after Where Does My Money Go? went international.
@@ -311,14 +295,12 @@ Coverage of the Italian Regional Accounts Data:
 <li><a href="http://www.guardian.co.uk/news/datablog/interactive/2011/apr/19/italy-public-spending-visualisation">The Guardian</a></li>
 <li><a href="http://daily.wired.it/news/economia/2011/04/19/open-spending.html">Daily Wired</a></li>
 </ul>
-</div>
-<h2>Training</h2>
-<div class="well">
+
+## Training
+
 <img class="pull-right" style="margin-left: 3em;" title="Caelainn Barr" src="http://farm7.staticflickr.com/6166/6151919267_897ccfbd1c.jpg" alt="" width="250" />
 
-We regularly conduct training sessions for journalists and NGOs on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please [get in touch](/about/contact/)
-
-.
+We regularly conduct training sessions for journalists and NGOs on how to locate, extract, work with and visualise spending and other types of data. If you are interested in exploring these possibilities, please [get in touch](/about/contact/).
 
 <ul>
 <li><a href="http://blog.okfn.org/2011/08/09/data-driven-journalism-workshop-on-eu-spending-tools-techniques-utrecht-8th-9th-september/">Workshop on EU Spending, Utrecht</a></li>
@@ -327,24 +309,21 @@ We regularly conduct training sessions for journalists and NGOs on how to locate
 </ul>
 You can find more of our training materials on the <a href="http://schoolofdata.org/handbook/courses/">School of Data website</a>.
 
-</div>
-<h2>Community</h2>
-<div class="well">
+## Community
+
 <img class="pull-right" style="margin-left: 1em;" title="Kaitlin Lee presents Sunlight's Analysis OGDCamp" src="http://farm7.staticflickr.com/6166/6270108254_5875c8a7ed.jpg" alt="" width="250" />
 
 The OpenSpending community includes engaged citizens, dedicated journalists and members of civil society organisations working on developing best practices around opening up and using government financial data with experts from fields ranging from aid experts, participatory budgeting fields, governmental institutions and civic developer initiatives.
 
-We showcase and display some of the most interesting projects from all over the world on [the OpenSpending blog](http://blog.openspending.org/).
+We showcase and display some of the most interesting projects from all over the world on [the OpenSpending blog](/blog/).
 
-The working group is open to everyone with an interest in improving Government Financial Transparency around the world. If you're interested in joining, please join the <a href="http://lists.okfn.org/mailman/listinfo/openspending">OpenSpending Mailing List</a>.
+The working group is open to everyone with an interest in improving Government Financial Transparency around the world. If you're interested in joining, please join the <a href="https://discuss.okfn.org/c/openspending">forums</a>.
 
-</div>
 <a name="your-project"></a>
 
-### Contribute
+## Contribute
 
-<div class="well">
-<h5>Your project here</h5>
+#### Your project here
 Have some data? Have a Spending Story? Get in touch - we'd love to hear from you and are open to suggestions!
 
-</div>
+
