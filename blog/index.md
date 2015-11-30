@@ -5,8 +5,10 @@ layout: page
 
 {% for post in site.categories.blog %}
 
-<h2 class="post-title">{{ post.title }}</h2>
+## [{{ post.title }}]({{ post.url }})
+
 {{ post.date | date_to_long_string }}
+
 {% if post.authors %}
 <div class="author">Written by
   <ul>
