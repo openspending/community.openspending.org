@@ -3,7 +3,12 @@
 
 <header class="site-header">
   <a href="#menu" class="show-menu"><span class="text">Open the menu</span></a>
-  <a class="site-title" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
+  <div class="wrapper">
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
+    <form action="/search">
+      <input type="text" name="search" placeholder="Search" class="">
+    </form>
+  </div>
 </header>
 
 <nav id="menu">
@@ -156,6 +161,9 @@
         </li>
         <li {% if url_last == 'wg' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/wg/">Working Group on Open Spending Data</a>
+        </li>
+        <li {% if url_last == 'handbook %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/resources/handbook/">Spending Data Handbook</a>
         </li>
         <li {% if url_last == 'standard' %}class="Selected"{% endif %}>
           <a href="{{ site.baseurl }}/resources/standard/">Spending Data Standard (deprecated)</a>
