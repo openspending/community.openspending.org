@@ -597,13 +597,15 @@ body:not( .filters ) {
   background-color:#fff;
   width:100%;
   z-index:1;
+  position: relative;
   
   .show-menu {
     @include icon-font();
-    position:absolute;
-    border-right:solid 1px $medium-gray;
-    height:60px;
-    width:60px;
+    position: absolute;
+    border-right: solid 1px $medium-gray;
+    width: 60px;
+    height: 100%;
+    line-height: 3;
     
     &:before {
       content: "\e120";
@@ -633,20 +635,26 @@ body:not( .filters ) {
       clip: rect(0,0,0,0);
       border: 0;
     }
+    
+    @include media ($small-screen) {
+      line-height: 1;
+    }
   }
   
   .site-title {
-    color:$base-font-color;
-    font-size:rem(19);
-    line-height:60px;
-    text-transform:uppercase;
-    font-weight:700;
-    display:block;
+    color: $base-font-color;
+    font-size: rem(21);
+    line-height: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: block;
     margin-left: 75px;
+    height: 100%;
     
     @include media($small-screen) {
-      letter-spacing:2px;
-      font-size:rem(20);
+      font-size: rem(19);
+      line-height: 60px;
+      letter-spacing: 2px;
     
       .icon {
         @include icon-font();
