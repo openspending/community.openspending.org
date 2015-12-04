@@ -605,7 +605,7 @@ body:not( .filters ) {
     border-right: solid 1px $medium-gray;
     width: 60px;
     height: 100%;
-    line-height: 3;
+    line-height: 1;
     
     &:before {
       content: "\e120";
@@ -635,20 +635,16 @@ body:not( .filters ) {
       clip: rect(0,0,0,0);
       border: 0;
     }
-    
-    @include media ($small-screen) {
-      line-height: 1;
-    }
   }
   
   .site-title {
     color: $base-font-color;
-    font-size: rem(21);
-    line-height: 50px;
+    font-size: rem(14);
+    line-height: 58px;
     text-transform: uppercase;
     font-weight: 700;
     display: block;
-    margin-left: 75px;
+    margin-left: 70px;
     height: 100%;
     
     @include media($small-screen) {
