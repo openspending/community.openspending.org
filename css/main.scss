@@ -639,7 +639,7 @@ body:not( .filters ) {
   
   .site-title {
     color: $base-font-color;
-    font-size: rem(14);
+    font-size: rem(11);
     line-height: 58px;
     text-transform: uppercase;
     font-weight: 700;
@@ -648,9 +648,10 @@ body:not( .filters ) {
     height: 100%;
     
     @include media($small-screen) {
-      font-size: rem(19);
+      font-size: rem(20);
       line-height: 60px;
       letter-spacing: 2px;
+      margin-left: 75px;
     
       .icon {
         @include icon-font();
