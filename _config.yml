@@ -12,7 +12,6 @@ paypal: admin@okfn.org
 contact: https://discuss.okfn.org/c/openspending
 gems:
   - jekyll-redirect-from
-  - jekyll-mentions
   - jekyll-sitemap
 
 devs:
