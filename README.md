@@ -2,6 +2,8 @@
 OpenSpending Community Site
 ===========================
 
+[![Gitter](https://img.shields.io/gitter/room/openspending/chat.svg)](https://gitter.im/openspending/chat)
+
 This repo contains:
 
   * New Jekyll site for the OpenSpending Community
