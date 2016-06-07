@@ -16,17 +16,20 @@ of skills and will do what we can to help you getting started!
 ## Connect with the Community
 
 There's lots of general and technical discussion happening on our
-[OpenSpending Forums](https://discuss.okfn.org/c/openspending/none)
+[OpenSpending Forums](https://discuss.okfn.org/c/openspending)
 (also in
 [Portuguese](https://discuss.okfn.org/c/openspending/gastos-abertos)!).
-We also have an IRC channel on Freenode:
-[#openspending](http://webchat.freenode.net/?channels=openspending).
+
+Come and introduce yourself and start engaging with people who share the same common interest!
+
+We also have a Live Chat on Gitter :
+[Gitter Chatroom](https://gitter.im/openspending).
 For the full list of ways to get in touch, visit our
 [contact][contact] page.
 
 [contact]: {{site.baseurl}}/about/contact/
 
-## Contribute to the Fiscal Data Package Spec
+## Contribute to the Fiscal Data Package Standard
 
 We're hard at work on defining
 [Fiscal Data Package](http://fiscal.dataprotocols.org/), a simple,
@@ -41,7 +44,7 @@ queries in the
 ## Contribute to the Development of OpenSpending Next
 
 [OpenSpending Next](/next/) is the next generation of the OpenSpending
-platform.  We are now creating a "minimum viable product" version.
+platform. Based on the Fiscal Data Package Specification, it comes with a range of tools enabling the data upload, search, analysis and visualisation.
 
 ## Upload and Package Your Data
 
