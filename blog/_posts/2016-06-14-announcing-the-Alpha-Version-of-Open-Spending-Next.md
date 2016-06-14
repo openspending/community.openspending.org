@@ -24,7 +24,7 @@ The [Fiscal Data Package standard](http://fiscal.dataprotocols.org/spec/) unveil
 * **OS DataMine**: A rich analytical tool based on [re:dash](http://redash.io/) that allows performing deep queries into fiscal data.
 * **OS API**: This V3 API is almost entirely based on the excellent [Babbage](https://github.com/openspending/babbage). This API also features a fully backwards compatible implementation of the OpenSpending V2 API for legacy apps that depend on it.
 
-![OS-Next](https://blog.okfn.org/wp-content/uploads/2016/06/Capture-d’écran-2016-06-13-à-17.40.16-1024x626.png)
+![OS-Next](http://blog.okfn.org/wp-content/uploads/2016/06/Capture-d’écran-2016-06-13-à-17.40.16-1024x626.png)
 
 Since we started developing OpenSpending Next, we’ve been working in the following general areas:
 
