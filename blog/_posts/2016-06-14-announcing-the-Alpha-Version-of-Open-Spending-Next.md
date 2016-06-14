@@ -8,7 +8,7 @@ We’re happy to announce that a new, improved version of OpenSpending is now be
 
 OpenSpending Next is designed, developed and maintained by Open Knowledge International and, as an open source project, also reflects the very valuable contributions of an active, passionate and committed [community](http://community.openspending.org/next/).
 
-## <p align="center">[next.openspending.org](http://next.openspending.org)</p>
+## [next.openspending.org](http://next.openspending.org)
 
 Open Spending Next fills a gap in the lack of open tools that offer easy budget data publication, visualisation and analytics for individuals and organisations working with fiscal data, but also this time, provides a data model standard.
 
