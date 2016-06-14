@@ -1,6 +1,8 @@
-# Announcing the Alpha Version of Open Spending
-
-Authors: The Open Spending Team
+---
+title: "Announcing the Alpha Version of Open Spending Next"
+authors:
+- The Open Spending Team
+---
 
 We’re happy to announce that a new, improved version of Open Spending is now being launched as an Alpha Version. Open Spending Next provides a set of tools enabling users to visualise, analyse and publish budget and spending data against an Open Fiscal Data standard.
 
