@@ -32,11 +32,12 @@ Since we started developing OS Next, we’ve been working in the following gener
 * Collaborating with our partners [GIFT](http://www.fiscaltransparency.net/) and the [BOOST World Bank team](http://wbi.worldbank.org/boost/boost-initiative) to develop the [Fiscal Data Package](http://fiscal.dataprotocols.org/spec/). We’ve trialled and integrated datasets from different Boost countries with the Fiscal Data Package such as:
 * [Moldova](http://next.openspending.org/viewer/boost:boost-moldova-2005-2014?measure=adjusted.sum&order=adjusted.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=location_2.location)
 * [Tunisia](http://next.openspending.org/viewer/boost:boost-tunisia-2008-2014?measure=PAYE.sum&order=PAYE.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=administrative_classification_2.ADMIN1&rows%5B%5D=activity_2.PROG&columns%5B%5D=date_2.YEAR)
-* [Peru](http://next.openspending.org/viewer/boost:boost-peru-2012-2014?measure=Executed.sum&order=Executed.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=functional_classification_2.Function1&rows%5B%5D=activity_Program1.Program1&columns%5B%5D=date_2.Year).
+* [Peru](http://next.openspending.org/viewer/boost:boost-peru-2012-2014?measure=Executed.sum&order=Executed.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=functional_classification_2.Function1&rows%5B%5D=activity_Program1.Program1&columns%5B%5D=date_2.Year)
 
 
 * Collaborating in the [OpenBudgets.eu](http://openbudgets.eu/) project, together with [Open Knowledge Germany](https://okfn.de/), [Open Knowledge Greece](http://okfn.gr/), [J++](http://www.jplusplus.org/en), [Transparency International EU](http://www.transparencyinternational.eu/), [University of Prague](http://www.vse.cz/) and [University of Bonn](https://www.uni-bonn.de/) to build a platform that improves transparency and opens the black box of European structural funds spending data. 
-- Read about our latest news and research topics at http://openbudgets.eu/blog/.
+- Read about our latest news and research topics on our [blog.](http://openbudgets.eu/blog/)
+We're currently investigating EU funds and how the EU money flows.
 
 **How can you contribute to Open Spending?**
 
@@ -52,7 +53,7 @@ OpenSpending is guided by community principles. Anyone interested in financial d
 
 * Are you a government representative? We can’t wait for you to adopt the Fiscal Data Package as an international standard.
 
-* Are you a software developer, a data scientist or analyst? Do you have knowledge in data visualisation, data architecture, play with Python or D3? We are open to your suggestions and contributions, don’t wait any longer and take a look at the technical documentation > http://docs.openspending.org/en/latest/developers/
+* Are you a software developer, a data scientist or analyst? Do you have knowledge in data visualisation, data architecture, play with Python or D3? We are open to your suggestions and contributions, don’t wait any longer and take a look at the [technical documentation](http://docs.openspending.org/en/latest/developers) 
 
 All material created within the project is open data and open content built with open tools.
 
@@ -63,4 +64,4 @@ Nothing is more easy to contact us and get in touch, the team is available via t
 2. On Gitter.im in the [OpenSpending chat room](https://gitter.im/openspending/chat)
 3. On the [OpenSpending issue tracker](https://github.com/openspending/openspending/issues)
 
-Expect a lot of bugs, and a lot of updates and stories!  But for now, we can’t wait to get your feedback! [START!](http://next.openspending.org/)! 
+Expect a lot of bugs, and a lot of updates and stories!  But for now, we can’t wait to get your feedback! [START!](http://next.openspending.org/) 
