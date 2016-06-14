@@ -1,7 +1,7 @@
 ---
 title: "Announcing the Alpha Version of OpenSpending Next"
 authors:
-- The Open Spending Team
+- The OpenSpending Team
 ---
 
 We’re happy to announce that a new, improved version of OpenSpending is now being launched as an Alpha Version. OpenSpending Next provides a set of tools enabling users to visualise, analyse and publish budget and spending data against an Open Fiscal Data standard.
@@ -20,7 +20,7 @@ The [Fiscal Data Package standard](http://fiscal.dataprotocols.org/spec/) unveil
 
 * **The OS Packager** that enables users to map any fiscal data against the standard, and create a Fiscal Data Package from CSV files with a simplified workflow. This package can be  uploaded to OpenSpending API with just a few clicks..
 * **The OS Viewer** lets users create and customise visualisations based on their budget and spending data. Treemaps, pie charts, bar charts, geolocation, line charts, tables, you name it!
-* **The OS Explorer** allows the exploration of the entire database
+* **The OS Explorer** allows the exploration of the entire database.  
 
 Technically speaking, the whole Viewer can be embedded in 3rd party apps, as well as each visualisations, including some new visualisations like a GeoView. Next on the list is the integration of a Sankey diagram!
 
@@ -42,9 +42,9 @@ Since we started developing OpenSpending Next, we’ve been working in the follo
 - Read about our latest news and research topics on our [blog.](http://openbudgets.eu/blog/)
 We're currently investigating EU funds and how the EU money flows.
 
-## How can you contribute to Open Spending?
+## How can you contribute to OpenSpending?
 
-There are so many ways to contribute to Open Spending!
+There are so many ways to contribute to OpenSpending!
 
 OpenSpending is guided by community principles. Anyone interested in financial data can contribute. We’re friendly to newcomers and old hands alike – everyone was new once, and we value all levels of experience.
 
@@ -52,7 +52,7 @@ OpenSpending is guided by community principles. Anyone interested in financial d
 
 * If you’re a budget activist – look at the available data and upload the newest data for your country or municipality, in order to make it available for the larger community.
 
-* Do you run a budget data or fiscal transparency portals ?  You will be able to use Open Spending data visualizations and embed them in your portal.
+* Do you run a budget data or fiscal transparency portals ?  You will be able to use OpenSpending data visualizations and embed them in your portal.
 
 * Are you a government representative? We can’t wait for you to adopt the Fiscal Data Package as an international standard.
 
