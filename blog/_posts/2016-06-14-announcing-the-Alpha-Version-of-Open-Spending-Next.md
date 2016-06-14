@@ -20,7 +20,7 @@ The [Fiscal Data Package standard](http://fiscal.dataprotocols.org/spec/) unveil
 
 * **The OS Packager** that enables users to map any fiscal data against the standard, and create a Fiscal Data Package from CSV files with a simplified workflow. This package can be  uploaded to OpenSpending API with just a few clicks..
 * **The OS Viewer** lets users create and customise visualisations based on their budget and spending data. Treemaps, pie charts, bar charts, geolocation, line charts, tables, you name it!
-* ** The OS Explorer** allows the exploration of the entire database
+* **The OS Explorer** allows the exploration of the entire database
 
 Technically speaking, the whole Viewer can be embedded in 3rd party apps, as well as each visualisations, including some new visualisations like a GeoView. Next on the list is the integration of a Sankey diagram!
 
