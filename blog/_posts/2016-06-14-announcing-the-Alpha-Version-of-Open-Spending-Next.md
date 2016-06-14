@@ -4,13 +4,13 @@ authors:
 - The OpenSpending Team
 ---
 
-We’re happy to announce that a new, improved version of OpenSpending is now being launched as an Alpha Version. OpenSpending Next provides a set of tools enabling users to visualise, analyse and publish budget and spending data against an Open Fiscal Data standard.
+We’re happy to announce that a new, improved version of OpenSpending is now being launched as an Alpha Version. OpenSpending Next provides a set of tools enabling users to visualise, analyse and publish budget and spending data - all based on the open Fiscal Data Package standard.
 
-OpenSpending Next is designed, developed and maintained by Open Knowledge International and, as an open source project, also reflects the very valuable contributions of an active, passionate and committed [community](http://community.openspending.org/next/).
+OpenSpending Next is designed, developed and maintained by Open Knowledge International and, as an open source project, also reflects the very valuable contributions of an active, passionate and committed [community](http://community.openspending.org/get-involved/).
 
 ## [next.openspending.org](http://next.openspending.org)
 
-Open Spending Next fills a gap in the lack of open tools that offer easy budget data publication, visualisation and analytics for individuals and organisations working with fiscal data, but also this time, provides a data model standard.
+Open Spending Next fills a gap in the lack of open tools that offer easy budget data publication, visualisation and analytics for individuals and organisations working with fiscal data, as well as provide a data model standard.
 
 The aim of the project is to support the international open data community by offering a platform that makes it easier for civil society organisations, activists and journalists to see how and where public money is being spent. Open Spending is also targeted to governments and any regional, local administration or municipality level to increase fiscal transparency.
 
@@ -18,29 +18,22 @@ The [Fiscal Data Package standard](http://fiscal.dataprotocols.org/spec/) unveil
 
 [OpenSpending Next](http://next.openspending.org/) Alpha Release comes with core tools, including a fully working API:
 
-* **The OS Packager** that enables users to map any fiscal data against the standard, and create a Fiscal Data Package from CSV files with a simplified workflow. This package can be  uploaded to OpenSpending API with just a few clicks..
-* **The OS Viewer** lets users create and customise visualisations based on their budget and spending data. Treemaps, pie charts, bar charts, geolocation, line charts, tables, you name it!
-* **The OS Explorer** allows the exploration of the entire database.  
-
-Technically speaking, the whole Viewer can be embedded in 3rd party apps, as well as each visualisations, including some new visualisations like a GeoView. Next on the list is the integration of a Sankey diagram!
-
-* **The OS DataMine**: A rich analytical tool based on [re:dash](http://redash.io/) that will help perform deep queries into fiscal data.
-
-* **The API**: This V3 API is almost entirely based on the excellent [Babbage](https://github.com/openspending/babbage). This API also features a fully backwards compatible implementation of the OpenSpending V2 API for legacy apps that depend on it.
+* **OS Packager** enables users to map any fiscal data against the standard, and create a Fiscal Data Package from CSV files with a simplified workflow. This package can be uploaded to OpenSpending API with just a few clicks.
+* **OS Viewer** lets users create and customise visualisations based on their budget and spending data. Treemaps, pie charts, bar charts, geolocation, line charts, tables, you name it!
+* **OS Explorer** allows discovering and exploring our rich collection of fiscal data sets.  
+* **OS DataMine**: A rich analytical tool based on [re:dash](http://redash.io/) that allows performing deep queries into fiscal data.
+* **OS API**: This V3 API is almost entirely based on the excellent [Babbage](https://github.com/openspending/babbage). This API also features a fully backwards compatible implementation of the OpenSpending V2 API for legacy apps that depend on it.
 
 ![OS-Next](https://blog.okfn.org/wp-content/uploads/2016/06/Capture-d’écran-2016-06-13-à-17.40.16-1024x626.png)
 
 Since we started developing OpenSpending Next, we’ve been working in the following general areas:
 
 * Collaborating with our partners [GIFT](http://www.fiscaltransparency.net/) and the [BOOST World Bank team](http://wbi.worldbank.org/boost/boost-initiative) to develop the [Fiscal Data Package](http://fiscal.dataprotocols.org/spec/). We’ve trialled and integrated datasets from different Boost countries with the Fiscal Data Package such as:
-* [Moldova](http://next.openspending.org/viewer/boost:boost-moldova-2005-2014?measure=adjusted.sum&order=adjusted.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=location_2.location)
-* [Tunisia](http://next.openspending.org/viewer/boost:boost-tunisia-2008-2014?measure=PAYE.sum&order=PAYE.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=administrative_classification_2.ADMIN1&rows%5B%5D=activity_2.PROG&columns%5B%5D=date_2.YEAR)
-* [Peru](http://next.openspending.org/viewer/boost:boost-peru-2012-2014?measure=Executed.sum&order=Executed.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=functional_classification_2.Function1&rows%5B%5D=activity_Program1.Program1&columns%5B%5D=date_2.Year)
-
-
+  * [Moldova](http://next.openspending.org/viewer/boost:boost-moldova-2005-2014?measure=adjusted.sum&order=adjusted.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=location_2.location)
+  * [Tunisia](http://next.openspending.org/viewer/boost:boost-tunisia-2008-2014?measure=PAYE.sum&order=PAYE.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=administrative_classification_2.ADMIN1&rows%5B%5D=activity_2.PROG&columns%5B%5D=date_2.YEAR)
+  * [Peru](http://next.openspending.org/viewer/boost:boost-peru-2012-2014?measure=Executed.sum&order=Executed.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=functional_classification_2.Function1&rows%5B%5D=activity_Program1.Program1&columns%5B%5D=date_2.Year)
 * Collaborating in the [OpenBudgets.eu](http://openbudgets.eu/) project, together with [Open Knowledge Germany](https://okfn.de/), [Open Knowledge Greece](http://okfn.gr/), [J++](http://www.jplusplus.org/en), [Transparency International EU](http://www.transparencyinternational.eu/), [University of Prague](http://www.vse.cz/) and [University of Bonn](https://www.uni-bonn.de/) to build a platform that improves transparency and opens the black box of European structural funds spending data. 
-- Read about our latest news and research topics on our [blog.](http://openbudgets.eu/blog/)
-We're currently investigating EU funds and how the EU money flows.
+  Read about our latest news and research topics on our [blog.](http://openbudgets.eu/blog/) - we're currently investigating EU funds and how the EU money flows.
 
 ## How can you contribute to OpenSpending?
 
@@ -52,7 +45,7 @@ OpenSpending is guided by community principles. Anyone interested in financial d
 
 * If you’re a budget activist – look at the available data and upload the newest data for your country or municipality, in order to make it available for the larger community.
 
-* Do you run a budget data or fiscal transparency portals ?  You will be able to use OpenSpending data visualizations and embed them in your portal.
+* Do you run a budget data or fiscal transparency portals?  You will be able to use OpenSpending data visualizations and embed them in your portal.
 
 * Are you a government representative? We can’t wait for you to adopt the Fiscal Data Package as an international standard.
 
