@@ -23,6 +23,8 @@ Technically speaking, the whole Viewer can be embedded in 3rd party apps, as wel
 
 * **The API**: This V3 API is almost entirely based on the excellent [Babbage](https://github.com/openspending/babbage). This API also features a fully backwards compatible implementation of the OpenSpending V2 API for legacy apps that depend on it.
 
+![OS-Next](https://blog.okfn.org/wp-content/uploads/2016/06/Capture-d’écran-2016-06-13-à-17.40.16-1024x626.png "OpenSpending Next")
+
 Since we started developing OS Next, we’ve been working in the following general areas:
 
 * Collaborating with our partners [GIFT](http://www.fiscaltransparency.net/) and the [BOOST World Bank team](http://wbi.worldbank.org/boost/boost-initiative) to develop the [Fiscal Data Package](http://fiscal.dataprotocols.org/spec/). We’ve trialled and integrated datasets from different Boost countries with the Fiscal Data Package such as [Moldova](http://next.openspending.org/viewer/boost:boost-moldova-2005-2014?measure=adjusted.sum&order=adjusted.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=location_2.location), [Tunisia](http://next.openspending.org/viewer/boost:boost-tunisia-2008-2014?measure=PAYE.sum&order=PAYE.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=administrative_classification_2.ADMIN1&rows%5B%5D=activity_2.PROG&columns%5B%5D=date_2.YEAR) or [Peru](http://next.openspending.org/viewer/boost:boost-peru-2012-2014?measure=Executed.sum&order=Executed.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=functional_classification_2.Function1&rows%5B%5D=activity_Program1.Program1&columns%5B%5D=date_2.Year).
