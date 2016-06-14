@@ -1,25 +1,28 @@
 ---
-title: "Announcing the Alpha Version of Open Spending Next"
+title: "Announcing the Alpha Version of OpenSpending Next"
 authors:
 - The Open Spending Team
 ---
 
-We’re happy to announce that a new, improved version of Open Spending is now being launched as an Alpha Version. Open Spending Next provides a set of tools enabling users to visualise, analyse and publish budget and spending data against an Open Fiscal Data standard.
+We’re happy to announce that a new, improved version of OpenSpending is now being launched as an Alpha Version. OpenSpending Next provides a set of tools enabling users to visualise, analyse and publish budget and spending data against an Open Fiscal Data standard.
 
-Open Spending Next is designed, developed and maintained by Open Knowledge International and, as an open source project, also reflects the very valuable contributions of an active, passionate and committed [community](http://community.openspending.org/next/).
+OpenSpending Next is designed, developed and maintained by Open Knowledge International and, as an open source project, also reflects the very valuable contributions of an active, passionate and committed [community](http://community.openspending.org/next/).
+
+## <p align="center">[next.openspending.org](http://next.openspending.org)</p>
 
 Open Spending Next fills a gap in the lack of open tools that offer easy budget data publication, visualisation and analytics for individuals and organisations working with fiscal data, but also this time, provides a data model standard.
 
 The aim of the project is to support the international open data community by offering a platform that makes it easier for civil society organisations, activists and journalists to see how and where public money is being spent. Open Spending is also targeted to governments and any regional, local administration or municipality level to increase fiscal transparency.
 
-The Fiscal Data Package Standard unveils spending data and fiscal documents at all stages of the budget process by defining a common data model.
+The [Fiscal Data Package standard](http://fiscal.dataprotocols.org/spec/) unveils spending data and fiscal documents at all stages of the budget process by defining a common data model.
 
-Open Spending Next Alpha Release comes with 3 core tools and a fully working API:
+[OpenSpending Next](http://next.openspending.org/) Alpha Release comes with four core tools, including a fully working API:
 
 * **The OS Packager** that enables users to map any fiscal data against the standard, and create a Fiscal Data Package from CSV files with a simplified workflow. This package can be  uploaded to OpenSpending API with just a few clicks..
 * **The OS Viewer** lets users create and customise visualisations based on their budget and spending data. Treemaps, pie charts, bar charts, geolocation, line charts, tables, you name it!
+* ** The OS Explorer** allows the exploration of the entire database
 
-Technically speaking, the whole Viewer can be embedded in 3rd party apps, as well as each visualisations. The view components use a refactored codebase of [Babbage.UI](https://github.com/openspending/babbage.ui) by **[Friedrich Linderberg](http://pudo.org/)**. See [Spend DB <3 Open Spending blog post](http://community.openspending.org/blog/2015/11/30/openspending-next-spendb/) and include some new views like a GeoView. Next on the list is the integration of a Sankey diagram!
+Technically speaking, the whole Viewer can be embedded in 3rd party apps, as well as each visualisations, including some new visualisations like a GeoView. Next on the list is the integration of a Sankey diagram!
 
 * **The OS DataMine**: A rich analytical tool based on [re:dash](http://redash.io/) that will help perform deep queries into fiscal data.
 
@@ -27,7 +30,7 @@ Technically speaking, the whole Viewer can be embedded in 3rd party apps, as wel
 
 ![OS-Next](https://blog.okfn.org/wp-content/uploads/2016/06/Capture-d’écran-2016-06-13-à-17.40.16-1024x626.png)
 
-Since we started developing OS Next, we’ve been working in the following general areas:
+Since we started developing OpenSpending Next, we’ve been working in the following general areas:
 
 * Collaborating with our partners [GIFT](http://www.fiscaltransparency.net/) and the [BOOST World Bank team](http://wbi.worldbank.org/boost/boost-initiative) to develop the [Fiscal Data Package](http://fiscal.dataprotocols.org/spec/). We’ve trialled and integrated datasets from different Boost countries with the Fiscal Data Package such as:
 * [Moldova](http://next.openspending.org/viewer/boost:boost-moldova-2005-2014?measure=adjusted.sum&order=adjusted.sum%7Cdesc&visualizations%5B%5D=Treemap&groups%5B%5D=location_2.location)
@@ -39,7 +42,7 @@ Since we started developing OS Next, we’ve been working in the following gener
 - Read about our latest news and research topics on our [blog.](http://openbudgets.eu/blog/)
 We're currently investigating EU funds and how the EU money flows.
 
-**How can you contribute to Open Spending?**
+## How can you contribute to Open Spending?
 
 There are so many ways to contribute to Open Spending!
 
