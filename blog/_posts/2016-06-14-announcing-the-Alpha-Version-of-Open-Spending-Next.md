@@ -16,7 +16,7 @@ The aim of the project is to support the international open data community by of
 
 The [Fiscal Data Package standard](http://fiscal.dataprotocols.org/spec/) unveils spending data and fiscal documents at all stages of the budget process by defining a common data model.
 
-[OpenSpending Next](http://next.openspending.org/) Alpha Release comes with four core tools, including a fully working API:
+[OpenSpending Next](http://next.openspending.org/) Alpha Release comes with core tools, including a fully working API:
 
 * **The OS Packager** that enables users to map any fiscal data against the standard, and create a Fiscal Data Package from CSV files with a simplified workflow. This package can be  uploaded to OpenSpending API with just a few clicks..
 * **The OS Viewer** lets users create and customise visualisations based on their budget and spending data. Treemaps, pie charts, bar charts, geolocation, line charts, tables, you name it!
