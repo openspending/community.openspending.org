@@ -10,9 +10,9 @@ OpenSpending Next is designed, developed and maintained by Open Knowledge Intern
 
 ## [next.openspending.org](http://next.openspending.org)
 
-Open Spending Next fills a gap in the lack of open tools that offer easy budget data publication, visualisation and analytics for individuals and organisations working with fiscal data, as well as provide a data model standard.
+OpenSpending Next fills a gap in the lack of open tools that offer easy budget data publication, visualisation and analytics for individuals and organisations working with fiscal data, as well as provide a data model standard.
 
-The aim of the project is to support the international open data community by offering a platform that makes it easier for civil society organisations, activists and journalists to see how and where public money is being spent. Open Spending is also targeted to governments and any regional, local administration or municipality level to increase fiscal transparency.
+The aim of the project is to support the international open data community by offering a platform that makes it easier for civil society organisations, activists and journalists to see how and where public money is being spent. OpenSpending is also targeted to governments and any regional, local administration or municipality level to increase fiscal transparency.
 
 The [Fiscal Data Package standard](http://fiscal.dataprotocols.org/spec/) unveils spending data and fiscal documents at all stages of the budget process by defining a common data model.
 
