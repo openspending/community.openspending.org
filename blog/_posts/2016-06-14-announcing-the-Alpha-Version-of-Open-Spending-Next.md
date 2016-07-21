@@ -35,6 +35,8 @@ Since we started developing OpenSpending Next, we’ve been working in the follo
 * Collaborating in the [OpenBudgets.eu](http://openbudgets.eu/) project, together with [Open Knowledge Germany](https://okfn.de/), [Open Knowledge Greece](http://okfn.gr/), [J++](http://www.jplusplus.org/en), [Transparency International EU](http://www.transparencyinternational.eu/), [University of Prague](http://www.vse.cz/) , [University of Bonn](https://www.uni-bonn.de/) and [Civio](http://www.civio.es/) to build a platform that improves transparency and opens the black box of European structural funds spending data. 
   Read about our latest news and research topics on our [blog.](http://openbudgets.eu/blog/) - we're currently investigating EU funds and how the EU money flows.
 
+This work has been also funded by [Adessium Foundation](http://www.adessium.org/) as part of OpenSpending EU, a project that aims at making EU Budgets and Spending data, as well as EU Structural funds accessible to citizens, researchers, journalists and policy-makers. 
+
 ## How can you contribute to OpenSpending?
 
 There are so many ways to contribute to OpenSpending!
