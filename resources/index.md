@@ -35,3 +35,4 @@ this ongoing work.
 - [Working Group on Open Spending Data](./wg/)
 - [Spending Data Standard [Fiscal Data Package] (current)](http://fiscal.dataprotocols.org/)
 - [Spending Data Standard (deprecated)](./standard/)
+- [Next.OpenSpending.Org](http://next.openspending.org)
