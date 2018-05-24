@@ -12,11 +12,11 @@
       <a class="white ok-ribbon" href="https://okfn.org/"><img src="//okfnlabs.org/ok-panel/assets/images/ok-ribbon.png" alt="Open Knowledge"></a>
       <div>
         {% include header.html %}
-    
+
         <div class="page-content">
           {{ content }}
         </div>
-    
+
         {% include footer.html %}
       </div>
     </div>
@@ -36,7 +36,7 @@
     {% endfor %}
     {% endif %}
     <script src="//cdn.rawgit.com/okfn/ok-panel/v1.0.0/assets/js/frontend.min.js"></script>
-    
+
     <script>
         // Append headings with link to ID
         function headingLink(heading) {
@@ -54,23 +54,10 @@
         headingLink('.post h4');
         headingLink('.post h5');
         headingLink('.post h6');
-        
-        $(".headerlink a").click(function() { 
+
+        $(".headerlink a").click(function() {
           $(this).parent('.headerlink').toggleClass("active");
         });
     </script>
-    
-    {% if site.googleanalytics %}
-    <script>
-        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-        e.src='//www.google-analytics.com/analytics.js';
-        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-        ga('create','{{ site.googleanalytics }}','auto');ga('send','pageview');
-    </script>
-    {% endif %}
-    
   </body>
-
 </html>
