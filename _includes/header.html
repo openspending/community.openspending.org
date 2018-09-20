@@ -11,6 +11,37 @@
     <li>
       <a href="{{ site.baseurl }}/">Home</a>
     </li>
+    <li {% if url_last == 'about' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/about/">About</a>
+      <ul>
+        <li {% if url_last == 'fiscaldatapackage' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/fiscaldatapackage/">Fiscal Data Package</a>
+        </li>
+        <li {% if url_last == 'tools' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/tools/">Tools</a>
+        </li>
+        <li {% if url_last == 'funders' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/funders/">Funders</a>
+        </li>
+        <li {% if url_last == 'presentations' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/presentations/">Presentations</a>
+        </li>
+        <li {% if url_last == 'meta' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/about/meta/">About this site</a>
+          <ul>
+            <li {% if url_last == 'changes' %}class="Selected"{% endif %}>
+              <a href="{{ site.baseurl }}/meta/changes/">Recent Changes</a>
+            </li>
+            <li {% if page.url contains 'meta/contribute' %}class="Selected"{% endif %}>
+              <a href="{{ site.baseurl }}/meta/contribute/">Contribute</a>
+            </li>
+            <li {% if page.url contains 'meta/media' %}class="Selected"{% endif %}>
+              <a href="{{ site.baseurl }}/meta/media/">Media</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
     <li {% if page.url contains 'get-involved' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/get-involved/">Get Involved</a>
       <ul>
@@ -176,37 +207,6 @@
               <a href="{{ site.baseurl }}/resources/standard/contribute/">Help make this standard</a>
             </li>
           </ul>
-        </li>
-      </ul>
-    </li>
-    <li {% if url_last == 'meta' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/meta/">Meta</a>
-      <ul>
-        <li {% if url_last == 'changes' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/meta/changes/">Recent Changes</a>
-        </li>
-        <li {% if page.url contains 'meta/contribute' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/meta/contribute/">Contribute</a>
-        </li>
-        <li {% if page.url contains 'meta/media' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/meta/media/">Media</a>
-        </li>
-      </ul>
-    </li>
-    <li {% if url_last == 'about' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/about/">About</a>
-      <ul>
-        <li {% if url_last == 'exemplars' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/about/exemplars/">Exemplars</a>
-        </li>
-        <li {% if url_last == 'contributors' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/about/contributors/">Contributors</a>
-        </li>
-        <li {% if url_last == 'funders' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/about/funders/">Funders</a>
-        </li>
-        <li {% if url_last == 'presentations' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/about/presentations/">Presentations</a>
         </li>
       </ul>
     </li>
