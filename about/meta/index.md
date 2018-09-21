@@ -1,18 +1,15 @@
 ---
-title: Meta
+title: About This Site
 ---
 
-## About This Site
-
 If you are a member of the OpenSpending community---whether you
-contribute datasets, work on building or testing code, or develop
+are a data publisher, work on building or testing code, or develop
 stories and visualizations using OpenSpending data---this site belongs
 to you.
 
 This site is a place to showcase the OpenSpending community's work and
 to share its resources. It includes:
 
-* a [blog][1] to share new work by community members
 * information about community [events][3b]
 * a collection of [resources][2] on spending data
 * guidance on [how to get involved][3] with the community
@@ -36,4 +33,3 @@ below.
 [3]:	{{ site.baseurl }}/get-involved/
 [3b]:   {{ site.baseurl }}/events/
 [4]:	{{ site.baseurl }}/help/
-

@@ -1,8 +1,7 @@
 # Site settings
 title: OpenSpending Community
 short_title: OpenSpending Community
-description: |
-  Welcome to the online home of the OpenSpending Community.<br />OpenSpending is creating a free and open database of government finances worldwide.
+description: OpenSpending is a free, open and global platform to search, visualise and analyse fiscal data in the public sphere.
 baseurl: ""
 issues_url: https://github.com/openspending/next/issues
 url: "http://community.openspending.org/" # the base hostname & protocol for your site
@@ -10,7 +9,7 @@ github_username: openspending
 github_repo: community.openspending.org
 paypal: admin@okfn.org
 contact: https://discuss.okfn.org/c/openspending
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
