@@ -3,15 +3,19 @@ lead: true
 title: Get Involved
 authors:
 - Anders Pedersen
+- Oscar Montiel
 redirect_from:
 - /contribute/
 ---
 
-Glad to see you here! 
+Glad to see you here!
 
 This site is for enthusiastic doers, citizens and budget nerds from
 across the world. We care deeply about welcoming everyone regardless
 of skills and will do what we can to help you getting started!
+
+We acknowledge that involvement with OpenSpending will be different based on your goals.
+We try to cover as many topics as possible here, but please reach out if you think we're missing something.
 
 ## Connect with the Community
 
@@ -22,49 +26,37 @@ There's lots of general and technical discussion happening on our
 
 Come and introduce yourself and start engaging with people who share the same common interest!
 
-We also have a Live Chat on Gitter :
+If you want to ask something more technical, we also have a Live Chat on Gitter :
 [Gitter Chatroom](https://gitter.im/openspending).
 For the full list of ways to get in touch, visit our
 [contact][contact] page.
 
 [contact]: {{site.baseurl}}/about/contact/
 
-## Contribute to the Fiscal Data Package Standard
+## Contribute to the Open Fiscal Data Package
 
-We're hard at work on defining
-[Fiscal Data Package](http://fiscal.dataprotocols.org/), a simple,
-open technical specification for describing government budget and
-spending data.
+If you're interested in publishing your fiscal data as open data, we'd recommend you take a look
+at the Fiscal Data Package.
 
-We welcome input from the community regarding the specification. You
+If you'd like to learn more about it, you can read our brief introduction [here]({% link about/fiscaldatapackage.md %}).
+If you are and advanced user, you can read the [Specification](https://frictionlessdata.io/specs/fiscal-data-package/)
+
+If you have comments about it, we welcome input from the community regarding the specification. You
 can contribute to the development process by leaving suggestions and
 queries in the
 [issue tracker](https://github.com/openspending/fiscal-data-package/issues).
 
-## Contribute to the Development of OpenSpending Next
-
-[OpenSpending Next](/next/) is the next generation of the OpenSpending
-platform. Based on the Fiscal Data Package Specification, it comes with a range of tools enabling the data upload, search, analysis and visualisation.
-
 ## Upload and Package Your Data
 
-Contribute fiscal data sources to our
-[registry tracker](https://github.com/os-data/registry/issues).  The process is simple:
+If you want to contribute with more data, you can upload your data to [OpenSpending](https://openspending.org).
 
-* [Open a new issue](https://github.com/os-data/registry/issues/new?title=Dataset&body=Link:%0ADescription:)
-* Write a brief description of the data and how to interpret it
-* Provide a link to the data (hosted as flat files (e.g. CSV or XLSX) on GitHub would be best, if possible)
-
-This will allow us to look at the data and see how well it fits with our
-current assumptions. We can then work together on steps to get the
-data imported into the flat file DataStore.
+The process for the [OS Packager](https://openspending.org/packager/) will guide you through the process
 
 ## Code
 
 * [Fiscal Data Package](https://github.com/openspending/fiscal-data-package) (FDP): A standard for publishing fiscal data
 * [Fiscal Data Package](https://github.com/dataprotocols/schemas/blob/master/fiscal-data-package.json) (schema): JSON Schema for validating a Fiscal Data Package
 * [Fiscal Data Packager](https://github.com/openspending/fiscal-data-packager): A simple app to create a FDP from CSV
-* [Fiscal Data JS](https://github.com/openspending/fiscal-data-js): A data access library to create "views" on fiscal data (e.g. for visualization)
 * [Fiscal Data Package Viewer](https://github.com/openspending/fiscal-data-package-viewer): A single app to visualise data in common formats (e.g. treemap, table)
 * [Datastore CLI](https://github.com/openspending/os-datastore-cli): A commandline interface/python library to push FDP directly to the OpenSpending flat file datastore
 * [OS Authz](https://github.com/openspending/os-authz-service): A service that provides access to different OpenSpending services
