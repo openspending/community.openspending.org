@@ -1,6 +1,6 @@
 // Typography
-$serif: 'Lora', Georgia, Cambria, "Times New Roman", Times, serif;
-$sans-serif: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$serif: Lato,'Lora', Georgia, Cambria, "Times New Roman", Times, serif;
+$sans-serif: Lato,'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 $monospaced: monaco,Consolas,"Lucida Console",monospace;
 
@@ -21,10 +21,10 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$base-accent-color: rgb(122,184,0);
-$dark-gray: #333;
+$base-accent-color: #2ABB9C;
+$dark-gray: #2A2D34;
 $medium-gray: #EDEDED;
-$light-gray: #FAFAFA;
+$light-gray: #E6E6E6;
 
 // Font Colors
 $base-background-color: #fff;
