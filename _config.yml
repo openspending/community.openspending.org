@@ -31,20 +31,8 @@ contributors:
 
 supporters:
   -
-    name: 4iP
-    footer_logo: 4ip-footer.png
-  -
-    name: Open Society Foundations
-    footer_logo: osf-footer.png
-  -
-    name: Knight Foundation
-    footer_logo: kf-footer.png
-  -
-    name: Omidyar Network
-    footer_logo: on-footer.png
-  -
-    name: Hewlett Foundation
-    footer_logo: hewlett-footer.png
+    name: Global Initiative for Fiscal Transparency
+    footer_logo: gift-footer.png
 
 googleanalytics: UA-8271754-63
 

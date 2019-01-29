@@ -14,12 +14,12 @@ $mm_ws_menuWidth: 0.25;
 }
 
 #menu {
-  
+
   &.mm-menu {
     margin-top:61px;
-    
+
     z-index:2;
-    
+
     li.mm-selected {
       .subsections {
         max-height:none;
@@ -33,13 +33,14 @@ $mm_ws_menuWidth: 0.25;
   position:fixed;
   margin-left:-25%;
   width:25%;
+  height: 25%;
   border-right:solid 1px $medium-gray;
   top:0;
-  
+
   .show-menu {
     display:none;
   }
-  
+
   .site-title {
     margin-left: 20px;
   }
