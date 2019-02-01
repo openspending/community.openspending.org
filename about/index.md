@@ -13,7 +13,7 @@ As an open source and a community-driven project, also reflects the valuable con
 ### Got it, what now?
 
 - Meet the [OpenSpending tools]({% link about/tools.md %})
-- Lear about the [Fiscal Data Package]({% link about/fiscaldatapackage.md %})
+- Learn about the [Fiscal Data Package]({% link about/fiscaldatapackage.md %})
 - Read other resources about Fiscal Transparency on the [GIFT website](http://www.fiscaltransparency.net/resources/)
 - Read the [OpenSpending documentation](https://docs.openspending.org/en/latest/)
 - Learn more about [this website]({% link about/meta/index.md %})
