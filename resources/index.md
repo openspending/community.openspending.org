@@ -33,6 +33,6 @@ this ongoing work.
 - [OpenSpending.mobi](./mobi/)
 - [Map of Spending Projects](./map-of-spending-projects/)
 - [Working Group on Open Spending Data](./wg/)
-- [Spending Data Standard [Fiscal Data Package] (current)](http://fiscal.dataprotocols.org/)
+- [Spending Data Standard [Fiscal Data Package] (current)](https://frictionlessdata.io/specs/fiscal-data-package/)
 - [Spending Data Standard (deprecated)](./standard/)
 
